@@ -2,37 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nostick/articles/</loc>
+    <loc>https://felix695.github.io/nostick/articles/</loc>
+    <lastmod>2024-03-09T10:47:32+01:00</lastmod>
+  </url><url>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/sorties0903/</loc>
+    <lastmod>2024-03-09T10:47:32+01:00</lastmod>
+  </url><url>
+    <loc>https://felix695.github.io/nostick/</loc>
+    <lastmod>2024-03-09T10:47:32+01:00</lastmod>
+  </url><url>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/headingout/</loc>
     <lastmod>2024-03-08T10:47:32+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/articles/2024/mars/headingout/</loc>
-    <lastmod>2024-03-08T10:47:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nostick/</loc>
-    <lastmod>2024-03-08T10:47:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nostick/articles/2024/mars/ghost/</loc>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/ghost/</loc>
     <lastmod>2024-03-06T19:47:32+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/articles/2024/mars/schmup/</loc>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/schmup/</loc>
     <lastmod>2024-03-04T08:45:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/articles/2024/mars/suicidesquad/</loc>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/suicidesquad/</loc>
     <lastmod>2024-03-03T08:45:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/articles/2024/mars/balatro/</loc>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/balatro/</loc>
     <lastmod>2024-03-02T10:30:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/articles/2024/mars/sonic/</loc>
+    <loc>https://felix695.github.io/nostick/articles/2024/mars/sonic/</loc>
     <lastmod>2024-03-01T19:47:32+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/about/</loc>
+    <loc>https://felix695.github.io/nostick/about/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nostick/categories/</loc>
+    <loc>https://felix695.github.io/nostick/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/nostick/pagination/</loc>
+    <loc>https://felix695.github.io/nostick/pagination/</loc>
   </url><url>
-    <loc>http://localhost:1313/nostick/tags/</loc>
+    <loc>https://felix695.github.io/nostick/tags/</loc>
   </url>
 </urlset>
