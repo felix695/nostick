@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://felix695.github.io/nostick/xml/base.min.xml" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/nostick/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nostick</title>
-    <link>https://felix695.github.io/nostick/categories/</link>
+    <link>http://localhost:1313/nostick/categories/</link>
     <description>Recent content in Categories on Nostick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <atom:link rel="self" href="https://felix695.github.io/nostick/categories/feed.xml" type="application/rss+xml" />
+    <atom:link rel="self" href="http://localhost:1313/nostick/categories/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>Heading Out en bonne route pour le 7 mai</title>
+      <link>http://localhost:1313/nostick/articles/2024/mars/headingout/</link>
+      <pubDate>ven., 08 mars 2024 10:47:32 +0100</pubDate>
+      <guid>http://localhost:1313/nostick/articles/2024/mars/headingout/</guid>
+      <description>&lt;p&gt;L’intriguant jeu de bagnole narratif &lt;em&gt;Heading Out&lt;/em&gt; s’est récemment payé un trailer annonçant sa date de sortie. Le concept est alléchant étant donné qu’il s’agira d’effectuer un road trip musclé vers l’Ouest dans un univers en noir et blanc très stylisé. On nous promet une histoire prenante remplie de courses poursuites où les choix auront des conséquences, modifiant les personnages rencontrés ou encore ce que racontent les animateurs radio. Habituellement je ne suis pas du tout branché jeux de course, mais force est d’admette que la patte graphique et la BO très américano-américaine sont sexy. Sortie le 7 mai prochain sur &lt;a href=&#34;https://store.steampowered.com/app/1640630/Heading_Out/&#34;&gt;Steam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/vk8wt77SsmM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     <item>
       <title>Sony ne Ghost plus les joueurs PC</title>
-      <link>https://felix695.github.io/nostick/articles/2024/mars/ghost/</link>
+      <link>http://localhost:1313/nostick/articles/2024/mars/ghost/</link>
       <pubDate>mer., 06 mars 2024 19:47:32 +0100</pubDate>
-      <guid>https://felix695.github.io/nostick/articles/2024/mars/ghost/</guid>
+      <guid>http://localhost:1313/nostick/articles/2024/mars/ghost/</guid>
       <description>&lt;p&gt;Une raison de moins d’acheter une PS5 : le très bien accueilli &lt;em&gt;Ghost of Tsushima&lt;/em&gt; &lt;a href=&#34;https://blog.fr.playstation.com/2024/03/06/ghost-of-tsushima-directors-cut-arrive-sur-pc-le-16-mai/&#34;&gt;arrivera&lt;/a&gt; sur PC dans sa version Director’s Cut le 16 mai. Affichant un score de 83/100 sur Metacritic, ce jeu de samouraï en monde ouvert a marqué les esprits depuis sa sortie en 2020. Le portage inclut le jeu complet ainsi que l’extension Île d’Iki et le mode coop multijoueur en ligne Legends. Un trailer &lt;a href=&#34;https://www.youtube.com/watch?v=EzWBNwhb870&amp;t=22s&#34;&gt;a été mis en ligne&lt;/a&gt; si vous voulez voir ce que ça donne&lt;/p&gt;
 &lt;p&gt;
   &lt;figure style=&#34;text-align: center;&#34;&gt;
@@ -26,15 +39,15 @@
     </item>
     <item>
       <title>Passion acheter des shmups et ne pas y jouer</title>
-      <link>https://felix695.github.io/nostick/articles/2024/mars/schmup/</link>
+      <link>http://localhost:1313/nostick/articles/2024/mars/schmup/</link>
       <pubDate>lun., 04 mars 2024 08:45:05 +0100</pubDate>
-      <guid>https://felix695.github.io/nostick/articles/2024/mars/schmup/</guid>
+      <guid>http://localhost:1313/nostick/articles/2024/mars/schmup/</guid>
       <description>&lt;p&gt;Les shoot&amp;rsquo;em up parlent directement au cerveau reptilien. Difficile en effet de faire plus simple et plus efficace qu&amp;rsquo;un bon vieux shmup ! Certes, depuis ses débuts primitifs en 1978 avec &lt;em&gt;Space Invaders&lt;/em&gt;, le genre s&amp;rsquo;est considérablement élargi, affiné, raffiné même, et tout simplement anobli. Mais au bout du compte, c&amp;rsquo;est toujours un vaisseau ou un bidule à diriger au milieu d&amp;rsquo;un tsunami de projectiles et d&amp;rsquo;ennemis.&lt;/p&gt;
 &lt;p&gt;
   &lt;img src=&#34;schmup.jpeg&#34; alt=&#34;IUn jeu de schmup&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;
-  &lt;img src=&#34;https://felix695.github.io/nostick/nostick/&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/nostick/nostick/&#34; alt=&#34;&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;Et c&amp;rsquo;est certainement la catégorie de jeux le mieux représenté sur mes machines à jouer, avec un net penchant pour les shmups des années 90 — le sublimement idiot &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Prehistoric_Isle_2&#34;&gt;Prehistoric Isle 2&lt;/a&gt;&lt;/em&gt; est un chouchou — et évidemment, les bullet hell de Cave (&lt;em&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/DoDonPachi_DaiFukkatsu&#34;&gt;DoDonPachi DaiFukkatsu&lt;/a&gt;&lt;/em&gt;, chef d&amp;rsquo;œuvre évidemment).&lt;/p&gt;
 &lt;p&gt;Sous leur apparence simple, les shoot&amp;rsquo;em up cachent des trésors de sophistication, certains plus que d&amp;rsquo;autres évidemment, qui demandent de s&amp;rsquo;y atteler sérieusement pour pouvoir en tirer tout le suc. Bref, quand on lance un &lt;em&gt;Radiant Silvergun&lt;/em&gt; ou &lt;em&gt;Gleylancer&lt;/em&gt;, ce n&amp;rsquo;est pas pour tuer le temps entre deux épisodes de Netflix !&lt;/p&gt;
@@ -43,9 +56,9 @@
     </item>
     <item>
       <title>Suicide Squad: kill the Suicide Squad</title>
-      <link>https://felix695.github.io/nostick/articles/2024/mars/suicidesquad/</link>
+      <link>http://localhost:1313/nostick/articles/2024/mars/suicidesquad/</link>
       <pubDate>dim., 03 mars 2024 08:45:05 +0100</pubDate>
-      <guid>https://felix695.github.io/nostick/articles/2024/mars/suicidesquad/</guid>
+      <guid>http://localhost:1313/nostick/articles/2024/mars/suicidesquad/</guid>
       <description>&lt;p&gt;Un nouveau jeu dans l’Arkhamverse qui suit une bande de bras cassés de DC prêts à en découdre avec la Justice League ? Pourquoi pas. Le projet était intriguant et puis c’était Rocksteady à la barre, les créateurs des meilleurs jeux de superhéros de tous les temps !&lt;/p&gt;
 &lt;p&gt;
   &lt;figure style=&#34;text-align: center;&#34;&gt;
@@ -87,9 +100,9 @@
     </item>
     <item>
       <title>Balatro fait péter le million</title>
-      <link>https://felix695.github.io/nostick/articles/2024/mars/balatro/</link>
+      <link>http://localhost:1313/nostick/articles/2024/mars/balatro/</link>
       <pubDate>sam., 02 mars 2024 10:30:18 +0100</pubDate>
-      <guid>https://felix695.github.io/nostick/articles/2024/mars/balatro/</guid>
+      <guid>http://localhost:1313/nostick/articles/2024/mars/balatro/</guid>
       <description>&lt;p&gt;Tout roule pour Balatro, ce jeu mélangeant poker et roguelike d’ores et déjà considéré comme une potentielle drogue dure par la FDA américaine. Sorti le 25 février dernier, le jeu a rapporté 1 million de dollars en 8 heures, un très joli score pour un projet indé créé par un unique développeur. Plus de 250 000 copies se sont &lt;a href=&#34;https://twitter.com/BalatroGame/status/1761055772065010040&#34;&gt;déjà écoulées&lt;/a&gt; sur PC, Switch, PS5 et Xbox. Une version Mac est dans les tuyaux, tandis qu’un portage mobile « &lt;em&gt;pourrait arriver après le lancement officiel&lt;/em&gt; ».&lt;/p&gt;
 &lt;p&gt;
   &lt;img src=&#34;balatro.png&#34; alt=&#34;Balatro&#34;&gt;
@@ -100,9 +113,9 @@
     </item>
     <item>
       <title>Sonic pas Superstars dans les rayons</title>
-      <link>https://felix695.github.io/nostick/articles/2024/mars/sonic/</link>
+      <link>http://localhost:1313/nostick/articles/2024/mars/sonic/</link>
       <pubDate>ven., 01 mars 2024 19:47:32 +0100</pubDate>
-      <guid>https://felix695.github.io/nostick/articles/2024/mars/sonic/</guid>
+      <guid>http://localhost:1313/nostick/articles/2024/mars/sonic/</guid>
       <description>&lt;p&gt;Était-ce une bonne idée de lancer &lt;em&gt;Sonic Superstars&lt;/em&gt; trois jours avant &lt;em&gt;Super Mario Bros Wonders&lt;/em&gt; ? Probablement pas. Et n&amp;rsquo;importe qui aurait pu prédire que l&amp;rsquo;ombre imposante des aventures du plombier bondissant allait plonger dans l&amp;rsquo;obscurité totale le &lt;em&gt;revival&lt;/em&gt; 16 bits et 3D du hérisson speedé.&lt;/p&gt;
 &lt;p&gt;
   &lt;img src=&#34;./sonic.jpeg&#34; alt=&#34;Sonic&#34;&gt;
