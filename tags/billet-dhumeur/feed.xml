@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="https://felix695.github.io/nostick/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Billet D&#39;humeur on Nostick</title>
+    <title>Billet d&#39;humeur on Nostick</title>
     <link>https://felix695.github.io/nostick/tags/billet-dhumeur/</link>
-    <description>Recent content in Billet D&#39;humeur on Nostick</description>
+    <description>Recent content in Billet d&#39;humeur on Nostick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>lun., 04 mars 2024 08:45:05 +0100</lastBuildDate>

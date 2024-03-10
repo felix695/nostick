@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="https://felix695.github.io/nostick/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nostick</title>
+    <title>Nos rubriques on Nostick</title>
     <link>https://felix695.github.io/nostick/tags/</link>
-    <description>Recent content in Tags on Nostick</description>
+    <description>Recent content in Nos rubriques on Nostick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>sam., 09 mars 2024 10:47:32 +0100</lastBuildDate>
