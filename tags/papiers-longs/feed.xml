@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://felix695.github.io/nostick/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nostick</title>
-    <link>https://felix695.github.io/nostick/</link>
-    <description>Recent content on Nostick</description>
+    <title>Papiers Longs on Nostick</title>
+    <link>https://felix695.github.io/nostick/tags/papiers-longs/</link>
+    <description>Recent content in Papiers Longs on Nostick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>dim., 10 mars 2024 19:47:32 +0100</lastBuildDate>
-    <atom:link rel="self" href="https://felix695.github.io/nostick/feed.xml" type="application/rss+xml" />
+    <atom:link rel="self" href="https://felix695.github.io/nostick/tags/papiers-longs/feed.xml" type="application/rss+xml" />
     <item>
       <title>Warner Bros a tout pour devenir la pire boîte au monde</title>
       <link>https://felix695.github.io/nostick/articles/2024/mars/warnerbros/</link>
