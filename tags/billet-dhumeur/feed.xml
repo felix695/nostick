@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://felix695.github.io/nostick/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nostick</title>
-    <link>https://felix695.github.io/nostick/tags/</link>
-    <description>Recent content in Tags on Nostick</description>
+    <title>Billet D&#39;humeur on Nostick</title>
+    <link>https://felix695.github.io/nostick/tags/billet-dhumeur/</link>
+    <description>Recent content in Billet D&#39;humeur on Nostick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>sam., 09 mars 2024 10:47:32 +0100</lastBuildDate>
-    <atom:link rel="self" href="https://felix695.github.io/nostick/tags/feed.xml" type="application/rss+xml" />
+    <lastBuildDate>lun., 04 mars 2024 08:45:05 +0100</lastBuildDate>
+    <atom:link rel="self" href="https://felix695.github.io/nostick/tags/billet-dhumeur/feed.xml" type="application/rss+xml" />
     <item>
       <title>Les sorties de la semaine (09/03)</title>
       <link>https://felix695.github.io/nostick/articles/2024/mars/sorties0903/</link>
