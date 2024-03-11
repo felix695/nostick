@@ -1,8 +1,6 @@
+{{ $path := .Page.Permalink }}
 {{ if .Title }}
-  <figure style="text-align: center;">
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-    <figcaption style="font-style: italic;">{{ .Title }}</figcaption>
-  </figure>
-{{ else }}
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+<figure style="text-align: center;"> <img src="{{ $path }}{{ .Destination | safeURL }}" alt="{{ .Text }}"> <figcaption style="font-style: italic;">{{ .Title }}</figcaption> </figure> 
+{{ else }} 
+<img src="{{ $path }}{{ .Destination | safeURL }}" alt="{{ .Text }}"> 
 {{ end }}
