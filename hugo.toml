@@ -1,4 +1,4 @@
-baseURL = 'hhttps://nostick.fr/'
+baseURL = 'https://nostick.fr/'
 languageCode = 'fr-fr'
 title = 'Nostick'
 theme = 'hugo-flex'
