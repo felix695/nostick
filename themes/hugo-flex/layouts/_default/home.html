@@ -1,0 +1,57 @@
+{{ define "load_paginator" }}
+
+  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{ with .Paginate $pages }}{{ end }}
+
+{{ end }}
+
+{{ define "load_page_assets" }}
+
+  {{ range .Paginator.Pages }}
+    {{ with .Content }}{{ end }}
+    {{ $page_css := .Scratch.Get "css" }}
+    {{ with $page_css }}
+      {{ $css_list := $.Scratch.Get "css" }}
+      {{ . | merge $css_list | $.Scratch.Set "css" }}
+    {{ end }}
+    {{ $page_js := .Scratch.Get "js" }}
+    {{ with $page_js }}
+      {{ $js_list := $.Scratch.Get "js" }}
+      {{ . | merge $js_list | $.Scratch.Set "js" }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
+
+{{ define "main" }}
+
+  {{ $length := len .Paginator.Pages }}
+  {{ range $index, $page := .Paginator.Pages }}
+    <article>
+      {{ partial "heading.html" . }}
+      {{ if site.Params.summaries }}
+        {{ .Summary }}
+        {{ if .Truncated }}
+          <p>
+            <a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a>
+          </p>
+        {{ end }}
+      {{ else }}
+        <input type="checkbox" id="post-{{ .PublishDate }}" class="read-more-state">
+        <div class="read-more-wrap">
+          <div class="read-more-target">
+            {{ .Content }}
+             {{ partial "tags.html" . }}
+          </div>
+        </div>
+        <label for="post-{{ .PublishDate }}" class="read-more-trigger"></label>
+      {{ end }}
+    </article>
+    {{ if add $index 1 | ne $length | and site.Params.divider }}
+      <div class="Divider"></div>
+    {{ end }}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+{{ end }}

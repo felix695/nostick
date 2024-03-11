@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+  {{ partial "heading.html" . }}
+  {{ .Content }}
+  <footer>
+    {{ partial "tags.html" . }}
+    {{ partial "comments.html" . }}
+    {{ with .Params.author }}
+    {{ end }}
+  </footer>
+</article>
+{{ end }}

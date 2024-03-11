@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+  {{ partial "heading.html" . }}
+
+  {{ .Content }}
+
+  {{ range .Pages.GroupByPublishDate "2006" }}
+    <h2>{{ .Key }}</h2>
+    {{ range .Pages.GroupByPublishDate "01" }}
+      <h3>
+        {{ if eq .Key "01" }}Janvier{{ end }}
+        {{ if eq .Key "02" }}Février{{ end }}
+        {{ if eq .Key "03" }}Mars{{ end }}
+        {{ if eq .Key "04" }}Avril{{ end }}
+        {{ if eq .Key "05" }}Mai{{ end }}
+        {{ if eq .Key "06" }}Juin{{ end }}
+        {{ if eq .Key "07" }}Juillet{{ end }}
+        {{ if eq .Key "08" }}Août{{ end }}
+        {{ if eq .Key "09" }}Septembre{{ end }}
+        {{ if eq .Key "10" }}Octobre{{ end }}
+        {{ if eq .Key "11" }}Novembre{{ end }}
+        {{ if eq .Key "12" }}Décembre{{ end }}
+      </h3>
+      <ul>
+        {{ range .Pages }}
+          <li>
+            {{ time.Format "2006-01-02" .PublishDate }} – <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+
+<!-- {{ range .Paginator.Pages }} -->
+    <!-- Affichez ici les informations de chaque page -->
+    <!-- h3>{{ .Title }}</h3 -->
+    <!-- p>{{ .Description }}</p -->
+    <!-- ... et d'autres informations spécifiques à chaque page -->
+<!-- {{ end }} -->
+{{ end }}
