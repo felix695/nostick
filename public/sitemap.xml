@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nostick/tags/aper%C3%A7us/</loc>
+    <loc>http://localhost:1313/nostick/tags/actualit%C3%A9s/</loc>
     <lastmod>2024-03-11T10:47:32+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nostick/articles/</loc>
@@ -34,9 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/nostick/tags/trailers/</loc>
     <lastmod>2024-03-08T10:47:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nostick/tags/actualit%C3%A9s/</loc>
-    <lastmod>2024-03-06T19:47:32+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nostick/articles/2024/mars/ghost/</loc>
     <lastmod>2024-03-06T19:47:32+01:00</lastmod>
