@@ -1,17 +1,23 @@
 <header class="Heading">
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <h2 class="Heading-title">
-      <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+    <h2 class="Heading-title" style="margin-bottom: 1px;">
+        <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
     </h2>
-    {{ with .PublishDate | default nil }}
-      <time datetime="{{ time.Format "2006-01-02T15:04:05Z07:00" . }}" style="margin-top: 10px;">
-        {{- time.Format ":date_long" . -}}
-      </time>
-    {{ end }}
-  </div>
+    <div style="display: flex; flex-direction: row; justify-content: space-between;">
+        <div style="display: flex; flex-direction: row; align-items: center;">
+            <div class="tag-container" style="margin-right: 15px;">
+                {{ partial "tags.html" . }}
+            </div>
+            {{ with .PublishDate | default nil }}
+                <time datetime="{{ time.Format "2006-01-02T15:04:05Z07:00" . }}" style="margin-right: 15px;">
+                    {{- time.Format ":date_long" . -}}
+                </time>
+            {{ end }}
+        </div>
+        {{ with .Params.author }}
+            <div style="display: flex; flex-direction: row; align-items: center;">
+                <p class="author" style="text-align: right;">Par : <em>{{ . }}</em></p>
+            </div>
+        {{ end }}
+    </div>
 </header>
-<footer>
-  {{ with .Params.author }}
-    <p class="author">Par : <em>{{ . }}</em></p>
-  {{ end }}
-</footer>
+<footer> </footer>
