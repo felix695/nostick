@@ -1,5 +1,5 @@
 +++
-title = "Sea of Thieves prend d'assaut la PS5"
+title = "Sea of Thieves à l'abordage de la PS5"
 date = 2024-03-11T21:30:32+01:00
 draft = false
 author = "Mickael"
