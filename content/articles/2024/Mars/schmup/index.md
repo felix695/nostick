@@ -3,7 +3,7 @@ title = 'Passion acheter des shmups et ne pas y jouer'
 date = 2024-03-04T08:45:05+01:00
 draft = false
 author = "Mickael"
-tags = ["Billets d'humeur"]
+tags = ["Humeur"]
 +++ 
 
 Les shoot'em up parlent directement au cerveau reptilien. Difficile en effet de faire plus simple et plus efficace qu'un bon vieux shmup ! Certes, depuis ses débuts primitifs en 1978 avec *Space Invaders*, le genre s'est considérablement élargi, affiné, raffiné même, et tout simplement anobli. Mais au bout du compte, c'est toujours un vaisseau ou un bidule à diriger au milieu d'un tsunami de projectiles et d'ennemis.
