@@ -18,6 +18,12 @@ img {
   border-radius: 0.2rem;
 }
 
+figure {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 table {
   border-collapse: collapse;
   margin: auto;
