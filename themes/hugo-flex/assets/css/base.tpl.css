@@ -49,10 +49,6 @@ kbd:has(kbd) {
   padding: 0.3rem 0;
 }
 
-a:visited {
-  color: inherit;
-}
-
 .read-more-trigger {
   cursor: pointer;
   display: block;
