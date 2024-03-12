@@ -3,7 +3,7 @@ title = 'Suicide Squad: kill the Suicide Squad'
 date = 2024-03-03T08:45:05+01:00
 draft = false
 author = "Mickael"
-tags = ["Papiers longs"]
+tags = ["Édito"]
 +++ 
 
 Un nouveau jeu dans l’Arkhamverse qui suit une bande de bras cassés de DC prêts à en découdre avec la Justice League ? Pourquoi pas. Le projet était intriguant et puis c’était Rocksteady à la barre, les créateurs des meilleurs jeux de superhéros de tous les temps !

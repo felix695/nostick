@@ -3,7 +3,7 @@ title = "Warner Bros a tout pour devenir la pire boîte au monde"
 date = 2024-03-10T19:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Papiers longs"]
+tags = ["Édito"]
 +++
 
 **La forme finale de Warner Bros Discovery est en phase d'approche : le géant du divertissement veut chiper la place d'Electronic Arts et d'Activision au classement des entreprises les plus détestées au monde ! Et il faut bien avouer que si c'est son objectif, alors le chemin lui est largement ouvert.**
