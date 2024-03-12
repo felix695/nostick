@@ -3,10 +3,14 @@ title = "Sony ne Ghost plus les joueurs PC"
 date = 2024-03-06T19:47:32+01:00
 draft = false
 author = "Félix"
-tags = ["Actu"]
+tags = ["Trailer"]
 +++
 
 Une raison de moins d’acheter une PS5 : le très bien accueilli *Ghost of Tsushima* [arrivera](https://blog.fr.playstation.com/2024/03/06/ghost-of-tsushima-directors-cut-arrive-sur-pc-le-16-mai/) sur PC dans sa version Director’s Cut le 16 mai. Affichant un score de 83/100 sur Metacritic, ce jeu de samouraï en monde ouvert a marqué les esprits depuis sa sortie en 2020. Le portage inclut le jeu complet ainsi que l’extension Île d’Iki et le mode coop multijoueur en ligne Legends. Un trailer [a été mis en ligne](https://www.youtube.com/watch?v=EzWBNwhb870&t=22s) si vous voulez voir ce que ça donne
+
+{{< youtube EzWBNwhb870 >}}
+
+https://www.youtube.com/watch?v=EzWBNwhb870
 
 ![Un screen de la version PC de Ghost of Tsushima.](ghostoftsushima.jpeg "Image : Sony")
 
