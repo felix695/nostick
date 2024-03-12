@@ -1,3 +1,15 @@
+a:visited {
+  color: #21B2AA;
+}
+
+a {
+  font-weight: bold; /* rend le texte en gras */
+  text-decoration: none; /* supprime le soulignement */
+  color: #21B2AA;
+}
+
+
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   line-height: 1.6;
@@ -54,6 +66,7 @@ kbd {
 kbd:has(kbd) {
   padding: 0.3rem 0;
 }
+
 
 .read-more-trigger {
   cursor: pointer;
@@ -147,7 +160,7 @@ kbd:has(kbd) {
 
 .Banner-link {
   font-size: 1.25rem;
-  color: white;
+  color: white !important;
   padding: 0.5rem 1rem;
 }
 
@@ -171,7 +184,7 @@ kbd:has(kbd) {
 }
 
 .Heading-link {
-  color: inherit;
+  color: inherit !important;
 
 
 }
@@ -213,7 +226,7 @@ kbd:has(kbd) {
 }
 
 .Tags-link {
-  color: black;
+  color: black !important;;
 }
 
 .tag-container {
