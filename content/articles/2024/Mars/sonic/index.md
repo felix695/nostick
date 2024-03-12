@@ -3,7 +3,7 @@ title = 'Sonic pas Superstars dans les rayons'
 date = 2024-03-01T19:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actualités"]
+tags = ["Actu"]
 +++
 
 Était-ce une bonne idée de lancer *Sonic Superstars* trois jours avant *Super Mario Bros Wonders* ? Probablement pas. Et n'importe qui aurait pu prédire que l'ombre imposante des aventures du plombier bondissant allait plonger dans l'obscurité totale le *revival* 16 bits et 3D du hérisson speedé.

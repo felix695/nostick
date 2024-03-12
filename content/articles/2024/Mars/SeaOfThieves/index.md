@@ -3,7 +3,7 @@ title = "Sea of Thieves à l'abordage de la PS5"
 date = 2024-03-11T21:30:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actualités"]
+tags = ["Actu"]
 +++ 
 Et si Xbox avait finalement eu raison de porter plusieurs de ses exclusivités sur PS5 ? *Sea of Thieves*, qui fait partie des quatre jeux Xbox (avec *Hi-Fi Rush*, *Pentiment* et *Grounded*) à voguer vers de nouvelles plateformes, [fait](https://www.trueachievements.com/news/sea-of-thieves-best-selling-playstation-preorders) actuellement un carton sur les consoles de Sony… alors qu'il ne sortira que le 30 avril !
 

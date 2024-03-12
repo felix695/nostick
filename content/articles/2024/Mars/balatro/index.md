@@ -3,7 +3,7 @@ title = 'Balatro fait péter le million'
 date = 2024-03-02T10:30:18+01:00
 draft = false
 author = "Félix"
-tags = ["Actualités"]
+tags = ["Actu"]
 +++
 
 Tout roule pour Balatro, ce jeu mélangeant poker et roguelike d’ores et déjà considéré comme une potentielle drogue dure par la FDA américaine. Sorti le 25 février dernier, le jeu a rapporté 1 million de dollars en 8 heures, un très joli score pour un projet indé créé par un unique développeur. Plus de 250 000 copies se sont [déjà écoulées](https://twitter.com/BalatroGame/status/1761055772065010040) sur PC, Switch, PS5 et Xbox. Une version Mac est dans les tuyaux, tandis qu’un portage mobile « *pourrait arriver après le lancement officiel* ».

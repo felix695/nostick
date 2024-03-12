@@ -3,7 +3,7 @@ title = "Princess Peach Showtime confirme qu'il est temps de lancer la Switch 2"
 date = 2024-03-11T10:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actualités"]
+tags = ["Actu"]
 +++
 
 
