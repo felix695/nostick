@@ -1,5 +1,5 @@
 +++
-title = "System Shock"
+title = "System Shock va se défouler sur les consoles"
 date = 2024-03-12T21:00:32+01:00
 draft = false
 author = "Mickael"
