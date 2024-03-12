@@ -5,11 +5,10 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 +++
+![Peach Épéiste](Peachepee.jpeg "Image : Nintendo")
 
 
 Depuis sept ans qu'on l'a entre les mains, on n'y fait plus attention mais il est tout de même déprimant de subir toujours et encore des micro-ralentissements sur la Switch, y compris — et surtout — dans les jeux *first party* de Nintendo. La démo de *Princess Peach Showtime* en est plein, et pas nécessairement lorsque des tas de personnages sont à l'écran.
-
-![Peach Épéiste](Peachepee.jpeg "Image : Nintendo")
 
 Ces ralentissements sont visibles lors de certains passages scriptés, par exemple lors de la transformation de la princesse ou quand le jeu laisse la main au joueur. La cible visée par *Showtime* (les plus jeunes) n'y verra sans doute que du feu, mais il est tout de même malheureux que Nintendo et le studio Good-Feel qui a développé le titre n'aient pas su régler le problème avant la sortie du jeu. Certes, d'ici sa sortie le 22 mars, il est toujours possible qu'une mise à jour de dernière minute vienne régler le problème, mais le doute est permis.
 
