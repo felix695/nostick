@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Trailer"]
 +++ 
-![Texte Alternative](SystemShock.jpg "On te voit plus aux soirées ?")
+![Texte Alternative](SystemShock.jpg "Bah alors on te voit plus aux soirées ? © Nightdive")
 
 Le remake de *System Shock* n'a pas eu de bol. Lancé sur PC en mai dernier, le titre développé par le studio Nightdive et édité par Prime Matter est sorti durant une période très chargée[^1] d'une année historique pour les jeux vidéo. Malgré sa grande classe, le FPS n'a pas vraiment su trouver sa place.
 
