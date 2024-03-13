@@ -3,13 +3,12 @@ title = 'Suicide Squad: kill the Suicide Squad'
 date = 2024-03-03T08:45:05+01:00
 draft = false
 author = "Mickael"
-tags = ["Édito"]
+tags = ["XXL"]
 +++ 
-
-Un nouveau jeu dans l’Arkhamverse qui suit une bande de bras cassés de DC prêts à en découdre avec la Justice League ? Pourquoi pas. Le projet était intriguant et puis c’était Rocksteady à la barre, les créateurs des meilleurs jeux de superhéros de tous les temps !
-
-
 ![Deux personnages de Suicide Squad (le jeu)](suicidesquad1.jpg "Attention derrière toi c'est affreux")
+
+
+**Un nouveau jeu dans l’Arkhamverse qui suit une bande de bras cassés de DC prêts à en découdre avec la Justice League ? Pourquoi pas. Le projet était intriguant et puis c’était Rocksteady à la barre, les créateurs des meilleurs jeux de superhéros de tous les temps !**
 
 Il y avait moyen d’y croire : le studio Rocksteady, alors tout auréolé du succès des jeux de la saga *Batman: Arkham*, avait annoncé la mise en chantier de *Suicide Squad: Kill the Justice League* en 2020[^1].
 
