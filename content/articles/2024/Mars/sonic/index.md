@@ -5,10 +5,10 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 +++
+![Sonic](./sonic.jpeg)
 
 Était-ce une bonne idée de lancer *Sonic Superstars* trois jours avant *Super Mario Bros Wonders* ? Probablement pas. Et n'importe qui aurait pu prédire que l'ombre imposante des aventures du plombier bondissant allait plonger dans l'obscurité totale le *revival* 16 bits et 3D du hérisson speedé.
 
-![Sonic](./sonic.jpeg)
 
 Enfin, n'importe qui, sauf Sega ! Durant ses résultats financiers, l’éditeur a finalement admis que ça ne s’était pas vraiment passé comme il l’espérait. Haruki Satomi, le patron de Sega Sammy, s'est réjoui de l'accueil positif de *Sonic Superstars*, mais voilà : « *le moment du lancement a coïncidé avec des titres concurrents dans le même genre, et [notre jeu] est resté en deçà des prévisions initiales* ». 
 
