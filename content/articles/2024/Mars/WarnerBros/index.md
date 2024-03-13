@@ -6,9 +6,10 @@ author = "Mickael"
 tags = ["XXL"]
 +++
 
+![WB](warnerbros.jpg "© Chase Yi (Unsplash)")
+
 **La forme finale de Warner Bros Discovery est en phase d'approche : le géant du divertissement veut chiper la place d'Electronic Arts et d'Activision au classement des entreprises les plus détestées au monde ! Et il faut bien avouer que si c'est son objectif, alors le chemin lui est largement ouvert.**
 
-![WB](warnerbros.jpg "© Chase Yi (Unsplash)")
 
 Sur un coup de tête (probablement fiscal), le groupe a ainsi décidé de retirer de nombreux jeux de Steam et du PlayStation Store. Ces titres, parmi lesquels *Rick and Morty: Virtual Rick-ality*, *Fist Puncher*, *Soundodger+*, *Headlander* ou encore *Duck Game*, sont édités par le studio Adult Swim — propriété de WB Discovery — et développés par des indépendants. Ce sont plus de 18 jeux qui vont disparaitre corps et biens dans les 60 prochains jours, a [confirmé](https://steamcommunity.com/app/238630/discussions/0/4286935452896532419) Matt Kain, un des développeurs de *Fist Puncher*.
 
