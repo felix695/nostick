@@ -1,6 +1,6 @@
 +++
 title = "Le « super jeu » de Sega sera-t-il vraiment un jeu super ?"
-date = 2024-03-13T16:23:32+01:00
+date = 2024-03-13T15:23:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
