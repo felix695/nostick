@@ -7,7 +7,7 @@ tags = ["Actu"]
 +++
 ![Texte Alternative](Sonic_AngryBirds.jpg "Sonic s'est fait quelques shitty friends en plus depuis l'acquisition par Sega de Rovio (Angry Birds).")
 
-Depuis 3 ans, Sega prépare dans le plus grand secret un « super jeu » bien mystérieux. Les détails sont extrêmement maigres, l'éditeur se contentant de relancer la machine aux rumeurs de temps en temps, histoire que le « super game » reste dans un coin de tête des joueurs. Mais bon sang de bois, de quoi s'agit-il à la fin ?
+Depuis trois ans, Sega prépare dans le plus grand secret un « super jeu » bien mystérieux. Les détails sont extrêmement maigres, l'éditeur se contentant de relancer la machine aux rumeurs de temps en temps, histoire que le « super game » reste dans un coin de tête des joueurs. Mais bon sang de bois, de quoi s'agit-il à la fin ?
 
 Ce projet annoncé en mai 2021 englobera « *plusieurs titres AAA qui croisent l'ensemble des technologies de Sega* », décrivait à l'époque le co-CEO du groupe Shuji Utsumi. Le « super jeu » va « *au-delà du cadre traditionnel des jeux* », ajoutait-il en tirant sur sa moustache malicieuse. En novembre dernier, nouvelle carte postale à l'occasion de la [présentation](https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/en/ir/ir_2023_web_all_e.pdf) des résultats annuels de Sega, avec une fenêtre de tir : le projet verra le jour d'ici la fin de l'exercice fiscal 2025/2026 (qui s'achève en mars 2026).
 
