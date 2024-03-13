@@ -71,23 +71,20 @@ kbd:has(kbd) {
 .read-more-trigger {
   cursor: pointer;
   display: block;
-  width: 30px;
-  height: 30px;
+    width: 30px;
+  padding: 5px 10px;
   margin: 10px auto;
   text-align: center;
-  line-height: 30px;
-  background-color: transparent; /* fond transparent */
-  color: #000; /* couleur du texte */
-  border-radius: 15px;
-  border: 1px dotted #000;
-}
-
-.read-more-trigger:before {
-  content: "+"; /* texte du bouton */
-
+ background: linear-gradient(to right, #21B2AA, #00bfff); /* Dégradé de couleurs */
+  color: #fff;
+  border-radius: 5px;
+    line-height: 30px;
+  border: none;
+  transition: background-color 0.3s ease-in-out;
 }
 
 .read-more-trigger:hover {
+  background: linear-gradient(to right, #21B2AA, #00a0cc); /* Dégradé de couleurs plus foncé au survol */
   background-color: #FFFDED; /* couleur de fond au survol */
   transform: scale(1.3); /* agrandit le bouton de 10% */
 }
@@ -104,16 +101,8 @@ kbd:has(kbd) {
 }
 
 .read-more-target:after {
-  content: "";
-  text-align: right;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 4em;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  transition: opacity 0.3s ease-in-out;
 }
-
 .read-more-target {
   position: relative;
   /* autres styles... */
@@ -121,14 +110,24 @@ kbd:has(kbd) {
 
 .read-more-state:checked ~ .read-more-wrap .read-more-target {
   height: auto;
+  opacity: 1;
 }
 
-.read-more-state ~ .read-more-trigger:before {
-  content: '+';
+.read-more-trigger:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  transform: rotate(135deg);
+  transition: transform 0.3s ease-in-out;
 }
 
 .read-more-state:checked ~ .read-more-trigger:before {
-  content: '-';
+  transform: rotate(-45deg);
 }
 
 
