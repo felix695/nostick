@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 +++ 
-![Texte Alternative](SaberInteractive.jpg "Les salariés de Saber s'échappant d'Embracer. © Saber")
+![Texte Alternative](SaberInteractive.jpg "Les salariés de Saber s'échappant des geôles d'Embracer. © Saber")
 
 Les bonnes nouvelles ne sont pas si nombreuses actuellement dans l'industrie du jeu vidéo, alors autant se réjouir de celles qui tombent. Saber Interactive, qui donne aussi bien dans les productions originales (*World War Z*, *Metro*) que dans les remasters (*Crysis*) et les coups de main (à 343 Industries pour *Halo*, notamment), a racheté son indépendance !
 
