@@ -266,6 +266,26 @@ kbd:has(kbd) {
   margin: 1rem 0;
 }
 
+.tag-container2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.footer-tags-item {
+  display: inline-block;
+  border-radius: 0.2rem;
+  margin: 0.2rem;
+  padding: 0.3rem;
+  background-color: #BFBFBF;
+  color: black;
+  transition: transform 0.3s ease; /* Ajout : effet de transition */
+}
+
+.footer-tags-item:hover {
+  transform: scale(1.1); /* Ajout : agrandit légèrement la balise au survol */
+}
+
 .u-wrapper {
   {{ with site.Params.width }}max-width: {{ . }};{{ end }}
   margin: auto;

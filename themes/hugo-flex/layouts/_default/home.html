@@ -41,7 +41,6 @@
         <div class="read-more-wrap">
           <div class="read-more-target">
             {{ .Content }}
-          
           </div>
         </div>
         <label for="post-{{ .PublishDate }}" class="read-more-trigger"></label>
@@ -53,5 +52,15 @@
   {{ end }}
 
   {{ partial "pagination.html" . }}
+
+<footer>
+  <div class="tag-container2">
+    <div class="footer-tags">
+      {{ range .Site.Taxonomies.tags }}
+        <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+</footer>
 
 {{ end }}
