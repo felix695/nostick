@@ -1,15 +1,2 @@
 {{ define "main" }}
-<article>
-  {{ partial "heading.html" . }}
-  {{ .Content }}
-<footer>
-  <div class="tag-container2">
-    <div class="footer-tags article-tags"> <!-- Ajoutez la classe "article-tags" -->
-      {{ range .Site.Taxonomies.tags }}
-        <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
-      {{ end }}
-    </div>
-  </div>
-</footer>
-</article>
-{{ end }}
+<article> {{ partial "heading.html" . }} {{ .Content }} <footer> <div class="tag-container2"> <div class="footer-tags"> {{ range .Site.Taxonomies.tags }} <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a> {{ end }} </div> </div> </footer> </article> {{ end }}

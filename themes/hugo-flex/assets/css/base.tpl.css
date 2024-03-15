@@ -272,6 +272,12 @@ kbd:has(kbd) {
   margin-top: 1.5rem;
 }
 
+.footer-tags {
+  border-top: 2px solid black;
+  padding-top: 1rem;
+  margin-top: 1.5rem;
+}
+
 .footer-tags-item {
   display: inline-block;
   border-radius: 0.2rem;
@@ -302,12 +308,6 @@ kbd:has(kbd) {
 .u-wrapper {
   {{ with site.Params.width }}max-width: {{ . }};{{ end }}
   margin: auto;
-}
-
-.article-tags {
-  border-top: 2px solid black; /* Ajustez l'épaisseur de la bordure à 2px */
-  padding-top: 1rem;
-  margin-top: 1.5rem;
 }
 
 .u-padding {
