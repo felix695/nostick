@@ -278,12 +278,25 @@ kbd:has(kbd) {
   margin: 0.2rem;
   padding: 0.3rem;
   background-color: #BFBFBF;
-  color: black;
-  transition: transform 0.3s ease; /* Ajout : effet de transition */
+  color: black !important;
+  transition: transform 0.3s ease;
 }
 
 .footer-tags-item:hover {
-  transform: scale(1.1); /* Ajout : agrandit légèrement la balise au survol */
+  transform: scale(1.1);
+}
+
+.footer-tags-link {
+  color: black;
+  text-decoration: none;
+}
+
+.footer-tags-link:visited {
+  color: black; /* Ajout : couleur des liens visités */
+}
+
+.footer-tags-link:visited:hover {
+  color: black; /* Ajout : couleur des liens visités au survol */
 }
 
 .u-wrapper {

@@ -1,0 +1,14 @@
+# fr.toml
+
+[formats]
+  [formats.date]
+    dateFormat = "02 janvier 2006"
+    dateAbbrMonths = ["", "janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
+    dateAbbrDays = ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."]
+
+  [formats.time]
+    timeFormat = "15:04"
+    timeSuffix = ""
+
+  [formats.dateTime]
+    dateTimeFormat = "{{ .Date.Format \"02 janvier 2006 à 15:04\" }}"

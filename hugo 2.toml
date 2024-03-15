@@ -1,0 +1,12 @@
+baseURL = 'https://nostick.fr/'
+languageCode = 'fr-fr'
+title = 'Nostick'
+theme = 'hugo-flex'
+favicon = 'favicon.ico'
+defaultContentLanguage = "fr"
+[languages]
+  [languages.fr]
+    languageName = 'French'
+    weight = 1
+[taxonomies]
+  tag = "tags"
