@@ -254,7 +254,7 @@ kbd:has(kbd) {
 
 .Pagination {
   font-size: 1.25rem;
-  color: #21B2AA;
+  color: #A678D4;
 }
 
 .Pagination--right {
@@ -283,7 +283,7 @@ kbd:has(kbd) {
 }
 
 .footer-tags-item:hover {
-  transform: scale(1.1);
+  transform: scale(1.3); /* agrandit le bouton de 10% */
 }
 
 .footer-tags-link {
