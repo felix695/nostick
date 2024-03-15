@@ -304,6 +304,12 @@ kbd:has(kbd) {
   margin: auto;
 }
 
+.article-tags {
+  border-top: 2px solid black; /* Ajustez l'épaisseur de la bordure à 2px */
+  padding-top: 1rem;
+  margin-top: 1.5rem;
+}
+
 .u-padding {
   padding: 0 1rem;
 }
