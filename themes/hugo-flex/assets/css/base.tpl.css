@@ -279,6 +279,7 @@ kbd:has(kbd) {
   border-top: 2px solid black;
   padding-top: 1rem;
   margin-top: 1.5rem;
+  
 }
 
 .footer-tags-item {
@@ -331,5 +332,8 @@ kbd:has(kbd) {
   max-height: 1000000px;
 }
 
+.clear {
+  clear: both;
+}
 
 
