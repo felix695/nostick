@@ -1,6 +1,6 @@
 +++
 title = "Dans la fureur du petit monde du jeu vidéo (16/03)"
-date = 2024-03-16T12:12:32+01:00
+date = 2024-03-16T12:12:32+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
