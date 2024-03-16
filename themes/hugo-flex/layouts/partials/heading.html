@@ -8,16 +8,15 @@
                 {{ partial "tags.html" . }}
             </div>
             {{ with .PublishDate | default nil }}
-                <time datetime="{{ time.Format "2006-01-02T15:04:05Z07:00" . }}" style="margin-right: 15px;">
+                <time class="date" datetime="{{ time.Format "2006-01-02T15:04:05Z07:00" . }}" style="margin-right: 15px;">
                     {{- time.Format ":date_long" . -}}
                 </time>
             {{ end }}
         </div>
         {{ with .Params.author }}
             <div style="display: flex; flex-direction: row; align-items: center;">
-                <p class="author" style="text-align: right;">Par : <em>{{ . }}</em></p>
+                <p class="author" style="text-align: right;">Par {{ . }}</p>
             </div>
         {{ end }}
     </div>
 </header>
-<footer> </footer>
