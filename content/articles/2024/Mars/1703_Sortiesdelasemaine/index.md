@@ -19,7 +19,7 @@ Lucas Pope, développeur indépendant à qui l’ont doit les très chouettes *P
 
 Si comme moi vous avez moins de 30 ans et perdu tout espoir de devenir un jour propriétaire d’une maison avec jardin, vous serez ravi d’apprendre la sortie de *Lawn Mowing Simulator* [sur Switch](https://www.nintendo.fr/Jeux/Jeux-a-telecharger-sur-Nintendo-Switch/Lawn-Mowing-Simulator-2501923.html) (19,99 €). Comme son nom l’indique, le jeu se concentre sur l’art ancestral de la tonte de gazon en vous laissant prendre le volant et même acheter de nouvelles machines (avec les vraies licences !!). Un volet gestion est présent, et il faudra embaucher des employés tout en gardant un œil sur les finances de la boite. La tonte peut devenir assez technique vu qu’il est nécessaire d’étudier l’état du sol ou la charge sur le moteur, mais un mode « *tonte rapide* » a heureusement été ajouté pour les feignasses qui ne veulent pas prendre 5 minutes à calibrer leurs lames. Pas le jeu de l’année, mais cela vaut sans doute le coup d’œil pour les dégénérés ayant plus de 500 heures sur *[PowerWash Simulator](https://store.steampowered.com/app/1290000/PowerWash_Simulator/)* et autres *[Viscera Cleanup](https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/)*. Le titre est aussi disponible [pour 6 balles sur Steam](https://store.steampowered.com/app/1480560/Lawn_Mowing_Simulator/) à l’occasion des soldes de printemps.
 
-![Image promotionnelle du jeu Lawn Mowing Simulator.](lawnm.jpg "Légende de l’image")
+![Image promotionnelle du jeu Lawn Mowing Simulator.](lawnm.jpg)
 
 **piou piou oh non Luke attention un x-wing piou**
 
