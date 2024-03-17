@@ -3,7 +3,7 @@ title = "Les sorties de la semaine (09/03)"
 date = 2024-03-09T10:47:32+01:00
 draft = false
 author = "Félix"
-tags = ["Les sorties de la semaine"]
+tags = ["C’est dispo"]
 +++ 
 
 **Entre le boulot, les courses et le contrôle technique de la Dacia, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.**

@@ -6,9 +6,10 @@ author = "Félix"
 tags = ["Actu"]
 +++
 
+![Balatro](balatro.png)
+
 Tout roule pour Balatro, ce jeu mélangeant poker et roguelike d’ores et déjà considéré comme une potentielle drogue dure par la FDA américaine. Sorti le 25 février dernier, le jeu a rapporté 1 million de dollars en 8 heures, un très joli score pour un projet indé créé par un unique développeur. Plus de 250 000 copies se sont [déjà écoulées](https://twitter.com/BalatroGame/status/1761055772065010040) sur PC, Switch, PS5 et Xbox. Une version Mac est dans les tuyaux, tandis qu’un portage mobile « *pourrait arriver après le lancement officiel* ».
 
-![Balatro](balatro.png)
 
 Pas besoin d’être Patrick Bruel pour s’amuser sur Balatro. L’objectif est de recréer les mains du poker afin de faire un maximum de points, ceux-ci étant multipliés par différents jokers débloqués en cours de route. L’un va octroyer plus de points en cas de paire, là où un autre autorisera à faire des quintes (5 cartes à la suite) avec seulement 4 cartes. La progression se fait sur un système de niveaux en 3 parties, la dernière étant un boss appliquant différents malus pouvant réduire le score.
 

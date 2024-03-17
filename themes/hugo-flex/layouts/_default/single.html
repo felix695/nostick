@@ -1,10 +1,15 @@
 {{ define "main" }}
-<article>
+<article style="display: flex; flex-direction: column; min-height: 100vh;">
   {{ partial "heading.html" . }}
-  {{ .Content }}
+  <div style="flex-grow: 1;">{{ .Content }}</div>
   <footer>
-    {{ partial "comments.html" . }}
-    
+    <div class="tag-container2">
+      <div class="footer-tags">
+        {{ range .Site.Taxonomies.tags }}
+        <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
+        {{ end }}
+      </div>
+    </div>
   </footer>
 </article>
 {{ end }}
