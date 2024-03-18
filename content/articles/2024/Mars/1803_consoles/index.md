@@ -7,7 +7,7 @@ tags = ["XXL"]
 +++
 ![Une manette](console_manette.jpg "Julian Hochgesang (Unsplash)")
 
-**Dans un an tout pile, le paysage de la console sera probablement très différent de celui d’aujourd’hui. Les constructeurs s’apprêtent tous à renouveler leur offre matérielle : Nintendo bien sûr, vu que la Switch va sur sa 8e année (!), mais aussi Sony et Microsoft qui se préparent au tsunami *GTA 6*. Petite tour d'horizon en détails.**
+**Dans un an tout pile, le paysage de la console sera probablement très différent de celui d’aujourd’hui. Les constructeurs s’apprêtent tous à renouveler leur offre matérielle : Nintendo bien sûr, vu que la Switch va sur sa 8e année (!), mais aussi Sony et Microsoft qui se préparent au tsunami *GTA 6*. Petite tour d'horizon de détails.**
 
 ## Switch 2 : Nintendo se hâte lentement
 
@@ -15,7 +15,7 @@ En mars 2017, au lancement de la Switch première du nom, le processeur de la co
 
 Malgré tout, les magiciens de Nintendo parviennent à faire cracher ses poumons à la petite console, avec des jeux graphiquement impressionnants (les deux *Zelda* open world, le remaster de *Metroid Prime*, *Super Mario Bros Wonder*…), ce qui n’est plus le cas des éditeurs tiers. Les catastrophes visuelles que sont les portages de jeux exigeants, comme *Doom Eternal* ou *Mortal Kombat 1* en témoignent.
 
-Au fil des ans, la Switch a vraiment muté en console pour jouer aux jeux Nintendo : pour les autres, mieux vaut une console de salon, un PC, voire un Steam Deck. S’il ne fait aucun doute que Nintendo a développé une Switch 2 pour les besoins de ses équipes de développement, le gain de puissance s’annonce suffisant pour satisfaire aussi les développeurs tiers.
+Au fil des ans, la Switch a vraiment muté en console pour jouer aux jeux Nintendo : pour les autres jeux, mieux vaut une console de salon, un PC, voire un Steam Deck. S’il ne fait aucun doute que Nintendo a développé une Switch 2 pour les besoins de ses équipes de développement, le gain de puissance s’annonce suffisant pour satisfaire aussi les développeurs tiers.
 
 Cette nouvelle console devrait en effet produire une puissance similaire à une PS4 ou à une Xbox One grâce à une [puce T239 ](https://www.eurogamer.net/digitalfoundry-2023-inside-nvidias-latest-hardware-for-nintendo-what-is-the-t239-processor)de Nvidia. Ajoutez à cela un stockage eMMC plus rapide que la mémoire flash actuelle, et cette Switch 2 devrait se montrer tout aussi capable que le Steam Deck. 
 
@@ -26,7 +26,7 @@ L’écran pourrait être un poil plus grand, avec une diagonale attendue de 8 p
 
 On peut par contre croiser les doigts pour une résolution de 1080p, au lieu du 720p actuel — quand la console y parvient —, et même à de la 4K sur un téléviseur. Nintendo ferait un grand usage de la technologie d’upscale DLSS qui troque la puissance brute contre l’intelligence artificielle pour améliorer la qualité visuelle sans trop taper dans les ressources CPU/GPU et la batterie.
 
-La question de la rétro-compatibilité est sur toutes les lèvres : les catalogues de jeux des quelque 120 millions de joueurs Switch pourront-ils trouver une place sur la future console ? On serait tenté d’y croire et tout laisse penser que ce sera bien le cas, mais Nintendo a déjà fait des choses bizarres par le passé.
+La question de la rétro-compatibilité est sur toutes les lèvres : les catalogues de jeux des quelque 120 millions de joueurs Switch pourront-ils trouver une place sur la future console ? On serait tenté d’y croire et tout laisse penser que ce sera bien le cas, mais Nintendo a déjà fait des choses plus bizarres par le passé.
 
 Quant à la sortie de la console, beaucoup espéraient un lancement dès la fin de l’année, mais des rumeurs récentes et crédibles ont plutôt [parié](https://www.nikkei.com/article/DGXZQOUF196OV0Z10C24A2000000/) sur mars 2025, à la toute fin de l’exercice fiscal de l’entreprise. Du côté du verre à moitié plein, Nintendo aura tout le temps nécessaire pour peaufiner son line-up de lancement et faire le plein de consoles dans ses entrepôts pour couper l'herbe sous le pied des scalpers.
 
