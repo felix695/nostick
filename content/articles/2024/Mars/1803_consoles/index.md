@@ -21,6 +21,9 @@ Cette nouvelle console devrait en effet produire une puissance similaire à une 
 
 L’écran pourrait être un poil plus grand, avec une diagonale attendue de 8 pouces (contre 7 pouces sur l’OLED), ce que tous les presbytes apprécieront. En revanche, Nintendo aurait fait le choix du LCD plutôt que l’OLED pour cette première version. Oui, c’est pourri mais que voulez vous, il faut bien limiter l’inflation sur la facture de composants même si à ce rythme il n’y aura plus guère que Nintendo à utiliser des dalles LCD…
 
+![Texte Alternative](NintendoSwitch.jpg "Erik Mclean (Unsplash)")
+
+
 On peut par contre croiser les doigts pour une résolution de 1080p, au lieu du 720p actuel — quand la console y parvient —, et même à de la 4K sur un téléviseur. Nintendo ferait un grand usage de la technologie d’upscale DLSS qui troque la puissance brute contre l’intelligence artificielle pour améliorer la qualité visuelle sans trop taper dans les ressources CPU/GPU et la batterie.
 
 La question de la rétro-compatibilité est sur toutes les lèvres : les catalogues de jeux des quelque 120 millions de joueurs Switch pourront-ils trouver une place sur la future console ? On serait tenté d’y croire et tout laisse penser que ce sera bien le cas, mais Nintendo a déjà fait des choses plus bizarres.
