@@ -42,6 +42,8 @@ Du côté de Sony, on semble ne pas se faire trop d’illusion. Les dernières p
 
 Il y a pourtant matière à espérer. *GTA 6* sera la meilleure vitrine pour les consoles « pro » : le monstre de Rockstar, qui sortira uniquement sur consoles dans un premier temps, devrait redonner un souffle considérable à toute l’industrie. Et nul doute que le jeu donnera la pleine mesure de ses talents sur les consoles les plus puissantes.
 
+{{< youtube QdBZY2fkU-0 >}} 
+
 Et puis le lancement de ces nouvelles consoles permettra d’éclipser encore davantage les générations précédentes. Il se trouve encore des millions de joueurs équipés de PS4 et de Xbox One, qui profitent toujours d’une grande partie des nouveautés. Les jeux réellement exclusifs à la génération actuelle sont finalement peu nombreux, alors à quoi bon investir ?
 
 Les PS5 Pro et Xbox Series Pro pousseront peut-être ces joueurs à renouveler leur matériel de salon, tandis que les éditeurs finiront par embrasser les possibilités des nouvelles consoles en abandonnant finalement les précédents modèles. C’est probablement le calcul que font Microsoft et Sony. Et puisqu’on en parle…
@@ -50,7 +52,7 @@ Les PS5 Pro et Xbox Series Pro pousseront peut-être ces joueurs à renouveler l
 
 La véritable bascule technologique entre les 8e et 9e génération de consoles de salon repose bien davantage sur leur stockage SSD NVMe ultra-rapide que sur les capacités de leur processeur ou de leur circuit graphique. Les débits sont autrement plus rapides, les temps de chargement sont quasiment réduits à néant.
 
-C’est pourquoi il ne faut pas s’attendre à un changement drastique entre la PS5 et la PS5 Pro. Les dernières [rumeurs](https://insider-gaming.com/playstation-5-pro-more-specs/) font ainsi état d’un gain de 30 % environ pour la bande passante de la mémoire, qui passerait de 448 Go/s à 576 Go/s. Le CPU serait le même, à savoir un AMD RDNA 2 dont la fréquence serait légèrement supérieure de 10 %.
+C’est pourquoi il ne faut pas s’attendre à un changement drastique entre la PS5 et la PS5 Pro. Les dernières [rumeurs](https://insider-gaming.com/playstation-5-pro-more-specs/) font ainsi état d’un gain de 30 % environ pour la bande passante de la mémoire. Le CPU serait le même, à savoir un AMD RDNA 2 dont la fréquence serait légèrement supérieure de 10 %.
 
 En somme, pas de quoi fouetter un chat : on est en face d’un *speed bump* tout ce qu’il y a de plus classique. Quant au circuit graphique, les dernières indiscrétions évoquent un gain plus intéressant pour le rendu (+45 %) avec des capacités de ray-tracing allant de x2 à x4 ; Sony ajouterait une nouvelle moulinette pour l’upscale PSSR (PlayStation Spectral Super Resolution Upscaling, ça claque) avec le support futur de la 8K !
 
