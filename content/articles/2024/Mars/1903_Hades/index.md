@@ -3,7 +3,7 @@ title = "Hades sort enfin des enfers sur iOS"
 date = 2024-03-19T17:29:12+00:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["Trailer"]
 +++
 
 {{< youtube LtmgFC9-l6s >}} 
