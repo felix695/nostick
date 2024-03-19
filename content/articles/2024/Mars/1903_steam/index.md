@@ -9,7 +9,7 @@ tags = ["Actu"]
 
 Steam a finalement mis en place un système moderne et pas trop frustrant pour partager les jeux de sa bibliothèque avec toute la famille ! Il était plus que temps, les deux mécanismes existants — mode Famille et le partage familial — se révélant à chaque fois mal fichus et contraignants.
 
-Avec les « familles Steam », ce sont jusqu’à 6 personnes d’un même foyer qui pourront verser leur bibliothèque Steam dans un pot commun. Tous les jeux doivent être partagés (à l’exception de ceux dont les développeurs auront décidé de ne pas activer le partage familial, suivez mon regard 🍑) ; un nouveau jeu acheté par un membre sera disponible pour tous.
+Avec les « familles Steam », ce sont jusqu’à 6 personnes d’un même foyer qui pourront verser leur bibliothèque Steam dans un pot commun. Tous les jeux doivent être partagés (à l’exception de ceux dont les développeurs auront décidé de ne pas activer le partage familial, suivez mon regard 🍑). Un nouveau jeu acheté par un membre sera disponible pour tous.
 
 Il y a deux gros changements par rapport au partage familial : d’une part, tout le monde peut accéder aux jeux de la bibliothèque commune et y jouer *en même temps*. Et d’autre part, il n’est plus nécessaire d’être connecté à internet : les jeux sont disponibles hors connexion.
 
