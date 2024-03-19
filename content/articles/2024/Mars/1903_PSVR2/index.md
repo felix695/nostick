@@ -6,7 +6,7 @@ author = "Félix"
 tags = ["Actu"]
 +++
 
-![Le casque PSVR2 de Sony](PSVR2.png)
+![Le casque PSVR2 de Sony](psvr2.jpeg)
 
 Ce n’est visiblement pas la grande forme pour le PSVR2, le casque de réalité virtuelle de la PlayStation 5 lancé début 2023 au tarif de 600 €. L’accueil de la presse a été majoritairement positif, et Sony a [annoncé](https://www.sony.com/en/SonyInfo/IR/library/presen/business_segment_meeting/pdf/2023/GNS.pdf) en avoir écoulé 600 000 exemplaires dans les 6 premières semaines ayant suivi sa sortie. Malheureusement, les ventes ont apparemment du mal à suivre sur le long terme : *[Bloomberg](https://www.bloomberg.com/news/articles/2024-03-18/sony-hits-pause-on-psvr2-production-as-unsold-inventory-piles-up)* affirme aujourd’hui que la production a été mise en pause le temps d’écouler un surplus de stocks.
 
