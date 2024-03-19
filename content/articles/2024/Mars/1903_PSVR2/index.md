@@ -1,5 +1,5 @@
 +++
-title = "La production de PSVR2 aurait été mise en pause"
+title = "PSVR2 : une production virtuelle"
 date = 2024-03-19T16:47:32+01:00
 draft = false
 author = "Félix"
