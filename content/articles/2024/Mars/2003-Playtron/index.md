@@ -6,7 +6,7 @@ author = "Félix"
 tags = ["Actu"]
 +++ 
 
-![Un rendu 3D de Playtron sur une console imaginaire.](mockup.jpeg "Un rendu de Playtron sur une console portable imaginaire qui me file des crampes aux mains rien qu'en la regardant).")
+![Un rendu 3D de Playtron sur une console imaginaire.](mockup.jpeg "Un rendu de Playtron sur une console portable imaginaire qui me file des crampes aux mains rien qu'en la regardant.")
 
 Las de votre vieillissante Switch, vous avez peut-être craqué pour une ROG Ally, une Lenovo Legion Go ou tout autre de ces PC-hybrides qui ont envahi le marché depuis la sortie du Steam Deck. Et comme moi vous ruminez sans doute lorsque la bécane affiche l’interface de Windows, son bouton Copilot et ses avertissements sur les embouteillages du quartier. Les choses pourraient changer d’ici quelques années grâce à un nouveau venu : [PlaytronOS](https://www.playtron.one), qui se présente comme une alternative à SteamOS complètement dé-Valvisée.
 
