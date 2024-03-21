@@ -132,20 +132,24 @@ kbd:has(kbd) {
 .Banner {
   list-style: none;
   display: flex;
-  flex-flow: row-reverse wrap-reverse;
-  justify-content: space-between;
+  justify-content: flex-start;
+  align-items: flex-end; /* Aligne les éléments en bas de la bannière */
   margin: 0;
   padding: 0;
 }
 
-{{ $len := len site.Menus.main }}
-{{ range seq $len }}
+.Banner-item--logo {
+  margin-right: 0.5rem;
+  margin-left: 0;
+  transform: scale(1);
+  display: flex;
+  align-items: center;
+}
 
-  .Banner-item:nth-child({{ . }}) {
-    order: {{ sub $len . | add 1 }};
-  }
-
-{{ end }}
+.Banner-item--logo img {
+  display: block;
+  margin: 0;
+}
 
 .Banner-item--title {
   flex-grow: 1;
@@ -159,7 +163,10 @@ kbd:has(kbd) {
   font-size: 1.25rem;
   color: white !important;
   padding: 0.5rem 1rem;
+  align-self: flex-end; /* Aligne les liens au bas de la bannière */
+   white-space: nowrap;
 }
+
 
 .Heading {
   display: flex;
