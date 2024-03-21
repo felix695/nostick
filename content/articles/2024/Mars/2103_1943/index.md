@@ -1,5 +1,5 @@
 +++
-title = "Cap’ et Black Panther vont tabasser des nazis dans 1943: Rise of Hydra"
+title = "Cap’ et Black Panther vont tabasser des nazis à Paris dans 1943: Rise of Hydra"
 date = 2024-03-21T08:29:12+00:00
 draft = false
 author = "Mickael"
