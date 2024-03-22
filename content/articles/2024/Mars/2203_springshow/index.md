@@ -1,5 +1,5 @@
 +++
-title = "Certains l’aiment Show"
+title = "Certains l’aiment Show(case)"
 date = 2024-03-22T18:47:32+01:00
 draft = false
 author = "Félix"
