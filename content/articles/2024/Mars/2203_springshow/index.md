@@ -6,9 +6,9 @@ author = "Félix"
 tags = ["Trailer"]
 +++
 
-Hier soir a eu lieu le « Spring Showcase » du Future Game Show, un évènement de 90 minutes pendant lequel ont été diffusés une flopée de trailers avec quelques annonces exclusives. Rien de particulièrement renversant, mais tout de même quelques bricoles intéressantes. Faisons le point (mais pas trop non plus, c’est vendredi).
+Hier soir a eu lieu le « Spring Showcase » du Future Game Show, un évènement de 90 minutes pendant lequel ont été diffusés une flopée de trailers avec plusieurs annonces exclusives. Rien de particulièrement renversant, mais tout de même quelques bricoles intéressantes. Faisons le point (mais pas trop non plus, c’est vendredi).
 
-Le jeu en stop motion *Harold Halibu* a désormais une date de sortie : ce sera pour le 16 avril. Si vous n’en avez jamais entendu parler, ce jeu narratif dispose d’une patte graphique vraiment chouette en pâte à modeler que vous pourrez admirer dans un nouveau trailer. Une démo est dispo [sur Steam](https://store.steampowered.com/app/924750/Harold_Halibut/) pour les curieux. Moins joli, mais pas moins intéressant, ce Spring Showcase a été l’occasion d’en savoir [un peu plus](https://www.youtube.com/watch?v=0vRStL7up8M&themeRefresh=1) sur *Tenebris Somnia*, un jeu d’horreur mélangeant graphismes 8 bits et FMV. Sortie prévue pour 2025.
+Le jeu en stop motion *Harold Halibu* a désormais une date de sortie : ce sera pour le 16 avril. Si vous n’en avez jamais entendu parler, ce jeu narratif dispose d’une patte graphique vraiment chouette en pâte à modeler que vous pouvez admirer dans un nouveau trailer. Une démo est dispo [sur Steam](https://store.steampowered.com/app/924750/Harold_Halibut/) pour les curieux. Moins joli, mais pas moins intéressant, ce Spring Showcase a été l’occasion d’en savoir [un peu plus](https://www.youtube.com/watch?v=0vRStL7up8M&themeRefresh=1) sur *Tenebris Somnia*, un jeu d’horreur mélangeant graphismes 8 bits et FMV. Sortie prévue pour 2025.
 
 
 {{< youtube 04p-5PLQ8RM>}} 
