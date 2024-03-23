@@ -4,12 +4,12 @@ title = "Les sorties de la semaine (24/03)"
 date = 2024-03-23T14:47:32+01:00
 draft = false
 author = "Félix"
-tags = ["Actualités"]
+tags = ["C'est dispo"]
 +++
 
 **Entre le boulot, les courses et le sèche-linge qui rend l’âme, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.**
 
-![Capture d’écran du jeu Alone in the Dark Remake](alone.jpg)
+![Capture d’écran du jeu Alone in the Dark Remake](alone.jpg " « Excusez moi, vous auriez pas vu passer un bon jeu ? »")
 
 ## Tout seul dans le noir : Reloaded
 
@@ -25,7 +25,7 @@ La « Complete Edition » d’***Horizon Forbidden West*** est désormais dispon
 
 Départ en catastrophe pour ***Dragon’s Dogma 2***, le nouveau RPG  de Capcom qui se fait actuellement *review-bomber* sévèrement par une horde de joueurs en colère. Le titre est sorti dans un état technique moyen-moyen, avec un seul emplacement de sauvegarde (en 2024, sérieux) en plus de différents plantages et autres chutes de FPS. Le jeu a surtout déçu par la présence de microtransactions permettant d’acquérir différents items très chers dans le jeu : on peut ainsi mettre la main à la poche pour modifier l’apparence de son perso ou obtenir un *fast travel* plus rapide. Payer pour tricher dans un jeu solo, bon. Malgré le mauvais accueil des clients et un désormais traditionnel [communiqué d’excuse](https://www.ign.com/articles/capcom-addresses-dragons-dogma-2-steam-backlash-we-sincerely-apologize-for-any-inconvenience), le jeu fait un carton avec plus de 180 000 joueurs en simultané lors du lancement. Les premiers tests sont positifs, alors pourquoi pas si vous êtes fans de RPG avec des dragons, des combats d’épées et tout le bordel. 65 € [sur Steam](https://store.steampowered.com/app/2054970/Dragons_Dogma_2/), 10 € de plus sur consoles.
 
-![Capture d’écran de Dragon’s Dogma 2](dragon.jpg)
+![Capture d’écran de Dragon’s Dogma 2](dragon.jpg "Un jeu au gameplay audacieux et à l'univers original.")
 
 ## La saison des pêches
 
