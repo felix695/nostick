@@ -9,7 +9,7 @@ tags = ["Actu"]
 
 L’actualité du jeu vidéo ne s’arrête pas aux articles certes sympathiques mais néanmoins sporadiques publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des grosses (ou insignifiantes, n’est-ce pas Square Enix) infos de la semaine.
 
-## Larian en a sa claque de Baldur’s Gate
+## Larian en a ras la casquette de Baldur’s Gate
 
 Il n’y aura ni expansion, ni DLC de *Baldur’s Gate 3*, ni même de *Baldur’s Gate 4* chez Larian. Le studio belge, qui a rencontré un énorme succès l’an dernier avec le troisième volet des aventures situées dans l’univers de *Donjons et Dragons*, a déclaré qu’il en avait sa claque de D&D.
 
