@@ -14,5 +14,7 @@ Jusqu'à 32 joueurs devront dévaler des niveaux dans ce qui ressemble à un clo
 
 Ce jeu Sonic, qui se destinera aux plateformes mobiles, devrait aussi comporter un gros volet freemium : on peut en effet voir dans la vidéo des personnages qui portent des chapeaux et des masques, d'ici à penser que l'on pourra acheter ces items dans une boutique intégrée, il n'y a qu'un tout petit pas. Sega pourrait également en profiter pour intégrer des héros d'autres franchises, comme *Persona* voire *Saint Seya*.
 
-La bande annonce remontant à l'été dernier, il n'est pas impossible que le jeu soit assez différent quand il sortira dans sa version finale (on espère un coup de polish sur les graphismes). *Sonic Toys Party* pourrait être livré dans le courant du mois de juin ou de juillet. Le précédent titre mobile à base de Sonic remonte à décembre dernier, avec le pas terrible *[Sonic Dream Team](https://apps.apple.com/us/app/sonic-dream-team/id1609094795?l=fr-FR)* pour Apple Arcade.
+La bande annonce remontant à l'été dernier, il n'est pas impossible que le jeu soit assez différent quand il sortira dans sa version finale. On espère un coup de polish sur les graphismes et un peu plus de caractère : le logo pique beaucoup à celui de *[Toys Story](https://fr.wikipedia.org/wiki/Toy_Story)*, et il y a même [un soupçon d'emprunt](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1bms4mr/someone_uncovered_the_recently_leaked_teaser_for/) à un dessin de fan !
+
+*Sonic Toys Party* pourrait être livré dans le courant du mois de juin ou de juillet. Le précédent titre mobile à base de Sonic remonte à décembre dernier, avec le pas terrible *[Sonic Dream Team](https://apps.apple.com/us/app/sonic-dream-team/id1609094795?l=fr-FR)* pour Apple Arcade.
 
