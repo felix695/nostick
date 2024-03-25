@@ -8,7 +8,7 @@ tags = ["Trailer"]
 
 {{< youtube NAEWbBM2Tfc >}} 
 
-Pauvre Sonic, mis à toutes les sauces y compris les plus improbables par Sega qui ne sait plus que faire de sa mascotte. Un trailer en [fuite](https://www.sonicstadium.org/news/games/trailer-further-details-for-sonic-toys-party-leaked-r2075/) sur les internets met en scène le hérisson speedé et ses nombreux amis dans un jeu inédit, *Sonic Toys Party*.
+Pauvre Sonic, mis à toutes les sauces y compris les plus improbables par Sega qui ne sait plus que faire de sa mascotte ! Un trailer en [fuite](https://www.sonicstadium.org/news/games/trailer-further-details-for-sonic-toys-party-leaked-r2075/) sur les internets met en scène le hérisson speedé et ses nombreux amis dans un jeu inédit, *Sonic Toys Party*.
 
 Jusqu'à 32 joueurs devront dévaler des niveaux dans ce qui ressemble à un clone de *Fall Guys* ; il y aussi des séquences où il faudra dégommer des vilains. Les joueurs pourront incarner Sonic évidemment, mais aussi Tails, Knuckles, Shadow, Amy, Eggman, Metal Sonic ou encore Rouge.
 
