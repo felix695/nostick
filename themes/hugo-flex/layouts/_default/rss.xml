@@ -18,13 +18,13 @@
     <copyright>{{ . }}</copyright>{{ end }}{{ with .Date | default nil }}
     <lastBuildDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</lastBuildDate>{{ end }}{{ with .OutputFormats.Get "RSS" }}
     {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}{{ range $pages }}
-    <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>{{ with .PublishDate | default nil }}
-      <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</pubDate>{{ end }}{{ with site.Params.author.email }}
-      <author>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</author>{{ end }}
-      <guid>{{ .Permalink }}</guid>
-      <description>{{ html .Content }}</description>
-    </item>{{ end }}
+<item>
+  <title>{{ .Title }}</title>
+  <link>{{ .Permalink }}</link>{{ with .PublishDate | default nil }}
+  <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</pubDate>{{ end }}{{ with .Params.author }}
+  <author>{{ . }}</author>{{ end }}
+  <guid>{{ .Permalink }}</guid>
+  <description>{{ html .Content }}</description>
+</item>{{ end }}
   </channel>
 </rss>

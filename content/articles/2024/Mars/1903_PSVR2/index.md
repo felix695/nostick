@@ -1,0 +1,17 @@
++++
+title = "PSVR2 : une production virtuelle"
+date = 2024-03-19T16:47:32+01:00
+draft = false
+author = "Félix"
+tags = ["Actu"]
++++
+
+![Le casque PSVR2 de Sony](psvr2.jpeg)
+
+Ce n’est visiblement pas la grande forme pour le PSVR2, le casque de réalité virtuelle de la PlayStation 5 lancé début 2023 au tarif de 600 €. L’accueil de la presse a été majoritairement positif, et Sony a [annoncé](https://www.sony.com/en/SonyInfo/IR/library/presen/business_segment_meeting/pdf/2023/GNS.pdf) en avoir écoulé 600 000 exemplaires dans les 6 premières semaines ayant suivi sa sortie. Malheureusement, les ventes ont apparemment du mal à suivre sur le long terme : *[Bloomberg](https://www.bloomberg.com/news/articles/2024-03-18/sony-hits-pause-on-psvr2-production-as-unsold-inventory-piles-up)* affirme aujourd’hui que la production a été mise en pause le temps d’écouler un surplus de stocks.
+
+Sony aurait fabriqué bien plus de 2 millions de casques depuis le lancement, et aurait peut-être été un peu trop ambitieux. Les sources de *Bloomberg* clament que de nombreux PSVR2 dorment le long des chaînes d’approvisionnements, cela alors que les ventes sont en baisse. Le fabricant expédierait de moins en moins de casques d’après le cabinet IDC, les chiffres étant tombés de quasiment 600 000 exemplaires au premier trimestre 2023 à « seulement » 325 000 à la fin de la même année. En comparaison, plus de 50 millions de PS5 [ont été vendues](https://sonyinteractive.com/en/press-releases/2023/playstation-5-50-million-sold/) depuis le lancement de la console tandis que Meta aurait expédié plus d’un million de casques au quatrième trimestre 2023. À Noël dernier, Amazon US vendait un PSVR2 pour 30 casques Quest selon *[UploadVR](https://www.roadtovr.com/quest-psvr-2-unit-sales-holiday-2023/)*.
+
+Si les informations de *Bloomberg* sont à prendre avec des pincettes (Sony avait [réfuté](https://www.gamesindustry.biz/sony-we-have-not-cut-ps-vr-2-production-numbers) une affirmation de l’agence de presse peu avant le lancement du casque), plusieurs raisons peuvent expliquer ce manque d’enthousiasme des joueurs. Malgré quelques sorties côté AAA en 2023 comme *Resident Evil 4 Remake*, le catalogue de jeu n’est pas particulièrement renversant. Il contient de nombreux titres VR disponibles depuis des années ailleurs ou de simples « modes VR » certes sexy, mais peut-être pas suffisant pour inciter à lâcher 600 balles. Les jeux PSVR 1 ne sont pas rétrocompatibles, laissant sur le carreau certains acharnés de la VR qui ont peut-être déjà eu leur dose… ou un autre casque moins cher.
+
+L’avenir n’est pas très rassurant pour ce produit. Il y a un mois, Sony a [annoncé](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/?sf271923331=1) la fermeture de son studio londonien s’occupant des jeux en VR. Un rapport d’*[Inverse](https://www.inverse.com/gaming/ps-vr-2-developers-issues-unity-resolution)* paru l’année dernière recensait plusieurs plaintes de développeurs expliquant avoir des difficultés à faire tourner leur titre sur le PSVR2. Sony envisagerait de rendre son casque compatible avec les PC pour relancer la machine, ce qui ne serait pas surprenant étant donné qu’elle y propose [de plus en plus](https://nostick.fr/articles/2024/mars/ghost/) de ses exclusivités. Une petite promo pourrait aussi inciter les pécéistes à mettre la main à la poche. Je dis ça, je dis rien.

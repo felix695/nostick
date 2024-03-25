@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Trailer"]
 +++
-{{< youtube EzWBNwhb870 >}}
+<br>{{< youtube EzWBNwhb870 >}}
 
 Une raison de moins d’acheter une PS5 : le très bien accueilli *Ghost of Tsushima* [arrivera](https://blog.fr.playstation.com/2024/03/06/ghost-of-tsushima-directors-cut-arrive-sur-pc-le-16-mai/) sur PC dans sa version Director’s Cut le 16 mai. Affichant un score de 83/100 sur Metacritic, ce jeu de samouraï en monde ouvert a marqué les esprits depuis sa sortie en 2020. Le portage inclut le jeu complet ainsi que l’extension Île d’Iki et le mode coop multijoueur en ligne Legends. Un trailer [a été mis en ligne](https://www.youtube.com/watch?v=EzWBNwhb870&t=22s) si vous voulez voir ce que ça donne
 

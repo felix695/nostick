@@ -1,30 +1,132 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/nostick/xml/base.min.xml" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nos rubriques on Nostick</title>
-    <link>http://localhost:1313/nostick/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Nos rubriques on Nostick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>lun., 11 mars 2024 10:47:32 +0100</lastBuildDate>
-    <atom:link rel="self" href="http://localhost:1313/nostick/tags/feed.xml" type="application/rss+xml" />
+    <lastBuildDate>ven., 15 mars 2024 13:22:32 +0100</lastBuildDate>
+    <atom:link rel="self" href="http://localhost:1313/tags/feed.xml" type="application/rss+xml" />
     <item>
-      <title>Princess Peach Showtime confirme qu&#39;il est temps de lancer la Switch 2</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/peach/</link>
-      <pubDate>lun., 11 mars 2024 10:47:32 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/peach/</guid>
-      <description>&lt;p&gt;Depuis sept ans qu&amp;rsquo;on l&amp;rsquo;a entre les mains, on n&amp;rsquo;y fait plus attention mais il est tout de même déprimant de subir toujours et encore des micro-ralentissements sur la Switch, y compris — et surtout — dans les jeux &lt;em&gt;first party&lt;/em&gt; de Nintendo. La démo de &lt;em&gt;Princess Peach Showtime&lt;/em&gt; en est plein, et pas nécessairement lorsque des tas de personnages sont à l&amp;rsquo;écran.&lt;/p&gt;
-&lt;p&gt;
+      <title>Pour que les jeux Pokémon des fans vivent heureux, ils doivent vivre cachés</title>
+      <link>http://localhost:1313/articles/2024/mars/1503_pokemonceasedesist/</link>
+      <pubDate>ven., 15 mars 2024 13:22:32 +0100</pubDate>
+      <guid>http://localhost:1313/articles/2024/mars/1503_pokemonceasedesist/</guid>
+      <description>&lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/peach/Peachepee.jpeg&#34; alt=&#34;Peach Épéiste&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Nintendo&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/1503_pokemonceasedesist/PokemonRadicalRed.jpg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Pokémon Radical Red&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
+&lt;p&gt;La Pokémon Company aime ses fans… mais gare à ceux qui se mettent en tête de créer leurs propres jeux Pokémon ! L&amp;rsquo;entreprise a le &lt;em&gt;cease and desist&lt;/em&gt; facile, mais comment fait-elle pour cibler les jeux à dégommer ?&lt;/p&gt;
+&lt;p&gt;Depuis plus de 25 ans, les Pokémon font partie de la vie de millions de joueurs qui finissent immanquablement par grandir et se sentir un peu à l&amp;rsquo;étroit avec les jeux de la Pokémon Company. L&amp;rsquo;entreprise vise d&amp;rsquo;abord et avant tout les plus jeunes, ce qui peut être frustrant pour les joueurs plus capés qui recherchent davantage de challenge.&lt;/p&gt;
+&lt;p&gt;Alors certes, il est toujours possible de tenter sa chance dans des tournois de Pokémon où ça ne rigole pas. Mais beaucoup aimeraient que les jeux vidéo soient un peu plus corsés et complexes, c&amp;rsquo;est ce qui explique la vivacité des jeux faits par des fans, qui ont le mérite de tester de nouvelles idées : &lt;em&gt;&lt;a href=&#34;https://www.pokeharbor.com/2022/01/pokemon-crystal-clear/&#34;&gt;Pokemon Crystal Clear&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href=&#34;https://p-insurgence.com&#34;&gt;Pokemon Insurgence&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href=&#34;https://www.pokecommunity.com/threads/pok%C3%A9mon-radical-red-version-4-0-released-gen-9-available.437688/&#34;&gt;Pokemon Radical Red&lt;/a&gt;&lt;/em&gt;…&lt;/p&gt;
+&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/1503_pokemonceasedesist/PokemonUranium.jpg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Pokémon Uranium&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;La Pokémon Company étant une entreprise à but lucratif, elle n&amp;rsquo;apprécie guère toutes ces initiatives qui représentent autant de manque à gagner. L&amp;rsquo;entreprise a le &lt;em&gt;cease &amp;amp; desist&lt;/em&gt; facile, une procédure légale très efficace pour faire pression sur une personne afin qu&amp;rsquo;elle cesse une activité jugée nuisible sous peine de poursuites judiciaires.&lt;/p&gt;
+&lt;p&gt;Et la Pokémon Company n&amp;rsquo;a pas beaucoup de travail à faire pour repérer les jeux des fans. Don McGowan, ancien directeur juridique de la société, a expliqué à &lt;em&gt;&lt;a href=&#34;https://aftermath.site/pokemon-lawyer-cease-desist-fan-project-pikachu-movie&#34;&gt;Aftermath&lt;/a&gt;&lt;/em&gt; qu&amp;rsquo;il lui suffisait de surveiller l&amp;rsquo;actualité. Autrement dit, il suffit qu&amp;rsquo;un jeu Pokémon fasse parler de lui sur le web pour attirer l&amp;rsquo;attention du groupe…&lt;/p&gt;
+&lt;p&gt;Mais ce critère n&amp;rsquo;est pas suffisant pour justifier l&amp;rsquo;envoi d&amp;rsquo;un courrier comminatoire : il faut aussi que le jeu en question cherche à gagner de l&amp;rsquo;argent. « &lt;em&gt;Vous attendez de voir s&amp;rsquo;ils obtiennent des financements (pour un Kickstarter ou similaire) ; s&amp;rsquo;ils sont financés, c&amp;rsquo;est à ce moment-là que vous intervenez&lt;/em&gt; », explique McGowan. Qui ajoute, histoire de sécher un peu les larmes des aficionados : « &lt;em&gt;Personne n&amp;rsquo;aime poursuivre les fans en justice&lt;/em&gt; »…&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Saber s&#39;évade de la prison Embracer</title>
+      <link>http://localhost:1313/articles/2024/mars/1403_saberinteractive/</link>
+      <pubDate>jeu., 14 mars 2024 16:47:32 +0100</pubDate>
+      <guid>http://localhost:1313/articles/2024/mars/1403_saberinteractive/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/1403_saberinteractive/SaberInteractive.jpg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Les salariés de Saber s&amp;#39;échappant des geôles d&amp;#39;Embracer. © Saber&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;Les bonnes nouvelles ne sont pas si nombreuses actuellement dans l&amp;rsquo;industrie du jeu vidéo, alors autant se réjouir de celles qui tombent. Saber Interactive, qui donne aussi bien dans les productions originales (&lt;em&gt;World War Z&lt;/em&gt;, &lt;em&gt;Metro&lt;/em&gt;) que dans les remasters (&lt;em&gt;Crysis&lt;/em&gt;) et les coups de main (à 343 Industries pour &lt;em&gt;Halo&lt;/em&gt;, notamment), a racheté son indépendance !&lt;/p&gt;
+&lt;p&gt;Saber a fait partie de la vague — ou plutôt de la boulimie — d&amp;rsquo;acquisitions du groupe Embracer, en 2020, qui a signé un chèque d&amp;rsquo;un demi-milliard de dollars pour remporter la timbale. Parti fleur au fusil avec une ambition monstre, Embracer s&amp;rsquo;est violemment ramassé la tronche sur le gravier de la dure réalité deux ans plus tard, après qu&amp;rsquo;un fonds d&amp;rsquo;investissement saoudien a soudainement coupé les vivres. En juin 2023, Embracer &lt;a href=&#34;https://www.gamesindustry.biz/embracer-announces-restructuring-program-studio-closures-expected&#34;&gt;annonçait&lt;/a&gt; un plan de restructuration.&lt;/p&gt;
+&lt;p&gt;Ce sont les employés des nombreux studios (plus de 130 !) rachetés par Embracer qui ont salement trinqué, avec près de 1 400 licenciements et des fermetures : Volition Games, les développeurs de la franchise &lt;em&gt;Saints Row&lt;/em&gt; et Campfire Cabal (les jeux &lt;em&gt;Expeditions&lt;/em&gt;) ont mis la clé sous la porte. D&amp;rsquo;autres studios ont plus de chance, ils ont pu s&amp;rsquo;extirper de la nasse : ça devrait être le cas de Gearbox Entertainment à qui l&amp;rsquo;on doit &lt;em&gt;Bordelands&lt;/em&gt;, et donc de Saber Interactive dans une opération &lt;a href=&#34;https://embracer.com/releases/embracer-group-ceases-all-operations-in-russia-through-the-divestment-of-selected-assets-from-the-operative-group-saber-interactive/&#34;&gt;confirmée&lt;/a&gt; aujourd&amp;rsquo;hui.&lt;/p&gt;
+&lt;p&gt;Dans le détail, la transaction a été menée par Beacon Interactive, une structure détenue par Matthew Karch, cofondateur de l&amp;rsquo;entreprise, qui a mis 247 millions de dollars sur la table. Elle va conserver plusieurs studios qui travaillaient déjà sous sa bannière, dont 3D Realms et Nimble Giant (&lt;em&gt;Star Trek: Infinite&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Beacon Interactive a aussi fait une &lt;a href=&#34;https://twitter.com/jasonschreier/status/1768212177888948349&#34;&gt;proposition&lt;/a&gt; pour reprendre 4A Games (&lt;em&gt;Metro&lt;/em&gt;) ou encore Zen Studios (spécialiste des flippers), ce qui fera gonfler la facture finale autour des 500 millions de dollars. Point important : Saber repart avec sa propriété intellectuelle sous le bras. La bonne nouvelle, c&amp;rsquo;est que le remake de &lt;em&gt;Star Wars: KOTOR&lt;/em&gt; est toujours dans les tuyaux.&lt;/p&gt;
+&lt;p&gt;Dans cette vente par appartement, Embracer arrache d&amp;rsquo;anciens studios Saber, comme Aspyr qui sort tout juste des remasters de &lt;em&gt;Tomb Raider&lt;/em&gt; et de &lt;em&gt;Star Wars: Battlefront Classic&lt;/em&gt;, Tripwire ou encore Demiurge (&lt;em&gt;Sega Heroes&lt;/em&gt;). En tout, Beacon comptera 2 950 salariés, Embracer en conservera 800 sur un total d&amp;rsquo;un peu plus de 14 000.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Le « super jeu » de Sega sera-t-il vraiment un jeu super ?</title>
+      <link>http://localhost:1313/articles/2024/mars/1303_sonic_super_game/</link>
+      <pubDate>mer., 13 mars 2024 15:23:32 +0100</pubDate>
+      <guid>http://localhost:1313/articles/2024/mars/1303_sonic_super_game/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/1303_sonic_super_game/Sonic_AngryBirds.jpg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Sonic s&amp;#39;est fait quelques shitty friends en plus depuis l&amp;#39;acquisition par Sega de Rovio (Angry Birds).&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;Depuis trois ans, Sega prépare dans le plus grand secret un « super jeu » bien mystérieux. Les détails sont extrêmement maigres, l&amp;rsquo;éditeur se contentant de relancer la machine aux rumeurs de temps en temps, histoire que le « super game » reste dans un coin de tête des joueurs. Mais bon sang de bois, de quoi s&amp;rsquo;agit-il à la fin ?&lt;/p&gt;
+&lt;p&gt;Ce projet annoncé en mai 2021 englobera « &lt;em&gt;plusieurs titres AAA qui croisent l&amp;rsquo;ensemble des technologies de Sega&lt;/em&gt; », décrivait à l&amp;rsquo;époque le co-CEO du groupe Shuji Utsumi. Le « super jeu » va « &lt;em&gt;au-delà du cadre traditionnel des jeux&lt;/em&gt; », ajoutait-il en tirant sur sa moustache malicieuse. En novembre dernier, nouvelle carte postale à l&amp;rsquo;occasion de la &lt;a href=&#34;https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/en/ir/ir_2023_web_all_e.pdf&#34;&gt;présentation&lt;/a&gt; des résultats annuels de Sega, avec une fenêtre de tir : le projet verra le jour d&amp;rsquo;ici la fin de l&amp;rsquo;exercice fiscal 2025/2026 (qui s&amp;rsquo;achève en mars 2026).&lt;/p&gt;
+&lt;p&gt;Shuji Utsumi en a aussi rajouté dans les superlatifs : le « super game » englobe un concept qui « &lt;em&gt;surpasse largement les jeux normaux&lt;/em&gt; ». Manifestement, on ne parle pas d&amp;rsquo;un énième épisode de Sonic ni des jeux rétro qui, de &lt;em&gt;Crazy Taxi&lt;/em&gt; à &lt;em&gt;Jet Set Radio&lt;/em&gt;, vont avoir droit à des remakes. Le budget consacré par l&amp;rsquo;éditeur au développement de ce projet — 100 milliards de yens, environ 620 millions d&amp;rsquo;euros ! — dépasse effectivement ce cadre.&lt;/p&gt;
+&lt;p&gt;Mais alors, quoi ? Si on ne peut pas mettre de côté un jeu service (sous la forme d&amp;rsquo;un MMO ?) ou un énième clone de Smash avec les mascottes de Sega, la description parcellaire qui est faite de ce « super jeu » évoque les hubs dont les grosses sagas vidéoludiques s&amp;rsquo;entichent en ce moment, à l&amp;rsquo;image de &lt;em&gt;Call of Duty HQ&lt;/em&gt; ou encore le futur &lt;em&gt;Assassin&amp;rsquo;s Creed Infinity&lt;/em&gt;. Ces portails ne sont pas des jeux à proprement parler, mais des lanceurs gamifiés conçus pour amplifier l&amp;rsquo;engagement des fans (et leur faire un peu plus les poches au passage).&lt;/p&gt;
+&lt;p&gt;Au vu des sommes en jeu, ce projet va peser lourd dans l&amp;rsquo;avenir de Sega qui n&amp;rsquo;a donc pas intérêt à se planter.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>System Shock va se défouler sur les consoles</title>
+      <link>http://localhost:1313/articles/2024/mars/1203_systemshock/</link>
+      <pubDate>mar., 12 mars 2024 21:00:32 +0100</pubDate>
+      <guid>http://localhost:1313/articles/2024/mars/1203_systemshock/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/1203_systemshock/SystemShock.jpg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Bah alors on te voit plus aux soirées ? © Nightdive&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;Le remake de &lt;em&gt;System Shock&lt;/em&gt; n&amp;rsquo;a pas eu de bol. Lancé sur PC en mai dernier, le titre développé par le studio Nightdive et édité par Prime Matter est sorti durant une période très chargée&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; d&amp;rsquo;une année historique pour les jeux vidéo. Malgré sa grande classe, le FPS n&amp;rsquo;a pas vraiment su trouver sa place.&lt;/p&gt;
+&lt;p&gt;Le jeu se donne une deuxième chance avec la version pour consoles (PS4, PS5, Xbox One et Series X/S) qui sera disponible le &lt;a href=&#34;https://presse.plaion.com/ALL-SYSTEMS-ACTIVE&#34;&gt;21 mai&lt;/a&gt;. Évidemment, par rapport à l&amp;rsquo;original de 1994, tout a été revu du sol au plafond, à commencer par des graphismes modernisés bien sûr.&lt;/p&gt;
+&lt;p&gt;La version pour consoles apportera la 4K à 60 i/s sur les consoles de la génération actuelle, une nouvelle fin suite à la confrontation avec le vilain Shodan, une héroïne en plus du héros, et des contrôles revus et améliorés. Le jeu PC coûte une quarantaine de dollars, alors on croise les doigts pour que ce soit l&amp;rsquo;équivalent sur les consoles.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/NIWGfdzvDc4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ce remake de &lt;em&gt;System Shock&lt;/em&gt; revisite un classique du jeu de tir un peu oublié, mais qui a marqué des générations entières de FPS par la suite avec ses petits bouts de RPG et son histoire immersive. Les consoleux ne voudront pas rater ça !&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Entre mai et juin 2023, les joueurs ont eu droit à &lt;em&gt;Hogwarts Legacy&lt;/em&gt;, &lt;em&gt;Tears of the Kingdom&lt;/em&gt;, &lt;em&gt;Street Fighter 6&lt;/em&gt;, &lt;em&gt;Diablo IV&lt;/em&gt;, &lt;em&gt;Final Fantasy XVI&lt;/em&gt;, et &lt;em&gt;Gollum&lt;/em&gt; (non je rigole).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    <item>
+      <title>Sea of Thieves à l&#39;abordage de la PS5</title>
+      <link>http://localhost:1313/articles/2024/mars/seaofthieves/</link>
+      <pubDate>lun., 11 mars 2024 21:30:32 +0100</pubDate>
+      <guid>http://localhost:1313/articles/2024/mars/seaofthieves/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/seaofthieves/SeaOfThieves.jpg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Arrrr Sea of Thieves&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;Et si Xbox avait finalement eu raison de porter plusieurs de ses exclusivités sur PS5 ? &lt;em&gt;Sea of Thieves&lt;/em&gt;, qui fait partie des quatre jeux Xbox (avec &lt;em&gt;Hi-Fi Rush&lt;/em&gt;, &lt;em&gt;Pentiment&lt;/em&gt; et &lt;em&gt;Grounded&lt;/em&gt;) à voguer vers de nouvelles plateformes, &lt;a href=&#34;https://www.trueachievements.com/news/sea-of-thieves-best-selling-playstation-preorders&#34;&gt;fait&lt;/a&gt; actuellement un carton sur les consoles de Sony… alors qu&amp;rsquo;il ne sortira que le 30 avril !&lt;/p&gt;
+&lt;p&gt;Les précommandes du jeu de pirates atteignent en effet des sommets aux États-Unis comme au Royaume-Uni : l&amp;rsquo;édition Premium à 60 $ est tout simplement en tête des classements, devant des gros titres comme &lt;em&gt;Dragon&amp;rsquo;s Dogma 2&lt;/em&gt; ou &lt;em&gt;Rise of the Ronin&lt;/em&gt;. L&amp;rsquo;édition standard à 40 $ parvient même à se glisser dans le top 5 dans les deux pays.&lt;/p&gt;
+&lt;p&gt;Autant dire que c&amp;rsquo;est déjà une réussite pour le studio Rare, et aussi pour Microsoft qui cherche à apprendre de ces portages de jeux Xbox, déjà bien amortis sur leur plateforme de référence. C&amp;rsquo;est aussi une surprise, sachant que &lt;em&gt;Sea of Thieves&lt;/em&gt; remonte tout de même à 2018 ! Mais le jeu a muté depuis son lancement difficile, au fil des mises à jour de contenu et à son côté multijoueur.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Princess Peach Showtime confirme qu&#39;il est temps de lancer la Switch 2</title>
+      <link>http://localhost:1313/articles/2024/mars/peach/</link>
+      <pubDate>lun., 11 mars 2024 10:47:32 +0100</pubDate>
+      <guid>http://localhost:1313/articles/2024/mars/peach/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/peach/Peachepee.jpeg&#34; alt=&#34;Peach Épéiste&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Nintendo&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;Depuis sept ans qu&amp;rsquo;on l&amp;rsquo;a entre les mains, on n&amp;rsquo;y fait plus attention mais il est tout de même déprimant de subir toujours et encore des micro-ralentissements sur la Switch, y compris — et surtout — dans les jeux &lt;em&gt;first party&lt;/em&gt; de Nintendo. La démo de &lt;em&gt;Princess Peach Showtime&lt;/em&gt; en est plein, et pas nécessairement lorsque des tas de personnages sont à l&amp;rsquo;écran.&lt;/p&gt;
 &lt;p&gt;Ces ralentissements sont visibles lors de certains passages scriptés, par exemple lors de la transformation de la princesse ou quand le jeu laisse la main au joueur. La cible visée par &lt;em&gt;Showtime&lt;/em&gt; (les plus jeunes) n&amp;rsquo;y verra sans doute que du feu, mais il est tout de même malheureux que Nintendo et le studio Good-Feel qui a développé le titre n&amp;rsquo;aient pas su régler le problème avant la sortie du jeu. Certes, d&amp;rsquo;ici sa sortie le 22 mars, il est toujours possible qu&amp;rsquo;une mise à jour de dernière minute vienne régler le problème, mais le doute est permis.&lt;/p&gt;
 &lt;p&gt;Ces ralentissements sont malheureusement chroniques dans de nombreux jeux édités par Nintendo et par d&amp;rsquo;autres studios. La Switch 2 fera-t-elle mieux dans ce domaine ? On ne peut que l&amp;rsquo;espérer, en tout cas ce &lt;em&gt;Princess Peach Showtime&lt;/em&gt; montre s&amp;rsquo;il en était encore besoin qu&amp;rsquo;il est grand temps pour le constructeur de passer à une console plus puissante.&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/peach/peachpatisserie.jpeg&#34; alt=&#34;Peach Pâtisserie&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Nintendo&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/peach/peachpatisserie.jpeg&#34; alt=&#34;Peach Pâtisserie&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Nintendo&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;Quant au jeu en lui-même, il s&amp;rsquo;annonce comme une collection de mini-jeux dans lesquels la princesse Peach va jouer de l&amp;rsquo;épée, du rouleau à pâtisserie ou de la loupe de détective, chacune des transformations amenant son propre gameplay. Par conséquent, on en aimera davantage un plutôt que l&amp;rsquo;autre ; le niveau « Peach Pâtisserie » ressemble à un jeu mobile mal fichu pour ce qui me concerne, mais je ne suis plus dans la cible !&lt;/p&gt;
@@ -32,33 +134,38 @@
     </item>
     <item>
       <title>Warner Bros a tout pour devenir la pire boîte au monde</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/warnerbros/</link>
+      <link>http://localhost:1313/articles/2024/mars/warnerbros/</link>
       <pubDate>dim., 10 mars 2024 19:47:32 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/warnerbros/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;La forme finale de Warner Bros Discovery est en phase d&amp;rsquo;approche : le géant du divertissement veut chiper la place d&amp;rsquo;Electronic Arts et d&amp;rsquo;Activision au classement des entreprises les plus détestées au monde ! Et il faut bien avouer que si c&amp;rsquo;est son objectif, alors le chemin lui est largement ouvert.&lt;/strong&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/articles/2024/mars/warnerbros/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/warnerbros/warnerbros.jpg&#34; alt=&#34;WB&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;© Chase Yi (Unsplash)&lt;/figcaption&gt; &lt;/figure&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La forme finale de Warner Bros Discovery est en phase d&amp;rsquo;approche : le géant du divertissement veut chiper la place d&amp;rsquo;Electronic Arts et d&amp;rsquo;Activision au classement des entreprises les plus détestées au monde ! Et il faut bien avouer que si c&amp;rsquo;est son objectif, alors le chemin lui est largement ouvert.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sur un coup de tête (probablement fiscal), le groupe a ainsi décidé de retirer de nombreux jeux de Steam et du PlayStation Store. Ces titres, parmi lesquels &lt;em&gt;Rick and Morty: Virtual Rick-ality&lt;/em&gt;, &lt;em&gt;Fist Puncher&lt;/em&gt;, &lt;em&gt;Soundodger+&lt;/em&gt;, &lt;em&gt;Headlander&lt;/em&gt; ou encore &lt;em&gt;Duck Game&lt;/em&gt;, sont édités par le studio Adult Swim — propriété de WB Discovery — et développés par des indépendants. Ce sont plus de 18 jeux qui vont disparaitre corps et biens dans les 60 prochains jours, a &lt;a href=&#34;https://steamcommunity.com/app/238630/discussions/0/4286935452896532419&#34;&gt;confirmé&lt;/a&gt; Matt Kain, un des développeurs de &lt;em&gt;Fist Puncher&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/warnerbros/rickmorty.jpeg&#34; alt=&#34;Le jeu Rick et Morty&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Rick and Morty: Virtual Rick-ality.&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/warnerbros/rickmorty.jpeg&#34; alt=&#34;Le jeu Rick et Morty&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Rick and Morty: Virtual Rick-ality.&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;entreprise a décidé qu&amp;rsquo;il n&amp;rsquo;était pas question de transférer le jeu vers le compte Steam du développeur. Studio Bean, créateur de &lt;em&gt;Soundoger+&lt;/em&gt;, a &lt;a href=&#34;https://twitter.com/onemrbean/status/1765826777501372521&#34;&gt;confirmé&lt;/a&gt; la mauvaise nouvelle et la mauvaise volonté de WB Games qui apparemment, refuse de lancer la procédure de transfert par manque de ressources. Une procédure qui prend 3 clics et 2 minutes.&lt;/p&gt;
 &lt;p&gt;Il y a néanmoins un peu d&amp;rsquo;espoir pour ces développeurs : Studio Bean devrait finalement être en mesure de publier son jeu par ses propres moyens sur Steam, au prix du retrait de toutes références à Adult Swim (et le jeu repartira de zéro sur la boutique, perdant ainsi tout son historique). Bizarre, mais c&amp;rsquo;est un moindre mal non seulement pour les joueurs, mais aussi pour la préservation des jeux.&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/warnerbros/FistPuncher.jpeg&#34; alt=&#34;Fist Puncher&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Fist Puncher.&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/warnerbros/FistPuncher.jpeg&#34; alt=&#34;Fist Puncher&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Fist Puncher.&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;WB Discovery est coutumier du fait : le groupe a en effet annulé la sortie de plusieurs films quasiment terminés, dont &lt;em&gt;Batgirl&lt;/em&gt; et &lt;em&gt;Coyote vs. Acme&lt;/em&gt;, et retiré des séries sur des plateformes de streaming, a priori pour de bêtes histoires d&amp;rsquo;impôts.&lt;/p&gt;
 &lt;h2 id=&#34;tout-pour-le-jeu-service&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/nostick/nostick/articles/2024/mars/warnerbros/#tout-pour-le-jeu-service&#34;&gt;Tout pour le jeu service&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/articles/2024/mars/warnerbros/#tout-pour-le-jeu-service&#34;&gt;Tout pour le jeu service&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Toujours au rayon du jeu vidéo, WB Discovery a récemment martelé sa volonté d&amp;rsquo;« ajuster » sa stratégie vers les jeux mobiles et le jeu service. « &lt;em&gt;Nous renforçons notre engagement dans le domaine des jeux&lt;/em&gt; », a &lt;a href=&#34;https://www.gamespot.com/articles/warner-bros-discusses-volatile-aaa-console-games-will-lean-into-free-to-play-and-mobile/1100-6521597/&#34;&gt;affirmé&lt;/a&gt; J.B. Perrette le patron chargé du jeu vidéo au sein de la société pendant une conférence Morgan Stanley (un moment parfait pour s&amp;rsquo;adresser aux &lt;del&gt;actionnaires&lt;/del&gt; fans de jeux vidéo…).&lt;/p&gt;
 &lt;p&gt;« &lt;em&gt;[C&amp;rsquo;est] un secteur où il existe encore de nombreuses opportunités de croissance que nous pouvons exploiter grâce à la propriété intellectuelle que nous possédons et aux capacités de notre studio. Nous occupons une position unique, à la fois en tant qu&amp;rsquo;éditeur et développeur de jeux&lt;/em&gt; », poursuit-il. Mais pas question de tenter de refaire le carton planétaire de &lt;em&gt;Hogwarts Legacy&lt;/em&gt; et ses 22 millions de copies l&amp;rsquo;an dernier.&lt;/p&gt;
 &lt;p&gt;WB Discovery n&amp;rsquo;est pas sûr de se refaire la cerise avec ces aventures solo AAA jugées trop « &lt;em&gt;volatiles&lt;/em&gt; ». C&amp;rsquo;est pourquoi l&amp;rsquo;entreprise double la mise sur le marché mobile et du free to play, qui permet de multiplier à peu de frais (pour l&amp;rsquo;éditeur, du moins) toutes sortes de microtransactions. Et on a bien vu à quel point ça avait bien fonctionné avec &lt;em&gt;Suicide Squad: Kill the Justice League&lt;/em&gt;, non ? Hum…&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/warnerbros/multiversus.jpeg&#34; alt=&#34;Fist Puncher&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Multiversus est un des jeux service de WB Games qui a été plutôt bien accueilli avec son gameplay copié/collé de Smash.&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/warnerbros/multiversus.jpeg&#34; alt=&#34;Fist Puncher&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Multiversus est un des jeux service de WB Games qui a été plutôt bien accueilli avec son gameplay copié/collé de Smash.&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;« &lt;em&gt;Plutôt que de simplement lancer un jeu sur console à usage unique, posons nous la question de savoir comment développer le jeu autour, par exemple, un Hogwarts Legacy ou un Harry Potter, qui soit un service en ligne où les gens peuvent vivre, travailler, construire et jouer dans cet univers de manière continue&lt;/em&gt; » a décrit le dirigeant.&lt;/p&gt;
@@ -67,15 +174,15 @@
     </item>
     <item>
       <title>Les sorties de la semaine (09/03)</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/sorties0903/</link>
+      <link>http://localhost:1313/articles/2024/mars/sorties0903/</link>
       <pubDate>sam., 09 mars 2024 10:47:32 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/sorties0903/</guid>
+      <guid>http://localhost:1313/articles/2024/mars/sorties0903/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Entre le boulot, les courses et le contrôle technique de la Dacia, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;La Switch garde la pêche&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Le prochain gros jeu Nintendo sera &lt;em&gt;&lt;strong&gt;Princess Peach: Showtime!&lt;/strong&gt;&lt;/em&gt;, dont la sortie est prévue pour le 22 mars. Une démo a été &lt;a href=&#34;https://www.nintendo.fr/Jeux/Jeux-Nintendo-Switch/Princess-Peach-Showtime--2444445.html&#34;&gt;mise en ligne&lt;/a&gt; sur la boutique de l’éditeur, révélant un jeu de plateforme en 2.5D avec quelques puzzles où chaque costume déniché change le gameplay. Le titre a visiblement été développé par le studio &lt;a href=&#34;https://fr.wikipedia.org/wiki/Good-Feel&#34;&gt;Good-Feel&lt;/a&gt; (&lt;em&gt;Yoshi&amp;rsquo;s Crafted World&lt;/em&gt;), et les premiers retours sur Reddit annoncent un jeu sympa, mignon, mais peut être un poil trop facile. Ça tombe bien qu’il y ait une démo, donc.&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/sorties0903/peach.jpg&#34; alt=&#34;Le jeu Princess Peach: Showtime!&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Nintendo&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/sorties0903/peach.jpg&#34; alt=&#34;Le jeu Princess Peach: Showtime!&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Nintendo&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Les fonds de tiroir d’EA sur Steam&lt;/strong&gt;&lt;/p&gt;
@@ -93,48 +200,43 @@
     </item>
     <item>
       <title>Heading Out en bonne route pour le 7 mai</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/headingout/</link>
+      <link>http://localhost:1313/articles/2024/mars/headingout/</link>
       <pubDate>ven., 08 mars 2024 10:47:32 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/headingout/</guid>
-      <description>&lt;p&gt;L’intriguant jeu de bagnole narratif &lt;em&gt;Heading Out&lt;/em&gt; s’est récemment payé un trailer annonçant sa date de sortie. Le concept est alléchant étant donné qu’il s’agira d’effectuer un road trip musclé vers l’Ouest dans un univers en noir et blanc très stylisé. On nous promet une histoire prenante remplie de courses poursuites où les choix auront des conséquences, modifiant les personnages rencontrés ou encore ce que racontent les animateurs radio. Habituellement je ne suis pas du tout branché jeux de course, mais force est d’admette que la patte graphique et la BO très américano-américaine sont sexy. Sortie le 7 mai prochain sur &lt;a href=&#34;https://store.steampowered.com/app/1640630/Heading_Out/&#34;&gt;Steam&lt;/a&gt;.&lt;/p&gt;
-
+      <guid>http://localhost:1313/articles/2024/mars/headingout/</guid>
+      <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/vk8wt77SsmM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;p&gt;L’intriguant jeu de bagnole narratif &lt;em&gt;Heading Out&lt;/em&gt; s’est récemment payé un trailer annonçant sa date de sortie. Le concept est alléchant étant donné qu’il s’agira d’effectuer un road trip musclé vers l’Ouest dans un univers en noir et blanc très stylisé. On nous promet une histoire prenante remplie de courses poursuites où les choix auront des conséquences, modifiant les personnages rencontrés ou encore ce que racontent les animateurs radio. Habituellement je ne suis pas du tout branché jeux de course, mais force est d’admette que la patte graphique et la BO très américano-américaine sont sexy. Sortie le 7 mai prochain sur &lt;a href=&#34;https://store.steampowered.com/app/1640630/Heading_Out/&#34;&gt;Steam&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Sony ne Ghost plus les joueurs PC</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/ghost/</link>
+      <link>http://localhost:1313/articles/2024/mars/ghost/</link>
       <pubDate>mer., 06 mars 2024 19:47:32 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/ghost/</guid>
-      <description>&lt;p&gt;Une raison de moins d’acheter une PS5 : le très bien accueilli &lt;em&gt;Ghost of Tsushima&lt;/em&gt; &lt;a href=&#34;https://blog.fr.playstation.com/2024/03/06/ghost-of-tsushima-directors-cut-arrive-sur-pc-le-16-mai/&#34;&gt;arrivera&lt;/a&gt; sur PC dans sa version Director’s Cut le 16 mai. Affichant un score de 83/100 sur Metacritic, ce jeu de samouraï en monde ouvert a marqué les esprits depuis sa sortie en 2020. Le portage inclut le jeu complet ainsi que l’extension Île d’Iki et le mode coop multijoueur en ligne Legends. Un trailer &lt;a href=&#34;https://www.youtube.com/watch?v=EzWBNwhb870&amp;t=22s&#34;&gt;a été mis en ligne&lt;/a&gt; si vous voulez voir ce que ça donne&lt;/p&gt;
-&lt;p&gt;
+      <guid>http://localhost:1313/articles/2024/mars/ghost/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/EzWBNwhb870&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/ghost/ghostoftsushima.jpeg&#34; alt=&#34;Un screen de la version PC de Ghost of Tsushima.&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Image : Sony&lt;/figcaption&gt; &lt;/figure&gt; 
-
-&lt;/p&gt;
+&lt;p&gt;Une raison de moins d’acheter une PS5 : le très bien accueilli &lt;em&gt;Ghost of Tsushima&lt;/em&gt; &lt;a href=&#34;https://blog.fr.playstation.com/2024/03/06/ghost-of-tsushima-directors-cut-arrive-sur-pc-le-16-mai/&#34;&gt;arrivera&lt;/a&gt; sur PC dans sa version Director’s Cut le 16 mai. Affichant un score de 83/100 sur Metacritic, ce jeu de samouraï en monde ouvert a marqué les esprits depuis sa sortie en 2020. Le portage inclut le jeu complet ainsi que l’extension Île d’Iki et le mode coop multijoueur en ligne Legends. Un trailer &lt;a href=&#34;https://www.youtube.com/watch?v=EzWBNwhb870&amp;t=22s&#34;&gt;a été mis en ligne&lt;/a&gt; si vous voulez voir ce que ça donne&lt;/p&gt;
 &lt;p&gt;Cette nouvelle version est signée Nixxes, un studio racheté par Sony en 2021 à qui l’on doit de sympathiques portages de jeux PS5 récents (&lt;em&gt;Ratchet &amp;amp; Clank: Rift Apart, Horizon Forbidden West, les derniers Spider-Man&lt;/em&gt;…). On nous promet « &lt;em&gt;de multiples paramètres et préréglages graphiques&lt;/em&gt; » en plus d’une fréquence d’image débridée. La prise en charge du combo clavier/souris est au programme, tout comme celle des technologies DLSS 3, FSR 3 et XeSS (à vos souhaits). Le titre a été optimisé pour les résolutions 21:9 / 32:9, et est même compatible avec les écrans 48:9 de nos gros bourgeois de lecteurs ayant chez eux une configuration triple écrans.&lt;/p&gt;
 &lt;p&gt;Cette version Director’s Cut inclut le doublage japonais, les commentaires des développeurs ainsi que le mode Kurosawa en noir et blanc. La fiche du jeu est d’ores et déjà en ligne sur &lt;a href=&#34;https://store.steampowered.com/agecheck/app/2215430/&#34;&gt;Steam&lt;/a&gt; et sur l’&lt;a href=&#34;https://store.epicgames.com/fr/p/ghost-of-tsushima&#34;&gt;Epic Game Store&lt;/a&gt;, où il est possible de passer une précommande pour 60 €. Les joueurs qui sautent le pas avant la sortie auront le droit à une poignée de soins et à une monture exclusive en New Game+.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Passion acheter des shmups et ne pas y jouer</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/schmup/</link>
+      <title>Passion : acheter des shmups pour ne pas y jouer</title>
+      <link>http://localhost:1313/articles/2024/mars/schmup/</link>
       <pubDate>lun., 04 mars 2024 08:45:05 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/schmup/</guid>
-      <description>&lt;p&gt;Les shoot&amp;rsquo;em up parlent directement au cerveau reptilien. Difficile en effet de faire plus simple et plus efficace qu&amp;rsquo;un bon vieux shmup ! Certes, depuis ses débuts primitifs en 1978 avec &lt;em&gt;Space Invaders&lt;/em&gt;, le genre s&amp;rsquo;est considérablement élargi, affiné, raffiné même, et tout simplement anobli. Mais au bout du compte, c&amp;rsquo;est toujours un vaisseau ou un bidule à diriger au milieu d&amp;rsquo;un tsunami de projectiles et d&amp;rsquo;ennemis.&lt;/p&gt;
-&lt;p&gt;
- 
-&lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/schmup/schmup.jpeg&#34; alt=&#34;IUn jeu de schmup&#34;&gt; 
+      <guid>http://localhost:1313/articles/2024/mars/schmup/</guid>
+      <description>&lt;p&gt;
+
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/schmup/schmup.jpeg&#34; alt=&#34;Texte Alternative&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;L&amp;#39;incroyable Prehistoric Isle 2 où on dégomme des dinos.&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
-&lt;p&gt;
- 
-&lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/schmup//nostick/&#34; alt=&#34;&#34;&gt; 
-
-&lt;/p&gt;
+&lt;p&gt;Les shoot&amp;rsquo;em up parlent directement au cerveau reptilien. Difficile en effet de faire plus simple et plus efficace qu&amp;rsquo;un bon vieux shmup ! Certes, depuis ses débuts primitifs en 1978 avec &lt;em&gt;Space Invaders&lt;/em&gt;, le genre s&amp;rsquo;est considérablement élargi, affiné, raffiné même, et tout simplement anobli. Mais au bout du compte, c&amp;rsquo;est toujours un vaisseau ou un bidule à diriger au milieu d&amp;rsquo;un tsunami de projectiles et d&amp;rsquo;ennemis.&lt;/p&gt;
 &lt;p&gt;Et c&amp;rsquo;est certainement la catégorie de jeux le mieux représenté sur mes machines à jouer, avec un net penchant pour les shmups des années 90 — le sublimement idiot &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Prehistoric_Isle_2&#34;&gt;Prehistoric Isle 2&lt;/a&gt;&lt;/em&gt; est un chouchou — et évidemment, les bullet hell de Cave (&lt;em&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/DoDonPachi_DaiFukkatsu&#34;&gt;DoDonPachi DaiFukkatsu&lt;/a&gt;&lt;/em&gt;, chef d&amp;rsquo;œuvre évidemment).&lt;/p&gt;
 &lt;p&gt;Sous leur apparence simple, les shoot&amp;rsquo;em up cachent des trésors de sophistication, certains plus que d&amp;rsquo;autres évidemment, qui demandent de s&amp;rsquo;y atteler sérieusement pour pouvoir en tirer tout le suc. Bref, quand on lance un &lt;em&gt;Radiant Silvergun&lt;/em&gt; ou &lt;em&gt;Gleylancer&lt;/em&gt;, ce n&amp;rsquo;est pas pour tuer le temps entre deux épisodes de Netflix !&lt;/p&gt;
 &lt;p&gt;Est-ce pour autant une raison de &lt;em&gt;tous&lt;/em&gt; les acheter ? Évidemment non. Et pourtant, c&amp;rsquo;est bien de ce mal dont je souffre, il me les faut tous même si cela fait bien longtemps que je n&amp;rsquo;ai plus le temps de tous y jouer (la honte étant que j&amp;rsquo;ai à peine touché à bon nombre d&amp;rsquo;entre eux). Attendez, &lt;em&gt;Natsuki Chronicles&lt;/em&gt; est à &lt;a href=&#34;https://store.steampowered.com/app/1175190/Natsuki_Chronicles/&#34;&gt;1 €&lt;/a&gt; sur Steam en ce moment ?! Foutu cerveau reptilien.&lt;/p&gt;
@@ -142,22 +244,22 @@
     </item>
     <item>
       <title>Suicide Squad: kill the Suicide Squad</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/suicidesquad/</link>
+      <link>http://localhost:1313/articles/2024/mars/suicidesquad/</link>
       <pubDate>dim., 03 mars 2024 08:45:05 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/suicidesquad/</guid>
-      <description>&lt;p&gt;Un nouveau jeu dans l’Arkhamverse qui suit une bande de bras cassés de DC prêts à en découdre avec la Justice League ? Pourquoi pas. Le projet était intriguant et puis c’était Rocksteady à la barre, les créateurs des meilleurs jeux de superhéros de tous les temps !&lt;/p&gt;
-&lt;p&gt;
+      <guid>http://localhost:1313/articles/2024/mars/suicidesquad/</guid>
+      <description>&lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/suicidesquad/suicidesquad1.jpg&#34; alt=&#34;Deux personnages de Suicide Squad (le jeu)&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Le jeu Suicide Squad&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/suicidesquad/suicidesquad1.jpg&#34; alt=&#34;Deux personnages de Suicide Squad (le jeu)&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Attention derrière toi c&amp;#39;est affreux&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Un nouveau jeu dans l’Arkhamverse qui suit une bande de bras cassés de DC prêts à en découdre avec la Justice League ? Pourquoi pas. Le projet était intriguant et puis c’était Rocksteady à la barre, les créateurs des meilleurs jeux de superhéros de tous les temps !&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Il y avait moyen d’y croire : le studio Rocksteady, alors tout auréolé du succès des jeux de la saga &lt;em&gt;Batman: Arkham&lt;/em&gt;, avait annoncé la mise en chantier de &lt;em&gt;Suicide Squad: Kill the Justice League&lt;/em&gt; en 2020&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;Mais au fil des années de retard et des trailers, il a fallu se rendre à l’évidence : ça sentait le caca. Enfin plutôt le jeu service, ce qui pour beaucoup de joueurs est la même chose : les microtransactions, skins et autres costumes hors de prix sont assez peu appréciés dans ce bas monde.&lt;/p&gt;
 &lt;p&gt;Mais enfin, après toutes ces années d’attente et d’angoisse, le voilà enfin le nouveau chapitre de l’Arkhamverse… transformé en &lt;em&gt;looter shooter&lt;/em&gt; en coop 4 joueurs, un gameplay aux antipodes des jeux Batman où un type costumé de mauvaise humeur tabasse à lui tout seul la pègre de Gotham à grand coup de latte.&lt;/p&gt;
 &lt;p&gt;Précédé d’une réputation épouvantable — la campagne marketing a été désastreuse —, &lt;em&gt;Suicide Squad&lt;/em&gt; &lt;a href=&#34;https://store.steampowered.com/app/315210/Suicide_Squad_Kill_the_Justice_League/&#34;&gt;sort&lt;/a&gt; le 2 février auprès du grand public et très vite, c’est l’hallali. Au lendemain du lancement, le nombre de joueurs sur Steam atteint les 13 459 selon &lt;a href=&#34;https://steamdb.info/app/315210/charts/#48h&#34;&gt;SteamDB&lt;/a&gt;, un sommet que le jeu ne retrouvera plus jamais.&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/suicidesquad/suicidesquad2.png&#34; alt=&#34;Les statistiques de Suicide Squad sur SteamDB&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Source : SteamDB&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/suicidesquad/suicidesquad2.png&#34; alt=&#34;Les statistiques de Suicide Squad sur SteamDB&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;Source : SteamDB&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;Pour donner un ordre d’idée de la catastrophe industrielle, le record de &lt;em&gt;Marvel’s Avengers&lt;/em&gt;, comparable à &lt;em&gt;Suicide Squad&lt;/em&gt; avec son univers de superhéros et son modèle économique, affiche rien de moins que le double (31 165). Et &lt;em&gt;Marvel’s Avengers&lt;/em&gt; n’a pas vraiment été qualifié de chef d’œuvre…&lt;/p&gt;
@@ -167,7 +269,7 @@
 &lt;p&gt;Et pour Rocksteady, l’affaire est très mauvaise également. On ignore le budget exact de &lt;em&gt;Suicide Squad&lt;/em&gt;, mais personne ne sera étonné d’apprendre qu’il tourne autour des 150 à 200 millions de dollars vu le nombre d’années de développement — et c’est sans compter ce fichu marketing. Alors que l’industrie du jeu vidéo essuie une purge de talents sans précédent, le studio pourrait bien être frappé aussi par des coups de hache dans ses effectifs.&lt;/p&gt;
 &lt;p&gt;
 
-&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/suicidesquad/suicidesquad3.png&#34; alt=&#34;Une capture d&amp;amp;rsquo;écran du jeu Suicide Squad&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;À quand la saison 1 ?&lt;/figcaption&gt; &lt;/figure&gt; 
+&lt;figure style=&#34;text-align: center;&#34;&gt; &lt;img src=&#34;http://localhost:1313/articles/2024/mars/suicidesquad/suicidesquad3.png&#34; alt=&#34;Une capture d&amp;amp;rsquo;écran du jeu Suicide Squad&#34;&gt; &lt;figcaption style=&#34;font-style: italic;&#34;&gt;À quand la saison 1 ?&lt;/figcaption&gt; &lt;/figure&gt; 
 
 &lt;/p&gt;
 &lt;p&gt;Quant aux joueurs, c’est la soupe amère également. Une petite communauté de fans s’est formée autour de &lt;em&gt;Suicide Squad&lt;/em&gt;, qui apprécie réellement les qualités du jeu (il y en a !). Et ils attendent maintenant avec impatience les prochaines saisons, avec une première livraison prévue en mars mettant en vedette le Joker. WG Games n’a toujours pas annoncé de date de lancement. Et la promesse d’une année de contenus supplémentaires au minimum parait maintenant impossible à tenir au vu du désastre financier.&lt;/p&gt;
@@ -183,30 +285,30 @@
     </item>
     <item>
       <title>Balatro fait péter le million</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/balatro/</link>
+      <link>http://localhost:1313/articles/2024/mars/balatro/</link>
       <pubDate>sam., 02 mars 2024 10:30:18 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/balatro/</guid>
-      <description>&lt;p&gt;Tout roule pour Balatro, ce jeu mélangeant poker et roguelike d’ores et déjà considéré comme une potentielle drogue dure par la FDA américaine. Sorti le 25 février dernier, le jeu a rapporté 1 million de dollars en 8 heures, un très joli score pour un projet indé créé par un unique développeur. Plus de 250 000 copies se sont &lt;a href=&#34;https://twitter.com/BalatroGame/status/1761055772065010040&#34;&gt;déjà écoulées&lt;/a&gt; sur PC, Switch, PS5 et Xbox. Une version Mac est dans les tuyaux, tandis qu’un portage mobile « &lt;em&gt;pourrait arriver après le lancement officiel&lt;/em&gt; ».&lt;/p&gt;
-&lt;p&gt;
+      <guid>http://localhost:1313/articles/2024/mars/balatro/</guid>
+      <description>&lt;p&gt;
  
-&lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/balatro/balatro.png&#34; alt=&#34;Balatro&#34;&gt; 
+&lt;img src=&#34;http://localhost:1313/articles/2024/mars/balatro/balatro.png&#34; alt=&#34;Balatro&#34;&gt; 
 
 &lt;/p&gt;
+&lt;p&gt;Tout roule pour Balatro, ce jeu mélangeant poker et roguelike d’ores et déjà considéré comme une potentielle drogue dure par la FDA américaine. Sorti le 25 février dernier, le jeu a rapporté 1 million de dollars en 8 heures, un très joli score pour un projet indé créé par un unique développeur. Plus de 250 000 copies se sont &lt;a href=&#34;https://twitter.com/BalatroGame/status/1761055772065010040&#34;&gt;déjà écoulées&lt;/a&gt; sur PC, Switch, PS5 et Xbox. Une version Mac est dans les tuyaux, tandis qu’un portage mobile « &lt;em&gt;pourrait arriver après le lancement officiel&lt;/em&gt; ».&lt;/p&gt;
 &lt;p&gt;Pas besoin d’être Patrick Bruel pour s’amuser sur Balatro. L’objectif est de recréer les mains du poker afin de faire un maximum de points, ceux-ci étant multipliés par différents jokers débloqués en cours de route. L’un va octroyer plus de points en cas de paire, là où un autre autorisera à faire des quintes (5 cartes à la suite) avec seulement 4 cartes. La progression se fait sur un système de niveaux en 3 parties, la dernière étant un boss appliquant différents malus pouvant réduire le score.&lt;/p&gt;
 &lt;p&gt;Ça a l’air compliqué, mais il ne faut que quelques parties pour devenir accro. Le titre est vendu 14 € sur &lt;a href=&#34;https://store.steampowered.com/app/2379780/Balatro/&#34;&gt;Steam&lt;/a&gt;, sans achat in-app ni mécanique de free-to-play. Notons que le jeu est temporairement indisponible sur certaines boutiques dont &lt;a href=&#34;https://twitter.com/PlaystackGames/status/1763614758043795909&#34;&gt;le Nintendo Store européen&lt;/a&gt;, Balatro ayant été pris à tort pour un véritable jeu d’argent avant de se voir passé 18+ par un régulateur peu regardant. L’éditeur promet que la situation devrait revenir à la normale prochainement.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Sonic pas Superstars dans les rayons</title>
-      <link>http://localhost:1313/nostick/articles/2024/mars/sonic/</link>
+      <link>http://localhost:1313/articles/2024/mars/sonic/</link>
       <pubDate>ven., 01 mars 2024 19:47:32 +0100</pubDate>
-      <guid>http://localhost:1313/nostick/articles/2024/mars/sonic/</guid>
-      <description>&lt;p&gt;Était-ce une bonne idée de lancer &lt;em&gt;Sonic Superstars&lt;/em&gt; trois jours avant &lt;em&gt;Super Mario Bros Wonders&lt;/em&gt; ? Probablement pas. Et n&amp;rsquo;importe qui aurait pu prédire que l&amp;rsquo;ombre imposante des aventures du plombier bondissant allait plonger dans l&amp;rsquo;obscurité totale le &lt;em&gt;revival&lt;/em&gt; 16 bits et 3D du hérisson speedé.&lt;/p&gt;
-&lt;p&gt;
+      <guid>http://localhost:1313/articles/2024/mars/sonic/</guid>
+      <description>&lt;p&gt;
  
-&lt;img src=&#34;http://localhost:1313/nostick/articles/2024/mars/sonic/./sonic.jpeg&#34; alt=&#34;Sonic&#34;&gt; 
+&lt;img src=&#34;http://localhost:1313/articles/2024/mars/sonic/./sonic.jpeg&#34; alt=&#34;Sonic&#34;&gt; 
 
 &lt;/p&gt;
+&lt;p&gt;Était-ce une bonne idée de lancer &lt;em&gt;Sonic Superstars&lt;/em&gt; trois jours avant &lt;em&gt;Super Mario Bros Wonders&lt;/em&gt; ? Probablement pas. Et n&amp;rsquo;importe qui aurait pu prédire que l&amp;rsquo;ombre imposante des aventures du plombier bondissant allait plonger dans l&amp;rsquo;obscurité totale le &lt;em&gt;revival&lt;/em&gt; 16 bits et 3D du hérisson speedé.&lt;/p&gt;
 &lt;p&gt;Enfin, n&amp;rsquo;importe qui, sauf Sega ! Durant ses résultats financiers, l’éditeur a finalement admis que ça ne s’était pas vraiment passé comme il l’espérait. Haruki Satomi, le patron de Sega Sammy, s&amp;rsquo;est réjoui de l&amp;rsquo;accueil positif de &lt;em&gt;Sonic Superstars&lt;/em&gt;, mais voilà : « &lt;em&gt;le moment du lancement a coïncidé avec des titres concurrents dans le même genre, et [notre jeu] est resté en deçà des prévisions initiales&lt;/em&gt; ».&lt;/p&gt;
 &lt;p&gt;Il ne cite pas Mario, mais enfin on imagine bien qu&amp;rsquo;il n&amp;rsquo;a pas en tête les impérissables chefs d&amp;rsquo;œuvre &lt;em&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Skull_Island:_Rise_of_Kong&#34;&gt;Skull Island: Rise of Kong&lt;/a&gt;&lt;/em&gt; et &lt;em&gt;&lt;a href=&#34;https://store.steampowered.com/app/2199930/DreamWorks_Trolls_Remix_Rescue/&#34;&gt;Trolls Remix Rescue&lt;/a&gt;&lt;/em&gt;, sortis eux aussi en octobre 2023. Ne soyez pas trop triste du sort de &lt;em&gt;Sonic Superstars&lt;/em&gt; : Sega multiplie les promotions depuis le lancement du jeu qu&amp;rsquo;on peut facilement trouver à moitié prix (ce qui est peut-être le tarif auquel l&amp;rsquo;éditeur aurait dû le proposer dès le début). Il devrait finir par trouver son public.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/en/ir/20240209_q3_major_QA_e.pdf&#34;&gt;Sega Sammy&lt;/a&gt;&lt;/p&gt;

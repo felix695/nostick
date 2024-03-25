@@ -1,8 +1,11 @@
 +++
 title = "À propos"
 description = "Page de présentation de notre site"
-date = "2024-02-29"
 aliases = ["about-us", "about-hugo", "contact"]
 +++
 
-Nostick.fr est un site d’actualité de jeux vidéo. Il est codé via Hugo et utilise le thème open-source [Hugo-flex](https://github.com/ldeso/hugo-flex).
+Farouchement indépendant et pas chiant, Nostick.fr est un site d’actualité sur les jeux vidéo publié par [Félix](mailto:felix@nostick.fr), [Mickaël](mailto:mickael@nostick.fr) & co, sans pression mais avec passion. 
+
+Développé sur Hugo en se basant sur thème open-source [Hugo-flex](https://github.com/ldeso/hugo-flex), repatouillé ici et là pour l'occasion.
+
+Retrouvez nous sur [Xitter](https://twitter.com/Nostick_fr), [Bluesky](https://bsky.app/profile/nostick.bsky.social) et [Threads](https://www.threads.net/@nostick.fr).
