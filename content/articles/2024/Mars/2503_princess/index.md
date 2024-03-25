@@ -1,5 +1,5 @@
 +++
-title = "Ça va couper, chérie"
+title = "Une mise à jour pour Slay the princess : ça va couper, chérie"
 date = 2024-03-25T21:47:32+01:00
 draft = false
 author = "Félix"
