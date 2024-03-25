@@ -1,6 +1,6 @@
 +++
 title = "Chez Microsoft : une console PC, un logiciel Xbox optimisé, ou les deux ?"
-date = 2024-03-25T19:23:12+00:00
+date = 2024-03-25T18:03:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
