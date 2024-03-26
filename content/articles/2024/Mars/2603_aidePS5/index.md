@@ -1,5 +1,5 @@
 +++
-title = "La PS5 veut vous éviter d’aller chercher des vidéos walkthrough sur YouTube"
+title = "« Aide au jeu communautaire » : comment la PS5 veut vous éviter d’aller chercher des vidéos walkthrough sur YouTube"
 date = 2024-03-26T18:47:32+01:00
 draft = false
 author = "Félix"
