@@ -4,7 +4,7 @@ title = "Les sorties de la semaine (24/03)"
 date = 2024-03-23T14:47:32+01:00
 draft = false
 author = "Félix"
-tags = ["C'est dispo"]
+tags = ["C’est dispo"]
 +++
 
 **Entre le boulot, les courses et le sèche-linge qui rend l’âme, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.**
