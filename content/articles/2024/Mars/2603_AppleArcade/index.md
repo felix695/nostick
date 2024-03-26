@@ -42,7 +42,7 @@ L'histoire aurait pu s'arrêter là, mais un autre acteur s'est lancé sur ce m�
 
 Le catalogue ne cesse de s'étoffer avec de sacrés clients comme *Monument Valley*, *Twelve Minutes*, *TMNT: Shredder's Revenge*, *Hades*, ou encore rien moins que la trilogie *GTA* adaptée aux écrans mobiles. Netflix a aussi cassé la tirelire pour acheter des studios, à l'image de Night School (*Oxenfree II: Lost Signals*), et même pour en créer ex nihilo.
 
-![Netflix jeux](AppleArcade2.jpg "Netflix se paie de sacrés exclusivités à l'image d'Hades.")
+![Netflix jeux](AppleArcade3.jpg "Netflix se paie de sacrés exclusivités à l'image d'Hades.")
 
 La plateforme mise sur un mix entre jeux originaux, classiques et titres adaptés de ses programmes vedettes. Difficile de dire si le succès est au rendez-vous, néanmoins Netflix cherche d'abord et avant tout à créer une offre alternative pour que ses abonnés restent dans l'écosystème — ce n'est pas une fin en soi. Cette concurrence nouvelle aurait même forcé Apple à reconsidérer, une fois encore, la stratégie d'Apple Arcade, toujours selon *MobileGamer*.
 
