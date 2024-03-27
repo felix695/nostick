@@ -16,3 +16,5 @@ Shuji Utsumi en a aussi rajouté dans les superlatifs : le « super game » eng
 Mais alors, quoi ? Si on ne peut pas mettre de côté un jeu service (sous la forme d'un MMO ?) ou un énième clone de Smash avec les mascottes de Sega, la description parcellaire qui est faite de ce « super jeu » évoque les hubs dont les grosses sagas vidéoludiques s'entichent en ce moment, à l'image de *Call of Duty HQ* ou encore le futur *Assassin's Creed Infinity*. Ces portails ne sont pas des jeux à proprement parler, mais des lanceurs gamifiés conçus pour amplifier l'engagement des fans (et leur faire un peu plus les poches au passage).
 
 Au vu des sommes en jeu, ce projet va peser lourd dans l'avenir de Sega qui n'a donc pas intérêt à se planter.
+
+{{< chat sonic-super-game >}}
