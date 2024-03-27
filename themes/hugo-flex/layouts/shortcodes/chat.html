@@ -1,0 +1,13 @@
+<script type="text/javascript" src="https://nostick.fr/articles/cactus.js"></script>
+<link rel="stylesheet" href="https://nostick.fr/articles/style.css" type="text/css">
+<div id="comment-section"></div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.to/#/!JlqSKnmqxlJFRDLZNP:matrix.org?via=matrix.org",
+  serverName: "cactus.chat",
+  siteName: "nostick",
+  commentSectionId: "{{ index .Params 0 }}",
+pageSize: 10
+})
+</script>

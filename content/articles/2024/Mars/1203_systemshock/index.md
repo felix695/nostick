@@ -18,3 +18,5 @@ La version pour consoles apportera la 4K à 60 i/s sur les consoles de la géné
 Ce remake de *System Shock* revisite un classique du jeu de tir un peu oublié, mais qui a marqué des générations entières de FPS par la suite avec ses petits bouts de RPG et son histoire immersive. Les consoleux ne voudront pas rater ça !
 
 [^1]: Entre mai et juin 2023, les joueurs ont eu droit à *Hogwarts Legacy*, *Tears of the Kingdom*, *Street Fighter 6*, *Diablo IV*, *Final Fantasy XVI*, et *Gollum* (non je rigole).
+
+{{< chat system-shock >}}
