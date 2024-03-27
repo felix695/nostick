@@ -6,7 +6,8 @@ author = "Mickael"
 tags = ["Trailer"]
 +++ 
 
-![Marvel Rivals](Marvel Rivals.jpg "Les super-slips parés pour la stomb.") 
+![Marvel Rivals](MarvelRivals.jpg "Les super-slips parés pour la stomb.") 
+
 
 On n'arrête plus Marvel, qui multiplie les annonces de nouveaux jeux ces derniers temps. Après *[1943: Rise of Hydra](https://nostick.fr/articles/2024/mars/2103_1943riseofhydra/)*, la maison des idées a banané la bande-annonce de *[Marvel Rivals](https://www.marvelrivals.com)* qui joue dans une toute autre catégorie. Il s'agit d'un jeu de tir dans lesquels 6 joueurs en affronteront 6 autres dans des arènes, et bien sûr en endossant la défroque d'un super-héros de l'écurie.
 
