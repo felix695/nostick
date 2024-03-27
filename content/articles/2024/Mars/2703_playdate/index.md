@@ -6,9 +6,9 @@ author = "Félix"
 tags = ["Actu"]
 +++ 
 
-![Une image d’une conférence. On peut y lire le texte "Two pallets of Playdates worth $400k went missing?!"](playdate.jpg "Image : [Game File](https://www.gamefile.news/p/playdate-missing-venba-jedi-survivor).")
+![Une image d’une conférence. On peut y lire le texte "Two pallets of Playdates worth $400k went missing?!"](playdate.jpg "Image : Game File.")
 
-Vous pensiez pouvoir rapidement mettre la main sur une [Playdate](https://play.date) maintenant que les grosses pénuries de composants sont derrière nous ? Mon pauvre ! Deux palettes de Playdates d'une valeur d'environ 400 000 dollars ont récemment disparu d’un centre d’expédition à Las Vegas. « *C'est un peu comme dans une série policière* », a déclaré le cofondateur de Panic Cabel Sasser. Celui-ci a donné quelques détails sur l’affaire pendant une conférence pour développeurs à laquelle a pu assister Stephen Totilo de *[Game File](https://www.gamefile.news/p/playdate-missing-venba-jedi-survivor)*. 
+Vous pensiez pouvoir rapidement mettre la main sur une [Playdate](https://play.date) maintenant que les grosses pénuries de composants sont derrière nous ? Mon pauvre ! Deux palettes de Playdate d'une valeur d'environ 400 000 dollars ont récemment disparu d’un centre d’expédition à Las Vegas. « *C'est un peu comme dans une série policière* », a déclaré le cofondateur de Panic Cabel Sasser. Celui-ci a donné quelques détails sur l’affaire pendant une conférence pour développeurs à laquelle a pu assister Stephen Totilo de *[Game File](https://www.gamefile.news/p/playdate-missing-venba-jedi-survivor)*. 
 
 L’histoire est nébuleuse : FedEx dit avoir livré les palettes alors que le centre d’expédition n’a rien reçu. Deux semaines après ce loupé, le coursier a visiblement livré une fournée identique… à un site de construction voisin. La personne qui a signé pour les deux palettes retrouvées est la même que celle qui a signé pour celles disparues. Plusieurs consoles du lot ont été enregistrées au nom de personnes vivant à North Las Vegas, ce qui semble montrer qu’un petit malin cherche à écouler les stocks. Panic n’en sait pas plus, et en l’état, le mystère reste entier.
 
