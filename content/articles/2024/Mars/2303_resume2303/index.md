@@ -56,3 +56,5 @@ En route vers son titre de jeu de l’année (cherchez pas, c’est lui), *Balat
 ![Balatro](balatro.jpg "N’y jouez pas c’est une drogue.")
 
 Et c’est évidemment loin d’être terminé, puisque des versions mobiles sont dans les tuyaux… pour le plus grand malheur de la productivité mondiale qui va piquer du nez cette année.
+
+ {{< chat 2303NDLS >}}

@@ -30,3 +30,5 @@ Départ en catastrophe pour ***Dragon’s Dogma 2***, le nouveau RPG  de Capcom 
 ## La saison des pêches
 
 La grosse sortie de la semaine chez Nintendo c’était évidemment ***Princess Peach: Showtime!*** : un jeu très accessible dans lequel Peach peut se déguiser afin de changer le style de jeu. Les retours sont majoritairement positifs, évoquant une ambiance soignée et un level design bien fichu. Les quelques critiques mentionnent surtout une partie technique pas terrible et un gameplay qui a tendance à être parfois un peu répétitif. Ça devrait faire le taf pour les plus jeunes, d’autant plus qu’une démo est disponible sur le Nintendo Store. Le jeu complet [coûte 60 €](https://www.nintendo.fr/Jeux/Jeux-Nintendo-Switch/Princess-Peach-Showtime--2444445.html).
+
+ {{< chat 2303SDLS >}}

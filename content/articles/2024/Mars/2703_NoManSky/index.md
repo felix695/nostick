@@ -17,3 +17,5 @@ Jusqu'à présent, les stations spatiales de *No Man's Sky* étaient créées «
 Et comme si cela ne suffisait pas, cette version 4.6 embarque aussi un nouvel éditeur de vaisseau : en utilisant des composants et des pièces détachées provenant d'autres appareils, il sera possible de se bâtir un vaisseau entièrement personnalisé. Enfin, le joueur pourra rejoindre plus facilement des Guildes pour recevoir des objets et en donner afin d'améliorer sa réputation dans la faction de son choix.
 
 Les nouveautés sont en fait tellement nombreuses qu'il est impossible de toutes les résumer ici ! Pour avoir la tête qui tourne, rendez-vous dans les [notes](https://www.nomanssky.com/orbital-update/) de version du jeu.
+
+ {{< chat 2803NMS >}}

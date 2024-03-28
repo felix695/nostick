@@ -21,3 +21,5 @@ Une récente  mise à jour permet déjà de réduire le panneau latéral de l'ap
 Phil Spencer, qui a une « *liste de choses que nous devrions faire* », ne s'arrête pas là. Il confirme que Microsoft planche bien sur « *différents designs* » d'appareils et « *d'autres choses que nous pourrions faire* » qui permettraient de rameuter de nouveaux joueurs. Il ne fait pourtant aucune annonce même si on sent bien que ça le titille.
 
 Rien n'interdit de penser que Xbox planche sur une console à part entière *et* sur un logiciel Xbox adapté aux consoles existantes. Le marché semble de toute manière à même d'absorber plusieurs appareils du même tonneau : les capacités techniques des consoles PC sont telles qu'il est presque aussi agréable de jouer sur ces appareils que devant son PC ou sa télé. Et grâce à ces consoles, on peut jouer en tout temps, n'importe quand.
+
+ {{< chat 2503XboxPC >}}
