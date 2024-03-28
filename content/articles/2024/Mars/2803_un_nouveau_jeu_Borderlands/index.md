@@ -17,4 +17,4 @@ Gearbox et Take-Two ont déjà l'habitude de travailler ensemble :  la franchise
 
 Embracer fait ici une bonne affaire, puisque l'entreprise s'était offert les services de Gearbox pour 363 millions. Cette cession fait partie du grand plan de restructuration du groupe, qui a multiplié les acquisitions ces dernières années… et qui s'est planté suite à la défection d'un fond d'investissement. Tout récemment, c'est Saber (*World War Z*, *Metro*) qui a pu [échapper à la cagade](https://nostick.fr/articles/2024/mars/1403_saberinteractive/).
 
-{{< chat 2803_un_nouveau_jeu_borderlands >}}
+{{< chat 2803-un-nouveau-jeu-borderlands >}}
