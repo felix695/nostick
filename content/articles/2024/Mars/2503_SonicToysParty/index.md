@@ -18,3 +18,4 @@ La bande annonce remontant à l'été dernier, il n'est pas impossible que le je
 
 *Sonic Toys Party* pourrait être livré dans le courant du mois de juin ou de juillet. Le précédent titre mobile à base de Sonic remonte à décembre dernier, avec le pas terrible *[Sonic Dream Team](https://apps.apple.com/us/app/sonic-dream-team/id1609094795?l=fr-FR)* pour Apple Arcade.
 
+{{< chat 2503_SonicToysParty >}}
