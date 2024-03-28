@@ -16,3 +16,5 @@ Le joker de Nintendo pour cette année pourrait bien être *Metroid Prime 4*, an
 Cette accalmie relative des jeux *first party* a fait une victime : Nintendo of America (NoA) a [confirmé](https://kotaku.com/nintendo-switch-2-layoffs-testing-zelda-totk-1851369539) une charrette de licenciements chez les sous-traitants qui aident à tester les jeux et le matériel. NoA va certes créer un « *nombre significatif* » de postes à temps plein pour compenser en partie, mais il n'empêche que cette restructuration va toucher une centaine de sous-traitants.
 
 Ces licenciements semblent confirmer l'absence de « gros » jeux développés par les studios de Nintendo à moyen terme. En attendant, on l'espère, une pluie de nouveautés à partir du début de l'année prochaine.
+
+{{< chat 2703_LicenciementsNintendo >}}
