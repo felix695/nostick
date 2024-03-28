@@ -1,11 +1,11 @@
 +++
-title = "Il y aura un nouveau Bordelands"
+title = "Il y aura un nouveau Borderlands"
 date = 2024-03-28T12:49:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
 +++ 
-![Bordelands](bordelands.jpg "Il y en a au moins un à qui ça fait plaisir.") 
+![Borderlands](borderlands "Il y en a au moins un à qui ça fait plaisir.") 
 
 La bonne nouvelle du jour — et on en a bien besoin —, c'est qu'un nouveau jeu *Bordelands* est dans les cartons ! Le diabolique groupe Embracer, toujours empêtré dans des finances précaires, a [cédé](https://embracer.com/releases/embracer-group-divests-gearbox-entertainment-for-a-consideration-of-usd-460-million-to-take-two-interactive-software-inc/) Gearbox Software à Take-Two Interactive pour la sympathique somme de 460 millions de dollars.
 
