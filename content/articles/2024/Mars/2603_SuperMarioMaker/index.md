@@ -18,3 +18,5 @@ Ahoyo, c'est le nom du créateur, a [craché](https://twitter.com/Ahoyoo_Twitch/
 Mais en exploitant des systèmes de speedrunning automatisés (slow motion, retour en arrière…) le créateur n'a pas joué franc jeu. Et en révélant finalement le pot aux roses, il a permis à la Team 0% d'accomplir sa grande œuvre, même si tout le monde aurait préféré qu'Ahoyo n'attende pas la dernière minute pour déballer son secret.
 
 L'équipe aurait ainsi terminé son exploit avec le niveau *The Last Dance* terminé il y a quelques jours, ce qui aurait été assez poétique finalement. Tous les regards se tournent maintenant vers le prochain défi de taille, battre tous les niveaux créés avec *Super Mario Maker 2* !
+
+ {{< chat 2603MarioMaker >}}

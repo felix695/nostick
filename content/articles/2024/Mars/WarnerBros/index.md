@@ -37,3 +37,5 @@ WB Discovery n'est pas sûr de se refaire la cerise avec ces aventures solo AAA 
 « *Plutôt que de simplement lancer un jeu sur console à usage unique, posons nous la question de savoir comment développer le jeu autour, par exemple, un Hogwarts Legacy ou un Harry Potter, qui soit un service en ligne où les gens peuvent vivre, travailler, construire et jouer dans cet univers de manière continue* » a décrit le dirigeant.
 
 C'est une perspective peu enthousiasmante pour de nombreux joueurs, c'est certain, mais WB Discovery marche sur du velours : le groupe détient quelques unes des plus belles franchises culturelles au monde, entre les univers de DC, Cartoon Network, Adult Swim (plus pour longtemps visiblement)  Bugs Bunny et compagnie, ou encore *Mortal Kombat* (en passe de se transformer en jeu service) et *Game of Thrones*. Il serait dommage de ne pas en tirer un peu plus profit en faisant la poche des fans.
+
+ {{< chat 1903Warner >}}

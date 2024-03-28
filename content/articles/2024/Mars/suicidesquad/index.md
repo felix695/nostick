@@ -35,3 +35,5 @@ Et pour Rocksteady, l’affaire est très mauvaise également. On ignore le budg
 Quant aux joueurs, c’est la soupe amère également. Une petite communauté de fans s’est formée autour de *Suicide Squad*, qui apprécie réellement les qualités du jeu (il y en a !). Et ils attendent maintenant avec impatience les prochaines saisons, avec une première livraison prévue en mars mettant en vedette le Joker. WG Games n’a toujours pas annoncé de date de lancement. Et la promesse d’une année de contenus supplémentaires au minimum parait maintenant impossible à tenir au vu du désastre financier.
 
 [^1]: Le projet avait en fait débuté dès 2015 sous l’égide de WB Montréal, mais le développement s’est arrêté au bout d’un an.
+
+ {{< chat 0303Suicidesquad >}}

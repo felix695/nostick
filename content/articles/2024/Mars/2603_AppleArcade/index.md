@@ -47,3 +47,5 @@ Le catalogue ne cesse de s'étoffer avec de sacrés clients comme *Monument Vall
 La plateforme mise sur un mix entre jeux originaux, classiques et titres adaptés de ses programmes vedettes. Difficile de dire si le succès est au rendez-vous, néanmoins Netflix cherche d'abord et avant tout à créer une offre alternative pour que ses abonnés restent dans l'écosystème — ce n'est pas une fin en soi. Cette concurrence nouvelle aurait même forcé Apple à reconsidérer, une fois encore, la stratégie d'Apple Arcade, toujours selon *MobileGamer*.
 
 Alors verra-t-on un nouveau pivot d'Apple Arcade dans les prochains mois ? Si Netflix continue d'améliorer son offre et à sortir quelques gros lapins de son chapeau, ça n'a rien d'impossible. Au bénéfice des développeurs et des joueurs.
+
+ {{< chat 2603AppleArcade >}}

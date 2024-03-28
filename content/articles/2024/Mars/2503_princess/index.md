@@ -12,3 +12,5 @@ On va pas se mentir : je n’ai pas spécialement accroché à *Slay the princes
 
 Enfin bref, *Slay the princess* a reçu aujourd’hui une grosse mise à jour. On nous annonce « *environ 3 000 mots de nouveau contenu* » se concentrant sur la fin du jeu, ce qui amène donc tout un tas de scènes exclusives et autres embranchements. La BO a été bonifiée avec des interprétations orchestrales de certains morceaux, tandis que les fans acharnés pourront désormais revenir sur d’anciennes builds. C’est donc le bon moment pour acheter *Slay the princess* si le concept vous intriguait, d’autant plus que le jeu est actuellement à son prix le plus bas avec [-20 % sur Steam](https://store.steampowered.com/app/1989270/Slay_the_Princess/) (14 €). On nous promet qu’une autre grosse update allongeant le jeu d’environ 25 % sera déployée dans l’année : aucune honte à le laisser maturer quelques mois au fond de votre backlog.
 
+ {{< chat 2503PS5 >}}
+

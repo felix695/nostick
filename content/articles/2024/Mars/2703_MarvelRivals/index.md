@@ -18,3 +18,5 @@ On n'arrête plus Marvel, qui multiplie les annonces de nouveaux jeux ces dernie
 C'est sûr que l'aspect free to play et l'inspiration *Overwatch* et *Valorant* font craindre le pire. Néanmoins, on appréciera la possibilité de détruire les décors et a priori, NetEase semble vouloir respecter les capacités et techniques des différents bagarreurs, contrairement au dernier jeu *Suicide Squad* où tout le monde a des flingues et baste.
 
 Autre originalité, en dehors des graphismes sympas en cell shading, des mouvements en duo sont possibles pour un maximum d'impact : l'exemple qui vient en tête immédiatement est la paire Rocket Racoon et Groot, mais d'autres duos plus étonnants seront aussi proposés comme Hulk qui pourra recharger le laser d'Iron Man avec son rayon gamma. *Marvel Rivals* sera dispo sur PC, avec probablement des versions consoles et/ou mobiles qui suivront. On peut s'inscrire à la phase de test alpha.
+
+ {{< chat 2703MarvelRivals >}}
