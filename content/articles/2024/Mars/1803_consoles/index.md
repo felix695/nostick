@@ -76,4 +76,6 @@ Sarah Bond a également annoncé que des nouveautés matérielles étaient dans 
 
 Plutôt qu’à une console de salon, Microsoft [pourrait](https://www.theverge.com/2024/2/15/24073723/microsoft-xbox-next-gen-hardware-phil-spencer-handheld) s’intéresser davantage au marché des consoles portables. Le Steam Deck de Valve est passé par là, suivi par le ROG Ally, le Legion Go et d’autres qui ont ce défaut de fonctionner sous Windows. Un système d’exploitation peu adapté aux petits écrans… 
 
-Microsoft a toutes les cartes en main pour développer une console parfaitement optimisée pour le Game Pass — et avec un peu de chance, il devrait être assez facile d’y installer des jeux provenant de boutiques rivales. Le futur de la Xbox se passera-t-il du salon ?
+Microsoft a toutes les cartes en main pour développer une console parfaitement optimisée pour le Game Pass — et avec un peu de chance, il devrait être assez facile d’y installer des jeux provenant de boutiques rivales. Le futur de la Xbox se passera-t-il du salon ?
+
+ {{< chat 1803Chambouletoutconsoles >}}
