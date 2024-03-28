@@ -14,4 +14,4 @@ L’histoire est nébuleuse : FedEx dit avoir livré les palettes alors que le c
 
 La mésaventure n’a visiblement pas trop attaqué les stocks, et la petite console à manivelle est expédiée sous 2 à 3 jours d’après [le site officiel](https://shop.play.date). Cabel Sasser a également confié que la Playdate n’était toujours pas rentable malgré des résultats honorables, notamment à cause du fort taux d’employés travaillant sur la bécane. L'entreprise prévoit d'affecter certaines personnes à d'autres projets, par exemple à sa branche d’édition de jeux. Celle-ci a un paquet de trucs de prévu pour cette année, comme *[Time Flies](https://store.steampowered.com/app/2000120/Time_Flies/?l=french)*, le très mignon *[Thank Goodness You're Here!](https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/?curator_clanid=44044337)*, *[Arco](https://store.steampowered.com/app/2366970/Arco/)* ou encore *[Despelote](https://despelote.game)*. L’intrigant *[Big Walk](https://store.steampowered.com/app/1478500/Big_Walk/?curator_clanid=44044337)* arrivera par la suite, en 2025.
 
- {{< chat https://nostick.fr/articles/2024/mars/2703_playdate/ >}}
+ {{< chat 2703playdate >}}
