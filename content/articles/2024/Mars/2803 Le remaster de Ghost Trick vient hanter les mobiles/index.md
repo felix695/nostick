@@ -1,5 +1,5 @@
 +++
-title = "Le remaster de *Ghost Trick* vient hanter les mobiles"
+title = "Le remaster de Ghost Trick vient hanter les mobiles"
 date = 2024-03-28T17:59:32+01:00
 draft = false
 author = "Félix"
@@ -19,3 +19,5 @@ Le côté visual novel est un peu mis en retrait par rapport aux *Ace Attorney*,
 Ce portage mobile est donc celui du récent *remaster*, qui a apporté des graphismes revus fait sous le *RE Engine* de Capcom (*Resident Evil*, *Street Fighter*) et quelques pistes originales. Le jeu est proposé gratuitement, avec un achat in-app à 30 € pour débloquer tous les chapitres. Le tarif n’est pas si excessif étant donné qu’il est identique [à la version Steam](https://store.steampowered.com/app/1967430/Ghost_Trick_Dtective_fantme?snr=1_7_15__13) et que Capcom offre 10 € de remise jusqu’au 3 avril. Une démo est disponible sur les deux plateformes qui devrait vous occuper quelques heures histoire de vous faire une idée.
 
 Je n’ai pas testé la déclinaison mobile de fond en comble, mais les contrôles tactiles m’ont semblé bien foutus (pas étonnant pour un ancien jeu DS). Ce genre de jeu assez lent et sans trop d’interaction se prêt bien au format smartphone, et on pourra le lancer dans le train ou à la pause du midi. *Ghost Trick* est un incontournable si vous êtes client des *Phoenix Wright* et que vous n’êtes pas allergique aux puzzles. En espérant que ça motive Capcom à nous fournir un portage de *The Great Ace Attorney Chronicles*.
+
+{{< chat 2803-le-remaster-de-ghost-trick-vient-hanter-les-mobiles >}}
