@@ -17,4 +17,4 @@ Cette accalmie relative des jeux *first party* a fait une victime : Nintendo of 
 
 Ces licenciements semblent confirmer l'absence de « gros » jeux développés par les studios de Nintendo à moyen terme. En attendant, on l'espère, une pluie de nouveautés à partir du début de l'année prochaine.
 
-{{< chat 2703_LicenciementsNintendo >}}
+{{< chat 2703-LicenciementsNintendo >}}
