@@ -1,6 +1,6 @@
 +++
 title = "Il y aura un nouveau Bordelands"
-date = 2024-03-28T13:19:12+00:00
+date = 2024-03-28T12:49:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
