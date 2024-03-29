@@ -1,6 +1,6 @@
 +++
 title = "Les galettes sentent le pâté dans les consoles"
-date = 2024-03-29T15:49:12+00:00
+date = 2024-03-29T15:02:12+00:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
