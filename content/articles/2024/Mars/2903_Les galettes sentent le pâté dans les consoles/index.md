@@ -42,3 +42,5 @@ Phil Spencer, toujours lui, avait expliqué que les consoles étaient quasiment 
 Les constructeurs vendent leurs consoles sans marges, et parfois à perte. Ils se refont la cerise grâce aux commissions prélevées sur les ventes de jeux, et au fil du temps le coût des composants baisse, ce qui permet d'équilibrer les comptes et de gagner en rentabilité. Mais les coûts ont du mal à refluer et avec les prix des lecteurs optiques qui ne risquent pas de s'effondrer, la solution pour les fabricants est tout simplement de supprimer de l'équation financière le lecteur de CD.
 
 D'un point de vue économique, cela peut effectivement se comprendre… Mais cela ne va pas faire les affaires du marché de l'occase, ni des historiens du jeu vidéo qui vont perdre l'accès à des supports physiques. Ils sont l'unique moyen de préserver des jeux qui, distribués uniquement en dématérialisé, vont définitivement se perdre dans les limbes. 
+
+{{< chat 2903Galettes >}}
