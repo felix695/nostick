@@ -15,7 +15,7 @@ Il reste néanmoins un bastion d'irréductibles qui résistent encore et toujour
 
 Microsoft avait bien essayé, au début de la Xbox One, d'encadrer la pratique du don et de la revente des jeux physiques. L'entreprise a bien vite reculé devant la bronca suscitée par son dispositif léonin qui a largement contribué à la réputation désastreuse de cette génération. Au plus grand bénéfice de PlayStation qui a pu prendre la tête du marché des consoles de salon pour ne plus jamais la lâcher. La pub ci-dessous est d'ailleurs restée célèbre.
 
-https://www.youtube.com/watch?v=kWSIFh8ICaA
+{{< youtube kWSIFh8ICaA >}} 
 
 Mais les consoliers savent que la solution au « problème » des supports physiques, c'est *plus de support physique du tout*. Ils s'y préparent activement : la neuvième génération lancée fin 2020 se décline chez Microsoft et chez Sony en deux modèles, dont un sans lecteur optique. Et le constructeur japonais est allé un cran plus loin avec la PS5 Slim, avec ce lecteur optique qui peut se détacher du modèle standard et s'installer sur l'édition numérique.
 
