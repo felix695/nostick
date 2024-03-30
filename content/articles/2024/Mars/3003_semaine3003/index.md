@@ -1,6 +1,6 @@
 +++
 title = "Engageante, passionnante, un peu chiante : la folle semaine du jeu vidéo (30/03)"
-date = 2024-03-30T12:00:32+01:00
+date = 2024-03-30T11:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
