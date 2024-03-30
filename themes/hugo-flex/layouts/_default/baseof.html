@@ -11,8 +11,9 @@
     {{ with .Content }}{{ end }}
   {{ end }}
   {{ partial "assets.html" . }}
-</head>
 
+  <script defer data-domain="nostick.fr" src="https://plausible.io/js/script.js"></script>
+</head>
 <body>
   {{ partialCached "banner.html" . }}
   <main>
