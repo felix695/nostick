@@ -47,3 +47,5 @@ Chassez le naturel… Le studio Ghost Story Games, confonde par Ken Levine, plan
 *Judas* a été annoncé il y a deux ans, et le développement va bon train puisqu'on a eu droit à une bande annonce en début d'année. Et le jeu a été présenté à plusieurs médias cette semaine, avec une constante : il y a beaucoup de *BioShock* dans cette aventure solo, qui place le joueur dans le Mayflower, un vaisseau spatial géant transportant l'humanité sur une nouvelle planète.
 
 « *Tout ce que vous attendez d'un jeu BioShock est là dedans* », [affirme](https://www.youtube.com/watch?v=J5wjyC1P1Jc&t=88s) ainsi Geoff Keighley. Néanmoins, Levine a aussi tenu à se démarquer de sa franchise phase avec ce qu'il appelle un « Narrative LEGO » : l'histoire s'adapte de manière dynamique aux actions du joueur. C'est moins procédural que dans un *Minecraft*, mais manifestement il y a aura un certain degré de liberté narrative. En revanche, il n'a pas annoncé quand *Judas* fera son apparition.
+
+{{< chat semaine3003 >}}
