@@ -10,4 +10,4 @@ defaultContentLanguage = "fr"
     weight = 1
 [taxonomies]
   tag = "tags"
-enableRobotsTXT = true
+enableRobotsTXT = false
