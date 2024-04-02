@@ -10,7 +10,7 @@ document.addEventListener("click", function(event) {
     window.location.href = href;
   } else if (href && (href.startsWith("http://") || href.startsWith("https://"))) {
     event.preventDefault();
-    window.location.href = href;
+    window.open(href, '_blank');
   }
 });
 </script>
