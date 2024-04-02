@@ -1,0 +1,14 @@
+document.addEventListener("click", function(event) {
+  var target = event.target.closest("a");
+  if (!target) return;
+
+  var href = target.getAttribute("href");
+  
+  if (href && href.startsWith("/")) {
+    event.preventDefault();
+    window.location.href = href;
+  } else if (href && (href.startsWith("http://") || href.startsWith("https://"))) {
+    event.preventDefault();
+    window.open(href, '_blank');
+  }
+});
