@@ -79,3 +79,5 @@ Battle.net doit s'ouvrir et vous demander les identifiants du compte. Le lanceur
 Il faut garder en tête que tout cela est de la bidouille, et le bon fonctionnement de Battle.net et de *Diablo IV* n'est pas garanti. Il faudra de temps en temps relancer l'un ou l'autre. Et le jeu exige une connexion à internet, ce qui n'a rien d'évident pour une console portable. 
 
 Mais cela reste jouable, avec des performances très honorables qui dépassent fréquemment les 60 images/seconde. Même les réglages d'accessibilité permettent d'agrandir les textes qui sont mine de rien assez touffus. Xbox, qui cherche à ouvrir ses horizons, serait bien inspiré de créer une véritable passerelle entre les jeux du Game Pass et le Steam Deck !
+
+{{< chat 0204DiabloIV >}} 
