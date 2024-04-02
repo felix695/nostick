@@ -1,15 +1,16 @@
 <script>
 document.addEventListener("click", function(event) {
   var target = event.target.closest("a");
-  if (!target || !target.href) return; // Assurez-vous qu'un lien a été cliqué
+  if (!target) return;
 
-  // Vérifie si le lien est interne
-  if (target.href.startsWith(location.origin)) {
-    event.preventDefault(); // Empêche la navigation par défaut
-    window.location.href = target.href; // Navigue vers le lien interne
-  } else if (target.href.startsWith("http://") || target.href.startsWith("https://")) {
-    // Gère les liens externes ici, si nécessaire
+  var href = target.getAttribute("href");
+  
+  if (href && href.startsWith("/")) {
+    event.preventDefault();
+    window.location.href = href;
+  } else if (href && (href.startsWith("http://") || href.startsWith("https://"))) {
+    event.preventDefault();
+    window.open(href, '_blank');
   }
 });
-
 </script>
