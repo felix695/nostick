@@ -11,7 +11,7 @@ tags = ["Actu"]
 
 ![Hollow Knight: Silksong sur le site Xbox](HollowKnightSilksong.jpg "Ce jeu existe-t-il réellement ?")
 
-L'apparition de *Hollow Knight: Silksong* dans la boutique Xbox — pour enregistrer le jeu dans sa liste de souhait — ce 1er avril n'a pas manqué de générer son lot de blague (d'abord parce que le 1er avril, forcément). Même les responsables de la plateforme prennent la nouvelle à la blague, comme Tao Silva, directeur marketing de Xbox, qui s'en est [amusé](https://twitter.com/taosila/status/1774886187511206356).
+L'apparition de *Hollow Knight: Silksong* dans la boutique Xbox — pour enregistrer le jeu dans sa liste de souhait — ce 1er avril n'a pas manqué de générer son lot de blague (d'abord parce que le 1er avril, forcément). Même les responsables de la plateforme prennent la nouvelle à la blague, comme Tao Silva, directeur marketing de Xbox, qui s'en est [amusé](https://twitter.com/taosila/status/1774886187511206356). Et mieux encore, le jeu a reçu les évaluations de plusieurs organismes de classification (l'ESRB, PEGI, USK…).
 
 Allez, ce n'est pas bien méchant même si la crédibilité de Team Cherry en prend pour son grade ! Mais il sera beaucoup pardonné au studio (qui compte moins de 10 personnes) le jour où le jeu sera réellement disponible. Cet ajout au sein du Xbox Store pourrait être le signe que le développement va bon train, même si *Silksong* est aussi présent depuis un moment sur l'eShop, le PS Store, Steam et GOG.
 
