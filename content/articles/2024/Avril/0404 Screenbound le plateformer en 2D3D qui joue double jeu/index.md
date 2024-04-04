@@ -1,6 +1,6 @@
 +++
 title = "Screenbound : le plateformer en 2D/3D qui joue double jeu"
-date = 2024-04-04T10:00:32+01:00
+date = 2024-04-04T08:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
