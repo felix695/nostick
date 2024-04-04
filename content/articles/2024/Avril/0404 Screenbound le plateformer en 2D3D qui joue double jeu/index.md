@@ -7,7 +7,7 @@ tags = ["Trailer"]
 +++ 
 
 
-{{< youtube w7Ft2ymGmfc >}} 
+{{< youtube uR2K8InGAus >}} 
 
 « *Je vais faire une pause d’écrans* ». Voici la résolution que vous vous êtes faite hier soir, les yeux gonflés après une dizaine de parties de *Valorant* sur votre écran 49" tandis qu’un live Twitch tournait en fond sur votre moniteur secondaire. Le développeur de *Screenbound* fait le pari inverse en ajoutant un écran de plus à son jeu : on y incarne un personnage le nez collé sur une sorte de Game Boy qui doit venir à bout de son niveau tout en sautant de plateforme en plateforme dans la « vraie » vie en vue FPS. 
 
