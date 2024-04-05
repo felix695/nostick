@@ -6,7 +6,7 @@ author = "Mickaël"
 tags = ["Actu"]
 +++ 
 
-![Stellar Blade](Eve.jpg "N'est ce point le week-end que je vois poindre derrière les persiennes ?")
+![Stellar Blade](Eve.jpg "N'est-ce point le week-end que je vois poindre derrière les persiennes ?")
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
