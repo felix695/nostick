@@ -15,3 +15,5 @@ Il n'est pas illégal pour un joueur propriétaire d'un jeu d'en faire une ROM. 
 Le constructeur a fini par se faire une raison, probablement forcée par les régulateurs : l'App Store accepte désormais les émulateurs, ce qui va faciliter la vie de tout le monde. Par contre, les développeurs devront être « *responsables des logiciels proposés dans leurs apps* », et s'assurer que ces logiciels (les jeux, certainement) respectent les lois. On verra assez rapidement comment tout ça va se concrétiser. Mais l'idée de pouvoir jouer à des classiques sur son iPhone sans avoir à bidouiller est très séduisante.
 
 Apple a aussi dû mettre de l'eau dans son vin récemment, en autorisant les apps de streaming de jeux comme xCloud ou GeForce Now, qui sont relégués en web app pour le moment. Là aussi, c'est sous la pression régulatrice (celle de la Commission européenne, en l'occurrence) que l'entreprise a cédé. On préférerait qu'Apple soit l'allié des utilisateurs plutôt que de son compte en banque…
+
+{{< chat emuappstore >}}
