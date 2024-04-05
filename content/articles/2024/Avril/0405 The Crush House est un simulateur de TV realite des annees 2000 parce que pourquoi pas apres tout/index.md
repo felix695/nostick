@@ -1,6 +1,6 @@
 +++
 title = "The Crush House est un simulateur de TV réalité des années 2000, parce que pourquoi pas après tout"
-date = 2024-04-05T12:00:00
+date = 2024-04-05T11:00:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
@@ -14,7 +14,7 @@ Y’a pas à dire, les gens de chez Devolver ont le chic pour trouver des concep
 
 Une des mécaniques principales consiste à réaliser des plans faisant plaisir à différents types de spectateurs : le pervers qui veut voir des paires de fesses, les étudiants en arts qui exigent de beaux plans, ceux qui aiment les vues d’extérieurs… On nous promet 12 candidats ayant chacun une personnalité bien distincte, avec qui on pourra papoter une fois les caméras éteintes. Ils pourront donner des suggestions sur l’émission ou confier de mini-missions pouvant potentiellement en dévoiler un peu plus sur eux. Comme le laisse présager le trailer, l’histoire globale cache visiblement un mystère qui dépasse le cadre de la production. 
 
-Quelques médias comme *[RPS](https://www.rockpapershotgun.com/the-crush-house-is-a-saucy-90s-reality-tv-show-simulator-from-the-developers-of-reigns?utm_source=feed&utm_medium=rss&utm_campaign=feed)* et *[Wired](https://www.wired.com/story/the-future-of-video-games-is-reality-tv/)* ont pu essayer une première démo, qui a l’air sympa. Malgré ses graphismes à gros polys colorés, le jeu a visiblement un message à faire passer sur le médium et sur les apparences face caméra. Bon, ça reste pensé comme un jeu fun, avec des situations générées procéduralement et un bon paquet de blagues. Pas de date de sortie pour le moment, mais [une page Steam](https://store.steampowered.com/app/2337820/The_Crush_House/) a été mise en ligne.
+Quelques médias comme *[RPS](https://www.rockpapershotgun.com/the-crush-house-is-a-saucy-90s-reality-tv-show-simulator-from-the-developers-of-reigns?utm_source=feed&utm_medium=rss&utm_campaign=feed)* et *[Wired](https://www.wired.com/story/the-future-of-video-games-is-reality-tv/)* ont pu essayer une première démo, qui a l’air sympa. Malgré ses graphismes à gros polys colorés, le jeu a visiblement un message à faire passer sur le médium et sur les apparences face caméra. Bon, ça reste pensé comme un jeu fun, avec des situations générées procéduralement et un bon paquet de blagues. Pas de date de sortie pour le moment, mais [une page Steam](https://store.steampowered.com/app/2337820/The_Crush_House/) a été mise en ligne. Ah et c'est signé par le studio Neral, a qui on dont des jeux comme *Reigns* ou *Card Shark*.
 
 ![Capture d’écran du jeu The Crush House](TheCrushHouse2.jpeg "Image : Devolver") 
 
