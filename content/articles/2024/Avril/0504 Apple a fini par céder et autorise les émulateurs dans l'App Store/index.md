@@ -6,7 +6,7 @@ author = "Mickaël"
 tags = ["Actu"]
 +++ 
 
-![L'émulateur Delta](Delta.jpg "L'émulateur Delta pourrait bien avoir droit de cité sur l'App Store.")
+![L'émulateur Delta](Delta.jpg "Delta, l'émulateur NES/SNES/N64/DS pourrait bien avoir droit de cité sur l'App Store.")
 
 On se pince pour y croire, Apple a [autorisé](https://developer.apple.com/news/?id=0kjli9o1) les émulateurs de jeux sur l'App Store. Le constructeur a une sainte horreur de ces applications, qui sont interdites de boutique depuis toujours sans qu'il en donne vraiment la raison. C'est probablement parce que les émulateurs ont mauvaise réputation, alors que c'est idiot : la plupart sont parfaitement légaux, ce qui est plus délicat c'est la question des jeux en eux-mêmes.
 
