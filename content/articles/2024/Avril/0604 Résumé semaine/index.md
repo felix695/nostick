@@ -1,6 +1,6 @@
 +++
 title = "Passion, fascination, un peu ronchon : la folle semaine du jeu vidéo (6/04)"
-date = 2024-04-06T12:00:00+01:00
+date = 2024-04-06T12:00:01+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
