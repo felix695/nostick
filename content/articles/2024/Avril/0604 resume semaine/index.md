@@ -1,6 +1,6 @@
 +++
 title = "Passion, fascination, un peu ronchon : la folle semaine du jeu vidéo (6/04)"
-date = 2024-04-06T12:00:00+01:00
+date = 2024-04-06T12:00:01+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
@@ -22,7 +22,7 @@ L'effort en matière de rétro-compatibilité des jeux Xbox a aussi beaucoup fai
 
 Le dirigeant a aussi lancé Microsoft dans une frénésie d'acquisitions (Mojang, Bethesda et surtout Activision Blizzard) qui poussent Xbox vers des horizons assez éloignés de la console en elle-même. Les actionnaires exigent maintenant un retour sur investissement : il faut rentabiliser les dizaines de milliards de dollars investis dans cette frénésie de rachats. Et la plateforme Xbox n'y suffit plus, ce qui justifie aux yeux de Spencer l'ouverture à la concurrence. 
 
-Mais on sent confusément que Microsoft ne s'arrêtera pas aux portages de *Sea of Thieves*, *Pentiment*, *Grounded* et *Hi-Fi Rush* sur PS5 et Switch. Et que pour ramasser la mise, il faudra que les jeux Xbox abandonnent leur exclusivité, peut-être pas *day one*, mais assez rapidement, au risque de dévaluer la valeur de la plateforme. Qu sait si la Xbox existera toujours dans 10 ans…
+Mais on sent confusément que Microsoft ne s'arrêtera pas aux portages de *Sea of Thieves*, *Pentiment*, *Grounded* et *Hi-Fi Rush* sur PS5 et Switch. Et que pour ramasser la mise, il faudra que les jeux Xbox abandonnent leur exclusivité, peut-être pas *day one*, mais assez rapidement, au risque de dévaluer la valeur de la plateforme. Qui sait si la Xbox existera toujours dans 10 ans…
 
 ## Un nouveau patron temporaire pour PlayStation
 
@@ -71,8 +71,6 @@ Andy Nguyen est notoirement connu pour avoir jailbreaké la PS Vita et révélé
 Il reviendra donc à Sony d'intégrer des fonctions natives dans le Portal, si le constructeur le désire. Ça ne sera sûrement pas un émulateur PSP ! L'entreprise pourrait pousser encore plus loin le concept de la tablette en autorisant le streaming de jeux depuis le cloud de l'abonnement PS Plus (le Portal se contente de streamer à partir de la PS5 du salon).
 
 ## En vrac
-
-![Stellar Blade](StellarBlade.jpg "")
 
 **Stellar Blade —** Les petits coquinous qui voudraient jouer avec Eve dans sa tenue « Skin Suit » (il faut dire qu'elle ne cache pas grand chose de la plastique avantageuse de la combattante) devront faire preuve d'une plus grande dextérité. Hyung-Tae Kim, le directeur de *Stellar Blade*, a [expliqué](https://www.famitsu.com/news/202403/27338068.html) qu'il valait mieux habiller chaudement l'héroïne car la difficulté augmente rapidement dans le jeu. Un conseil de bon sens : cette tenue désactive les boucliers de protection d'Eve…
 
