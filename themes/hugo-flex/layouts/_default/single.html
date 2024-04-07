@@ -1,21 +1,22 @@
 {{ define "main" }}
-<article style="display: flex; flex-direction: column; min-height: 100vh;">
-  {{ partial "heading.html" . }}
-  <div style="flex-grow: 1;">{{ .Content }}</div>
-  <footer>
-    <div class="tag-container2">
-      <div class="footer-tags">
-        {{ range .Site.Taxonomies.tags }}
-        <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
-        {{ end }}
+  <article style="display: flex; flex-direction: column; min-height: 100vh;">
+    {{ partial "heading.html" . }}
+    <div style="flex-grow: 1;">{{ .Content }}</div>
+    <footer>
+      <div class="tag-container2">
+        <div class="footer-tags">
+          {{ range .Site.Taxonomies.tags }}
+            <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
+          {{ end }}
+        </div>
       </div>
-    </div>
-  </footer>
-</article>
+    </footer>
+  </article>
 
-<!-- Balises Open Graph -->
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ .Description }}">
-<meta property="og:image" content="{{ .Params.image }}">
-
+  <!-- Balises Open Graph -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  {{ with .Params.image }}
+    <meta property="og:image" content="{{ . }}">
+  {{ end }}
 {{ end }}
