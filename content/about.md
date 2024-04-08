@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 
 ## Nostick, c’est quoi ?
 
-Farouchement indépendant et pas chiant, Nostick.fr est un site d’actualité sur les jeux vidéo publié par Félix, Mickaël & co, sans pression mais avec passion. Le site dispose également d’une infolettre hebdo baptisée [Nostick Reloaded](https://turbo9.substack.com) (ex-Turbo9). Hébergée sur Substack, elle paraît chaque dimanche matin et propose un résumé de l’actualité de la semaine côté JV.
+Farouchement indépendant et pas chiant, Nostick.fr est un site d’actualité sur les jeux vidéo publié par Félix, Mickaël & co, sans pression mais avec passion. Le site dispose également d’une infolettre hebdo baptisée [Nostick Reloaded](https://nostickreloaded.substack.com) (ex-Turbo9). Hébergée sur Substack, elle paraît chaque dimanche matin et propose un résumé de l’actualité de la semaine côté JV.
 
 ## Nous contacter
 
