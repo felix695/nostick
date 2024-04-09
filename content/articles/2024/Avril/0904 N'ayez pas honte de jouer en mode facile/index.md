@@ -1,6 +1,6 @@
 +++
 title = "N'ayez pas honte de jouer en mode facile"
-date = 2024-04-09T23:00:00+01:00
+date = 2024-04-09T19:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Humeur"]
@@ -18,7 +18,10 @@ Dans *Spider-Man 2* et *Ratchet & Clank: Rift Apart*, Insomniac Games propose de
 
 Si l'industrie des guides et autres soluces est florissante, c'est aussi parce que les joueurs ne veulent plus souffrir mille tourments ou tourner en rond pendant des heures pour arriver au bout d'un niveau ou d'une histoire ! Si le jeu vidéo est indéniablement une activité très pratiquée par les plus jeunes (aux États-Unis, les moins de 18 ans représentent 24 % des joueurs, les 18-34 ans sont 36 %), l'âge moyen [tournait](https://venturebeat.com/business/esa-ceo-64-of-u-s-adults-are-gamers-46-of-players-are-women-older-people-are-playing-more/) entre 35 et 44 ans en 2020, selon l'ESA.
 
+![Wolfenstein](Wolfenstein.jpg "Évidemment ça se moque.") 
+
 Autrement dit, le jeu vidéo est aussi pratiqué par des personnes dont le temps se partage entre la famille et les obligations professionnelles. Les heures passées à crapahuter devant sa console ou son PC sont donc comptées ; et puis il faut bien dire aussi que les réflexes sont moins affûtés quand on commence à prendre de la bouteille.
 
 Plutôt que l'exploit accompli à grand coup de sueur et d'énervement, de nombreux joueurs cherchent aujourd'hui une expérience, une immersion. Pas de se qualifier pour les JO du jeu vidéo. Bien sûr, rien n'empêche de vouloir se lancer dans un challenge, il est d'ailleurs souvent très simple de passer d'un niveau de difficulté à un autre sans devoir tout redémarrer ou à se prendre la honte.
 
+{{< chat pashontefacile >}}
