@@ -6,7 +6,7 @@ author = "Mickaël"
 tags = ["Trailer"]
 +++ 
 
-![The Rogue Prince of Persia](Pop.jpg "")
+![The Rogue Prince of Persia](PoP.jpg "")
 
 Après avoir été plus ou moins oublié par Ubisoft, le Prince de Perse est de retour en force dans l'actualité ! Début janvier, Ubisoft Montpellier (les papas de Rayman) faisait parler la foudre avec *Prince of Persia: The Lost Crown*, un retour aux sources avec ce jeu de plateformes 2D façon metroidvania de toute beauté — et qui pourrait bien se retrouver sur quelques listes des jeux de l'année.
 
