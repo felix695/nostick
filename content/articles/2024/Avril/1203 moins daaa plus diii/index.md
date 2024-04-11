@@ -1,5 +1,5 @@
 +++
-title = "Moins d’AAA, plus d’III"
+title = "Les indés aussi veulent leurs Game Awards"
 date = 2024-04-12T10:00:00+01:00
 draft = false
 author = "Félix"
