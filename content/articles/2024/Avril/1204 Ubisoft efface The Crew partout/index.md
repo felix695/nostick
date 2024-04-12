@@ -1,5 +1,5 @@
 +++
-title = "Ubisoft efface The Crew partout"
+title = "Ubisoft efface The Crew partout, et c'est du brutal"
 date = 2024-04-12T18:15:00+01:00
 draft = false
 author = "Mickaël"
