@@ -10,7 +10,7 @@ Il y a un nouveau challenger dans le domaine des *showcases* JV : la « [Triple-
 
 {{< youtube krDFltgjLtE >}}
 
-Une des stars du show était évidemment le roguelite *Prince of Persia: The Lost Crown* dont Mickael vous a déjà bien parlé dans [un article dédié](https://nostick.fr/articles/2024/avril/1004-le-prince-de-perse-est-un-grand-seigneur/) (et qui était sans doute le moins indépendant du lot, mais bref). Dans la même veine, on a aussi pu découvrir [le deuxième opus](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/) de *Slay The Sbire*, le roguelike avec des cartes. La première bande-annonce ne révèle pas grand-chose, mais on nous promet plus d’infos dans le courant de l’année. Et si vous n’avez pas eu votre dose de suite de roguelike, notons également un premier trailer pour *[UnderMine 2](https://www.youtube.com/watch?v=Dp3egh4JsQk)* qui a l’air sympa avec son mode co-op. Tout ça sortira sur PC.
+Une des stars du show était évidemment le roguelite *The Rogue Prince of Persia* dont Mickael vous a déjà bien parlé dans [un article dédié](https://nostick.fr/articles/2024/avril/1004-le-prince-de-perse-est-un-grand-seigneur/) (et qui était sans doute le moins indépendant du lot, mais bref). Dans la même veine, on a aussi pu découvrir [le deuxième opus](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/) de *Slay The Sbire*, le roguelike avec des cartes. La première bande-annonce ne révèle pas grand-chose, mais on nous promet plus d’infos dans le courant de l’année. Et si vous n’avez pas eu votre dose de suite de roguelike, notons également un premier trailer pour *[UnderMine 2](https://www.youtube.com/watch?v=Dp3egh4JsQk)* qui a l’air sympa avec son mode co-op. Tout ça sortira sur PC.
 
 {{< youtube M7qW3CRX1Xw >}}
 
