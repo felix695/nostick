@@ -26,7 +26,7 @@ Cette mise à jour est expérimentale et les choses peuvent encore changer d'ici
 
 On ne va pas se mentir, contrairement à *Balatro*, *Suicide Squad: Kill the Justice Squad* pourra difficilement prétendre au titre de jeu de l'année (j'attends qu'il tombe à 5 € sur Steam pour tester, ce qui est une question de jours maintenant). Le studio Rocksteady et WB Games ont [misé sur le mauvais cheval](https://nostick.fr/articles/2024/mars/suicidesquad/), et d'après les rumeurs la fin est proche pour le jeu service.
 
-![King Shark](KingShark,jpg "King Shark a les crocs (pour un meilleur jeu).")
+![King Shark](KingShark.jpg "King Shark a les crocs (pour un meilleur jeu).")
 
 En interne, l'objectif serait d'en terminer courant avril 2025 avec la saison 5, dans laquelle la Justice League devrait finalement travailler avec les quatre zigotos pour mettre fin au règne de terreur de Brainiac. Le fuiteur Miller Ross [ajoute](https://twitter.com/mmmmmmmmiller/status/1776286368219451832) que la saison 1, qui a livré le Joker en tant que perso jouable, n'a pas aidé à relancer des ventes modestes [insérer surprised-pikachu.jpg].
 
