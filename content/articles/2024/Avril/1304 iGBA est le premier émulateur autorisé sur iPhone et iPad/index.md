@@ -1,5 +1,5 @@
 +++
-title = "iGBA est le premier émulateur autorisé sur iPhone et iPad !"
+title = "iGBA est le premier émulateur autorisé sur iPhone et iPad, et… c'est un clone"
 date = 2024-04-13T23:30:00+01:00
 draft = false
 author = "Mickaël"
@@ -16,4 +16,6 @@ Par défaut, l'application renvoie vers [https://hh.gbdev.io](https://hh.gbdev.i
 
 L'app ne propose qu'une seule interface à l'heure actuelle — une GBA — et affiche un bandeau de pub assez discret sur sa page d'accueil. La bonne surprise, c'est que les contrôles tactiles se montrent plutôt efficaces, même si on aimerait pouvoir repositionner les boutons comme on voudrait (il est possible de modifier l'opacité).
 
-Parmi les réglages intéressants de iGBA, on relève la possibilité de réduire le framerate pour favoriser la qualité, une fonction de sauvegarde automatique (on peut aussi réaliser ses propres sauvegardes), ainsi que trois niveaux de retours haptiques. Alors faites vite et allez récupérer iGBA avant qu'Apple ne change d'avis.
+Parmi les réglages intéressants de iGBA, on relève la possibilité de réduire le framerate pour favoriser la qualité, une fonction de sauvegarde automatique (on peut aussi réaliser ses propres sauvegardes), ainsi que trois niveaux de retours haptiques. 
+
+**Mise à jour —** Évidemment, Apple a encore fait n'importe quoi en donnant le feu vert à une application qui est la copie conforme de GBA4iOS. Le développeur de cette app, Mattia La Spina, a tout simplement [copié/collé](https://www.threads.net/@rileytestut/post/C5u9xdDNCJ2) le code de l'émulateur mis au point il y a des années par Riley Testut, et qui est depuis devenu Delta. Donc mieux vaut ne pas télécharger iGBA, qui en plus d'afficher de la pub, intègre aussi des traqueurs de pub. Apple pouvait difficilement faire mieux (ou pire) que d'approuver un clone dans sa boutique.
