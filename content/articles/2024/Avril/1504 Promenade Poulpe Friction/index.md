@@ -54,3 +54,5 @@ Vous l’aurez compris, j’ai beaucoup apprécié ma dizaine d’heures passée
 
 *Jeu testé sur ROG Ally et sur un MacBook Air via CrossOver.*
 
+{{< chat 1504poulpefriction >}}
+
