@@ -1,6 +1,6 @@
 +++
 title = "iGBA est le premier émulateur autorisé sur iPhone et iPad, et… retiré de l'App Store"
-date = 2024-04-13T23:30:00+01:00
+date = 2024-04-15T11:30:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
@@ -8,7 +8,7 @@ tags = ["Actu"]
 
 ![iGBA](iGBA.jpg "iGBA dans ses œuvres.")
 
-Comme on pouvait le craindre, Apple a complètement merdé l'arrivée des émulateurs sur l'App Store. Apparu ce week-end, iGBA a été promptement supprimé des rayons de la boutique, sans que le constructeur donne de raisons. Il y a toutefois trois possibilités :
+Comme on pouvait le craindre, Apple a complètement merdé l'arrivée des émulateurs sur l'App Store. Apparu ce week-end, iGBA a été promptement supprimé des rayons de la boutique, sans que le constructeur donne de raisons. Il y a toutefois trois possibilités :
 
 - iGBA a volé le code de GBA4iOS, l'émulateur (devenu Delta) développé il y a une dizaine d'années par Riley Testut qui attend toujours le feu vert d'Apple pour lancer sa propre boutique d'apps en Europe ;
 - même si iGBA fait bien office d'émulateur, Apple s'est peut-être rendu compte que c'était un nid à pub ;
