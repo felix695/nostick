@@ -3,7 +3,7 @@ title = "Virtual Boy sur le Vision Pro : enfin une killer app pour le casque d'A
 date = 2024-04-16T18:47:32+01:00
 draft = false
 author = "Mickaël"
-tags = ["Actua"]
+tags = ["Actu"]
 +++ 
 
 ![Le Virtual Boy de Nintendo](VirtualBoy.jpg "")
