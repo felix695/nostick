@@ -1,6 +1,6 @@
 +++
 title = "Test de Promenade : sauts de cabris et collecte de pièces jaunes"
-date = 2024-04-15T22:00:00+01:00
+date = 2024-04-15T20:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Test"]
@@ -53,4 +53,6 @@ Vous l’aurez compris, j’ai beaucoup apprécié ma dizaine d’heures passée
 ![Capture d’écran du jeu Promenade](05.png)
 
 *Jeu testé sur ROG Ally et sur un MacBook Air via CrossOver.*
+
+{{< chat 1504poulpefriction >}}
 
