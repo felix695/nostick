@@ -1,6 +1,6 @@
 +++
 title = "Les jeux vidéo coûtent-ils vraiment trop cher ?"
-date = 2024-04-17T22:47:32+01:00
+date = 2024-04-17T22:07:32+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
