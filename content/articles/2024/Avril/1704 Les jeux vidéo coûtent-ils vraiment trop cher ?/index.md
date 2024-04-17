@@ -3,12 +3,12 @@ title = "Les jeux vidéo coûtent-ils vraiment trop cher ?"
 date = 2024-03-18T18:47:32+01:00
 draft = false
 author = "Mickaël"
-tags = ["Actu"]
+tags = ["XXL"]
 +++ 
 
 ![Page de pub de 1994 avec les prix des jeux SNES](SNES-prix.jpg "Une page de pub vantant les derniers jeux SNES en 1994. Les prix, en dollars, douillaient déjà ! r/ZildjianCymbals") 
 
-**C'est une petite musique que les studios et les éditeurs font entendre discrètement, mais sûrement, aux oreilles des joueurs : les jeux vidéo ne sont pas vendus assez chers. La barrière des 70 € est toujours un peu difficile à franchir mais petit à petit, l'industrie cherche à relever le seuil psychologique. Jusqu'où ?**
+**C'est une petite musique que les studios et les éditeurs font entendre discrètement, mais sûrement, aux oreilles des joueurs : les jeux vidéo ne sont pas vendus assez chers. La barrière des 70 € est toujours un peu difficile à franchir mais l'industrie cherche à relever le seuil psychologique. Jusqu'où ?**
 
 Tous les moyens sont bons pour aller gratter au-delà du prix de vente du jeu. Season pass, battle pass, pack de cosmétiques exclusifs, édition « gold » et « ultimate »… Le lancement de *Starfield* l'an dernier a gravé dans le marbre une nouvelle pratique consistant à donner accès au jeu quelques jours avant son lancement officiel à tous ceux qui ont accepté de mettre un petit billet supplémentaire.
 
@@ -22,6 +22,8 @@ Certains éditeurs jouent cartes sur table. C'est le cas de Nintendo, qui a déc
 
 Ça ne veut pas dire que 70 € sera le nouveau prix de base des gros jeux de Nintendo. D'ailleurs, aucun autre titre de l'éditeur n'a retrouvé ces sommets tarifaires depuis. Mais s'il s'agissait de tester l'appétit des joueurs pour cette étiquette, l'entreprise peut être rassurée : *TotK* a dépassé les 20 millions de copies l'an dernier.
 
+![Tears of the Kingdom](TotK.jpg "À la recherche du prix perdu.") 
+
 Chez Capcom aussi, on prépare les esprits à une future hausse des prix. Haruhiro Tsujimoto, le président de la boîte, n'y est pas allé par quatre chemins : pendant une interview au Tokyo Game Show, en décembre dernier, il a [déploré](https://www.nikkei.com/article/DGXZQOUF1434D0U3A910C2000000/) que les prix des jeux étaient « *trop bas* ».
 
 En attendant de relever les prix de ses jeux, Capcom met le paquet sur les micro-transactions, ce qui ne manque jamais de créer la polémique. Dernière en date : *Dragon's Dogma II*, où il est beaucoup plus facile d'acheter avec de vrais sous des items présents dans le jeu, aussi rares que pratiques (pour se téléporter, par exemple).
@@ -34,11 +36,15 @@ Le dernier *Zelda* est vendu 70 €, mettons que vous allez y passer 100 heures
 
 Un jeu acheté à prix d'or peut se révéler décevant, ou rapidement terminé avec une rejouabilité limitée. Pour excellent qu'il soit, *Metroid Dread* n'a pas grand chose à offrir passée l'aventure qui dure une dizaine d'heures. Et pourtant, le jeu est toujours facturé plein pot par Nintendo, même s'il bénéficie régulièrement de promo. 
 
+![Luigi's Mansion 2 HD](LuigisMansion2HD.jpg "60 balles le remake d'un jeu de 2013 ?") 
+
 Entre la mauvaise foi des joueurs (pas tous…) et les filouteries de certains éditeurs pour nous pousser à la dépense, il y a aussi des raisons concrètes, très réelles, qui poussent les feux sous les prix des jeux : « *Les coûts de développement des jeux sont cent fois plus élevés que durant l'ère de la NES* », expliquait l'an dernier Haruhiro Tsujimoto, le président de Capcom, « *mais les prix des logiciels n'ont pas augmenté de la même façon* ». 
 
 Parmi ces coûts, il y a bien sûr celui des salaires dans une industrie qui a besoin de centaines de cerveaux bien faits pour développer des jeux toujours plus longs, plus riches, plus complexes. Mais pour les plus grosses machines, les frais de licence peuvent aussi être exorbitants.
 
 *Spider-Man 2* est un exemple certes caricatural, mais qui n'en est pas moins vrai : l'exclusivité PS5 d'Insomniac a [coûté](https://kotaku.com/what-hacked-files-tell-us-about-the-studio-behind-spide-1851115233) la bagatelle de 300 millions de dollars (!) à développer. Et le jeu réutilisait une map et des éléments conçus pour le premier *Spider-Man* et rentabilisés avec *Miles Morales*… Cette somme digne des plus gros blockbusters hollywoodiens a été multiplié par 3 par rapport au premier opus des aventures de l'homme araignée. 
+
+![Spider-Man 2](Spidey2.jpg "Spider-Man 2 a coûté trois fois plus cher à développeur que le premier Spider-Man et pourtant on n'a que deux Spider-Men dans le jeu.") 
 
 Pas sûr que les joueurs aient réellement vu la différence, malgré les évidentes qualités du titre. Le seuil de rentabilité pour *Spider-Man 2* était de 7 millions de copies, et Sony l'a franchi sans trop de difficulté. Début février, le constructeur annonçait avoir écoulé 10 millions de copies. De quoi gagner de l'argent… mais pas forcément d'exploser le compte en banque. Malgré tous ses succès, Insomniac a fait partie de ces studios Sony qui ont dû [licencier](https://gamerant.com/insomniac-games-statement-layoffs/) du personnel en début d'année.
 
@@ -60,6 +66,6 @@ Ce même jeu pour Atari 2600 serait vendu aujourd'hui un peu plus de 195 $ ! So
 
 Le hic bien sûr, c'est que nous ne raisonnons pas en termes relatifs, mais en termes absolus : quand les prix augmentent, notre tendance naturelle va nous faire évaluer le nouveau prix par rapport à l'ancien, et ce coût supplémentaire va peser sur notre portefeuille. Mais on ne prend pas en compte tout le reste (hausse du pouvoir d'achat, baisse des prix d'autres biens et services…).
 
-Est-ce qu'on peut dire que les jeux vidéo sont devenus *plus abordables* ? 
+Est-ce qu'on peut dire que les jeux vidéo sont devenus *plus abordables* ? Pris dans un contexte global, ça ne fait pas vraiment de doute. Mais il est impossible de dégager la perception de l'équation : un jeu vidéo peut coûter moins cher aujourd'hui qu'il y a quelques décennies, mais l'augmentation du prix nominal peut toujours être ressentie comme une contrainte financière plus importante.
 
-Et puis il y a toujours les soldes Steam !
+Bon et puis rien n'oblige à acheter les nouveaux jeux le jour de leur sortie ! L'anxiété ressentie face à la possibilité de passer à côté de quelque chose (le fameux FOMO) est une sacrée maladie… N'oubliez pas qu'il y a toujours les soldes Steam !
