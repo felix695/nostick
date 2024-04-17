@@ -6,7 +6,7 @@ author = "Mickaël"
 tags = ["XXL"]
 +++ 
 
-![Page de pub de 1994 avec les prix des jeux SNES](SNES-prix.jpg "Une page de pub vantant les derniers jeux SNES en 1994. Les prix, en dollars, douillaient déjà ! r/ZildjianCymbals") 
+![Page de pub de 1994 avec les prix des jeux SNES](SNES-prix.jpg "Une page de pub vantant les derniers jeux SNES en 1994. Les prix, en dollars, douillaient déjà à l'époque ! r/ZildjianCymbals") 
 
 **C'est une petite musique que les studios et les éditeurs font entendre discrètement, mais sûrement, aux oreilles des joueurs : les jeux vidéo ne sont pas vendus assez chers. La barrière des 70 € est toujours un peu difficile à franchir mais l'industrie cherche à relever le seuil psychologique. Jusqu'où ?**
 
