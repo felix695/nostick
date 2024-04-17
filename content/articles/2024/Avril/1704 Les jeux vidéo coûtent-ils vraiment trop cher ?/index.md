@@ -69,3 +69,5 @@ Le hic bien sûr, c'est que nous ne raisonnons pas en termes relatifs, mais en t
 Est-ce qu'on peut dire que les jeux vidéo sont devenus *plus abordables* ? Pris dans un contexte global, ça ne fait pas vraiment de doute. Mais il est impossible de dégager la perception de l'équation : un jeu vidéo peut coûter moins cher aujourd'hui qu'il y a quelques décennies, mais l'augmentation du prix nominal peut toujours être ressentie comme une contrainte financière plus importante.
 
 Bon et puis rien n'oblige à acheter les nouveaux jeux le jour de leur sortie ! L'anxiété ressentie face à la possibilité de passer à côté de quelque chose (le fameux FOMO) est une sacrée maladie… N'oubliez pas qu'il y a toujours les soldes Steam !
+
+{{< chat jeuxtropchers >}}
