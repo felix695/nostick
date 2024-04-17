@@ -1,5 +1,5 @@
 +++
-title = "Les jeux vidéo coûtent-ils vraiment trop cher ?"
+title = "Les jeux vidéo coûtent-ils vraiment trop cher ?"
 date = 2024-03-17T22:47:32+01:00
 draft = false
 author = "Mickaël"
