@@ -18,7 +18,7 @@ Pas question de se planter. Supergiant Games prépare activement le lancement de
 
 Le studio est à deux doigts de lancer un accès anticipé sur Steam et l'Epic Games Store (c'est prévu entre avril et juin). Mais avant ça, il [organise](https://www.supergiantgames.com/blog/hades2-tech-test-sign-up) un « test technique » pour une poignée de joueurs bienheureux, qui peuvent se frotter à ce tout nouvel univers dans la peau de Melinoë. La fille d'Hadès et sœur de Zagreus — héros du premier opus — est une sorcière avec de puissantes capacités magiques. Surtout, elle est immortelle.
 
-![Hades II](Hades.jpg "Quelle semaine hein ! Mais voyons, on est mer… Ah bah non, c'est le week-end !")
+![Hades II](Hades.jpg "")
 
 *Hades II* reprend évidemment le principe du précédent volet, roguelite oblige, dans des décors isométriques absolument somptueux, [tout comme les persos](https://www.polygon.com/24133525/hades-2-new-character-list-designs-hecate-hephaestus) d'ailleurs. On croise les doigts pour que le jeu soit au niveau de son illustre prédécesseur, et plus encore.
 
