@@ -44,7 +44,7 @@ Parmi ces coûts, il y a bien sûr celui des salaires dans une industrie qui a b
 
 *Spider-Man 2* est un exemple certes caricatural, mais qui n'en est pas moins vrai : l'exclusivité PS5 d'Insomniac a [coûté](https://kotaku.com/what-hacked-files-tell-us-about-the-studio-behind-spide-1851115233) la bagatelle de 300 millions de dollars (!) à développer. Et le jeu réutilisait une map et des éléments conçus pour le premier *Spider-Man* et rentabilisés avec *Miles Morales*… Cette somme digne des plus gros blockbusters hollywoodiens a été multiplié par 3 par rapport au premier opus des aventures de l'homme araignée. 
 
-![Spider-Man 2](Spidey2.jpg "Spider-Man 2 a coûté trois fois plus cher à développeur que le premier Spider-Man et pourtant on n'a que deux Spider-Men dans le jeu.") 
+![Spider-Man 2](Spidey2.jpg "Spider-Man 2 a coûté trois fois plus cher à développer que le premier Spider-Man et pourtant on n'a que deux Spider-Men dans le jeu.") 
 
 Pas sûr que les joueurs aient réellement vu la différence, malgré les évidentes qualités du titre. Le seuil de rentabilité pour *Spider-Man 2* était de 7 millions de copies, et Sony l'a franchi sans trop de difficulté. Début février, le constructeur annonçait avoir écoulé 10 millions de copies. De quoi gagner de l'argent… mais pas forcément d'exploser le compte en banque. Malgré tous ses succès, Insomniac a fait partie de ces studios Sony qui ont dû [licencier](https://gamerant.com/insomniac-games-statement-layoffs/) du personnel en début d'année.
 
