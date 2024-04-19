@@ -6,7 +6,7 @@ author = "Mickaël"
 tags = ["XXL"]
 +++ 
 
-![Mario Kart DS sur iPhone](Delta.jpg "Ceci est bientôt possible sur votre iPhone !") 
+![Mario Kart DS sur iPhone](Delta.jpg "Ceci est vraiment possible sur votre iPhone !") 
 
 Après quelques jours de flottement où on a craint le pire, avec l'arrivée de Delta on peut enfin le dire avec confiance : les émulateurs ont bel et bien droit de cité sur l'App Store ! Qu'est-ce que c'est que cette app, à quoi ça sert, comment peut-on l'installer ? Essayons de répondre à toutes ces questions brûlantes.
 
