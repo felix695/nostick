@@ -85,3 +85,5 @@ Mais évidemment, il n'y a rien de plus simple que d'aller fureter dans les inte
 Si vous souhaitez rester dans la légalité tout en jouant à des jeux sympas, il existe une communauté homebrew très active qui continue de développer des jeux originaux ! Voici un [répertoire](https://itch.io/c/577395/game-boy-homebrew-games), et un [autre](https://hh.gbdev.io), et encore [un autre](https://snescentral.com/homebrew.php). Faites vous plaisir, il y a des perles !
 
 [^1]: Delta n'est pas optimisé pour iPad, par conséquent l'app s'affiche sous la forme d'une app pour iPhone. Il est toutefois possible d'agrandir la fenêtre en « plein écran ».
+
+{{< chat tutodelta >}}
