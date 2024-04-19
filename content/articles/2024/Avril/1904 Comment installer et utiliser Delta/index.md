@@ -1,6 +1,6 @@
 +++
 title = "Comment installer et utiliser Delta, l'émulateur Nintendo ultime pour iPhone"
-date = 2024-04-19T22:11:00+01:00
+date = 2024-04-19T11:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
