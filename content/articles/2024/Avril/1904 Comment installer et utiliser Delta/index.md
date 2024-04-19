@@ -1,6 +1,6 @@
 +++
 title = "Comment installer et utiliser Delta, l'émulateur Nintendo ultime pour iPhone"
-date = 2024-04-19T22:07:32+01:00
+date = 2024-04-19T22:10:3°+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
@@ -12,11 +12,11 @@ Après quelques jours de flottement où on a craint le pire, avec l'arrivée de 
 
 ## Delta, qu'est-ce que c'est ?
 
-Delta est un émulateur pour consoles Nintendo (NES, SNES, DS, Game Boy, Game Boy Advance et N64) développé par Riley Testut. Cette application n'est pas née de la dernière pluie : elle repose sur [GBA4iOS](http://www.gba4iosapp.com), un émulateur GBA pour iOS, dont la création remonte à une dizaine d'années. Et qui continue sa petite vie : une version visionOS est en développement !
+Delta est un émulateur pour consoles Nintendo (NES, SNES, DS, Game Boy, Game Boy Advance et N64) développé par Riley Testut. Cette application n'est pas née de la dernière pluie : elle repose sur [GBA4iOS](http://www.gba4iosapp.com), un émulateur GBA pour iOS (si, si), dont la création remonte à une dizaine d'années. Et qui continue sa petite vie : une version visionOS est en développement !
 
 ![GBA4iOS sur visionOS](GBA4iOS.jpg "GBA4iOS dans visionOS : enfin une app utile pour le Vision Pro !") 
 
-Si Delta est si connu, c'est d'une part parce que Riley en a peaufiné l'interface jusqu'à la maniaquerie : les skins qui reproduisent les consoles de Nintendo sont criantes de vérité. De nombreuses fonctions « qualité de vie » ont été intégrées au fil des annéss, comme la sauvegarde automatique de la progression, le support de quatre joueurs, l'affichage en mode portrait, la synchronisation des parties dans Google Drive ou Dropbox… 
+Si Delta est si connu, c'est d'une part parce que Riley en a peaufiné l'interface jusqu'à la maniaquerie : les skins qui reproduisent les consoles de Nintendo sont criantes de vérité. De nombreuses fonctions « qualité de vie » ont été intégrées au fil des annés, comme la sauvegarde automatique de la progression, le support de quatre joueurs, l'affichage en mode portrait, la synchronisation des parties dans Google Drive ou Dropbox… 
 
 Et puis Delta n'a pas attendu le feu vert d'Apple : l'app peut s'installer sur un iPhone depuis toujours, au prix de quelques bidouilles (on y reviendra). 
 
@@ -28,7 +28,7 @@ Il y a trois manières possibles pour installer Delta sur un iPhone (ou sur un i
 
 ![Delta dans l'App Store](AltStore.jpg "On ne pensait jamais voir un jour Delta dans l'App Store et pourtant, c'est fait ! Observez sur la deuxième capture l'absence de traqueurs.") 
 
-Pour les utilisateurs européens, l'autre solution est d'installer AltStore PAL (une boutique alternative développée elle aussi par Riley Testut), qui distribue Delta. En vertu du DMA, le fameux règlement sur les marchés numériques auquel Apple doit se plier, ces boutiques ont désormais le feu vert pour s'installer sur l'iPhone (et uniquement l'iPhone, l'iPad n'étant pas considéré comme une plateforme suffisamment grande).
+Pour les utilisateurs européens, l'autre solution est d'installer AltStore PAL, une boutique alternative développée elle aussi par Riley Testut qui distribue Delta. En vertu du DMA, le fameux règlement sur les marchés numériques auquel Apple doit se plier, ces boutiques ont désormais le feu vert pour s'installer sur l'iPhone (et uniquement l'iPhone, l'iPad n'étant pas considéré comme une plateforme suffisamment grande).
 
 Premier impératif : l'iPhone doit fonctionner sous iOS 17.4. Second impératif : utiliser Safari. Seul le navigateur d'Apple est en mesure d'installer des boutiques alternatives sur le smartphone. Ensuite, rendez-vous sur le site [alstore.io](https://altstore.io/), touchez le bouton *Get AltStore*, puis préparez-vous à sortir le porte-feuille !
 
