@@ -10,6 +10,18 @@ tags = ["Actu"]
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
+## Les grandes manœuvres pour Hades II
+
+Pas question de se planter. Supergiant Games prépare activement le lancement de *Hades II*, le premier volet — sorti en 2020 — étant une darling du jeu indé et pour de très bonnes raisons : ce roguelite qui plonge le joueur dans les Enfers a su conquérir le cœur et les doigts de millions de joueurs adeptes de mythologie grecque (et de personnages sacrément bien foutus).
+
+{{< youtube l-iHDj3EwdI >}} 
+
+Le studio est à deux doigts de lancer un accès anticipé sur Steam et l'Epic Games Store (c'est prévu entre avril et juin). Mais avant ça, il [organise](https://www.supergiantgames.com/blog/hades2-tech-test-sign-up) un « test technique » pour une poignée de joueurs bienheureux, qui peuvent se frotter à ce tout nouvel univers dans la peau de Melinoë. La fille d'Hadès et sœur de Zagreus — héros du premier opus — est une sorcière avec de puissantes capacités magiques. Surtout, elle est immortelle.
+
+![Hades II](Hades.jpg "Quelle semaine hein ! Mais voyons, on est mer… Ah bah non, c'est le week-end !")
+
+*Hades II* reprend évidemment le principe du précédent volet, roguelite oblige, dans des décors isométriques absolument somptueux, [tout comme les persos](https://www.polygon.com/24133525/hades-2-new-character-list-designs-hecate-hephaestus) d'ailleurs. On croise les doigts pour que le jeu soit au niveau de son illustre prédécesseur, et plus encore.
+
 ## Un pourliche ou la vie
 
 Les éditeurs cherchent par tous les moyens à augmenter les prix de leurs jeux, alors que les coûts de développement (pour les triples A, du moins) n'ont cessé d'enfler. Ubisoft a récemment soufflé sur les braises avec une édition Ultimate pour *Star Wars Outlaw* qui comprend le season pass, des skins et 3 jours d'accès anticipé… pour 130 €. 
