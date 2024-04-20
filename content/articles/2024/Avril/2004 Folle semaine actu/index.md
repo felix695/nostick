@@ -1,6 +1,6 @@
 +++
 title = "Magnifique, fantastique, un peu ironique : la folle semaine du jeu vidéo (20/04)"
-date = 2024-04-20T11:00:01+01:00
+date = 2024-04-20T11:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
