@@ -1,6 +1,6 @@
 +++
 title = "Magnifique, fantastique, un peu ironique : la folle semaine du jeu vidéo (20/04)"
-date = 2024-04-20T10:00:00+01:00
+date = 2024-04-20T10:01:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
@@ -76,4 +76,4 @@ Ce qui devait arriver arriva, le DLC s'est mangé un flot de commentaires négat
 
 Les joueurs qui ont acheté l'extension vont être remboursés, et ceux qui se sont offert l'édition Ultimate de *Skyline 2* recevront gratuitement du contenu supplémentaire d'une valeur de 40 $. À plus long terme, les créateurs du jeu vont mettre le paquet sur l'amélioration du jeu de base et des outils de mods — une fonction essentielle qui a fait le succès de la franchise. Et puis ils veulent aussi impliquer la communauté.
 
-Une réunion va être organisée entre les studios et des représentants des joueurs pour organiser la feuille de route de reste de l'année. « *Les équipes de Colossal Order et de Paradox Interactive leur fourniront une totale transparence et répondront à toutes les questions et critiques exprimées* », assurent les deux patrons. Est-ce le début de la rédemption pour *Cities: Skyline 2* ?
+Une réunion va être organisée entre les studios et des représentants des joueurs pour mettre au point la feuille de route de reste de l'année. « *Les équipes de Colossal Order et de Paradox Interactive leur fourniront une totale transparence et répondront à toutes les questions et critiques exprimées* », assurent les deux patrons. Est-ce le début de la rédemption pour *Cities: Skyline 2* ?
