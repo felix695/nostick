@@ -15,7 +15,7 @@ Maintenant que la porte est ouverte, d'autres émulateurs vont s'y engouffrer : 
 ![Soul Calibur](soulcalibur.jpg "Ce bon vieux Soul Calibur dans PPSSPP")
 
 
-La deuxième bonne nouvelle, c'est que l'équipe de Provenance [travaille](https://www.imore.com/iphone/exclusive-iphone-emulator-provenance-following-delta-onto-the-app-store-with-sega-and-playstation-support-in-tow) elle aussi sur une version pour l'App Store. Cet émulateur à tout faire — de la NES à la PS1, en passant par les consoles de Sega et la Neo-Geo Pocket — est même aux portes de la boutique d'Apple, à en croire Joseph Mattiello, le responsable du développement.
+La deuxième bonne nouvelle, c'est que l'équipe de Provenance [travaille](https://www.imore.com/iphone/exclusive-iphone-emulator-provenance-following-delta-onto-the-app-store-with-sega-and-playstation-support-in-tow) elle aussi sur une version pour l'App Store. Cet agrégateur d'émulateurs — de la NES à la PS1, en passant par les consoles de Sega et la Neo-Geo Pocket — est même aux portes de la boutique d'Apple, à en croire Joseph Mattiello, le responsable du développement.
 
 ![Provenance](Provenance.jpg "L'émulateur Provenance.")
 
