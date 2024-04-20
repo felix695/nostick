@@ -54,7 +54,7 @@ Le constructeur, qui est aussi le créateur d'*Untitled Goose Game*, de *Firewat
 
 ![Le dock de la Playdate](Playdate-dock.jpg "Deux ans d'attente et le dock de la Playdate n'est toujours pas dispo !")
 
-Pas si mal pour une console équipée d'un écran monochrome, 4 Go de stockage et 16 Go de RAM qui s'est vendue à 700 000 exemplaires ! La bonne nouvelle dans tout ça, c'est que le dock de recharge qui transforme la console en une sorte de mini-télé vintage est toujours dans les tuyaux et qu'il sortira « bientôt ».
+Pas si mal pour une console équipée d'un écran monochrome, 4 Go de stockage et 16 Mo de RAM qui s'est vendue à 700 000 exemplaires ! La bonne nouvelle dans tout ça, c'est que le dock de recharge qui transforme la console en une sorte de mini-télé vintage est toujours dans les tuyaux et qu'il sortira « bientôt ».
 
 ## Entre PlayStation et PC, Ghost of Tsushima ne choisit pas
 
