@@ -31,6 +31,6 @@ Au fond de moi, j’ai toujours rêvé que mon boss me vire, que ma femme me qui
 
 Les développeurs du sympathique *El Paso; Elswhere* sont de retour avec un nouveau concept bien glauque baptisé *Life Eater*. Si vous aimez les jeux qui mettent mal à l’aise, c’est pour vous : il ne s’agit rien de moins que d’un simulateur de kidnapping dans lequel on doit sacrifier ses victimes dans un rituel pour un dieu obscur. Une histoire d'horreur du point de vue du tueur avec une atmosphère ultra-lourde, donc. Contrairement à un *ManHunt*, *Life Eater* n’est pas un jeu d’infiltration mais plutôt un puzzle-game narratif dans lequel on utilise une sorte de logiciel de montage pour suivre la routine de ses victimes. Les premiers retours évoquent un jeu 7/10 avec un bon concept et une durée de vie assez courte, loin d’être exceptionnel, mais qui devrait vous rester en tête quelque temps. À réserver aux fans du premier *Postal* ou de *Hatred*. 14,79 € [sur Steam](https://store.steampowered.com/app/2632930/Life_Eater/).
 
-![Capture d’écran du jeu Life Eater](lifeeater.jpg "Légende de l’image")
+![Capture d’écran du jeu Life Eater](lifeeater.jpg "Le problème avec les jambes c'est qu'on ne sait jamais où les ranger.")
 
 {{< chat 210424sortiesdelasemaine >}} 
