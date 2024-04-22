@@ -1,6 +1,6 @@
 +++
 title = "Star Wars Jedi Survivor sur EA Play (et le Game Pass) : EA en profite pour augmenter les prix"
-date = 2024-22-04T10:47:32+01:00
+date = 2024-04-22T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
