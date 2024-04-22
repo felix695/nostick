@@ -17,3 +17,5 @@ Le jeu risque de connaitre un joli petit succès sur le Game Pass, qui enregistr
 ![Nouveaux tarifs d'EA Play](EAPlay.jpg "Oui c'est en dollars canayens.")
 
 L'abonnement EA Play Pro, sur lequel il est déjà possible de profiter de *Jedi Survivor*, prend cher lui aussi à 19,99 € par mois (+ 2 €). Microsoft n'a pas annoncé de son côté si le Game Pass allait à son tour subir une hausse de tarif, on croise les doigts pour que non.
+
+**Mise à jour —** Hé bien, il n'aura pas fallu attendre longtemps l'annonce officielle puisque la [voilà](https://news.xbox.com/en-us/2024/04/22/star-wars-jedi-survivor-joins-the-play-list-on-april-25/). Star Wars Jedi: Survivor sera bel et bien disponible dans EA Play et donc le Game Pass Ultimate le 25 avril.
