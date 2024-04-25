@@ -1,6 +1,6 @@
 +++
 title = "Un bidouilleur développe un chouette remake de Rayman 3 sous l’Unreal Engine 5"
-date = 2024-04-25T10:00:32+01:00
+date = 2024-04-25T12:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
