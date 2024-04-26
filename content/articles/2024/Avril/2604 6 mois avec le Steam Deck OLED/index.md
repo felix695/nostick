@@ -1,6 +1,6 @@
 +++
 title = "6 mois avec le Steam Deck OLED, 6 mois de bonheur"
-date = 2024-04-26T12:47:32+01:00
+date = 2024-04-26T12:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
