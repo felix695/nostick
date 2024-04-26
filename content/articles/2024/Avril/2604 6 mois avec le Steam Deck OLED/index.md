@@ -60,3 +60,5 @@ Je ne dis pas qu'installer et gérer tout ce bazar se fait en un tour de main, m
 On peut théoriser tant qu'on veut sur l'impact du Steam Deck, que certains présentent comme le sauveur d'une industrie du jeu vidéo en péril ne sachant plus comment attirer de nouveaux joueurs. En attendant et pour ce qui me concerne, le Steam Deck LCD a marqué un nouvel intérêt pour le jeu vidéo PC — et le Steam Deck OLED m'a ouvert les yeux sur les capacités de cette console, que ce soit pour le jeu AAA, le jeu indé ou le rétro-gaming. 
 
 Cette petite machine (façon de parler, c'est un gros cul tout de même) avale tout ce que je lui demande sans barguigner et c'est un véritable gouffre à productivité. Le plus beau, c'est que le Steam Deck OLED est relativement bon marché, n'ayons pas peur des mots : 569 € avec 512 Go de stockage, 679 € pour 1 To. Et les versions LCD, toujours au catalogue, sont encore plus abordables. Ma Switch et mon PC en ont marre de prendre la poussière.
+
+{{< chat SteamDeckRetest >}} 
