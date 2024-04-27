@@ -70,7 +70,7 @@ Nintendo a décidé de sévir contre les skins et les mods de ses personnages da
 
 Pour confirmer qu'il s'agissait bien d'une exigence de Nintendo et pas d'une lubie (ou pire, d'une demande de retrait provenant d'un [imposteur](https://torrentfreak.com/nintendo-vs-garrys-mod-dissecting-the-fake-domain-behind-all-the-chaos-240426/)), Facepunch a [publié](https://store.steampowered.com/news/app/4000/view/4200245595694413052) un mot sur Steam expliquant qu'il ne s'agissait pas d'une erreur et que ces retraits provenaient bien de Nintendo. Et manifestement, c'est sans rancœur que les développeurs s'exécutent.
 
-![Mario](mario.jpg "Un des innombrables mod de Mario dans Garry's Mod.")
+![Mario](mario.jpg "Un des innombrables mod de Zelda dans Garry's Mod.")
 
 « *Honnêtement, ça nous semble juste* », indiquent-ils. « *C'est le contenu de Nintendo et ce qu'ils autorisent ou non dépend d'eux. S'ils ne veulent pas que vous utilisiez ces éléments dans Garry's Mod, c'est leur décision, nous devons la respecter et en retirer autant que possible* ».
 
