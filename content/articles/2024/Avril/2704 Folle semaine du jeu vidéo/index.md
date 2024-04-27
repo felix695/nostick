@@ -1,6 +1,6 @@
 +++
 title = "Incongrue, farfelue, un peu malotrue : la folle semaine du jeu vidéo (27/04)"
-date = 2024-04-27T12:00:32+01:00
+date = 2024-04-27T09:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
