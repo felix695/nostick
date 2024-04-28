@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
-vignette = "SteamDeck2.jpg"
+vignette = "https://nostick.fr/articles/2024/avril/2604-6-mois-avec-le-steam-deck-oled/SteamDeck2.jpg"
 +++
 
 ![Steam Deck](SteamDeck2.jpg "") 
