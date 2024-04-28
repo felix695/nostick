@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignette/vignette-steamdeck.jpg"
+vignette = "https://nostick.fr/articles/vignettes/vignette-steamdeck.jpg"
 +++
 
 ![Steam Deck](SteamDeck2.jpg "") 

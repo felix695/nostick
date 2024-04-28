@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Trailer"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignette/rayman.jpg"
+vignette = "https://nostick.fr/articles/vignettes/rayman.jpg"
 +++ 
 
 {{< youtube Ig2808QQ6oQ >}} 
