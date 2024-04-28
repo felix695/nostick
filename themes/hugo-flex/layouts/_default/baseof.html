@@ -12,12 +12,29 @@
   {{ end }}
   {{ partial "assets.html" . }}
 
+
+
   <script defer data-domain="nostick.fr" src="https://plausible.io/js/script.js"></script>
 
 <meta name="apple-mobile-web-app-title" content="Nostick">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="apple-touch-icon" sizes="180x180" href="/favicon_webapp.png">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Description | default .Summary }}">
+<meta property="og:image" content="{{ .Params.image | absURL }}">
+<meta property="og:url" content="{{ .Permalink }}">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Description | default .Summary }}">
+<meta name="twitter:image" content="{{ .Params.image | absURL }}">
+
+<script defer data-domain="nostick.fr" src="https://plausible.io/js/script.js"></script>
+
 
 
 
