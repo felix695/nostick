@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Trailer"]
 type = "une"
-vignette = "https://nostick.fr/articles/2024/avril/2504-un-bidouilleur-developpe-un-chouette-remake-de-rayman-3-sous-lunreal-engine-5/rayman.jpg"
+vignette = "https://nostick.fr/articles/vignette/rayman.jpg"
 +++ 
 
 {{< youtube Ig2808QQ6oQ >}} 
