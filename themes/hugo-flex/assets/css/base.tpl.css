@@ -28,6 +28,7 @@ img {
   border-radius: 0.2rem;
 }
 
+
 figure {
     margin: 0;
     padding: 0;
@@ -64,6 +65,32 @@ kbd {
 kbd:has(kbd) {
   padding: 0.3rem 0;
 }
+
+.img-vignette {
+  width: 30%;    /* Largeur fixe */
+  height: auto;    /* Hauteur ajustée proportionnellement */
+}
+
+.une a h2 {
+  font-size: 18px;
+  margin: 0; /* Ajustez la marge selon le besoin */
+  color: #333; /* Spécifiez une couleur pour le titre si différente du lien */
+}
+
+
+.container-vignettes {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 680px; /* ou 100% si vous voulez que cela prenne toute la largeur du parent */
+  margin: 0 auto; /* Centrer le conteneur dans la page */
+}
+
+.vignette {
+  flex: 1 1 50%; /* Chaque vignette peut grandir jusqu'à remplir l'espace mais commence à 30% */
+  margin: 5px; /* Ajout d'un petit espace entre les vignettes */
+}
+
 
 
 .read-more-trigger {

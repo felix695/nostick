@@ -24,14 +24,44 @@
 
 </head>
 <body>
+
+ 
+
+  
   {{ partialCached "banner.html" . }}
+
+
+
+  <div class="container-vignettes">
+  {{ range first 2 (where .Site.RegularPages "Type" "une") }}
+  <div class="vignette">
+    <a href="{{ .Permalink }}">
+      <img src="{{ .Params.vignette }}" alt="{{ .Title }}" style="width: 100%; height: auto;">
+     <div class="une">
+
+
+      <h2>{{ .Title }}</h2>
+    </a> </div>
+  </div>
+  {{ end }}
+</div>
+
+
+
+
   <main>
     <div class="u-wrapper">
       <div class="u-padding">
         {{ block "main" . }}{{ end }}
       </div>
     </div>
+
+
+
   </main>
+
+
+
   {{ partialCached "footer.html" . }}
   
 </body>
