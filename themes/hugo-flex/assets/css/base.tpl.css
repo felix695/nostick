@@ -95,7 +95,7 @@ kbd:has(kbd) {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  max-width: 680px; /* ou 100% si vous voulez que cela prenne toute la largeur du parent */
+  max-width: 640px; /* ou 100% si vous voulez que cela prenne toute la largeur du parent */
   margin: 0 auto; /* Centrer le conteneur dans la page */
 }
 
