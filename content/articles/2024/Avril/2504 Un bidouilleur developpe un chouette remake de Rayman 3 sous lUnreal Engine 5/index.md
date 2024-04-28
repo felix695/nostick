@@ -4,7 +4,8 @@ date = 2024-04-25T12:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-
+type = "une"
+vignette = "rayman.jpg"
 +++ 
 
 {{< youtube Ig2808QQ6oQ >}} 
