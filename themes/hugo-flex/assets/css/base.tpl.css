@@ -343,4 +343,43 @@ kbd:has(kbd) {
   clear: both;
 }
 
+.breaking-news {
+  background-color: #9C1D3D; /* Couleur de fond du bandeau */
+  color: #fff; /* Couleur du texte du bandeau */
+  padding: 0px;
+  overflow: hidden;
+  white-space: nowrap;
+}
 
+.news-container {
+  display: inline-block;
+  animation: scroll-left 15s linear infinite; /* Animation de défilement */
+}
+
+.news-item {
+  margin-right: 20px; /* Espace entre les breaking news */
+  white-space: nowrap; /* Empêche le retour à la ligne */
+}
+
+.latest-news {
+  margin-right: 10px; /* Espace entre "Dernière minute" et le bandeau défilant */
+  font-weight: bold; /* Texte en gras */
+  border-right: 1px solid #fff; /* Démarcation à gauche du bandeau défilant */
+  padding-right: 10px; /* Espace entre la démarcation et le bandeau défilant */
+  vertical-align: middle; /* Alignement vertical */
+  background: white;
+  color: black;
+  padding : 15px;
+   z-index: 2 !important; /* Place l'élément en arrière-plan */
+  position: relative;
+
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
