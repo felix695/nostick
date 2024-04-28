@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Trailer"]
 type = "une"
-vignette = "rayman.jpg"
+vignette = "/rayman.jpg"
 +++ 
 
 {{< youtube Ig2808QQ6oQ >}} 
