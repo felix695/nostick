@@ -74,11 +74,11 @@ kbd:has(kbd) {
 .une a h2 {
   font-size: 18px;
   margin: 0; /* Ajustez la marge selon le besoin */
-  color: #000000; /* Spécifiez une couleur pour le titre si différente du lien */
+  color: #A678D4 ;
 }
 
 .une a h2:visited {
-   color: #000000; /* Spécifiez une couleur pour le titre si différente du lien */
+  color: #A678D4 ;
 }
 
 
