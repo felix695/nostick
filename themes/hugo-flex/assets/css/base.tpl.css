@@ -77,6 +77,11 @@ kbd:has(kbd) {
   color: #000000 ;
 }
 
+@media (prefers-color-scheme: dark) {
+  a h2 {
+    color: #FFFFFF; /* Couleur plus claire pour le mode sombre */
+  }
+
 .une a h2:visited {
   color: inherit !important;
 }
