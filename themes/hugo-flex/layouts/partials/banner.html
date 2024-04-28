@@ -3,7 +3,8 @@
     <ul class="Banner">
       <li class="Banner-item Banner-item--logo">
         <a class="Banner-link u-clickable" href="{{ relLangURL nil }}">
-<!-- Script pour changer le logo quotidiennement -->
+          <!-- Script pour changer le logo quotidiennement -->
+          <img id="dailyLogo" src="/logo.png" alt="Logo" class="Banner-logo">
           <script>
             document.addEventListener("DOMContentLoaded", function() {
               var logos = [
@@ -16,7 +17,7 @@
                 "/Logos/Logo7.png",
                 "/Logos/Logo8.png",
                 "/Logos/Logo9.png",                
-                "/Logos/Logo10.png",
+                "/Logos/Logo10.png"
               ];
               var date = new Date();
               var index = date.getDate() % logos.length; // Choisit un logo basé sur le jour du mois
@@ -35,13 +36,13 @@
       </li>
       {{ end }}
     </ul>
-<div class="breaking-news">
-  <span class="latest-news">En bref</span>
-  <div class="news-container">
-    <span class="news-item">Delta, l'émulateur Nintendo pour iPhone, sera bientôt optimisé pour iPad. ■</span>
-    <span class="news-item">Alien: Rogue Incursion, un nouveau jeu Alien en VR, va sortir dans l’été sur PSVR2, PC et Meta Quest 3. ■</span>
-    <!-- Ajoutez autant de <span class="news-item">...</span> que nécessaire pour plus de breaking news -->
-  </div>
-</div>
+    <div class="breaking-news">
+      <span class="latest-news">En bref</span>
+      <div class="news-container">
+        <span class="news-item">Delta, l'émulateur Nintendo pour iPhone, sera bientôt optimisé pour iPad. ■</span>
+        <span class="news-item">Alien: Rogue Incursion, un nouveau jeu Alien en VR, va sortir dans l’été sur PSVR2, PC et Meta Quest 3. ■</span>
+        <!-- Ajoutez autant de <span class="news-item">...</span> que nécessaire pour plus de breaking news -->
+      </div>
+    </div>
   </div>
 </nav>
