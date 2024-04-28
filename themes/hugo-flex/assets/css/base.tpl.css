@@ -28,6 +28,9 @@ img {
   border-radius: 0.2rem;
 }
 
+#dailyLogo {
+  visibility: hidden; /* Cache l'image jusqu'à ce que le JS soit chargé */
+}
 
 figure {
     margin: 0;
