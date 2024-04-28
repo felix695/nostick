@@ -74,11 +74,10 @@ kbd:has(kbd) {
 .une a h2 {
   font-size: 18px;
   margin: 0; /* Ajustez la marge selon le besoin */
-  color: #A678D4 ;
 }
 
 .une a h2:visited {
-  color: #A678D4 ;
+  color: inherit !important;
 }
 
 
