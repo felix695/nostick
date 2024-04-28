@@ -3,7 +3,27 @@
     <ul class="Banner">
       <li class="Banner-item Banner-item--logo">
         <a class="Banner-link u-clickable" href="{{ relLangURL nil }}">
-          <img src="/logo.png" alt="Logo" class="Banner-logo">
+<!-- Script pour changer le logo quotidiennement -->
+          <img id="dailyLogo" src="/logo.png" alt="Logo" class="Banner-logo">
+          <script>
+            document.addEventListener("DOMContentLoaded", function() {
+              var logos = [
+                "/Logos/Logo1.png",
+                "/Logos/Logo2.png",
+                "/Logos/Logo3.png",
+                "/Logos/Logo4.png",
+                "/Logos/Logo5.png",
+                "/Logos/Logo6.png",
+                "/Logos/Logo7.png",
+                "/Logos/Logo8.png",
+                "/Logos/Logo9.png",                
+                "/Logos/Logo10.png",
+              ];
+              var date = new Date();
+              var index = date.getDate() % logos.length; // Choisit un logo basé sur le jour du mois
+              document.getElementById('dailyLogo').src = logos[index];
+            });
+          </script>
         </a>
       </li>
       {{ range site.Menus.main }}
