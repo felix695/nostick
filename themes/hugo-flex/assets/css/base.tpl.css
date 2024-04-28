@@ -74,7 +74,6 @@ kbd:has(kbd) {
 .une a h2 {
   font-size: 18px;
   margin: 0; /* Ajustez la marge selon le besoin */
-  color: #333; /* Spécifiez une couleur pour le titre si différente du lien */
 }
 
 
