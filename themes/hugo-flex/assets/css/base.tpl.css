@@ -69,6 +69,8 @@ kbd:has(kbd) {
   padding: 0.3rem 0;
 }
 
+/* BLOC VIGNETTES */
+
 .img-vignette {
   width: 30%;    /* Largeur fixe */
   height: auto;    /* Hauteur ajustée proportionnellement */
@@ -103,6 +105,28 @@ kbd:has(kbd) {
   flex: 1 1 50%; /* Chaque vignette peut grandir jusqu'à remplir l'espace mais commence à 30% */
   margin: 5px; /* Ajout d'un petit espace entre les vignettes */
 }
+
+.featured-container {
+  display: flex;
+  justify-content: space-between;
+}
+.featured-article {
+  flex: 1;
+  margin: 5px;
+  text-align: center;
+}
+.featured-article img {
+  width: 100%;
+  height: auto;
+}
+
+.featured-article h2 {
+  font-size: 18px; /* Définit la taille de la police des titres à 16px */
+  color: black;     /* Couleur de la police */
+  text-align: left; /* Alignement du texte */
+}
+
+/* FIN BLOC VIGNETTES */
 
 
 
