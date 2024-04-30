@@ -22,7 +22,8 @@ Le site a été développé à l’aide d’[Hugo](https://gohugo.io) en se basa
 
 **Directeur de la publication :** Félix Cattafesta
 
-**Hébergeur** : 
+**Hébergeur** :
+
 [Infomaniak](https://www.infomaniak.com/goto/fr/hosting.web?utm_term=5fd3bff1d1501) Network SA
 Rue Eugène Marziano 25
 1227 Les Acacias
