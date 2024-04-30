@@ -7,7 +7,7 @@ tags = ["Trailer"]
 +++ 
 ![Texte Alternative](SystemShock.jpg "Bah alors on te voit plus aux soirées ? © Nightdive")
 
-Le remake de *System Shock* n'a pas eu de bol. Lancé sur PC en mai dernier, le titre développé par le studio Nightdive et édité par Prime Matter est sorti durant une période très chargée[^1] d'une année historique pour les jeux vidéo. Malgré sa grande classe, le FPS n'a pas vraiment su trouver sa place.
+Le remake de *System Shock*  n'a pas eu de bol. Lancé sur PC en mai dernier, le titre développé par le studio Nightdive et édité par Prime Matter est sorti durant une période très chargée[^1] d'une année historique pour les jeux vidéo. Malgré sa grande classe, le FPS n'a pas vraiment su trouver sa place.
 
 Le jeu se donne une deuxième chance avec la version pour consoles (PS4, PS5, Xbox One et Series X/S) qui sera disponible le [21 mai](https://presse.plaion.com/ALL-SYSTEMS-ACTIVE). Évidemment, par rapport à l'original de 1994, tout a été revu du sol au plafond, à commencer par des graphismes modernisés bien sûr. 
 
