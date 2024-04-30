@@ -4,7 +4,7 @@
 <div class="container-vignettes">
   {{ $uneArticles := where .Site.RegularPages "Params.type" "une" }} <!-- Filtrer les articles de type 'une' -->
   {{ $recentUneArticles := first 6 (sort $uneArticles "Date" "desc") }} <!-- Sélectionner les 6 derniers articles -->
-  {{ $randomArticles := first 2 (shuffle $recentUneArticles) }} <!-- Choisir deux articles au hasard -->
+  {{ $randomArticles := first 2 (shuffle (first 6 (sort $uneArticles "Date" "desc"))) }} <!-- Choisir deux articles au hasard -->
 
   {{ range $randomArticles }} <!-- Boucle sur les articles sélectionnés au hasard -->
   <div class="vignette">
@@ -19,4 +19,6 @@
 </div>
 
 <!-- Pagination et affichag des articles de la page d'accueil -->
+
+{{ $uneArticles := where .Site.RegularPages "Params.type" "une" }}
 

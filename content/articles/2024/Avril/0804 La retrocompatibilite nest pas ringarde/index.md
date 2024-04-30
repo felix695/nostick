@@ -4,7 +4,7 @@ date = 2024-04-08T15:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
-type = ["une"]
+type = "une"
 vignette = "https://nostick.fr/articles/vignettes/Xbox360.jpg"
 +++ 
 
