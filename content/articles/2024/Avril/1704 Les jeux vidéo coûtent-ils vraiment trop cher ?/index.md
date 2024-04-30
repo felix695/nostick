@@ -4,7 +4,7 @@ date = 2024-04-17T22:07:32+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
-type = "une"
+type = ["une"]
 vignette = "https://nostick.fr/articles/vignettes/prix.jpg"
 +++ 
 
