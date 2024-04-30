@@ -24,10 +24,4 @@
   {{ end }}
 </div>
 
-{{/* Affichage des autres pages normalement */}}
-{{ range $nonUnePages }}
-  <article>
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-  </article>
 {{ end }}
