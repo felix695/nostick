@@ -4,6 +4,8 @@ date = 2024-04-23T19:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+type = "une"
+vignette = "https://nostick.fr/articles/vignettes/meta.jpg"
 +++ 
 
 ![Étiquette représentant le logo Meta OS](metaos.png)

@@ -4,6 +4,8 @@ date = 2024-04-17T22:07:32+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
+type = "une"
+vignette = "https://nostick.fr/articles/vignettes/prix.jpg"
 +++ 
 
 ![Page de pub de 1994 avec les prix des jeux SNES](SNES-prix.jpg "Une page de pub vantant les derniers jeux SNES en 1994. Les prix, en dollars, douillaient déjà à l'époque ! r/ZildjianCymbals") 
