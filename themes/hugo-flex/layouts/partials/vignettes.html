@@ -1,27 +1,24 @@
-{{/* Assignation de toutes les pages régulières à une variable */}}
-{{ $allPages := .Site.RegularPages }}
+<!-- Bloc des vignettes pour les articles de type 'une' -->
 
-{{/* Filtrage des pages de type 'une' */}}
-{{ $unePages := where $allPages "Params.type" "une" }}
 
-{{/* Filtrage des pages qui ne sont pas de type 'une' */}}
-{{ $nonUnePages := where $allPages "Params.type" "not" "une" }}
-
-{{/* Sélection et mélange des 6 derniers articles de type 'une' puis sélection des 2 premiers pour les vignettes */}}
-{{ $randomUnePages := first 2 (shuffle (first 6 (sort $unePages "Date" "desc"))) }}
-
-{{/* Affichage des vignettes */}}
 <div class="container-vignettes">
-  {{ range $randomUnePages }}
-    <div class="vignette">
-      <a href="{{ .Permalink }}">
-        <img src="{{ .Params.vignette }}" alt="{{ .Title }}" style="width: 100%; height: auto;">
-        <div class="une">
-          <h2>{{ .Title }}</h2>
-        </div>
-      </a>
-    </div>
+  {{ $uneArticles := where .Site.RegularPages "Params.type" "une" }} <!-- Filtrer les articles de type 'une' -->
+  {{ $recentUneArticles := first 6 (sort $uneArticles "Date" "desc") }} <!-- Sélectionner les 6 derniers articles -->
+  {{ $randomArticles := first 2 (shuffle (first 6 (sort $uneArticles "Date" "desc"))) }} <!-- Choisir deux articles au hasard -->
+
+  {{ range $randomArticles }} <!-- Boucle sur les articles sélectionnés au hasard -->
+  <div class="vignette">
+    <a href="{{ .Permalink }}">
+      <img src="{{ .Params.vignette }}" alt="{{ .Title }}" style="width: 100%; height: auto;">
+      <div class="une">
+        <h2>{{ .Title }}</h2>
+      </div>
+    </a>
+  </div>
   {{ end }}
 </div>
 
-{{ end }}
+<!-- Pagination et affichag des articles de la page d'accueil -->
+
+{{ $uneArticles := where .Site.RegularPages "Params.type" "une" }}
+
