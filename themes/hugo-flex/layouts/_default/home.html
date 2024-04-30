@@ -25,23 +25,9 @@
 
 {{ define "main" }}
 
-  <!-- Bloc des vignettes pour les articles de type 'une' -->
 
-<div class="container-vignettes">
-  {{ range first 2 (where .Site.RegularPages "Type" "une") }}
-  <div class="vignette">
-    <a href="{{ .Permalink }}">
-      <img src="{{ .Params.vignette }}" alt="{{ .Title }}" style="width: 100%; height: auto;">
-     <div class="une">
+ {{ partial "vignettes.html" . }}
 
-
-      <h2>{{ .Title }}</h2>
-    </a> </div>
-  </div>
-  {{ end }}
-</div>
-
-  <!-- Pagination et affichage des articles de la page d'accueil -->
 
 
   {{ $length := len .Paginator.Pages }}

@@ -76,13 +76,21 @@ kbd:has(kbd) {
   height: auto;    /* Hauteur ajustée proportionnellement */
 }
 
+.une {
+  font-size: 12px;
+  margin: 0; /* Ajustez la marge selon le besoin */
+  color: #000000 ;
+}
+
 .une a h2 {
-  font-size: 18px;
   margin: 0; /* Ajustez la marge selon le besoin */
   color: #000000 ;
 }
 
 @media (prefers-color-scheme: dark) {
+  .une {
+    color: white; /* Blanc pour le mode sombre */
+  }
   .une a h2 {
     color: white; /* Blanc pour le mode sombre */
   }
@@ -110,21 +118,7 @@ kbd:has(kbd) {
   display: flex;
   justify-content: space-between;
 }
-.featured-article {
-  flex: 1;
-  margin: 5px;
-  text-align: center;
-}
-.featured-article img {
-  width: 100%;
-  height: auto;
-}
 
-.featured-article h2 {
-  font-size: 18px; /* Définit la taille de la police des titres à 16px */
-  color: black;     /* Couleur de la police */
-  text-align: left; /* Alignement du texte */
-}
 
 /* FIN BLOC VIGNETTES */
 
