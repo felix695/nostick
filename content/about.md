@@ -28,6 +28,6 @@ Rue Eugène Marziano 25
 1227 Les Acacias
 Suisse
 
-**Propriété intellectuelle**
+**Propriété intellectuelle** :
 
 Toute reproduction (même partielle) du contenu publié sur nos sites est interdite sans autorisation écrite de Nostick, sauf dans les cas prévus par l’article L122-5 du Code de la propriété intellectuelle. Tous les noms de marques et de produits mentionnés sur Nostick sont des marques déposées ou des appellations commerciales de leurs propriétaires respectifs.
