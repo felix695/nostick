@@ -1,9 +1,8 @@
 {{ define "load_paginator" }}
-
-  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{ with .Paginate $pages }}{{ end }}
-
+  {{ $paginator := .Paginate .Site.RegularPages }}
+  {{ with $paginator }}{{ end }}
 {{ end }}
+
 
 {{ define "load_page_assets" }}
 
@@ -24,49 +23,43 @@
 {{ end }}
 
 {{ define "main" }}
+  <!-- Intégration des vignettes -->
+  {{ partial "vignettes.html" . }}
 
-
- {{ partial "vignettes.html" . }}
-
-
-
-  {{ $length := len .Paginator.Pages }}
-  {{ range $index, $page := .Paginator.Pages }}
-    <article>
-      {{ partial "heading.html" . }}
-      {{ if site.Params.summaries }}
-        {{ .Summary }}
-        {{ if .Truncated }}
-          <p>
-            <a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a>
-          </p>
-        {{ end }}
-      {{ else }}
-        <input type="checkbox" id="post-{{ .PublishDate }}" class="read-more-state">
-        <div class="read-more-wrap">
-          <div class="read-more-target">
-            {{ .Content }}
+  <!-- Liste complète des articles, y compris ceux de type 'une' -->
+  <div class="articles-list">
+    {{ range .Paginator.Pages }}
+      <article>
+        {{ partial "heading.html" . }}
+        {{ if .Params.summaries }}
+          {{ .Summary }}
+          {{ if .Truncated }}
+            <p><a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a></p>
+          {{ end }}
+        {{ else }}
+          <input type="checkbox" id="post-{{ .PublishDate }}" class="read-more-state">
+          <div class="read-more-wrap">
+            <div class="read-more-target">
+              {{ .Content }}
+            </div>
           </div>
-        </div>
-        <label for="post-{{ .PublishDate }}" class="read-more-trigger"></label>
-      {{ end }}
-    </article>
-    {{ if add $index 1 | ne $length | and site.Params.divider }}
-      <div class="Divider"></div>
+          <label for="post-{{ .PublishDate }}" class="read-more-trigger"></label>
+        {{ end }}
+      </article>
     {{ end }}
-  {{ end }}
+  </div>
 
+  <!-- Pagination -->
   {{ partial "pagination.html" . }}
 
-<footer>
-  <div class="tag-container2">
-    <div class="footer-tags">
-      {{ range .Site.Taxonomies.tags }}
-        <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
-      {{ end }}
+  <!-- Pied de page -->
+  <footer>
+    <div class="tag-container2">
+      <div class="footer-tags">
+        {{ range .Site.Taxonomies.tags }}
+          <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
+        {{ end }}
+      </div>
     </div>
-  </div>
-</footer>
-
-
+  </footer>
 {{ end }}
