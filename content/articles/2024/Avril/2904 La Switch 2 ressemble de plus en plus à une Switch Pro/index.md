@@ -10,7 +10,7 @@ vignette = "https://nostick.fr/articles/vignettes/switch2.jpg"
 
 ![Concept de Switch 2](switch2.jpg "La Switch 2 ne ressemblera certainement pas à ce concept de ChatGPT.") 
 
-Il est vraiment temps que Nintendo donne des nouvelles de la Switch 2, les rumeurs autour de la future console n'en peuvent plus de s'abattre comme les impôts sur les pauvres gens. On a eu droit ces derniers jours à un véritable tsunami de bruits de couloir, certains contradictoires (c'est le jeu après tout), mais qui semblent tous dessiner un appareil finalement assez proche de la console qu'on connait bien. Qui a dit Switch Pro ?
+Il est vraiment  temps que Nintendo donne des nouvelles de la Switch 2, les rumeurs autour de la future console n'en peuvent plus de s'abattre comme les impôts sur les pauvres gens. On a eu droit ces derniers jours à un véritable tsunami de bruits de couloir, certains contradictoires (c'est le jeu après tout), mais qui semblent tous dessiner un appareil finalement assez proche de la console qu'on connait bien. Qui a dit Switch Pro ?
 
 Tellement proche qu'on devrait bel et bien pouvoir jouer aux jeux de la Switch 1 : le slot de la nouvelle console pourrait ainsi accueillir les cartouches de la précédente génération, [affirme](https://www.mobapad.com/blogs/the-latest-scoop-on-nintendo-switch-2/the-latest-scoop-on-nintendo-switch-2) le fabricant d'accessoires Mobapad[^1]. Néanmoins, les cartouches de la Switch 2 ne seraient pas compatibles avec la Switch 1, ce qui pour le coup n'étonnera pas grand monde.
 
