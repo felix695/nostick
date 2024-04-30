@@ -4,7 +4,7 @@ date = 2024-04-29T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-type = "une"
+type = ["une"]
 vignette = "https://nostick.fr/articles/vignettes/switch2.jpg"
 +++
 
