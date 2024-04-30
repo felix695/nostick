@@ -10,7 +10,6 @@ tags = ["XXL"]
 
 Après quelques jours de flottement où on a craint le pire, avec l'arrivée de Delta on peut enfin le dire avec confiance : les émulateurs ont bel et bien droit de cité sur l'App Store ! Qu'est-ce que c'est que cette app, à quoi ça sert, comment peut-on l'installer ? Essayons de répondre à toutes ces questions brûlantes.
 
-
 ## Delta, qu'est-ce que c'est ?
 
 Delta est un émulateur pour consoles Nintendo (NES, SNES, DS, Game Boy, Game Boy Advance et N64) développé par Riley Testut. Cette application n'est pas née de la dernière pluie : elle repose sur [GBA4iOS](http://www.gba4iosapp.com), un émulateur GBA pour iOS (si, si), dont la création remonte à une dizaine d'années. Et qui continue sa petite vie : une version visionOS est en développement !
