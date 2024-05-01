@@ -10,7 +10,7 @@ vignette = "https://nostick.fr/articles/vignettes/VisionPro.jpg"
 
 ![Vision Pro](VisionPro.jpg "Pas sûr qu'on fera la même tête après avoir joué au Virtual Boy.")
 
-**VirtualFriend 3D ne sauvera pas le Vision Pro des abîmes de la médiocrité vidéo-ludique dans lesquelles Apple a plongé son casque de réalité mixte. Mais cet émulateur Virtual Boy a une sacrée allure, malgré son statut de bêta. Plongeons nous avec délice dans les délires 3D de Nintendo des années 90 avec la dernière merveille d'Apple.**
+**VirtualFriend 3D ne sauvera pas le Vision Pro des abîmes de la médiocrité vidéo-ludique dans lesquelles Apple a plongé son casque de réalité mixte. Mais cet émulateur Virtual Boy a déjà une sacrée allure malgré son statut de bêta. Plongeons nous avec délice dans les délires 3D de Nintendo des années 90 avec la dernière merveille d'Apple.**
 
 Personne ne vous en voudra d'avoir oublié non seulement que l'on pouvait jouer sur le Vision Pro, et l'existence du Virtual Boy ! L'indigence des jeux sur le casque de réalité mixte d'Apple mériterait un article à part entière (ce qui finira bien par arriver !), mais évoquons plutôt cette étrange console éphémère lancée par Nintendo durant l'été 1995… pour mieux mourir discrètement quelques mois plus tard !
 
@@ -56,7 +56,7 @@ Il s'agit d'une bêta qui souffre encore de pas mal de bugs, notamment au niveau
 
 La 3D est rudimentaire, et elle fait rapidement mal aux yeux. D'ailleurs, au lancement de chaque jeu il est recommandé au joueur d'autoriser le système qui active automatiquement une pause toutes les 30 minutes ! VirtualFriend 3D comprend une réglette pour affiner l'effet de relief, mais nul doute qu'on mettra un peu de temps avant de trouver un bon équilibre visuel.
 
-Passé ce petit temps d'adaptation — il sera plus ou moins pénible selon les capacités oculaires de chacun —, il faut tout de même reconnaitre que les quelques jeux que j'ai pu tester avec l'émulateur et le Vision Pro sont assez rigolos. Le Vision Pro est compatible avec les principales manettes du marché, pas besoin de faire les brocantes pour dénicher celle du Virtual Boy.
+Passée cette petite période d'adaptation — il sera plus ou moins pénible selon les capacités oculaires de chacun —, il faut tout de même reconnaitre que les quelques jeux que j'ai pu tester avec l'émulateur et le Vision Pro sont assez rigolos. Le Vision Pro est compatible avec les principales manettes du marché, pas besoin de faire les brocantes pour dénicher celle du Virtual Boy.
 
 {{< youtube aOuUjT1o8T4 >}} 
 
