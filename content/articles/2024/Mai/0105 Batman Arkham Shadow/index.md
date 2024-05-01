@@ -1,5 +1,5 @@
 +++
-title = "Batman: Arkham Shadow, une exclu Quest 3 qui redonne vie à l'univers Arkham"
+title = "Batman: Arkham Shadow, une exclu Quest 3 qui redonne vie à l'Arkhamverse"
 date = 2024-05-01T10:47:32+01:00
 draft = false
 author = "Mickael"
