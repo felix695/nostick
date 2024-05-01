@@ -32,7 +32,7 @@ Mais voilà, à l'époque les capacités de calcul sont ce qu'elles sont, Ninten
 
 Satoru Iwata, le président de Nintendo, expliquait dans la même interview que « *ces graphismes en rouge et noir ne jouèrent pas en notre faveur à une époque où les graphismes des jeux vidéo gagnaient rapidement en richesse* ». La N64, qui mettait aussi l'accent sur les graphismes en 3D, allait montrer la voie.
 
-Le Virtual Boy sort dans un état technique pas formidable au prix de 179 $, avec plusieurs jeux au compteur (aux États-Unis, la console est fournie avec *Mario's Tennis*, un des meilleurs titres du maigre catalogue). Nintendo a des ambitions démesurées : des ventes à hauteur de 3 millions d'unités et 14 millions de jeux écoulées.
+Le Virtual Boy sort dans un état technique pas formidable au prix de 179 $, avec plusieurs jeux au compteur (aux États-Unis, la console est fournie avec la cartouche de *Mario's Tennis*, un des meilleurs titres du maigre catalogue). Nintendo a des ambitions démesurées : des ventes à hauteur de 3 millions d'unités et 14 millions de jeux écoulées.
 
 {{< youtube 17euo2DzBZI >}} 
 
