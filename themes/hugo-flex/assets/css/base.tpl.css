@@ -71,54 +71,75 @@ kbd:has(kbd) {
 
 /* BLOC VIGNETTES */
 
+.container-vignettes {
+  display: flex;
+  justify-content: space-between;
+ max-width: 640px;
+  margin: 0 auto;
+}
+
+.vignette {
+  margin: 5px;
+  flex: 100%; /* Occupe 100% de la largeur de la colonne */
+  width: calc(33.33% - 10px);
+  border-radius: 5px; /* Bord arrondi de la vignette */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre de la vignette */
+  box-sizing: border-box; /* Ajout de box-sizing */
+  transition: box-shadow 0.3s; /* Transition pour l'effet hover */
+  background-color: #f2f2f2; /* Couleur de fond de la vignette en mode clair */
+  padding: 5px; /* Espace intérieur de la vignette */
+}
+
+.vignette:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Effet d'ombre au survol */
+}
+
+.vignette-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .img-vignette {
-  width: 30%;    /* Largeur fixe */
-  height: auto;    /* Hauteur ajustée proportionnellement */
+  width: 90%; /* Largeur fixe de l'image */
+  height: auto;
+  margin-bottom: 5px; /* Espace réduit entre l'image et le titre */
 }
 
 .une {
   font-size: 12px;
-  margin: 0; /* Ajustez la marge selon le besoin */
-  color: #000000 ;
+  margin: 0;
+  color: #000000;
+  text-align: left; /* Centrer le contenu de la vignette */
+  background-color: #f2f2f2; /* Couleur de fond en mode clair */
+  padding: 5px; /* Espace intérieur de la vignette */
+  line-height: 1.2;
 }
 
-.une a h2 {
-  margin: 0; /* Ajustez la marge selon le besoin */
-  color: #000000 ;
+.title {
+  margin: 0;
+  color: #000000;
 }
 
 @media (prefers-color-scheme: dark) {
+  .container-vignettes {
+    background-color: #333333; /* Couleur de fond du conteneur en mode sombre */
+  }
+  .vignette {
+    background-color: #1f1f1f; /* Couleur de fond de la vignette en mode sombre */
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1); /* Ombre de la vignette en mode sombre */
+  }
+  .vignette:hover {
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); /* Effet d'ombre au survol en mode sombre */
+  }
   .une {
-    color: white; /* Blanc pour le mode sombre */
+    color: white;
+    background-color: #1f1f1f; /* Couleur de fond en mode sombre */
   }
-  .une a h2 {
-    color: white; /* Blanc pour le mode sombre */
+  .title {
+    color: white;
   }
 }
-
-.une a h2:visited {
-  color: inherit !important;
-}
-
-
-.container-vignettes {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  max-width: 640px; /* ou 100% si vous voulez que cela prenne toute la largeur du parent */
-  margin: 0 auto; /* Centrer le conteneur dans la page */
-}
-
-.vignette {
-  flex: 1 1 50%; /* Chaque vignette peut grandir jusqu'à remplir l'espace mais commence à 30% */
-  margin: 5px; /* Ajout d'un petit espace entre les vignettes */
-  }
-
-.featured-container {
-  display: flex;
-  justify-content: space-between;
-}
-
 
 /* FIN BLOC VIGNETTES */
 
@@ -382,6 +403,7 @@ kbd:has(kbd) {
 .u-padding {
   padding: 0 1rem;
 }
+
 
 .u-background {
   background: {{ site.Params.color }};
