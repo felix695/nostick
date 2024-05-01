@@ -52,9 +52,11 @@ Ne cherchez pas VirtualFriend 3D sur l'App Store : le développeur ne la distrib
 
 Il s'agit d'une bêta qui souffre encore de pas mal de bugs, notamment au niveau audio. Mais il est tout de même possible de lancer et de jouer aux titres Virtual Boy ! Il en existe très exactement *22*, et pas que des chefs d'œuvre. Les archéologues du jeu vidéo et les tordus comme moi ont établi un palmarès qui se compose entre autres de *Mario's Tennis* donc, *Virtual Boy Wario Land*, *Jack Bros.*, *3D Tetris*, *Red Alarm* ou encore *Vertical Force*.
 
-![VirtualFriend](VirtualFriend2.jpg "La réglette de VirtualFriend pour modifier le relief.")
+![Virtual Boy](VirtualBoy-pause.jpg "N'oubliez pas de faire une pause pour éviter la mort des yeux.")
 
 La 3D est rudimentaire, et elle fait rapidement mal aux yeux. D'ailleurs, au lancement de chaque jeu il est recommandé au joueur d'autoriser le système qui active automatiquement une pause toutes les 30 minutes ! VirtualFriend 3D comprend une réglette pour affiner l'effet de relief, mais nul doute qu'on mettra un peu de temps avant de trouver un bon équilibre visuel.
+
+![VirtualFriend](VirtualFriend2.jpg "La réglette de VirtualFriend pour modifier le relief.")
 
 Passée cette petite période d'adaptation — il sera plus ou moins pénible selon les capacités oculaires de chacun —, il faut tout de même reconnaitre que les quelques jeux que j'ai pu tester avec l'émulateur et le Vision Pro sont assez rigolos. Le Vision Pro est compatible avec les principales manettes du marché, pas besoin de faire les brocantes pour dénicher celle du Virtual Boy.
 
