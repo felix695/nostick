@@ -112,6 +112,7 @@ kbd:has(kbd) {
 .vignette {
   flex: 1 1 50%; /* Chaque vignette peut grandir jusqu'à remplir l'espace mais commence à 30% */
   margin: 5px; /* Ajout d'un petit espace entre les vignettes */
+  }
 
 .featured-container {
   display: flex;
