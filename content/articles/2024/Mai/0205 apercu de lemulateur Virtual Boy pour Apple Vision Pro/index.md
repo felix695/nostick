@@ -76,3 +76,5 @@ Passée cette petite période d'adaptation — il sera plus ou moins pénible se
 *Jack Bros.* (Altus) a de quoi faire monter la température, puisqu'il s'agit d'un spin-off de Megami Tensei ! Le joueur doit ramasser des clés et bananer des méchants dans des niveaux empilés les uns sur les autres. Si la 3D est assez anecdotique dans le gameplay, il reste tout de même des effets de projection sympas.
 
 Il n'y a pas de quoi se réveiller la nuit pour se faire une petite partie de Virtual Boy, mais les amateurs de curiosités voudront certainement jeter un œil sur cette proposition étonnante de Nintendo qui fonctionne très bien dans le Vision Pro grâce à VirtualFriend 3D. Et ceux qui n'ont pas ni Vision Pro, ni les sous ni l'envie d'acheter le Vision Pro, il existe un émulateur Quest à installer en sideloading, [Virtual Boy Go](https://sidequestvr.com/app/125/virtualboygo) !
+
+{{< chat virtualboy >}}
