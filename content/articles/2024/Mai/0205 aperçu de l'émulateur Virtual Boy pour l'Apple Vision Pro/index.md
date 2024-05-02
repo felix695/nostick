@@ -1,6 +1,6 @@
 +++
 title = "Les yeux dans les jeux 3D : aperçu de l'émulateur Virtual Boy pour l'Apple Vision Pro"
-date = 2024-05-02T10:47:32+01:00
+date = 2024-05-02T10:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
