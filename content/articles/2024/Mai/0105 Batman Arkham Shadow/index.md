@@ -4,7 +4,6 @@ date = 2024-05-01T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["trailer"]
-type = "une"
 vignette = "https://nostick.fr/articles/vignettes/Batman.jpg"
 +++
 
