@@ -1,6 +1,6 @@
 +++
 title = "Installer GeForce Now sur Steam Deck, c'est maintenant tout simple"
-date = 2024-05-03T10:47:32+01:00
+date = 2024-05-03T07:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
@@ -42,9 +42,9 @@ Contrairement au Game Pass qui peut se comparer à un « Netflix du jeu vidéo 
 
 La version gratuite du service est limitée à des sessions d'une heure, avec une file d'attente et il y a même de la pub pendant qu'on poireaute. Et la qualité graphique est correcte, sans plus (c'est l'équivalent d'une RTX 2080).
 
-![GeForce Now](GeForce11.jpg "Doom Eternal")
+![GeForce Now](GeForce12.jpg "Doom Eternal")
 
-![GeForce Now](GeForce12.jpg "Baldur's Gate 3")
+![GeForce Now](GeForce13.jpg "Baldur's Gate 3")
 
 C'est tout de suite plus intéressant avec la formule Prioritaire à 10,99 € par mois (54,99 € pour six mois) : on a alors accès à une RTX 3080 avec ray-tracing et à des sessions pouvant aller jusqu'à 6 heures. Enfin, l'abonnement Ultimate à 21,99 € par mois (109 € pour six mois) offre le streaming avec une RTX 4080 (et ray-tracing, bien sûr), des sessions de 8 heures, ainsi que la 4K à 120 i/s ! On n'en profitera malheureusement pas sur le Steam Deck, Chrome limitant la fréquence d'images à 60 i/s.
 
