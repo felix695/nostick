@@ -1,10 +1,6 @@
 +++
 title = "Installer GeForce Now sur Steam Deck, c'est maintenant tout simple"
-<<<<<<< HEAD
-date = 2024-05-03T07:47:32+01:00
-=======
 date = 2024-05-03T09:00:00+01:00
->>>>>>> 31a62e266a562b0fe734df9046da590839448ef8
 draft = false
 author = "Mickael"
 tags = ["Actu"]
