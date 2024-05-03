@@ -59,3 +59,15 @@ Le reste de l'année s'annonce calme du côté de Sony et de Nintendo. Une occas
 Ce showcase sera le premier qui présentera des jeux développés par les studios de Microsoft, Activision Blizzard et Bethesda, alors il va falloir mettre les petits plats dans les grands ! D'après le toujours bien renseigné [Tom Warren](https://www.theverge.com/2024/4/30/24145262/xbox-games-showcase-summer-2024-call-of-duty-direct), l'événement sera l'occasion d'une première annonce pour *Gears of War 6*, et de présenter le calendrier pour les prochains titres très attendus.
 
 En septembre, on en parlait plus haut, *Starfield* devrait accueillir sa première extension *Shattered Space*. Le *Call of* annuel tomberait en octobre, suivi par *Avowed* et *Microsoft Flight Simulator 2024* en novembre. Pour finir l'année en beauté, *Indiana Jones et le Cercle ancien* ferait son apparition sous le sapin en décembre.
+
+## Menaces sur la démocratie
+
+Le capital sympathie de *Helldivers 2* en a pris un coup derrière la cravate après l'annonce de Sony qui va [exiger](https://store.steampowered.com/news/app/553850?emclan=103582791473678397&emgid=4196868529806518741) des joueurs PC de se connecter au jeu avec un compte PSN afin de le relier au compte Steam. Cette exigence sera mise en place à partir du 6 mai et évidemment, ça n'est pas la joie.
+
+![Helldivers 2](Helldivers2.jpg "Le compte PSN et le compte Steam (allégorie).")
+
+Certes, la création d'un compte PlayStation Network est gratuite, mais bon nombre de joueurs craignent l'exploitation de leurs données par Sony — ils n'oublient pas non plus les gros problèmes de sécurité récents qui ont permis à des pirates de plonger leurs gros doigts dans les serveurs de l'entreprise.
+ 
+Le jeu PlayStation, sorti en même temps sur PC le 8 février, est un véritable carton qui continue d'attirer les joueurs en masse, bien décidés à imposer les valeurs de la démocratie contre les foutus insectes aliens. Mais si *Helldivers 2* a tout réussi depuis le début, cette obligation de connexion à un compte PSN représente un premier accroc.
+
+En même temps, Sony ne prend personne en traître : la page Steam du jeu indique depuis son lancement qu'un compte PSN est nécessaire pour jouer. Un problème technique a cependant forcé l'éditeur à reporter la mesure, qui allait forcément revenir un jour sur le tapis. Elle va lui permettre de « *protéger les joueurs contre l'anti-jeu et les abus* » et de bannir les tricheurs. Les nouveaux joueurs devront lier leur compte PSN dès le 6 mai, les joueurs actuels ayant jusqu'au 4 juin pour le faire.
