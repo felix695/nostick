@@ -48,7 +48,7 @@ De nouvelles options de difficulté font aussi leur apparition, l'intérieur des
 
 Dans *Starfield*, quand on atterrit sur une planète vierge, il faut se taper l'exploration à pinces. Ce sera bientôt de l'histoire ancienne puisque des véhicules sont en développement ! Todd Howard, le patron de Bethesda, a aussi [annoncé](https://www.youtube.com/watch?v=7wvqF41_Bgw) que la première extension *Shattered Space* est bien programmée pour cet automne, probablement pour le mois de septembre. 
 
-Un autre gros morceau est attendu probablement pour cette année, il s'agit du Creation Kit qui est d'ores et déjà en phase de test chez des moddeurs (même s'ils n'n'ont pas attendu pour bidouiller le jeu). Seront-ils capables de relancer l'intérêt autour de *Starfield* ?
+Un autre gros morceau est attendu probablement pour cette année, il s'agit du Creation Kit qui est d'ores et déjà en phase de test chez des moddeurs (même s'ils n'ont pas attendu pour bidouiller le jeu). Seront-ils capables de relancer l'intérêt autour de *Starfield* ?
 
 ## Le gros showcase Xbox
 
