@@ -32,7 +32,7 @@ Si Square ne donne pas de précisions sur la nature de ces contenus abandonnés,
 
 ## Les posters 🥵 de Lara vont revenir !
 
-Gros ouf de soulagement chez les incels. Aspyr a confirmé que la disparition des posters montrant Lara dans des positions coquines était un accident dans le remaster de *Tomb Raider 1-3*. Le patch 2 livré il y a quelques jours avait malencontreusement supprimé ces fameux posters apparaissant dams le niveau « Sleeping with the Fishes » de *Tomb Raider 3*, provoquant une montée de lait chez les joueurs adeptes du complet mondialisé woke.
+Gros ouf de soulagement chez les incels. Aspyr a confirmé que la disparition des posters montrant Lara dans des positions coquines était un accident dans le remaster de *Tomb Raider 1-3*. Le patch 2 livré il y a quelques jours avait malencontreusement supprimé ces fameux posters apparaissant dams le niveau « Sleeping with the Fishes » de *Tomb Raider 3*, provoquant une montée de lait chez les joueurs adeptes du complot mondialisé woke.
 
 ![Lara Croft](Lara.jpg "Chaud chaud les gros pixels.")
 
@@ -40,7 +40,7 @@ Aspyr s'est [confondu](https://support.aspyr.com/hc/en-us/articles/2624438371226
 
 ## Starfield repart vers les étoiles
 
-Les trois joueurs et demi qui font encore tourner *Starfield* sur leur Xbox et leur PC seront heureux de savoir qu'ils n'ont pas été oubliés. Une mise à jour va leur être proposée le 15 mai (elle est déjà [disponible](https://bethesda.net/en/game/starfield/article/174M0cdUyxhn9mI0AvkcN9/starfield-update-1-11-33-may-1-2024) sur Steam, en bêta) avec, attention les yeux, des maps plus détaillées ! 
+Les trois joueurs et demi qui font encore tourner *Starfield* sur leur Xbox et leur PC seront heureux de savoir qu'ils n'ont pas été oubliés. Une mise à jour va leur être proposée le 15 mai (elle est déjà [disponible](https://bethesda.net/en/game/starfield/article/174M0cdUyxhn9mI0AvkcN9/starfield-update-1-11-33-may-1-2024) sur Steam, en bêta) avec des maps plus détaillées ! 
 
 De nouvelles options de difficulté font aussi leur apparition, l'intérieur des vaisseaux est bien plus personnalisable, et attention les yeux sur Xbox Series X le jeu pousse à 60 FPS (mais pas sur la Series S).
 
