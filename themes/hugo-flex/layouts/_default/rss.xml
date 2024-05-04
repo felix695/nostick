@@ -20,7 +20,7 @@
     {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}
     {{ range $pages }}
       {{- $isFeatured := in .Params.type "une" -}}
-      {{- if or (not $isFeatured) (and $isFeatured (in .OutputFormats "RSS")) -}}
+      {{- if and $isFeatured (in .OutputFormats "RSS") -}}
       <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>{{ with .PublishDate | default nil }}
