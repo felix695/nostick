@@ -1,6 +1,6 @@
 +++
 title = "Admirable, formidable, un peu irresponsable : la folle semaine du jeu vidéo (04/05)"
-date = 2024-05-04T08:00:02+01:00
+date = 2024-05-04T08:00:03+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
