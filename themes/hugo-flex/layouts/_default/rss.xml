@@ -1,7 +1,7 @@
 {{- $base_xml := resources.Get "xml/base.tpl.xml" | resources.ExecuteAsTemplate "xml/base.xml" . | minify }}
 {{- $uneArticles := where site.RegularPages "Params.type" "une" }}
 {{- $mainSections := site.Params.mainSections }}
-{{- $normalArticles := where site.RegularPages "Params.type" "" }}
+{{- $normalArticles := where site.RegularPages "or" (eq "type" "") (in "Type" $mainSections) }}
 {{- $pages := union $uneArticles $normalArticles }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
