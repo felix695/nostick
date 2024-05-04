@@ -1,8 +1,5 @@
 {{- $base_xml := resources.Get "xml/base.tpl.xml" | resources.ExecuteAsTemplate "xml/base.xml" . | minify }}
-{{- $uneArticles := where site.RegularPages "Params.type" "une" }}
-{{- $mainSections := site.Params.mainSections }}
-{{- $normalArticles := where site.RegularPages "Params.Type" (intersect $mainSections .Params.Type) }}
-{{- $pages := union $uneArticles $normalArticles }}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
   {{- $pages = first $limit $pages }}
@@ -20,14 +17,18 @@
     <webMaster>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
     <copyright>{{ . }}</copyright>{{ end }}{{ with .Date | default nil }}
     <lastBuildDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</lastBuildDate>{{ end }}{{ with .OutputFormats.Get "RSS" }}
-    {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}{{ range $pages }}
-<item>
-  <title>{{ .Title }}</title>
-  <link>{{ .Permalink }}</link>{{ with .PublishDate | default nil }}
-  <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</pubDate>{{ end }}{{ with .Params.author }}
-  <author>{{ . }}</author>{{ end }}
-  <guid>{{ .Permalink }}</guid>
-  <description>{{ html .Content }}</description>
-</item>{{ end }}
+    {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}
+    {{ range $pages }}
+      {{- if in .Params.type "une" }}
+      <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>{{ with .PublishDate | default nil }}
+        <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</pubDate>{{ end }}{{ with .Params.author }}
+        <author>{{ . }}</author>{{ end }}
+        <guid>{{ .Permalink }}</guid>
+        <description>{{ html .Content }}</description>
+      </item>
+      {{- end }}
+    {{ end }}
   </channel>
 </rss>
