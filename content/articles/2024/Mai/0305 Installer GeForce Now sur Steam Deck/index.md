@@ -4,6 +4,8 @@ date = 2024-05-03T09:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+type = "une"
+vignette = "https://nostick.fr/articles/vignettes/GeForce-Deck.jpg"
 +++
 
 ![Steam Deck](GeForce-Deck.jpg "")

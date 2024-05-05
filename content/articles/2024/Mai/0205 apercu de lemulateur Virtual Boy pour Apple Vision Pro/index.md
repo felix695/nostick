@@ -4,6 +4,7 @@ date = 2024-05-02T09:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+type = "une"
 vignette = "https://nostick.fr/articles/vignettes/VisionPro.jpg"
 +++
 
