@@ -53,3 +53,5 @@ C'est tout de suite plus intéressant avec la formule Prioritaire à 10,99 €�
 Des quelques minutes que j'ai pu passer sur GeForce Now dans cette configuration Steam Deck, le tout a plutôt bien fonctionné même si les temps d'attente pour lancer le jeu m'ont semblé bien long (en particulier pour *Baldur's Gate 3* depuis Steam). La latence en particulier était imperceptible, ce qui est à mon sens le plus important mais tout dépend de la qualité de votre connexion Wi-Fi (Nvidia recommande au moins 15 Mbit/s pour du 720p à 60 i/s).
 
 C'est une solution qui exige tout de même d'avoir un bon Wi-Fi sous la main, et aussi de souscrire à une des offres payantes (un Day Pass à partir de 4,39 € est aussi disponible pour se faire une idée) pour en prendre vraiment plein les yeux.
+
+{{< chat steamdeckgeforce >}}
