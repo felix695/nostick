@@ -1,6 +1,6 @@
 +++
 title = "Admirable, formidable, un peu irresponsable : la folle semaine du jeu vidéo (04/05)"
-date = 2024-05-04T10:47:32+01:00
+date = 2024-05-04T08:00:03+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
@@ -32,7 +32,7 @@ Si Square ne donne pas de précisions sur la nature de ces contenus abandonnés,
 
 ## Les posters 🥵 de Lara vont revenir !
 
-Gros ouf de soulagement chez les incels. Aspyr a confirmé que la disparition des posters montrant Lara dans des positions coquines était un accident dans le remaster de *Tomb Raider 1-3*. Le patch 2 livré il y a quelques jours avait malencontreusement supprimé ces fameux posters apparaissant dams le niveau « Sleeping with the Fishes » de *Tomb Raider 3*, provoquant une montée de lait chez les joueurs adeptes du complet mondialisé woke.
+Gros ouf de soulagement chez les incels. Aspyr a confirmé que la disparition des posters montrant Lara dans des positions coquines était un accident dans le remaster de *Tomb Raider 1-3*. Le patch 2 livré il y a quelques jours avait malencontreusement supprimé ces fameux posters apparaissant dams le niveau « Sleeping with the Fishes » de *Tomb Raider 3*, provoquant une montée de lait chez les joueurs adeptes du complot mondialisé woke.
 
 ![Lara Croft](Lara.jpg "Chaud chaud les gros pixels.")
 
@@ -40,7 +40,7 @@ Aspyr s'est [confondu](https://support.aspyr.com/hc/en-us/articles/2624438371226
 
 ## Starfield repart vers les étoiles
 
-Les trois joueurs et demi qui font encore tourner *Starfield* sur leur Xbox et leur PC seront heureux de savoir qu'ils n'ont pas été oubliés. Une mise à jour va leur être proposée le 15 mai (elle est déjà [disponible](https://bethesda.net/en/game/starfield/article/174M0cdUyxhn9mI0AvkcN9/starfield-update-1-11-33-may-1-2024) sur Steam, en bêta) avec, attention les yeux, des maps plus détaillées ! 
+Les trois joueurs et demi qui font encore tourner *Starfield* sur leur Xbox et leur PC seront heureux de savoir qu'ils n'ont pas été oubliés. Une mise à jour va leur être proposée le 15 mai (elle est déjà [disponible](https://bethesda.net/en/game/starfield/article/174M0cdUyxhn9mI0AvkcN9/starfield-update-1-11-33-may-1-2024) sur Steam, en bêta) avec des maps plus détaillées ! 
 
 De nouvelles options de difficulté font aussi leur apparition, l'intérieur des vaisseaux est bien plus personnalisable, et attention les yeux sur Xbox Series X le jeu pousse à 60 FPS (mais pas sur la Series S).
 
@@ -48,7 +48,7 @@ De nouvelles options de difficulté font aussi leur apparition, l'intérieur des
 
 Dans *Starfield*, quand on atterrit sur une planète vierge, il faut se taper l'exploration à pinces. Ce sera bientôt de l'histoire ancienne puisque des véhicules sont en développement ! Todd Howard, le patron de Bethesda, a aussi [annoncé](https://www.youtube.com/watch?v=7wvqF41_Bgw) que la première extension *Shattered Space* est bien programmée pour cet automne, probablement pour le mois de septembre. 
 
-Un autre gros morceau est attendu probablement pour cette année, il s'agit du Creation Kit qui est d'ores et déjà en phase de test chez des moddeurs (même s'ils n'n'ont pas attendu pour bidouiller le jeu). Seront-ils capables de relancer l'intérêt autour de *Starfield* ?
+Un autre gros morceau est attendu probablement pour cette année, il s'agit du Creation Kit qui est d'ores et déjà en phase de test chez des moddeurs (même s'ils n'ont pas attendu pour bidouiller le jeu). Seront-ils capables de relancer l'intérêt autour de *Starfield* ?
 
 ## Le gros showcase Xbox
 
