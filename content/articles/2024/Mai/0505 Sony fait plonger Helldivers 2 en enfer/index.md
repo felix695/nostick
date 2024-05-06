@@ -8,7 +8,11 @@ tags = ["Actu"]
 
 ![Helldivers 2](Helldivers2.jpg "") 
 
-Si vous me passez l'expression, *Helldivers 2* est devenu un sacré bordel. Le jeu en coop développé par Arrowhead pour PlayStation et PC a été un carton monumental pour Sony depuis son lancement début février… mais il a évidemment fallu que l'éditeur décide de faire n'importe quoi). En fin de semaine, Sony a en effet décidé d'exiger des jours PC qu'[ils connectent leur compte Steam avec un compte PSN](https://nostick.fr/articles/2024/mai/0405-résumé-de-la-semaine/#menaces-sur-la-démocratie) — quitte à en créer un (c'est gratuit).
+**Mise à jour 06/05 —** Il fallait s'y attendre, devant la levée de boucliers Sony a cédé. La connexion obligatoire entre les comptes Steam et PSN est [abandonnée](https://twitter.com/PlayStation/status/1787331667616829929). « *Nous continuons à apprendre ce qui est le mieux pour les joueurs PC et vos retours ont été inestimables* », ajoute le constructeur qui devait bien se douter que ça n'allait pas passer comme une lettre à la poste. Tout est bien qui finit bien donc pour *Helldivers 2*, et c'est tant mieux. Cet abandon aura-t-il un impact sur *Ghost of Tsushima*, dont la version PC sortira le 16 mai ? Le jeu doit également être connecté à un compte PSN…
+
+___
+
+**Article original, 05/05 —** Si vous me passez l'expression, *Helldivers 2* est devenu un sacré bordel. Le jeu en coop développé par Arrowhead pour PlayStation et PC a été un carton monumental pour Sony depuis son lancement début février… mais il a évidemment fallu que l'éditeur décide de faire n'importe quoi). En fin de semaine, Sony a en effet décidé d'exiger des jours PC qu'[ils connectent leur compte Steam avec un compte PSN](https://nostick.fr/articles/2024/mai/0405-résumé-de-la-semaine/#menaces-sur-la-démocratie) — quitte à en créer un (c'est gratuit).
 
 La mesure est censée être obligatoire pour les nouveaux joueurs dès le 6 mai, tandis que les joueurs actuels ont jusqu'au 4 juin pour s'y mettre. Ce n'est pas réellement une surprise, sachant que l'exigence s'affichait clairement sur la page Steam du jeu et ce, depuis son lancement.
 
