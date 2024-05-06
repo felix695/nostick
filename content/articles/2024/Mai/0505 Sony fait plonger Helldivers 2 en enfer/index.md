@@ -1,5 +1,5 @@
 +++
-title = "Helldivers 2 : la plongée en enfer"
+title = "Sony fait plonger Helldivers 2 en enfer"
 date = 2024-05-05T22:47:32+01:00
 draft = false
 author = "Mickael"
