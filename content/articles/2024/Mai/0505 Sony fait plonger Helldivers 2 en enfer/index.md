@@ -8,7 +8,7 @@ tags = ["Actu"]
 
 ![Helldivers 2](Helldivers2.jpg "") 
 
-**Mise à jour 06/05 —** Il fallait s'y attendre, devant la levée de boucliers Sony a cédé. La connexion obligatoire entre les comptes Steam et PSN est [abandonnée](https://twitter.com/PlayStation/status/1787331667616829929). « *Nous continuons à apprendre ce qui est le mieux pour les joueurs PC et vos retours ont été inestimables* », ajoute le constructeur qui devait bien se douter que ça n'allait pas passer comme une lettre à la poste. Tout est bien qui finit bien donc pour *Helldivers 2*, et c'est tant mieux. Cet abandon aura-t-il un impact sur *Ghost of Tsushima*, dont la version PC sortira le 16 mai ? Le jeu doit également être connecté à un compte PSN…
+**Mise à jour 06/05 —** Il fallait s'y attendre, devant la levée de boucliers Sony a cédé. La connexion obligatoire entre les comptes Steam et PSN est [abandonnée](https://twitter.com/PlayStation/status/1787331667616829929). « *Nous continuons à apprendre ce qui est le mieux pour les joueurs PC et vos retours ont été inestimables* », ajoute le constructeur qui devait bien se douter que ça n'allait pas passer comme une lettre à la poste. Tout est bien qui finit bien donc pour *Helldivers 2*, et c'est tant mieux. Cet abandon aura un impact sur *Ghost of Tsushima* : la version PC, qui sortira le 16 mai, ne [nécessitera](https://twitter.com/SuckerPunchProd/status/1786462939748384943) pas de connexion avec un compte PSN pour toute la partie solo. En revanche, il faudra un compte PSN pour le mode multijoueur Legends, ce qui semble acceptable.
 
 ___
 
