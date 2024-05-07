@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://nostick.fr/
 title: Nostick
 languageCode: fr-fr
 theme: hugo-flex
@@ -8,7 +8,7 @@ params:
   width: 42rem          # Any length in CSS syntax / leave empty to span page
   divider: \2500\2500   # Any string in CSS syntax / leave empty for no divider
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
-    Nostick - 2024.
+    <p>Nostick - 2024 - <a href="https://nostick.fr/about/">Qui sommes nous ?</a></p>
   rss: Pour vous abonner à ce flux RSS, copiez son adresse et collez-la dans votre lecteur de flux préféré.
   favicon: true        # Set to true to add a link to the favicon.ico
   noClasses: true       # Set to the same value as markup.highlight.noClasses
@@ -35,24 +35,23 @@ params:
 
 menu:
   main:
-    - name: À propos
-      pageRef: /
-      weight: 1
-   # - name: Archives
-      pageRef: /about
-      weight: 2
-  #  - name: Archives
-      pageRef: /about
+    #- name: À propos
+    #  pageRef: /
+    #  weight: 1
+    #- name: Archives
+    #  pageRef: /about
+    #  weight: 2
+    - name: Infolettre
+      URL: https://nostickreloaded.substack.com
       weight: 3
+    #- name: RSS
+    #  pageRef: /Archives
+    #  weight: 4
     - name: RSS
-      pageRef: /Archives
-      weight: 4
-  #  - name: RSS
       pageRef: /
       weight: 5
       params:
         - format: rss
-
 outputFormats:
   RSS:
     mediatype: application/rss+xml
