@@ -1,5 +1,5 @@
 +++
-title = "Nintendo lancera sa nouvelle console avant avril 2025"
+title = "Nintendo présentera sa nouvelle console avant avril 2025"
 date = 2024-05-07T10:47:32+01:00
 draft = false
 author = "Mickael"
