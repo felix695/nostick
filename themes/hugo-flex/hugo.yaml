@@ -17,8 +17,8 @@ params:
   linkicons: false      # Set to hover or true to add a link icon to headings
   summaries: false      # Set to true to show summaries of posts on homepage
   schema: false         # Set to true to add Schema.org metadata
-  opengraph: false      # Set to true to add Open Graph metadata
-  twittercards: false   # Set to true to add Twitter Cards metadata
+  opengraph: true      # Set to true to add Open Graph metadata
+  twittercards: true   # Set to true to add Twitter Cards metadata
   utterances:
     repo:               # Set to Utterances repo URL to add Utterances comments
     issueterm:          # Leave empty for the default blog post to issue mapping
