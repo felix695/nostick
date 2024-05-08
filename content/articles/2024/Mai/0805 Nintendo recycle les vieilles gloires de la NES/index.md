@@ -20,6 +20,10 @@ Le principe est diabolique : aller toujours plus vite dans des petits bouts de n
 
 Nintendo proposera aussi des classements mondiaux avec des défis hebdomadaires pour cette version « à la maison » des Nintendo World Championships, un événement organisé de temps à autre par le constructeur. Ce dernier a d'ailleurs demandé à quelques champions de participer à la promo du jeu.
 
+Cette collection est aussi un moyen habile pour Nintendo de recycler des classiques usés jusqu'à la corde qui ne coûtent pas trop cher à réutiliser. On aurait d'ailleurs bien vu le jeu être proposé « gratuitement » aux abonnés Switch Online (les manettes rétro sont d'ailleurs compatibles)… Mais ça ne sera pas le cas : il faudra débourser 30 € sur l'eShop. 
+
 ![Nintendo World Championships: NES Edition](NintendoWorldChampionships-3.jpg "Regardez moi tous ces objets qui brillent.")
 
-Cette collection est aussi un moyen habile pour Nintendo de recycler des classiques usés jusqu'à la corde qui ne coûtent pas trop cher à réutiliser. On aurait d'ailleurs bien vu le jeu être proposé « gratuitement » aux abonnés Switch Online (les manettes rétro sont d'ailleurs compatibles)… Mais ça ne sera pas le cas : il faudra débourser 30 € sur l'eShop. Une version boîte avec des goodies sera aussi commercialisée, avec des pin's, des cartes illustrées et une (fausse) cartouche NES dorée ! Le prix de cet ensemble Deluxe n'a pas été communiqué, mais cela devrait tourner autour d'une soixantaine d'euros. Le jeu sera disponible le 18 juillet.
+Une version boîte avec des goodies sera aussi commercialisée, avec des pin's, des cartes illustrées et une (fausse) cartouche NES dorée ! Le prix de cet ensemble Deluxe n'a pas été communiqué, mais cela devrait tourner autour d'une soixantaine d'euros. Le jeu sera disponible le 18 juillet.
+
+*Nintendo World Championships: NES Edition* ressemble beaucoup à *NES Remix*, une compilation sortie sur Wii U et Nintendo 3DS en 2013 comprenant 16 jeux NES et 204 défis. Une 2e édition a été lâchée l'année suivante avec 12 jeux supplémentaires et 169 défis.
