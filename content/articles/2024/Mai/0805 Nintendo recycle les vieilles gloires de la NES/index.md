@@ -16,8 +16,10 @@ Malgré [une Switch 2 dans les starting-blocks](https://nostick.fr/articles/2024
 
 Le principe est diabolique : aller toujours plus vite dans des petits bouts de niveaux tirés de grands jeux de la NES. La sélection comprend des classiques archi-connus comme *Metroid*, *The Legend of Zelda*, *Super Mario Bros.*, *Donkey Kong*, etc. Plus de 150 défis de rapidité attendront le ou les joueurs : en plus du mode solo, il sera possible d'affronter des amis sur son canapé ou en ligne (jusqu'à 8 joueurs).
 
-Nintendo proposera aussi des classements mondiaux avec des défis hebdomadaires pour cette version « à la maison » des Nintendo World Championships, un événement organisé de temps à autre par le constructeur. Ce dernier a d'ailleurs demandé à quelques champions de participer à la promo du jeu :
-
 {{< youtube ELmBYBga5SY >}} 
+
+Nintendo proposera aussi des classements mondiaux avec des défis hebdomadaires pour cette version « à la maison » des Nintendo World Championships, un événement organisé de temps à autre par le constructeur. Ce dernier a d'ailleurs demandé à quelques champions de participer à la promo du jeu.
+
+![Nintendo World Championships: NES Edition](NintendoWorldChampionships-3.jpg "Regardez moi tous ces objets qui brillent.")
 
 Cette collection est aussi un moyen habile pour Nintendo de recycler des classiques usés jusqu'à la corde qui ne coûtent pas trop cher à réutiliser. On aurait d'ailleurs bien vu le jeu être proposé « gratuitement » aux abonnés Switch Online (les manettes rétro sont d'ailleurs compatibles)… Mais ça ne sera pas le cas : il faudra débourser 30 € sur l'eShop. Une version boîte avec des goodies sera aussi commercialisée, avec des pin's, des cartes illustrées et une (fausse) cartouche NES dorée ! Le prix de cet ensemble Deluxe n'a pas été communiqué. Le jeu sera disponible le 18 juillet.
