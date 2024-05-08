@@ -5,6 +5,8 @@ date = 2024-05-08T15:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["XXL"]
+type = "une"
+vignette = "https://nostick.fr/articles/vignettes/miroir.png"
 +++ 
 
 ![Capture d’écran d’un miroir de Fallout 4](fallout4.jpeg "Le mod « Slightly Improved Mirrors » promet améliorer les miroirs de Fallout 4. Ce n’est pas encore ça")
