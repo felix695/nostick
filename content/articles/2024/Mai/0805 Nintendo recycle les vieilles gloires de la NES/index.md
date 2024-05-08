@@ -4,7 +4,6 @@ date = 2024-05-08T15:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-type = "articles"
 +++
 
 ![Nintendo World Championships: NES Edition](NintendoWorldChampionships.jpg "")
