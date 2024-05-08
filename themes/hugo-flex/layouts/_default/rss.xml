@@ -1,5 +1,5 @@
 {{- $base_xml := resources.Get "xml/base.tpl.xml" | resources.ExecuteAsTemplate "xml/base.xml" . | minify }}
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages := where site.RegularPages "Type" "in" (slice "articles" "une") }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
   {{- $pages = first $limit $pages }}
@@ -17,7 +17,7 @@
     <webMaster>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
     <copyright>{{ . }}</copyright>{{ end }}{{ with .Date | default nil }}
     <lastBuildDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</lastBuildDate>{{ end }}{{ with .OutputFormats.Get "RSS" }}
-    {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}{{ range $pages }}
+    {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}{{ range sort $pages "Date" "desc" }}
 <item>
   <title>{{ .Title }}</title>
   <link>{{ .Permalink }}</link>{{ with .PublishDate | default nil }}

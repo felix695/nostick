@@ -5,6 +5,8 @@ date = 2024-05-08T15:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["XXL"]
+type = "une"
+vignette = "https://nostick.fr/articles/vignettes/miroir.png"
 +++ 
 
 ![Capture d’écran d’un miroir de Fallout 4](fallout4.jpeg "Le mod « Slightly Improved Mirrors » promet améliorer les miroirs de Fallout 4. Ce n’est pas encore ça")
@@ -40,3 +42,5 @@ Si les miroirs ne sont pas terribles dans les jeux d’aujourd’hui, c’est do
 
 
 À l’avenir, les nouvelles technologies de gestion de lumière (ray-tracing/path-tracing) devraient permettre d’obtenir des miroirs corrects et sans aucune pirouette. Ces nouveautés simulent le rendu de la lumière de manière réaliste en lançant des rayons qui rebondissent sur les différentes surfaces, créant des reflets précis en temps réel. Cela peut fonctionner pour un miroir, et c’est d’ailleurs le cas dans *Alan Wake 2*. Cocher la case Path Tracing va « activer » les miroirs, qui reflètent alors la lumière et peuvent alors afficher des détails [assez dingues](https://youtu.be/tXfwvohROPA?si=WimZNQVC1aU2C3XY&t=554). Cependant, il faut une très bonne configuration pour en profiter. Si ce n’est pas demain la veille qu'on aura tous une 4090 dans notre salon, les miroirs devraient s’améliorer au fur et à mesure que la puissance matérielle augmente et que les développeurs adoptent le path-tracing.
+
+ {{< chat 0805miroirs >}}
