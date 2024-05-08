@@ -87,3 +87,5 @@ Personne n'ira se plaindre que Nintendo mette la misère aux escrocs, ni que les
 Shuntaro Furukawa a annoncé que Nintendo allait présenter la nouvelle console avant la fin de cette année fiscale, qui s'achèvera le 31 mars 2025. Le constructeur pourrait attendre le bout du bout avant de lever le voile sur l'appareil… Ce qui ne veut pas nécessairement dire qu'elle sera disponible dans le commerce dès le printemps prochain ! Patience et longueur de temps…
 
 [^1]: Techniquement, le dock de la Switch OLED a [tout ce qu'il faut](https://www.videogameschronicle.com/news/more-evidence-suggests-switch-oleds-dock-can-support-4k/) pour diffuser de la 4K HDR à 60 FPS, mais sans la capacité d'upscale 1080p vers 4K. Malheureusement, la console en elle-même n'a pas la puissance suffisante pour cet upscale… La présence dans le dock des composants indispensables au support de la 4K peut laisser penser qu'à un moment donné, Nintendo envisageait de lancer une Switch capable d'améliorer et d'agrandir une image malgré une résolution inférieure — l'hypothétique Switch Pro qu'aurait dû être la Switch OLED ?
+
+ {{< chat 0905switch2 >}}
