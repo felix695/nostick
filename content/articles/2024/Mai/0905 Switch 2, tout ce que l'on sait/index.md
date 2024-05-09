@@ -1,6 +1,6 @@
 +++
-title = "Switch 2, tout ce que l'on sait (ou croit savoir)"
-date = 2024-05-09T08:47:32+01:00
+title = "Switch 2 : tout ce que l'on sait (ou croit savoir)"
+date = 2024-05-09T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
@@ -58,7 +58,7 @@ Il est malheureusement possible que cette nouvelle console se [contente](https:/
 
 Sous le capot, Nintendo ferait de nouveau appel à Nvidia. Le système-sur-puce au cœur de la Switch 2, baptisée T239, serait équipé d'un processeur comptant 8 cœurs ARM A78C, une unité graphique basée sur l'architecture Ampere des cartes RTX 30, combinée à des éléments de GPU Ada Lovelace. La T239 serait une version custom, plus petite et moins puissante, de la T234 commercialisée par Nvidia auprès des marchés de la robotique et de l'automobile.
 
-Bobby Kotick, l'ex-boss d'Activision, avait évoqué une puissance au même niveau que la PS4 ou que la Xbox One pour la Switch 2, pendant le procès entre Microsoft et la FTC l'an dernier. Dans les faits, la future console pourrait aller encore plus loin grâce à sa conception plus moderne, ne serait-ce que par l'utilisation de mémoire plus rapide.
+Bobby Kotick, l'ex-boss d'Activision, avait évoqué une puissance au même niveau que la PS4 ou que la Xbox One pour la Switch 2 pendant le procès entre Microsoft et la FTC l'an dernier. Dans les faits, la future console pourrait aller encore plus loin grâce à sa conception plus moderne, ne serait-ce que par l'utilisation de mémoire plus rapide.
 
 {{< youtube czUipNJ_Qqs >}} 
 
@@ -82,7 +82,7 @@ Contrairement à la période de la Wii U où il a fallu lancer rapidement la Swi
 
 Ce lancement tardif devrait aussi permettre à Nintendo de faire marcher à pleine turbine ses lignes de production, afin de [couper l'herbe](https://www.nikkei.com/article/DGXZQOUF196OV0Z10C24A2000000/) sous le pied des scalpers. Ils avaient été à la fête lors du lancement en 2017 de la Switch première génération, très difficile à trouver dans le commerce (ça avait été aussi le cas au plus fort de la pandémie).
 
-Personne n'ira se plaindre que Nintendo mette la misère aux escrocs, ni que les jeux de qualité soient au rendez-vous pour le lancement. En revanche, c'est vrai que la dernière année de la Switch s'annonce assez plat. Le Direct de juin donnera à  Nintendo l'occasion de dévoiler de nouveaux jeux pour les prochains mois. Encore plus de remakes au menu ? À moins que la boîte nous sorte enfin la carte *Metroid Prime 4* !
+Personne n'ira se plaindre que Nintendo mette la misère aux escrocs, ni que les jeux de qualité soient au rendez-vous pour le lancement. En revanche, c'est vrai que la dernière année de la Switch s'annonce assez plate. Le Direct de juin donnera à  Nintendo l'occasion de dévoiler de nouveaux jeux pour les prochains mois. Encore plus de remakes au menu ? À moins que la boîte nous sorte enfin la carte *Metroid Prime 4* !
 
 Shuntaro Furukawa a annoncé que Nintendo allait présenter la nouvelle console avant la fin de cette année fiscale, qui s'achèvera le 31 mars 2025. Le constructeur pourrait attendre le bout du bout avant de lever le voile sur l'appareil… Ce qui ne veut pas nécessairement dire qu'elle sera disponible dans le commerce dès le printemps prochain ! Patience et longueur de temps…
 
