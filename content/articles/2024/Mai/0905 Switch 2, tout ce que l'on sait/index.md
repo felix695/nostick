@@ -41,7 +41,7 @@ Si la console devrait conserver le design général de la Switch, ainsi qu'un po
 
 Le mimétisme entre les deux consoles ne devrait pas s'arrêter là. La Switch 2 devrait ainsi prendre en charge les cartouches des jeux Switch, une rétrocompatibilité qui n'a toujours pas été confirmée mais qui semble de plus en plus probable au fur et à mesure que l'on s'approche de la présentation de l'appareil. Le fabricant d'accessoires Mobapad a tout récemment [craché](https://www.mobapad.com/blogs/the-latest-scoop-on-nintendo-switch-2/the-latest-scoop-on-nintendo-switch-2) le morceau sur la foi d'informations internes en sa possession.
 
-![Nintendo Switch](Switch2.jpg "")
+![Nintendo Switch](Switch3.jpg "")
 
 
 Là aussi, ce ne serait pas si étonnant : tout comme les cartouches de jeux DS sont compatibles avec la 3DS, tout comme les disques GameCube sont pris en charge par la Wii, et tout comme les disques Wii fonctionnent sur la Wii U, les jeux de la Switch devraient donc bien rouler sur la Switch 2 — que ce soit les cartouches ou [les versions dématérialisées](https://www.youtube.com/watch?v=b1McW9Z9Cqo). En revanche et cela parait assez logique, les jeux Switch 2 ne seront pas compatibles avec la Switch 1. 
