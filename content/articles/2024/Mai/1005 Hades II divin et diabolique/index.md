@@ -1,6 +1,6 @@
 +++
 title = "Aperçu de Hades II, à la fois divin et diabolique"
-date = 2024-05-10T11:45:32+01:00
+date = 2024-05-10T11:45:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]
