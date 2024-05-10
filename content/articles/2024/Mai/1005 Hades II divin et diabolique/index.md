@@ -45,7 +45,7 @@ En plus des armes et des techniques, Melinoé dispose aussi de glyphes, une sort
 
 ![Hades II](Hades-II-9.jpg "Les dieux vous octroient des bienfaits en cours de run.")
 
-![Hades II](Hades-II-8.jpg "Les Arcanes bonifient les capacités de Melanoé, mais il faut bien les choisir.")
+![Hades II](Hades-II-8.jpg "Les Arcanes bonifient les capacités de Melanoé, encore faut-il les débloquer et bien les sélectionner.")
 
 *Hades II* est toujours, bien sûr, un jeu d'action, pas de doute là dessus ! Mais par rapport à son prédécesseur, le mana et ses différents effets confèrent au titre un petit côté stratégique pas désagréable. C'est en tout cas une couche supplémentaire qui enrichit le gameplay.
 
