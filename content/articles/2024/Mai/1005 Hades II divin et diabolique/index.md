@@ -31,7 +31,7 @@ Tuer le temps, c'est très littéralement ce que *Hades II* attend de vous. Dans
 
 *Hades II* est un roguelite en vue isométrique, tout comme le premier opus. Basiquement, il faut tailler sa route à travers des mondes de plus en plus dangereux, remplis d'ennemis aux techniques toujours plus retorses. Fort heureusement, Melinoé a du répondant comme on le verra ci-dessous !
 
-Dans un roguelite, on remet constamment son ouvrage sur le métier. Vous allez mourir, ah ça oui, mais aussi repartir au combat à chaque fois un peu mieux armé. Au fil du jeu, Melinoé va acquérir des compétences pérennes qui va la rendre plus forte et plus aguerrie (et le jeu n'est pas avare en mécanismes de renforcement !) ; elle pourra également déverrouiller de nouvelles armes qui modifieront la manière de se battre. Chacune a ses forces et ses faiblesses.
+Dans un roguelite, on remet constamment son ouvrage sur le métier. Vous allez mourir, ah ça oui, mais aussi repartir au combat à chaque fois un peu mieux armé. Au fil du jeu, Melinoé va acquérir des compétences permanentes qui va la rendre plus forte et plus aguerrie (et le jeu n'est pas avare en mécanismes de renforcement !) ; elle pourra également déverrouiller de nouvelles armes qui modifieront la manière de se battre. Chacune a ses forces et ses faiblesses.
 
 Et c'est sans compter les bienfaits divins qui améliorent — temporairement, cette fois — les différentes capacités de l'héroïne durant les runs. À l'image du premier opus, *Hades II* est aussi un jeu dans lequel on lit beaucoup, car l'histoire et les personnages sont riches et variés. Et l'humour est omniprésent dans les dialogues, ce serait dommage de vouloir aller trop vite…
 
