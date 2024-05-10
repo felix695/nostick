@@ -52,3 +52,14 @@ Sur ce site web, les joueurs ne pourront peut-être pas télécharger leurs jeux
 
 Reste à voir comment les objets achetés dans l'échoppe web de Xbox pourront être consommés dans les jeux téléchargés sur les stores officiels. Il faudra peut-être s'y connecter avec un compte. Quoi qu'il en soit, cette boutique en ligne ouvrira ses portes au mois de juillet, partout dans le monde.
 
+## Ghost of Tsushima privé des mêmes territoires que Helldivers 2
+
+Si Sony adapte ses blockbusters PlayStation sur PC, c'est parce que le marché de la console de salon est finalement assez restreint, trop en tout cas pour rentabiliser des jeux AAA aux budgets toujours plus imposants. Il faut donc aller chercher les joueurs là où ils sont et, qu'on l'apprécie ou pas, beaucoup d'entre eux jouent sur des PC ! Aucun joueur PC n'ira se plaindre de trouver des hits comme *God of War*, *Horizon* ou *Helldivers 2* pour leur machine, alors comme on dit dans les écoles de commerce, c'est gagnant-gagnant.
+
+![Ghost of Tsushima](ghost.jpg "")
+
+Mais Sony a une forte tête et d'étranges pratiques commerciales.  Il a fallu que toute la communauté de *Helldivers 2* se dresse comme un seul homme pour que [l'entreprise abandonne la connexion obligatoire entre un compte Steam et un compte PSN](https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/). Avant de lâcher prise, Sony (ou Steam ?) a retiré le jeu de la vente dans les 177 pays et territoires où il est impossible de créer un compte PSN.
+
+Beaucoup espéraient que le TPS coop allait revenir partout dans le monde, mais en fait pas du tout. Plusieurs pays des Baltiques ont même été [ajoutés](https://twitter.com/SteamDB/status/1788981898108182681) à la liste… et maintenant *Ghost of Tsushima* n'est plus proposé dans ces mêmes [territoires](https://steamdb.info/sub/962153/info/) ! Après la cagade *Helldivers 2*, il a pourtant été confirmé que le jeu développé par Sucker Punch n'aurait pas besoin d'un compte PSN pour la campagne solo — en revanche, il en faudra un pour le mode multi Legends.
+
+Il y a donc tout lieu de craindre que *Ghost* fera l'impasse sur  de nombreux joueurs, dont plusieurs territoires français comme Mayotte, la Guadeloupe ou encore la Guyane. Le jeu sera disponible le 16 mai.
