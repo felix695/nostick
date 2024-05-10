@@ -14,7 +14,7 @@ vignette = "https://nostick.fr/articles/vignettes/HadesII.jpg"
 
 C'est à la faveur d'un lundi anonyme du mois de mai que Supergiant a lâché sa bombe : *Hades II* en accès anticipé sur Steam et l'Epic Games Store ! Le jeu, vendu 29 €, n'est pas complet et des bugs peuvent faire leur apparition. Mais cette bêta va permettre aux développeurs de peaufiner la version finale grâce aux retours des joueurs, comme cela avait été le cas pour le premier *Hades*.
 
-![Hades II](Hades-II-5.jpg "Melanoé a beau avoir l'air sérieuse, elle ne manque pas de répartie.")
+![Hades II](Hades-II-5.jpg "Melinoé a beau avoir l'air sérieuse, elle ne manque pas de répartie.")
 
 Le jeu restera en accès anticipé jusqu'au début de l'année prochaine, mais des mises à jour seront livrées ces prochains mois pour muscler davantage le titre. En l'état, *Hades II* est plus qu'une bêta : c'est une démonstration de savoir faire qui va faire date !
 
