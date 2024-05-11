@@ -26,7 +26,7 @@ Elle a également expliqué que « *lorsque nous avons examiné [les] tendances 
 
 Au bout du compte, « *les nouvelles que nous avons annoncées plus tôt cette semaine sont le résultat de cela, et de notre engagement à assurer que l'entreprise reste saine à long terme* ». Voilà qui fera sans aucun doute une belle jambe à tous ceux qui ont été virés…
 
-![Sarah Bond](redfall.jpg "Sarah Bond, à droite, durant la conférence Bloomberg cette semaine. À l'arrière, notez le graphique affichant la croissance de l'activité Xbox.")
+![Sarah Bond](SarahBond.jpg "Sarah Bond, à droite, durant la conférence Bloomberg cette semaine. À l'arrière, notez le graphique affichant la croissance de l'activité Xbox.")
 
 Sarah Bond n'est pas la seule à être montée au front. Matt Booty, le patron des studios Xbox Games, a tenu une réunion publique chez Bethesda juste après l'annonce de la fermeture des studios. Et pour ajouter l'insulte à l'injure, il a assuré que Xbox « *a besoin de jeux plus petits qui nous donnent du prestige et des récompenses* », selon les propos [relevés](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty) par *The Verge*. Des jeux prestigieux… comme un certain *Hi-Fi Rush*, peut-être ?
 
