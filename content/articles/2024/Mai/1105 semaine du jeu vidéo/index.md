@@ -54,7 +54,7 @@ L'an dernier, Microsoft faisait un chèque de 69 milliards de dollars pour s'off
 
 ![App Xbox](Xboxappstore.jpg "")
 
-Au travers de cette acquisition maousse costaud, l'éditeur de Windows est en effet devenu propriétaire de *Candy Crush*, de *Call of Duty Mobile* et d'un tas d'autres jeux pour smartphones. Et il va falloir les rentabiliser ! Cela passera par une nouvelle boutique mobile qui prendra la forme d'un site web, a [annoncé](https://www.bloomberg.com/news/articles/2024-05-09/microsoft-to-launch-mobile-game-store-vying-with-apple-google) Sarah Bond, la présidente de Xbox.
+Au travers de cette acquisition maousse costaud, l'éditeur de Windows est en effet devenu propriétaire de *Candy Crush*, de *Call of Duty Mobile* et d'un tas d'autres jeux pour smartphones. Et il va falloir les rentabiliser ! Cela passera par une nouvelle boutique mobile qui prendra la forme d'un site web, a [annoncé](https://www.bloomberg.com/news/articles/2024-05-09/microsoft-to-launch-mobile-game-store-vying-with-apple-google) Sarah Bond, la présidente de Xbox, durant la même conférence *Bloomberg* évoquée plus haut.
 
 Sur ce site web, les joueurs ne pourront peut-être pas télécharger leurs jeux préférés (ce n'est pas très clair), en revanche ils auront la possibilité de claquer leurs sous dans des consommables pour les titres mobiles de Microsoft. Des gemmes et autres babioles vendues moins cher que sur l'App Store ou le Play Store, et pour cause : elles ne seront pas soumises aux commissions d'Apple et de Google, qui prennent 30 % sur les achats intégrés dans leurs boutiques.
 
