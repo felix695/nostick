@@ -10,17 +10,25 @@ tags = ["Actu"]
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
-## Jouer à Redfall sans connexion, ça n'arrivera pas du coup
+## Les larmes de crocodile de Xbox
 
 Sony a bien failli passer pour le méchant de la semaine, suite [au pataquès de la connexion obligatoire au PSN pour *Helldivers 2*](https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/). Mais c'est finalement Microsoft qui a brillamment repris le flambeau avec [l'annonce de la fermeture de plusieurs studios de Bethesda](https://nostick.fr/articles/2024/mai/0705-fin-de-partie-pour-arkane-austin-et-tango-gameworks/), dont Tango Gameworks (*Ghostwire*, *Hi-Fi Rush*) et Arkane Austin (*Prey*, *Redfall*).
 
-Des tas de choses sont incompréhensibles dans ce coup de hache, comme par exemple faire fermer le seul studio japonais détenu par Xbox, malgré les promesses de l'entreprise qui a promis monts et merveilles pour ce marché historiquement très difficile. Mais arrêtons-nous plutôt sur Arkane, qui travaillait d'arrache-pied à l'amélioration de *Redfall*. 
+Des tas de choses sont incompréhensibles dans ce coup de hache, mais le pire est probablement venu des justifications pour le moins vaseuses des dirigeants de l'entreprise. Sarah Bond, la présidente de Xbox, a sorti son petit manuel du parfait communicant sans âme qui essaie de noyer le poisson.
 
-![Redfall](redfall-stats.jpg "Les 25 joueurs qui étaient sur Redfall il y a 6 minutes, on a des questions à vous poser. @SteamCharts")
+« *Chez Xbox, nous tournons une grande partie de notre attention vers la manière dont nous pouvons aider l'industrie dans son ensemble, tout en veillant à ce que notre marque, tout ce que nous faisons, soit présente durant ce moment de transition* », a-t-elle tenté d'expliquer durant une conférence *Bloomberg*. 
 
-Le jeu est sorti il y a un an, dans un état lamentable. Les mises à jour se sont succédé, dont une apportant le support du 60 FPS. Ce n'était toujours pas la joie et on sentait que le chemin de la rédemption était encore très long, mais enfin le studio y mettait visiblement du cœur.
+{{< youtube oIpc8VZ3Bnw >}}
 
-L'annonce de la fermeture est tombée alors que les développeurs d'Arkane mettaient la touche finale au mode hors connexion de *Redfall*. Réclamé depuis le lancement du jeu, cette option aurait dû être finalement proposée dans le courant du mois, selon *[IGN](https://www.ign.com/articles/arkane-austin-redfall-update-closure-xbox)*. Mais à moins d'une surprise de dernière minute — qui serait d'un goût douteux de la part de Microsoft —, *Redfall* continuera d'exiger une connexion au web pour sa campagne solo. Jusqu'à l'arrêt des serveurs ?
+Concernant plus directement les fermetures des studios, elle a déroulé : « *Vous savez, c'est toujours extrêmement difficile quand vous devez prendre des décisions comme celles-ci* ». Une larme de crocodile plus loin, et interrogé plus précisément sur Tango Gameworks qui a sauvé l'année 2023 de Xbox, elle ajoute : « *Vous savez, l'une des choses que j'aime vraiment dans l'industrie du jeu, c'est que c'est une forme d'art créative. (…) Il n'y a pas de solution unique pour nous. Nous examinons donc chaque studio, chaque équipe de jeu, et nous prenons en compte de nombreux facteurs lorsque nous sommes confrontés à la nécessité de prendre des décisions et de faire des compromis comme ceux-là* ».
+
+Elle a également expliqué que « *lorsque nous avons examiné [les] tendances fondamentales [du marché du jeu vidéo], nous ressentons une profonde responsabilité de garantir que les jeux que nous créons, les appareils que nous construisons, les services que nous offrons soient présents dans ces moments, même lorsque l'industrie ne connait aucune croissance et que nous traversons une période de transition* ».
+
+Au bout du compte, « *les nouvelles que nous avons annoncées plus tôt cette semaine sont le résultat de cela, et de notre engagement à assurer que l'entreprise reste saine à long terme* ». Voilà qui fera sans aucun doute une belle jambe à tous ceux qui ont été virés…
+
+![Sarah Bond](redfall.jpg "Sarah Bond, à droite, durant la conférence Bloomberg cette semaine. À l'arrière, notez le graphique affichant la croissance de l'activité Xbox.")
+
+Sarah Bond n'est pas la seule à être montée au front. Matt Booty, le patron des studios Xbox Games, a tenu une réunion publique chez Bethesda juste après l'annonce de la fermeture des studios. Et pour ajouter l'insulte à l'injure, il a assuré que Xbox « *a besoin de jeux plus petits qui nous donnent du prestige et des récompenses* », selon les propos [relevés](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty) par *The Verge*. Des jeux prestigieux… comme un certain *Hi-Fi Rush*, peut-être ?
 
 ## Le projet Kestrel de Remedy tombe à l'eau
 
