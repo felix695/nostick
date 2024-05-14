@@ -6,7 +6,7 @@ author = "Félix"
 tags = ["Actu"]
 +++
 
-![Image promo pour Red Dead Redemption](RDR.jpg) 
+![Image promo pour Red Dead Redemption](reddeadredemptionpc.jpg) 
 
 Alors oui c’est très chouette de jouer sur PC, on peut coller des mods, profiter des promos Steam et pimper son clavier RGB en riant allègrement des consoleux qui payent 80 boules leurs jeux à 30 i/s. Mais il y a quand même quelques défauts, comme certaines vieilleries qui n’ont jamais été portées vers nos machines de bourgeois. Prenez *Red Dead Redemption* par exemple : sorti en 2014, le jeu de cow-boy de Rockstar n’a jamais eu droit à un portage Windows. Heureusement pour nous le vent semble en train de tourner, un fouineur ayant [déniché du code](https://twitter.com/TezFunz2/status/1790031522315026508) de Rockstar laissant sous-entendre qu’une réédition PC était dans les starting-blocks.
 
