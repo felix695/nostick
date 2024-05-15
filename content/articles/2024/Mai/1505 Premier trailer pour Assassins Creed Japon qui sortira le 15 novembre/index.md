@@ -6,7 +6,7 @@ author = "Félix"
 tags = ["Trailer"]
 +++ 
 
-Ubisoft a enfin levé le voile sur *Assassin’s Creed Shadows* avec un gros trailer de quasiment 4 minutes sans une seconde de gameplay. Comme on s’y attendait, le jeu se passera à l’ère féodale japonaise. Il proposera deux personnages : Naoe, une jeune shinobi et Yasuke, un samurai noir inspiré d’un [porteur d'arme d'origine africaine](https://fr.wikipedia.org/wiki/Yasuke) ayant vécu au XVIe siècle. Ce duo devrait promettre un peu d’originalité côté gameplay, avec un perso axé infiltration là où l’autre sera plus fort pour la baston.
+Ubisoft a enfin levé le voile sur *Assassin’s Creed Shadows* avec un gros trailer de quasiment 4 minutes sans une seconde de gameplay. Comme on s’y attendait, le jeu se passera à l’ère féodale japonaise. Il proposera deux personnages : Naoe, une jeune shinobi et Yasuke, un samurai noir inspiré d’un [porteur d'arme d'origine africaine](https://fr.wikipedia.org/wiki/Yasuke) ayant vécu au XVIe siècle. Ce duo devrait permettre un peu d’originalité côté gameplay, avec un perso axé infiltration là où l’autre sera plus fort pour la baston.
 
 {{< youtube vovkzbtYBC8 >}} 
 
