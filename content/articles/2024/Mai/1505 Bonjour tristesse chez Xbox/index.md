@@ -44,3 +44,5 @@ Sarah Bond, la présidente de Xbox, a annoncé la couleur en début d'année : �
 Le prochain rendez-vous est fixé avant la fin de l'année, Sarah Bond ayant aussi fait miroiter des nouveautés matérielles pour Noël. Il devrait y avoir une nouvelle manette, et potentiellement une Xbox Series X blanche, moins chère, mais sans lecteur optique.
 
 Visiblement, Xbox n'en a donc pas terminé avec les consoles à ses couleurs. Mais en se détachant toujours plus de sa propre plateforme matérielle, Microsoft pourrait finir par la dévitaliser complètement. 
+
+ {{< chat 1505xbox >}}
