@@ -1,6 +1,6 @@
 +++
 title = "Premier trailer pour Assassin’s Creed Japon, qui sortira le 15 novembre"
-date = 2024-04-15T21:00:32+01:00
+date = 2024-05-15T21:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
