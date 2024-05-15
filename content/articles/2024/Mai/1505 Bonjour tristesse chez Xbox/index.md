@@ -4,6 +4,8 @@ date = 2024-05-15T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+type = "une"
+vignette = "https://nostick.fr/articles/vignettes/Xbox.jpg"
 +++
 
 ![Xbox](Xbox.jpg "") 
