@@ -12,6 +12,8 @@ Chaque jour qui passe nous rapproche inexorablement de la sortie de [*GTA VI*](h
 
 {{< youtube QdBZY2fkU-0 >}} 
 
-Voilà, on n'en saura guère plus sur le jeu, alors on peut se repasser en boucle le trailer mis en ligne en décembre dernier et qui n'est plus si loin des 200 millions de vues (il avait franchi le seuil des 100 millions en deux jours !). 
+Voilà, on n'en saura guère plus sur le jeu, alors on peut se repasser en boucle le trailer mis en ligne en décembre dernier et qui n'est plus si loin des 200 millions de vues (il avait franchi le seuil des 100 millions en deux jours !). Pour faire patienter avant la sortie événement, uniquement sur PS5 et Xbox Series S/X dans un premier temps, [Rockstar proposera peut-être *Read Dead Redemption* sur PC !](https://nostick.fr/articles/2024/mai/1405-read-dead-redemption-pourrait-bientot-canarder-sur-pc/)
 
 *GTA VI* aura fort à faire pour battre son prédécesseur : sorti en 2013, *GTA V* affiche désormais 200 millions de copies vendues, soit le deuxième jeu le plus vendu de tous les temps derrière *Minecraft* (300 millions !). La franchise *Grand Theft Auto* trône de son côté sur un milliard de copies écoulées durant toute son histoire. Il y a fort à parier que *GTA 6* en ajoutera quelques (centaines de) millions.
+
+ {{< chat 1605gta >}}
