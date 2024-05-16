@@ -1,5 +1,5 @@
 +++
-title = "GTA VI, c'est pour l'automne 2025"
+title = "GTA VI, c'est officiellement pour l'automne 2025"
 date = 2024-05-16T10:47:32+01:00
 draft = false
 author = "Mickael"
