@@ -10,7 +10,7 @@ tags = ["Actu"]
 
 Chaque jour qui passe nous rapproche inexorablement de la sortie de [*GTA VI*](https://www.rockstargames.com/fr/VI), alias le jeu le plus attendu de l'histoire de l'humanité, enfin, pas loin. Rockstar a donné une nouvelle fenêtre de tir pour le titre : jusqu'à présent, le studio s'était contenté d'afficher un « 2025 » de bon aloi. À l'occasion des résultats de la maison mère Take Two, *GTA VI* est désormais [annoncé](https://ir.take2games.com/static-files/e357ad06-0762-4e80-b80c-e3869252fdfe) pour l'automne de l'année prochaine.
 
-{{< youtube QdBZY2fkU >}} 
+{{< youtube QdBZY2fkU-0 >}} 
 
 Voilà, on n'en saura guère plus sur le jeu, alors on peut se repasser en boucle le trailer mis en ligne en décembre dernier et qui n'est plus si loin des 200 millions de vues (il avait franchi le seuil des 100 millions en deux jours !). 
 
