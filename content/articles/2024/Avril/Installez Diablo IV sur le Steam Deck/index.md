@@ -3,7 +3,7 @@ title = "Steam Deck : installez Diablo IV avec le Game Pass et charclez du streu
 date = 2024-04-02T10:50:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["Tuto"]
 +++ 
 
 ![Battle.net dans le Steam Deck.](DiabloIV-install.jpg "Fais gaffe à tes fesses Lilith.")

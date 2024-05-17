@@ -3,7 +3,7 @@ title = "Comment installer et utiliser Delta, l'émulateur Nintendo ultime pour 
 date = 2024-04-19T11:00:00+01:00
 draft = false
 author = "Mickaël"
-tags = ["XXL"]
+tags = ["Tuto"]
 +++ 
 
 ![Mario Kart DS sur iPhone](Delta.jpg "Ceci est vraiment possible sur votre iPhone !") 
