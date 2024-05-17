@@ -70,7 +70,7 @@ Une dernière chose pour la route : oui, l'interface est affreuse, mais il est p
 
 ![RetroArch Apple TV](retro16.jpg "")
 
-Rendez-vous dans *Réglages* > *Interface utilisateur* > *Apparence*, puis tout en bas sélectionnez *Menu*. Trois choix s'offrent à vous : *ozone* (l'interface par défaut), *rgui* (vraiment old school) et *xmb*. Choisissez *xmd*, puis redémarrez RetroArch — cela peut se faire en « tuant » l'app : double clic sur le bouton « TV » de la télécommande, puis balayez l'application vers le haut. Surprise !
+Rendez-vous dans *Réglages* > *Interface utilisateur* > *Apparence*, puis tout en bas sélectionnez *Menu*. Trois choix s'offrent à vous : *ozone* (l'interface par défaut), *rgui* (vraiment old school) et *xmb*. Choisissez *xmb*, puis redémarrez RetroArch — cela peut se faire en « tuant » l'app : double clic sur le bouton « TV » de la télécommande, puis balayez l'application vers le haut. Surprise !
 
 [^1]: Les Apple TV actuelles intègrent une puce A15, la même que l'iPhone 13 de 2021.
 
