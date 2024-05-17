@@ -3,7 +3,7 @@ title = "Émuler des jeux sur Apple TV : petit guide pour débuter avec RetroArc
 date = 2024-05-17T07:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["Tuto"]
 +++
 
 ![RetroArch Apple TV](retro.jpg "Ce jour est enfin arrivé.")
