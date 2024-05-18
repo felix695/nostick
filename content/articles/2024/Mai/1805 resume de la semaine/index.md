@@ -63,3 +63,16 @@ L'application compagnon permettra aussi de remapper les boutons. Les joueurs aya
 
 Seul hic, et c'est le problème avec ces manettes adaptées au handicap : ça douille. Le Proteus revient à 299 $ (-15 % pendant les précos). Pour ce prix, on repart avec 4 cubes et tout le nécessaire pour commencer à jouer.
 
+## L'émulateur Delta menacé d'une plainte, et pas de Nintendo
+
+Après des années à avoir bêtement interdit les émulateurs dans l'App Store, Apple a fini par céder. D'ores et déjà, les utilisateurs d'iPhone et d'iPad ont pas mal de choix ([et même l'Apple TV avec RetroArch !](https://nostick.fr/articles/2024/mai/1705-apple-tv-retroarch/)). Le champion toutes catégories, c'est évidemment Delta qui permet d'émuler les anciennes consoles Nintendo.
+
+![Delta](Delta4.jpg "")
+
+En Europe, [l'installation de Delta passe par la boutique alternative AltStore](https://nostick.fr/articles/2024/avril/1904-comment-installer-et-utiliser-delta/), mais dans le reste du monde, l'application est simplement distribuée sur l'App Store. Le succès est stratosphérique : Delta est resté au sommet des classements pendant des semaines, ridiculisant au passage tous les belles âmes qui affirmaient que les émulateurs n'intéressaient personne.
+
+Cette popularité n'est cependant pas tombée dans l'oreille d'un sourd. Non pas celle de Nintendo, mais d'Adobe, qui a menacé Delta d'une plainte en raison du logo de l'app — aux yeux de l'éditeur de logiciels d'édition graphique, il ressemble en effet un peu trop à son propre logo. Et… bin c'est difficile de dire le contraire. Pour éviter les embêtements, Delta a donc [décidé](https://fosstodon.org/@altstore/112457898141250024) de modifier son logo :
+
+![Logo Delta](Delta.jpg "À gauche, le logo d'Adobe. Au centre, l'ancien logo Delta. À droite, le nouveau.")
+
+Pas sûr qu'on y gagne au change, mais enfin on comprend que Riley Testut, le développeur de Delta, n'ait pas voulu tenter le diable.
