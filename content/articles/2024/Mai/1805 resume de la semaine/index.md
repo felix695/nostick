@@ -1,6 +1,6 @@
 +++
 title = "Fantastique, atypique, un peu dramatique : la folle semaine du jeu vidéo (18/05)"
-date = 2024-05-18T10:47:32+01:00
+date = 2024-05-18T08:31:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
