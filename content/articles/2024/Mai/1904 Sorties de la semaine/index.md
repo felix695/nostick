@@ -1,6 +1,6 @@
 +++
 title = "Les sorties de la semaine (18/05)"
-date = 2024-05-18T08:00:00+01:00
+date = 2024-05-19T08:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
