@@ -1,6 +1,6 @@
 +++
 title = "La sortie de Hellblade 2 ne condamne pas Ninja Theory"
-date = 2024-05-21T10:47:32+01:00
+date = 2024-05-21T06:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
