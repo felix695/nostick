@@ -1,5 +1,5 @@
 +++
-title = "Paper Mario pourrait confirmer que la Switch 2 peut fournir de la 4K"
+title = "Paper Mario pourrait confirmer que la Switch 2 balance de la 4K"
 date = 2024-05-23T10:47:32+01:00
 draft = false
 author = "Mickael"
