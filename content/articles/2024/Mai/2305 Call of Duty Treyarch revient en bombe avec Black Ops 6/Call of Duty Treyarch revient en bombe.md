@@ -9,7 +9,7 @@ tags = ["Actu"]
 
 Ô joie, ô bonheur : comme tous les ans depuis 2005, il y aura un nouveau *Call of Duty* cette année. Activision a confirmé l’arrivée de cette cuvée 2024 suite à une série de fuites. Il s’agira d’un nouveau *Black Ops*, le dernier datant de 2020. Un [site web](https://thetruthlies.com) a été mis en ligne pour l’occasion, ainsi qu’un petit trailer… qui ne nous apprend pas grand-chose :
 
-{{< youtube SvzFEDcx_2Y >}} 
+{{< youtube RxIHyfwUrTg >}} 
 
 « *Un nouveau chapitre sombre de la franchise Black Ops commence* », prévient Activision sur [Twitter](https://twitter.com/CallofDuty/status/1793635518648836544) au côté d’une image représentant un emblème à têtes de loups. Les rumeurs voudraient que le jeu se déroule pendant la guerre du Golfe, ce qui semble être confirmé par [une autre fuite](https://twitter.com/charlieINTEL/status/1793636471553036712?t=w9F6focaNh2Rc7k_9Rm8eg). On en saura plus le 9 juin à l’occasion du prochain gros événement Xbox, Microsoft ayant [confirmé](https://news.xbox.com/en-us/2024/04/30/xbox-games-showcase-2024-redacted-direct/) dans la foulée que le Direct d'après showcase sera bien consacré à ce nouvel épisode de *Black Ops*.
 
