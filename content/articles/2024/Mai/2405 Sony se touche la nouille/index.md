@@ -47,3 +47,5 @@ En revanche, pas sûr qu'Asad soit dans le vrai quand il déclare : « *L'accen
 L'exercice de communication de Sony est périlleux. Il est facile de se moquer des bouffées délirantes d'une communication d'entreprise en roue libre et très franchement, on peut effectivement ricaner. Mais derrière les mots à la mode et les discours grandiloquents, il y a probablement un fond de vérité.
 
 [^1]: Le [Kando](https://www.sony.co.uk/alphauniverse/stories/kando-attitude) est un concept japonais qui décrit une profonde émotion de satisfaction et d'émerveillement suscité par une expérience esthétique ou artistique exceptionnelle. C'est aussi un des mantras de Sony.
+
+ {{< chat 2405sony >}}
