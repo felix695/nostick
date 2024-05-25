@@ -34,7 +34,7 @@ Et c'est probablement ce qui intéresse Nintendo. Shiver va poursuivre ses porta
 
 ## Enfin la fin de la guerre des consoles d'il y a 45 ans
 
-Atari veut devenir le champion de la vague rétro ! Après la relance de la marque Infogrames il y a quelques semaines, le groupe (français, il est basé à Paris) a racheté la pauvre carcasse d'Intellivision ainsi que son catalogue de 200 jeux. Et alors bon, OK, Intellivision, je n'en voudrais à personne de faire des yeux ronds comme des queues de pelle.
+Atari veut devenir le champion de la vague rétro ! Après la relance de la marque Infogrames [il y a quelques semaines](https://nostickreloaded.substack.com/i/144066755/infogrames-renait-de-ses-cendres), le groupe (français, il est basé à Paris) a racheté la pauvre carcasse d'Intellivision ainsi que son catalogue de 200 jeux. Et alors bon, OK, Intellivision, je n'en voudrais à personne de faire des yeux ronds comme des queues de pelle.
 
 ![Logo Intellivision](intellivision.jpg "")
 
