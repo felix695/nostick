@@ -14,7 +14,7 @@ L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publ
 
 Il n'y a pas que l'industrie du jeu vidéo qui ne va pas très bien. La presse jeu vidéo n'est pas dans sa meilleure forme non plus, et ça ne s'arrange pas. Si vous êtes familier de *Gamekult*, vous avez probablement remarqué que le site n'a plus posté aucun test depuis plus d'un mois ; le dernier en date remonte en fait au 21 mars, c'était pour *Rise of the Ronin*.
 
-Les journalistes ont reçu pour consigne de les remplacer par des « *ultimes bafouilles* », comme celle consacrée récemment à *Hades II*. Comme l'[explique](https://x.com/cael_presse/status/1792854097088897027) Cael, membre de la rédaction qui n'avait « *pas le droit d'aborder la question auprès du public* », c'est un pas de plus vers la dévitalisation complète du site, propriété de Reworld Media depuis deux ans après être passé entre les mains du groupe TF1.
+Les journalistes ont reçu pour consigne de les remplacer par des « *ultimes bafouilles* », telles que celle consacrée récemment à *Hades II*. Comme l'[explique](https://x.com/cael_presse/status/1792854097088897027) Cael, membre de la rédaction qui n'avait « *pas le droit d'aborder la question auprès du public* », c'est un pas de plus vers la dévitalisation complète du site, propriété de Reworld Media depuis deux ans après être passé entre les mains du groupe TF1.
 
 Plus de test à proprement parler, plus non plus de vidéos, qui sont pourtant des contenus pour lesquels de nombreux lecteurs ont payé un abonnement. « *Je ne sais pas où l'on va* », écrit Cael, « *nous devions faire le point sur cette nouvelle stratégie fin avril, pas de nouvelles* ». Ça ne sentait pas très bon pour *Gamekult* depuis longtemps, ça ne s'arrange donc pas.
 
@@ -42,7 +42,7 @@ Intellivision était une console créée par Mattel en 1979, suite au succès de
 
 Alors voir Atari acquérir son plus féroce rival, c'est comme si Nintendo s'était offert Sega, ou si Microsoft rachetait Sony (ne leur donnons pas de mauvaise idée). « *C'est une opportunité très rare de réunir d'anciens concurrents et de rassembler les fans d'Atari, d'Intellivision et de l'âge d'or du jeu vidéo*  », a [déclaré](https://atari.com/blogs/newsroom/atari-acquires-intellivision-brand) Wade Rosen, président et PDG d'Atari.
 
-Atari empoche donc non seulement la marque, mais aussi plus de 200 jeux qui ne manqueront pas d'être rentabilisés d'une manière ou d'une autre. En revanche, l'entreprise ne veut pas entendre parler de la console Amico, que la direction d'Intellivision tente désespérément de lancer depuis 2020. Une nouvelle marque va prendre le relais pour commercialiser ce qui s'annonce comme un vaporware grand luxe.
+Atari empoche donc non seulement la marque, mais aussi plus de 200 jeux qui ne manqueront pas d'être rentabilisés d'une manière ou d'une autre. En revanche, l'entreprise ne veut pas entendre parler de [la console Amico](https://nostickreloaded.substack.com/i/139146993/lamico-vraie-console-ou-enorme-arnaque), que la direction d'Intellivision tente désespérément de lancer depuis 2020. Une nouvelle marque va prendre le relais pour commercialiser ce qui s'annonce comme un vaporware grand luxe.
 
 ## MultiVersus reprend la bagarre
 
@@ -72,7 +72,7 @@ Avant qu'Apple devienne ce monstre froid, cynique et peu sympathique qu'elle est
 
 {{< youtube q0c6SOP4CCo >}} 
 
-Mais Apple ne s'est pas arrêté en si bon chemin. La chaîne YouTube *Apple Demo* a mis la main sur un prototype d'iPad de 3e génération (celui avec les quatre boutons au-dessus de la molette) avec un jeu inédit, *Stacker*, qui n'est autre qu'un clone de *Tetris* ! Et le tout est jouable, même à la molette.
+Mais Apple ne s'est pas arrêté en si bon chemin. La chaîne YouTube *Apple Demo* a mis la main sur un prototype d'iPod de 3e génération (celui avec les quatre boutons au-dessus de la molette) avec un jeu inédit, *Stacker*, qui n'est autre qu'un clone de *Tetris* ! Et le tout est jouable, même à la molette.
 
 L'animateur de la chaîne a demandé à Tony Fadell, le « père » de l'iPod, ce qu'il était advenu de *Stacker* et pourquoi le jeu n'était jamais sorti. L'ancien vice président d'Apple lui a indiqué que les jeux n'apparaissaient pas avant d'appliquer une mise à jour logicielle. Peut-être qu'Apple a annulé la version de l'OS qui aurait permis de jouer à *Tetris* sur ces vieux iPod…
 
