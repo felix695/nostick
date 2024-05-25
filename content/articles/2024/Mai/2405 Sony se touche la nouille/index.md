@@ -4,6 +4,8 @@ date = 2024-05-24T10:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+type = "une"
+vignette = "https://nostick.fr/articles/2024/mai/2405-sony-se-touche-la-nouille/Sony.jpg"
 +++
 
 ![Sony](Sony.jpg "Portal 2 confirmé.")
