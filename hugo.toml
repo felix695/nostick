@@ -11,3 +11,5 @@ defaultContentLanguage = "fr"
 [taxonomies]
   tag = "tags"
 enableRobotsTXT = false
+[rss]
+  url = "https://nostick.fr/feed.xml"
