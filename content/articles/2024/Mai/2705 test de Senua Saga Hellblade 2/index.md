@@ -88,3 +88,5 @@ Quant à la qualité graphique, Ninja Theory a définitivement maîtrisé le mot
 La réponse à la question que l'on se posait en début d'article dépendra en fait de chacun. Pour ce qui me concerne, *Hellblade 2* a été une expérience interactive fascinante, j'en aurais bien repris quelques heures de plus ! Mais en tant que jeu en lui-même, le titre est clairement une déception. Toutefois, on ne peut s'empêcher d'espérer que pour son prochain projet — [validé par Microsoft](https://nostick.fr/articles/2024/mai/2105-la-sortie-de-hellblade-2-ne-condamne-pas-ninja-theory/) —, Ninja Theory parvienne à mieux équilibrer la claque visuelle et le gameplay.
 
 *Jeu testé sur le Game Pass via GeForce Now Ultimate (ça marche au poil)*
+
+ {{< chat 2705hellblade2 >}}
