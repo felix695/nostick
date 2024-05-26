@@ -6,12 +6,12 @@
   {{ partial "meta.html" . }}
   {{ partial "title.html" . }}
   {{ partial "link.html" . }}
+  <link rel="alternate" type="application/rss+xml" href="{{ .Site.RSSLink }}">
   {{ partial "load_site_assets.html" . }}
   {{ block "load_page_assets" . }}
     {{ with .Content }}{{ end }}
   {{ end }}
   {{ partial "assets.html" . }}
-
 
 
   <script defer data-domain="nostick.fr" src="https://plausible.io/js/script.js"></script>

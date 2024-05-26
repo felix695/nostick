@@ -12,7 +12,6 @@
         {{ end }}
         {{ $site_css := (.Scratch.Get "css").base }}
         <link rel="stylesheet" href="{{ $site_css.Permalink }}" integrity="{{ $site_css.Data.Integrity }}" />
-        <link rel="alternate" type="application/rss+xml" href="https://nostick.fr/feed.xml">
       </head>
       <body>
         <nav class="u-background">
