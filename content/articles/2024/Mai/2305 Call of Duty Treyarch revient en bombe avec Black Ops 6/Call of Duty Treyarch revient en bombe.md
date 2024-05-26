@@ -1,6 +1,6 @@
 +++
 title = "Call of Duty : Treyarch revient en bombe avec Black Ops 6"
-date = 2024-05-23T19:00:00+01:00
+date = 2024-05-23T19:00:00+02:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
