@@ -8,7 +8,7 @@ type = "une"
 vignette = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 +++
 
-![Hellblade 2](hellblade3.jpg "")
+![Hellblade 2](hellblade1.jpg "")
 
 **Jeu vidéo, film interactif, démo technique, « expérience »… Comment qualifier *Senua's Saga: Hellblade 2* ? S'il est difficile de se faire une opinion arrêtée sur le nouveau jeu de Ninja Theory, il y a au moins une chose de sûre : le titre marque la rétine et les cages à miel au fer rouge. Pour les doigts, c'est moins sûr.**
 
@@ -57,7 +57,8 @@ Et par humain, on entend : viscéral. Les combats sont sanglants et font mal aux
 
 Les animations en mocap des personnages (Melina Juergens, l'actrice qui incarne Senua, méritera toutes les récompenses en fin d'année) sont saisissantes, que ce soit « en jeu » ou durant les cinématiques. 
 
-![Hellblade 2](hellblade6.jpg "")
+![Hellblade 2](hellblade3.jpg "")
+
 
 
 Les moments plus calmes bénéficient aussi du travail d'orfèvre réalisé par le studio. La balade dans la campagne sauvage islandaise est de toute beauté, que ce soit sous le soleil (rarement), sous la pluie battante (plus souvent) ou la nuit. On s'arrête fréquemment en chemin pour admirer les paysages.
