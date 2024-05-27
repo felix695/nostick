@@ -5,6 +5,8 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
+url: /2705-test-de-senua-saga-hellblade-2/
+images: /2705-test-de-senua-saga-hellblade-2/hellblade1.jpg
 vignette = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 +++
 
