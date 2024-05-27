@@ -8,7 +8,7 @@ type = "une"
 vignette = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 +++
 
-![Hellblade 2](hellblade1.jpg "Ça fait mal.")
+![Hellblade 2](hellblade3.jpg "")
 
 **Jeu vidéo, film interactif, démo technique, « expérience »… Comment qualifier *Senua's Saga: Hellblade 2* ? S'il est difficile de se faire une opinion arrêtée sur le nouveau jeu de Ninja Theory, il y a au moins une chose de sûre : le titre marque la rétine et les cages à miel au fer rouge. Pour les doigts, c'est moins sûr.**
 
@@ -33,8 +33,6 @@ Au début du jeu, un panneau recommande vivement de porter un casque ou des éco
 *Hellblade 2* est probablement ce qui se rapproche le plus d'un film interactif. Le titre alterne très habilement, et de manière transparente, les cinématiques et les phases de jeu. Rapidement, on prend le pli du fonctionnement : dès que la caméra se pose dans le dos de Senua, on sait que le jeu nous redonne le volant.
 
 Hélas, en termes de gameplay pur et dur, les premiers problèmes apparaissent : il n'y a pas beaucoup de jeu dans ce jeu. *Hellblade 2* demande essentiellement trois choses au joueur : se rendre d'un point A à un point B, résoudre des puzzles visuels et combattre des méchants. Vous allez me dire, c'est le programme de bon nombre de jeux d'aventure/action, mais le gameplay du titre ne dépasse pas le strict minimum.
-
-![Hellblade 2](hellblade3.jpg "")
 
 Se rendre d'un point A à un point B ? Le chemin est balisé entre des murs virtuels contre lesquels on bute très vite. Les puzzles ? Il suffit généralement de focaliser l'attention de Senua sur un bout de décor pour que la solution apparaisse toute seule. Les bastons ? On est aux antipodes de ce qui se fait de plus engageant.
 
