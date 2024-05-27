@@ -6,7 +6,7 @@ author = "Mickael"
 tags = ["Test"]
 type = "une"
 url: /2705-test-de-senua-saga-hellblade-2/
-images: /2705-test-de-senua-saga-hellblade-2/hellblade1.jpg
+images: https://nostick.fr/articles/2024/mai/2705-test-de-senua-saga-hellblade-2/hellblade1.jpg
 vignette = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 +++
 
