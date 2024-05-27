@@ -1,6 +1,6 @@
 +++
 title = "Test de Senua's Saga: Hellblade 2, une aventure qui a oublié d'être un jeu"
-date = 2024-05-27T07:47:32+01:00
+date = 2024-05-27T07:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]
