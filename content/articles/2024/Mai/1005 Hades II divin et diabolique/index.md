@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignettes/HadesII.jpg"
+image = "https://nostick.fr/articles/vignettes/HadesII.jpg"
 +++
 
 ![Hades II](Hades-II.jpg "Allez encore un petit tour aux Enfers !")

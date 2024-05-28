@@ -5,7 +5,6 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 image = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 +++
 

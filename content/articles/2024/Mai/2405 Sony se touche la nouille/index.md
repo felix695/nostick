@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["XXL"]
 type = "une"
-vignette = "https://nostick.fr/articles/2024/mai/2405-sony-se-touche-la-nouille/Sony.jpg"
+image = "https://nostick.fr/articles/2024/mai/2405-sony-se-touche-la-nouille/Sony.jpg"
 +++
 
 ![Sony](Sony.jpg "Portal 2 confirmé.")

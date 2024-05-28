@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["XXL"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignettes/Switch1.jpg"
+image = "https://nostick.fr/articles/vignettes/Switch1.jpg"
 +++
 
 ![Nintendo Switch](Switch1.jpg "@ Erik Mclean (Unsplash)")

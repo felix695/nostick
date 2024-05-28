@@ -1,6 +1,5 @@
 <!-- Bloc des vignettes pour les articles de type 'une' -->
 
-
 <div class="container-vignettes">
   {{ $uneArticles := where .Site.RegularPages "Params.type" "une" }} <!-- Filtrer les articles de type 'une' -->
   {{ $recentUneArticles := first 6 (sort $uneArticles "Date" "desc") }} <!-- Sélectionner les 6 derniers articles -->
@@ -9,7 +8,7 @@
   {{ range $randomArticles }} <!-- Boucle sur les articles sélectionnés au hasard -->
   <div class="vignette">
     <a href="{{ .Permalink }}">
-      <img src="{{ .Params.vignette }}" alt="{{ .Title }}" style="width: 100%; height: auto;">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: auto;">
       <div class="une">
         <h2>{{ .Title }}</h2>
       </div>
@@ -18,7 +17,6 @@
   {{ end }}
 </div>
 
-<!-- Pagination et affichag des articles de la page d'accueil -->
+<!-- Pagination et affichage des articles de la page d'accueil -->
 
 {{ $uneArticles := where .Site.RegularPages "Params.type" "une" }}
-

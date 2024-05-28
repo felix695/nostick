@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["XXL"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignettes/Xbox.jpg"
+image = "https://nostick.fr/articles/vignettes/Xbox.jpg"
 +++
 
 ![Xbox](Xbox.jpg "") 

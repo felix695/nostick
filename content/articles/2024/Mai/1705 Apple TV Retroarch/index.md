@@ -4,6 +4,7 @@ date = 2024-05-17T06:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Tuto"]
+type = "une"
 image = "https://nostick.fr/articles/2024/mai/1705-apple-tv-retroarch/retro.jpg"
 +++
 
