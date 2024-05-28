@@ -10,7 +10,7 @@ tags = ["Actu"]
 
 Allez, ce n'est plus une surprise désormais : *Call of Duty: Black Ops 6* sera bien disponible *day one* sur le Game Pass. Microsoft a fin par cracher sa Valva sur *[Xbox Wire](https://news.xbox.com/en-us/2024/05/28/play-call-of-duty-black-ops-6-day-one-game-pass/)*, le tout accompagné d'un petit trailer qui va bien
 
-{{< youtube TGnCArMHE58 >}} 
+{{< youtube TGnCArMHE58 >}}
 
 Il ne faisait plus guère de doute que le gros jeu de l'année d'Activision allait faire son entrée dans le Game Pass. Sarah Bond, la présidente de Xbox, avait [confirmé](https://www.youtube.com/watch?v=oIpc8VZ3Bnw) lors d'une conférence *Bloomberg* début mai que les abonnés ont accès à tous les jeux des studios Microsoft dès le premier jour. Elle n'a pas cité nommément *Call of*, mais c'est tout comme. Une annonce pourrait même tomber dès aujourd'hui.
 
