@@ -8,9 +8,9 @@ tags = ["Actu"]
 
 ![Call of Duty: Black Ops 6](CallOf2.jpg "I want to believe !") 
 
-Allez, ce n'est plus une surprise désormais : *Call of Duty: Black Ops 6* sera bel et bien disponible *day one* sur le Game Pass. Microsoft a vendu la mèche par l'entreprise d'une notification de l'application mobile du service par abonnement… Une alerte probablement accidentelle, mais qui révèle un pot aux roses quelque peu faisandé.
+Allez, ce n'est plus une surprise désormais : *Call of Duty: Black Ops 6* sera certainement disponible *day one* sur le Game Pass. Microsoft a vendu la mèche par l'entreprise d'une notification de l'application mobile du service par abonnement… Une alerte probablement accidentelle, mais qui révèle un pot aux roses quelque peu faisandé.
 
-Car il ne faisait plus guère de doute que le gros jeu de l'année d'Activision allait faire son entrée dans le Game Pass. Sarah Bond, la présidente de Xbox, avait [expliqué](https://www.youtube.com/watch?v=oIpc8VZ3Bnw) lors d'une conférence *Bloomberg* début mai que les abonnés ont accès à tous les jeux des studios Microsoft dès le premier jour. Elle n'a pas cité nommément *Call of*, mais c'est tout comme. Une annonce pourrait même tomber dès aujourd'hui.
+Car il ne faisait plus guère de doute que le gros jeu de l'année d'Activision allait faire son entrée dans le Game Pass. Sarah Bond, la présidente de Xbox, avait [confirmé](https://www.youtube.com/watch?v=oIpc8VZ3Bnw) lors d'une conférence *Bloomberg* début mai que les abonnés ont accès à tous les jeux des studios Microsoft dès le premier jour. Elle n'a pas cité nommément *Call of*, mais c'est tout comme. Une annonce pourrait même tomber dès aujourd'hui.
 
 ![Call of Duty: Black Ops 6](CallOf.jpg "Bon sang ne saurait mentir. © GPTGamingNews") 
 
