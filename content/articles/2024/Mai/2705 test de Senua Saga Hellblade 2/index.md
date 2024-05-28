@@ -6,6 +6,7 @@ author = "Mickael"
 tags = ["Test"]
 type = "une"
 vignette = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
+image = "https://nostick.fr/articles/vignettes/hellblade1.jpg"
 +++
 
 ![Hellblade 2](hellblade1.jpg "")
