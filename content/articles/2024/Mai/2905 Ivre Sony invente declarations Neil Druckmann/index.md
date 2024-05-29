@@ -4,7 +4,7 @@ date = 2024-05-29T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/mai/2905-ivre-sony-invente-declarations-neil-druckmann/Druckmann.jpg"
 +++
 
 ![Neil Druckmann](Druckmann.jpg "Neil Druckmann. © Gage Skidmore, CC BY-SA 2.0 DEED") 
