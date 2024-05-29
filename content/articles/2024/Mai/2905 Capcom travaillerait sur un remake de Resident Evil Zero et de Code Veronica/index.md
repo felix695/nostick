@@ -4,7 +4,7 @@ date = 2024-05-29T09:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/mai/2905-capcom-travaillerait-sur-un-remake-de-resident-evil-zero-et-de-code-veronica/RE0.jpg"
 +++ 
 
 ![Capture d’écran de la version remaster de RE0 sur Steam.](RE0.jpg "La version remaster de RE0 sur Steam.")
