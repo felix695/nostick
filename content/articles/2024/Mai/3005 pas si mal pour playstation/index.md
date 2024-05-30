@@ -23,14 +23,14 @@ Vous allez me dire qu'avec 107 milliards, les revenus de la PS4 dépassent ceux 
 
 Après tout, la PS4 s'est écoulée à 117 millions d'unités et de nombreux joueurs n'ont toujours pas fait la bascule vers le nouveau modèle. La PS5 a cependant un autre atout par rapport à sa prédécesseure : les joueurs dépensent beaucoup plus d'argent ! +34 % pour les périphériques par rapport à la PS4, +57 % pour les services, +176 % pour les contenus supplémentaires (DLC)… Par contre, c'est -12 % pour les jeux en eux-mêmes. En tout, les joueurs ont claqué en moyenne 731 $ pour leur PS5, les jeux et les accessoires, conte 580 $ pour la PS4 (une différence de 26 %).
 
-![Sony](sony2.jpg "") 
+![Sony](Sony2.jpg "") 
 
 PlayStation compte 118 millions d'utilisateurs mensuels actifs (dont 49 millions pour la PS5), à qui Sony compte bien vendre des jeux bien sûr, mais aussi du service à gogo. Le nombre d'abonnés aux formules PS Plus les plus chères (Extra et Premium) a progressé de 5 points entre 2022 et 2023.
 
-![Sony](sony3.jpg "")
+![Sony](Sony3.jpg "")
 
 Ces joueurs ont aussi passé plus de temps à jouer : 2,4 milliards d'heures sur la PS5, contre 1,4 milliard sur la PS4. Il est probable que la pandémie, avec ses périodes de confinement, a poussé pas mal d'entre eux à tuer le temps devant  la télé. À la lumière de ces chiffres, on comprend un peu mieux la volonté de Sony de se lancer à corps perdu dans les jeux service, qui sont susceptibles de gagner en rentabilité lorsque les joueurs y passent beaucoup de temps.
 
-![Sony](sony4.jpg "")
+![Sony](Sony4.jpg "")
 
 On n'a pas fini d'entendre parler de Sony : le State of Play estival est en effet prévu pour cette nuit ! Bien sûr, on vous tiendra au courant des principales nouveautés parce qu'on adore se coucher très tard.
