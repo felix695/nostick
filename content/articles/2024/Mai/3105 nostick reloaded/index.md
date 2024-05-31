@@ -4,10 +4,10 @@ date = 2024-05-31T15:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/mai/3105-nostick-reloaded/nostick-reloaded.jpg"
 +++
 
-![L’infolettre Nostick Reloaded sur Substack](nostickreloaded.png "Abonnez-vous !") 
+![L’infolettre Nostick Reloaded sur Substack](nostick-reloaded.jpg "Abonnez-vous !") 
 
 Le saviez-vous ? Nostick, ce n’est pas qu’un site web : c’est aussi une infolettre ! Une infolettre hebdomadaire même, baptisée [Nostick Reloaded](https://nostickreloaded.substack.com) et livrée chaque dimanche à 8 h pétantes. Elle résume les grosses actualités de la semaine ainsi que les sorties du moment, ce qui sera pratique pour ceux qui suivent le sujet de loin.
 
