@@ -11,9 +11,9 @@ image = "https://nostick.fr/articles/2024/mai/3105-sony-paquet-pc/astro.jpg"
 
 Sony a a inauguré cette nuit la salve estivale de jeux vidéo qui va se poursuivre avec le Summer Game Fest (à partir du 7 juin), le Showcase Xbox (le 9 juin), Ubisoft Forward (10 juin) et une myriade d'autres événements — dont le Direct de Nintendo officiellement prévu pour le mois de juin — qui ne manqueront pas de faire tourner les têtes des joueurs avides de nouveautés. 
 
-Ce State of Play avait pas mal de jeux intéressants, non seulement pour la PS5 mais aussi… pour le PC, puisque PlayStation investit de plus en plus la plateforme et personne ne s'en plaindra. Parmi les grosses nouveautés de l'événement se trouvait d'ailleurs l'annonce officielle de *God of War Ragnarök* qui, après avoir tout défoncé sur PS5, va débouler sur PC le 19 septembre.
+Ce State of Play avait pas mal de jeux intéressants, non seulement pour la PS5 mais aussi… pour le PC, puisque PlayStation investit de plus en plus la plateforme et personne ne s'en plaindra. Parmi les grosses nouveautés de l'événement se trouvait d'ailleurs l'annonce officielle de *God of War Ragnarök* qui, après avoir tout défoncé sur PS5, va [débouler sur PC](https://www.youtube.com/watch?v=4mVaKztSoJM) le 19 septembre.
 
-{{< youtube 4mVaKztSoJM >}} 
+![Jeu God of War PC](godofwar.png) 
 
 Le jeu comprendra le DLC *Valhalla*, un excellent mode roguelite, ainsi que le support des principaux systèmes d'upscaling (DLSS 3.7, FSR 3.1 et XESS 1.3), sans oublier la prise en charge des moniteurs ultrawide.
 
@@ -29,9 +29,7 @@ Capcom a profité de l'occasion pour montrer un peu plus de *Monster Hunter Wild
 
 {{< youtube sU3pyYi5hz0 >}} 
 
-Le rayon des jeux d'horreur était bien chargé, avec deux remakes au rendez-vous : *Until Dawn*, qui sortira cet automne sur PS5 et PC avec sa nouvelle livrée Unreal Engine 5, et *Silent Hill 2*, prévu pour le 8 octobre sur PS5 et PC.
-
-{{< youtube wHMNQzLG_Jg >}} 
+Le rayon des jeux d'horreur était bien chargé, avec deux remakes au rendez-vous : *Until Dawn*, qui sortira cet automne sur PS5 et PC avec sa nouvelle livrée Unreal Engine 5, [et *Silent Hill 2*](https://www.youtube.com/watch?v=sU3pyYi5hz0), prévu pour le 8 octobre sur PS5 et PC.
 
 Mais bien sûr, il y a quand même eu quelques jeux exclusifs pour PS5 à commencer par *Astro Bot* qui a enfin droit à une « vraie » aventure rien qu'à lui. Le jeu de plateformes 3D, bourré de références à l'histoire de PlayStation, s'annonce très fun avec ses 50 (!) environnements. Les précos commencent le 7 juin, et le jeu sera dispo le 6 septembre.
 
