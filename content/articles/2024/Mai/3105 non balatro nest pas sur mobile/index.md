@@ -4,10 +4,10 @@ date = 2024-05-31T17:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/mai/3105-sony-paquet-pc/astro.jpg"
+image = "https://nostick.fr/articles/2024/mai/3105-non-balatro-nest-pas-sur-mobile/balatrop.png"
 +++
 
-[!Un faux jeu Balatro sur l’App Store](balatrop.png "Attention arnaque !!") 
+![Un faux jeu Balatro sur l’App Store](balatrop.png "Attention arnaque !!") 
 
 Vous n’avez pas pu échapper à la vague *Balatro* qui a fait plonger la productivité de bon nombre d’entreprises [en début d’année](https://nostick.fr/articles/2024/mars/balatro/). L’effet de mode est un peu retombé, mais les fans restent nombreux à attendre une version mobile pour se faire un fix tranquillou dans le métro ou à la pause midi. Si une déclinaison iOS/Android de Balatro est bien dans les cartons, elle n’est pas encore en ligne et plusieurs fausses pages sont actuellement trouvables sur les boutiques d’apps. 
 
