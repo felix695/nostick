@@ -29,6 +29,8 @@ Capcom a profité de l'occasion pour montrer un peu plus de *Monster Hunter Wild
 
 Le rayon des jeux d'horreur était bien chargé, avec deux remakes au rendez-vous : *Until Dawn*, qui sortira cet automne sur PS5 et PC avec sa nouvelle livrée Unreal Engine 5, [et *Silent Hill 2*](https://www.youtube.com/watch?v=sU3pyYi5hz0), prévu pour le 8 octobre sur PS5 et PC.
 
+{{< youtube wHMNQzLG_Jg >}} 
+
 Mais bien sûr, il y a quand même eu quelques jeux exclusifs pour PS5 à commencer par *Astro Bot* qui a enfin droit à une « vraie » aventure rien qu'à lui. Le jeu de plateformes 3D, bourré de références à l'histoire de PlayStation, s'annonce très fun avec ses 50 (!) environnements. Les précos commencent le 7 juin, et le jeu sera dispo le 6 septembre.
 
 {{< youtube fnzh9Ll4i7A >}} 
