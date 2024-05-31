@@ -35,4 +35,4 @@ Mais bien sûr, il y a quand même eu quelques jeux exclusifs pour PS5 à commen
 
 {{< youtube fnzh9Ll4i7A >}} 
 
-Un dernier mot concernant le pauvre PSVR2 que Sony se refuse à enterrer définitivement. Les utilisateurs du casque VR seront ravis de le dépoussiérer à Noël pour se payer une petite séquence de frissons avec *Alien : Rogue Incursion*. Le jeu au scénario original — il se déroule sur la planète Purdan — est développé avec l'Unreal Engine 5. Et bien sûr, faites gaffe où vous mettrez les pieds…
+Un dernier mot concernant le pauvre PSVR2 que Sony se refuse à enterrer définitivement. Les utilisateurs du casque VR seront ravis de le dépoussiérer à Noël pour se payer une petite séquence de frissons avec *Alien : Rogue Incursion*. Le jeu au scénario original — il se déroule sur la planète Purdan — est développé avec l'Unreal Engine 5. Et bien sûr, faites gaffe où vous mettrez les pieds… Le titre sera aussi proposé sur SteamVR et Meta Quest.
