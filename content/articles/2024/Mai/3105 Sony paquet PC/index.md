@@ -4,7 +4,7 @@ date = 2024-05-30T23:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/mai/3105-sony-paquet-pc/astro.jpg"
 +++
 
 ![Astro Bot](astro.jpg "Un jeu rien qu'à lui !") 
