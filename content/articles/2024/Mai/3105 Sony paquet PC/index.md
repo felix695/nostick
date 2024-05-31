@@ -1,6 +1,6 @@
 +++
 title = "God of War Ragnarök, Concord : Sony met le paquet sur le PC"
-date = 2024-31-05T00:47:32+01:00
+date = 2024-30-05T23:58:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
