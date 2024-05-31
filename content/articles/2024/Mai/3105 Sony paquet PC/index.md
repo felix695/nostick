@@ -27,8 +27,6 @@ Toujours au chapitre du PC, Sony a fini par lever le voile sur *Concord*, un gro
 
 Capcom a profité de l'occasion pour montrer un peu plus de *Monster Hunter Wilds*, qui sortira sur PS5 donc, mais aussi sur Xbox Series S/X et PC (Steam). Cet énième opus de la franchise a plutôt bonne allure et le trailer se paie quelques séquences de gameplay intense contre les grosses bébêtes. Sortie prévue en 2025.
 
-{{< youtube sU3pyYi5hz0 >}} 
-
 Le rayon des jeux d'horreur était bien chargé, avec deux remakes au rendez-vous : *Until Dawn*, qui sortira cet automne sur PS5 et PC avec sa nouvelle livrée Unreal Engine 5, [et *Silent Hill 2*](https://www.youtube.com/watch?v=sU3pyYi5hz0), prévu pour le 8 octobre sur PS5 et PC.
 
 Mais bien sûr, il y a quand même eu quelques jeux exclusifs pour PS5 à commencer par *Astro Bot* qui a enfin droit à une « vraie » aventure rien qu'à lui. Le jeu de plateformes 3D, bourré de références à l'histoire de PlayStation, s'annonce très fun avec ses 50 (!) environnements. Les précos commencent le 7 juin, et le jeu sera dispo le 6 septembre.
