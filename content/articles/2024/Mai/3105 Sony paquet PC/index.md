@@ -1,5 +1,5 @@
 +++
-title = "God of War Ragnarök, Concord : Sony met le paquet sur le PC"
+title = "God of War Ragnarök, Concord : PlayStation met le paquet sur le PC"
 date = 2024-05-30T23:00:00+01:00
 draft = false
 author = "Mickael"
@@ -13,7 +13,7 @@ Sony a a inauguré cette nuit la salve estivale de jeux vidéo qui va se poursui
 
 Ce State of Play avait pas mal de jeux intéressants, non seulement pour la PS5 mais aussi… pour le PC, puisque PlayStation investit de plus en plus la plateforme et personne ne s'en plaindra. Parmi les grosses nouveautés de l'événement se trouvait d'ailleurs l'annonce officielle de *God of War Ragnarök* qui, après avoir tout défoncé sur PS5, va [débouler sur PC](https://www.youtube.com/watch?v=4mVaKztSoJM) le 19 septembre.
 
-![Jeu God of War PC](godofwar.png) 
+![Jeu God of War PC](godofwar.jpg) 
 
 Le jeu comprendra le DLC *Valhalla*, un excellent mode roguelite, ainsi que le support des principaux systèmes d'upscaling (DLSS 3.7, FSR 3.1 et XESS 1.3), sans oublier la prise en charge des moniteurs ultrawide.
 
