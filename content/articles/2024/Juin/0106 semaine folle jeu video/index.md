@@ -1,6 +1,6 @@
 +++
 title = "Bucolique, évangélique, un peu cyclothymique : la folle semaine du jeu vidéo (01/06)"
-date = 2024-06-01T10:47:32+01:00
+date = 2024-06-01T11:31:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

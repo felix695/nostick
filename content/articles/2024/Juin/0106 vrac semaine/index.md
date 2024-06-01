@@ -1,6 +1,6 @@
 +++
 title = "Il y a un peu plus d'actus cette semaine, je vous les mets quand même (01/06)"
-date = 2024-06-01T10:47:32+01:00
+date = 2024-06-01T11:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
