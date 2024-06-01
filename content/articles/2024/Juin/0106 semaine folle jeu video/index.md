@@ -67,11 +67,11 @@ C'est du moins le bruit de couloir [partagé](https://exputer.com/news/xbox/hund
 
 D'après les quelques documents officiels qui trainent, cette jeune pousse a l'ambition de rassembler une centaine de vétérans et de talents émergents du jeu vidéo. Le studio veut se faire une place sur le redoutable créneau du jeu AAA, et on imagine bien que les sous de Microsoft ne seront pas de trop. Leur première production émargera dans cette catégorie et il coche d'ores et déjà toutes les cases : jeu action/aventure en solo, sous Unreal Engine 5.
 
-Le pedigree des deux fondateurs, qui ont bien sûr été des pivots pour la saga Batman Arkham, fait d'Hundred Star Games un acteur à suivre de très près. Reste à voir maintenant ce qui va en sortir, et quand : les triple A demande beaucoup de temps en cuisin, mais Xbox a fait un pari sur l'avenir.
+Le pedigree des deux fondateurs, qui ont bien sûr été des pivots pour la saga Batman Arkham, fait d'Hundred Star Games un acteur à suivre de très près. Reste à voir maintenant ce qui va en sortir, et quand : les triple A demande beaucoup de temps en cuisine, mais Xbox a fait un pari sur l'avenir.
 
 ## Des huées pour l'abonnement à Rainbow Six Siege
 
-Ubisoft tente régulièrement l'aventure du jeu service, et se plante tout aussi régulièrement : *Skull & Bones*, *The Division*, *Ghost Recon: Breakpoint*… Difficile de trouver la formule qui marchera à tous les coups. Et pourtant, l'éditeur compte une réussite dans ce domaine avec *Rainbow Six Siege* qui, depuis quasiment dix ans, peut compter sur une solide communauté de joueurs — à tel point qu'il a battu son propre de joueurs en simultané sur Steam au mois de mars, avec 201 000 amateurs.
+Ubisoft tente régulièrement l'aventure du jeu service, et se plante tout aussi régulièrement : *Skull & Bones*, *The Division*, *Ghost Recon: Breakpoint*… Difficile de trouver la formule qui marchera à tous les coups. Et pourtant, l'éditeur compte une réussite dans ce domaine avec *Rainbow Six Siege* qui, depuis quasiment dix ans, peut compter sur une solide communauté de joueurs — à tel point qu'il a battu son propre record de joueurs en simultané sur Steam au mois de mars, avec 201 000 amateurs.
 
 {{< youtube CPsE9sn5TdI >}} 
 
