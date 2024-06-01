@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/GTA.jpg"
 +++
 
-![GTA VI](GTA.jpg "On veut GTA VI sur PC, et TOUT D'SUITE !")
+![GTA VI](GTA.png "On veut GTA VI sur PC, et TOUT D'SUITE !")
 
 **GTA VI —** Le sauveur de l'industrie du jeu vidéo déboulera [officiellement à l'automne 2025](https://nostick.fr/articles/2024/mai/1605-gta-vi-cest-pour-lautomne-2025/), sur les consoles de salon. Mais qu'en sera-t-il de la version PC ? De nombreux joueurs se demandent s'ils vont devoir acheter une fichue console — ô malheur ! — pour pouvoir jouer à *GTA VI* ! S'il ne fait pas vraiment de doute que Rockstar sortira son magnum opus sur Windows, ce serait sympa d'en avoir la confirmation, et on aimerait bien savoir quand ça sortira.
 
