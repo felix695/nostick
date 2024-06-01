@@ -4,7 +4,7 @@ date = 2024-06-01T11:31:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/Cyberpunk.jpg"
+image = "https://nostick.fr/articles/2024/juin/0106-semaine-folle-jeu-video/concord.jpg"
 +++
 
 ![Cyberpunk 2077](Cyberpunk.jpg "Quand tu réalises que ton plan pour sauver le monde implique de boire une autre bière.")
