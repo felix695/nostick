@@ -4,7 +4,7 @@ date = 2024-06-02T08:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/vignettes/Cyberpunk.jpg"
+image = "https://nostick.fr/articles/2024/juin/020624-les-sorties-de-la-semaine/rpop.jpg"
 +++
 
 ![Le jeu The Rogue Prince of Persia](rpop.jpg "Le Perse sévère en action")
