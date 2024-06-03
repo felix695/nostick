@@ -34,7 +34,7 @@ Pas beaucoup en fait ! Le jeu consiste surtout à suivre l'histoire et à faire 
 
 Wong va alors vous apprendre à contrôler vos pouvoirs : fermer le poing pour créer un bouclier, viser un objet pour le transporter, enfermer quelque chose dans la dimension de poche de la pierre de l'Âme. Au fil de l'aventure, vous découvrirez de nouveaux gestes tout aussi pratiques. Tout cela pour récupérer les six pierres de l'Infinité, qui permettront en bout de course de choisir une des deux fins possibles — en claquant des doigts, bien évidemment.
 
-L'histoire saute d'un multivers à un autre, dans lequel il faudra regarder un petit passage animé, puis faire preuve de ses pouvoirs. Cela pourra par exemple être une baston entre Red Guardian et un mystérieux homme cagoulé, puis charge au joueur de détruire des canons puis de récupérer un caillou.
+L'histoire saute d'un multivers à un autre, dans lequel il faudra regarder un petit passage animé, puis faire preuve de ses pouvoirs. Cela pourra par exemple être une baston entre Red Guardian et un mystérieux homme cagoulé, puis charge au joueur de détruire des canons avant de récupérer un caillou.
 
 Le jeu en lui-même n'est vraiment pas compliqué. Avant de vous laisser la main, si on peut dire, *What If… ?* vous indique clairement la marche à suivre. Et le titre est suffisamment généreux pour vous éviter de mourir bêtement. On se retrouve en fait devant le lointain descendant de *[Dragon's Lair](https://www.youtube.com/watch?v=P_W5T5LUKNo)*, le fameux dessin animé interactif du début des années 80 (sur LaserDisc !) qui indiquait à l'écran la touche de la télécommande à appuyer.
 
