@@ -4,7 +4,7 @@ date = 2024-06-03T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/0306-mod-officiel-baldurs-gate-3/baldur.jpg"
 +++
 
 ![Baldur's Gate 3](baldur.jpg "") 
