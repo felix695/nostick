@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/marvel1.jpg"
+image = "https://nostick.fr/articles/2024/juin/0306-test-what-if-an-immersive-story/marvel1.jpg"
 +++
 
 ![What If…? An Immersive Story](marvel1.jpg "") 
