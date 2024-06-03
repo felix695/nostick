@@ -1,6 +1,6 @@
 +++
 title = "Test de What If…? An Immersive Story : un multivers plus contemplatif que ludique"
-date = 2024-06-03T07:47:32+01:00
+date = 2024-06-03T07:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]
