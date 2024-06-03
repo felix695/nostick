@@ -1,10 +1,10 @@
 +++
-title = "Le PSVR2 sera bientôt compatible PC grâce à un adaptateur à 60 €"
+title = "Le PSVR2 sera bientôt compatible PC grâce à un adaptateur facturé 60 €"
 date = 2024-06-03T17:30:01+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juin/020624-les-sorties-de-la-semaine/rpop.jpg"
+image = "https://nostick.fr/articles/2024/juin/0306-le-psvr2-sera-bientot-compatible-pc-grace-a-un-adaptateur-à-60/psvr21.png"
 +++ 
 
 ![Image promotionnelle du PSVR2 sur PC](psvr21.png "Notez que Sony met en avant Half Life : Alyx, exactement comme Valve avec son Index en 2019.")
