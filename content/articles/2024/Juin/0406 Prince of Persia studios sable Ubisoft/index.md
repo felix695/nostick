@@ -4,7 +4,7 @@ date = 2024-06-04T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/0406-prince-of-persia-studios-sable-ubisoft/PoP.jpg"
 +++
 
 ![Prince of Persia : Les Sables du Temps](PoP.jpg "") 
