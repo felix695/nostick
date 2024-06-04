@@ -1,5 +1,5 @@
 +++
-title = "Prince of Persia : deux studios autour du château de sable d'Ubisoft"
+title = "Prince of Persia : deux studios au secours du château de sable d'Ubisoft"
 date = 2024-06-04T10:47:32+01:00
 draft = false
 author = "Mickael"
