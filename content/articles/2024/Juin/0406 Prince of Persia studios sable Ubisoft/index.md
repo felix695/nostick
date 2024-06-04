@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 +++
 
-![Texte Alternative](rickmorty.jpeg "Légende de l’image") 
+![Prince of Persia : Les Sables du Temps](PoP.jpg "") 
 
 Combien faut-il de développeurs Ubisoft pour ~~remplacer une ampoule~~ livrer le remake de *Prince of Persia : Les Sables du Temps* ? Un bon paquet visiblement. Le projet de refaire le jeu de 2003 avait été confié aux développeurs indiens d'Ubisoft Pune et Mumbai, mais la présentation du trailer en 2020 a refroidi bien des ardeurs. Il faut dire que la qualité de l'animation, des textures et mêmes les péripéties faisaient craindre le pire.
 
