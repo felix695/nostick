@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 
 Combien faut-il de développeurs Ubisoft pour ~~remplacer une ampoule~~ livrer le remake de *Prince of Persia : Les Sables du Temps* ? Un bon paquet visiblement. Le projet de refaire le jeu de 2003 avait été confié aux développeurs indiens d'Ubisoft Pune et Mumbai, mais la présentation du trailer en 2020 a refroidi bien des ardeurs. Il faut dire que la qualité de l'animation, des textures et mêmes les péripéties faisaient craindre le pire.
 
-{{< youtube w7Ft2ymGmfc >}} 
+{{< youtube IAnLmxrSInk >}} 
 
 Le remake, qui aurait dû sortir l'année suivante, en 2021 donc, a été repoussé aux calendes perses ou grecques, on ne sait plus. Ubisoft a décidé de refiler le bébé à son studio de Montréal, ce qui a une certaine logique : c'est en effet ici que *Les Sables du Temps* a été développé à l'origine. Et avec dans l'idée de tout remettre à plat, quitte à jeter à la poubelle le boulot déjà accompli.
 
