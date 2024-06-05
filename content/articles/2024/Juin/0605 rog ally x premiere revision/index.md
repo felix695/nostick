@@ -4,10 +4,10 @@ date = 2024-06-05T18:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juin/0506-destiny-2-bungie-foire-lancement-the-final-shape/destiny.jpg"
+image = "https://nostick.fr/articles/2024/juin/0605-rog-ally-x-premiere-revision/rog1.jpeg"
 +++ 
 
-![Visuel de la ROG Ally X](rog1.jpg "Du noir, des LED, une canette de boisson énergisante : pas de doute, c’est un produit pour g@mer.") 
+![Visuel de la ROG Ally X](rog1.jpeg "Du noir, des LED, une canette de boisson énergisante : pas de doute, c’est un produit pour g@mer.") 
 
 Cela fait déjà presque un an qu’est sorti la ROG Ally d’Asus, une petite console portable se voulant être une alternative sous Windows au Steam Deck. Le fabricant taïwanais a profité du Computex pour [lever le voile](https://rog.asus.com/fr/gaming-handhelds/rog-ally/rog-ally-x-2024/) sur une première révision, qui ne change pas drastiquement l’expérience, mais qui promet de l’améliorer sur pas mal de points.
 
@@ -15,7 +15,7 @@ Gros coup de pouce côté stockage : la ROG Ally « X » passe de 512 Go de SSD 
 
 La console se paye un petit ravalement de façade avec un nouveau design noir plus moins original qui la fait ressembler à tous les autres acteurs du domaine. Asus a également revu les joysticks et affirme avoir amélioré l’ergonomie ici et là, par exemple avec des poignées plus profondes ou un D-Pad plus précis. Les boutons sont inclinés sous un angle légèrement différent pour plus de confort. Les touches personnalisables à l’arrière sont désormais plus petites, ce qui est une bonne chose tant elles me gênent sur la première génération. Malgré sa plus grosse batterie, la machine ne s’empote que de 70 grammes par rapport au modèle précédent.
 
-![Visuel de la ROG Ally X](rog2.jpg "On ne le voit pas, mais il sourit parce qu’il a enfin réussi à virer la version de Teams préinstallée avec Windows 11.")
+![Visuel de la ROG Ally X](rog2.jpeg "On ne le voit pas, mais il sourit parce qu’il a enfin réussi à virer la version de Teams préinstallée avec Windows 11.")
 
 Avec cette révision, Asus améliore la forme, mais ne change pas le fond : la machine garde son processeur Z1 Extreme ainsi que son écran 7 pouces 120 Hz 1080p LCD. On y trouve en revanche une carte mère avec un SSD M.2 2280, un format plus standard qu’auparavant. Le port propriétaire pour GPU externe Asus (et seulement Asus) est remplacé par du Thunderbolt laissant une meilleure compatibilité. Le port de carte SD a été revu pour éviter les problèmes de chauffe.
 
