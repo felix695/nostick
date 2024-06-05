@@ -4,7 +4,7 @@ date = 2024-06-05T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/0506-destiny-2-bungie-foire-lancement-the-final-shape/destiny.jpg"
 +++
 
 ![Destiny 2](destiny.jpg "") 
