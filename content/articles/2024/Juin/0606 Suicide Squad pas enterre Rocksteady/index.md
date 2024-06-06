@@ -1,6 +1,6 @@
 +++
 title = "Suicide Squad n'a pas enterré Rocksteady"
-date = 2024-06-06T10:47:32+01:00
+date = 2024-06-06T10:48:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
