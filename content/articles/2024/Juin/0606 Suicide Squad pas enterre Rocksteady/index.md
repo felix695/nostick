@@ -4,7 +4,7 @@ date = 2024-06-06T10:48:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/0606-suicide-squad-pas-enterre-rocksteady/Suicide-Squad.jpg"
 +++
 
 ![Suicide Squad: Kill the Justice League](Suicide-Squad.jpg "Les bras cassés de Rocksteady.") 
