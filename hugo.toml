@@ -13,3 +13,5 @@ defaultContentLanguage = "fr"
 enableRobotsTXT = false
 [rss]
   url = "https://nostick.fr/feed.xml"
+[params]
+description = "L'actu du jeu vidéo, sans pression mais avec passion !"
