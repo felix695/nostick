@@ -1,13 +1,13 @@
 +++
 title = "Comme Metal Slug, mais en Tactics"
-date = 2024-06-07T12:47:32+01:00
+date = 2024-06-07T16:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/0706-metal-slug-tactics/Metal-Slug-Tactics-4.jpg"
 +++
 
-![Metal Slug Tactics](Metal-Slug-Tactics-3.jpg "")
+![Metal Slug Tactics](Metal-Slug-Tactics-4.jpg "")
 
 Trois ans après son annonce (à l'E3, comme le temps passe), voici enfin des nouvelles de *Metal Slug Tactics* dont la sortie est désormais prévu pour cet automne. On a attendu si longtemps que quelques mois de plus ou de moins, ce n'est pas bien grave. Pour les oublieux, le titre reprend les personnages et l'univers de *Metal Slug* bien sûr, mais en mettant de côté l'aspect complètement bourrin des jeux d'action originaux.
 
