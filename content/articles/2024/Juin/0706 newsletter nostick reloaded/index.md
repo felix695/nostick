@@ -1,6 +1,6 @@
 +++
 title = "Nostick Reloaded : une infolettre hebdomadaire résumant l’actualité du jeu vidéo !"
-date = 2024-05-31T15:00:00+01:00
+date = 2024-06-07T15:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]

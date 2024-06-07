@@ -3,7 +3,7 @@ title = "Vous pouvez enfin jouer au vrai Suika Game sur iPhone !"
 date = 2024-06-06T08:45:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["C’est dispo"]
 image = "https://nostick.fr/articles/vignettes/Suika-game-3.jpg"
 +++
 
