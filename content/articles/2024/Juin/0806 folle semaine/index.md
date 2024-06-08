@@ -1,6 +1,6 @@
 +++
 title = "Originale, spéciale, un peu asociale : la folle semaine du jeu vidéo (08/06)"
-date = 2024-06-08T10:47:32+01:00
+date = 2024-06-08T07:15:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
