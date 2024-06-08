@@ -41,6 +41,14 @@ Le jeu de plateformes *Deer & Boy* réalisé par une petite équipe parisienne s
 
 Les montpelliérains de The Games Bakers ont eu droit à leur heure de gloire avec le trailer de *Cairn*, une simulation d'alpinisme doublée d'un survival. Rendez-vous l'année prochaine pour en savoir plus sur ce jeu PC.
 
+{{< youtube gA5PHcK_Dz0 >}} 
+
+Toujours au rayon des indés, deux initiatives notables ont été présentées hier soir. D'abord du côté d'Innersloth, le studio créateur d'*Among Us*, qui a décidé d'investir les sous gagnés avec leur hit dans le soutien aux développeurs indépendants via une nouvelle structure, Outersloth. Six jeux sont en développement, ils sortiront dans les prochains mois.
+
+{{< youtube xKhBcsXSni0 >}} 
+
+Dans un genre complètement différent, le studio de cinéma spécialisé dans l'horreur Blumhouse (*Paranormal Activity*, *Get Out*, *M3GAN*…) a lancé une division jeux vidéo ! Six titres indépendants sont en cours de production, avec une stratégie copiée/collée sur le succès de l'entreprise dans les salles obscures : des jeux originaux à petit budget.
+
 Difficile de faire le tour de toutes les annonces de la soirée en quelques minutes, mais sachez par exemple que *Valorant* sortira sur consoles et très rapidement, puisqu'une bêta est programmée la semaine prochaine. On saura très bientôt de quel bois se chauffe *Kunitsu-Gami: Path of the Goddess*, le dernier jeu étrange de Capcom : il sortira le 19 juillet sur consoles et PC (et le même jour sur le Game Pass).
 
 *New World: Aeternum*, le MMO d'Amazon revu et enrichi, sera disponible sur PC et consoles le 15 octobre. *Mighty Morphin' Power Rangers: Rita's Rewind* (ouf !) est un beat'em up rétro 16 bits avec les fameux héros colorés, il sortira on ne sait pas trop quand cette année sur PC. La saison 2 de *Street Fighter 6* comptera 4 nouveaux combattants, dont M. Bison, Elena, et… deux experts de la bagarre venus de *Fatal Fury* : Terry Bogard et Mai Shiranui !
