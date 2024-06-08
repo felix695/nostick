@@ -17,7 +17,7 @@ Le Summer Game Fest n'est certainement pas l'E3, mais vu que le grand salon du j
 
 {{< youtube AqR6phhGHhA >}} 
 
-À commencer par *LEGO Horizon Adventures*, première incursion d'une franchise PlayStation sur Xbox et Switch (!), et aussi sur PC. Le cocktail est connu maintenant : des briquettes mélangées à une grosse licence, saupoudrez-moi ça d'une dose d'humour et voilà ! Le jeu a l'air vraiment amusant, mais il faudra attendre Noël pour pouvoir y mettre les mains.
+À commencer par *LEGO Horizon Adventures*, première incursion d'une franchise PlayStation sur Switch (!), et aussi sur PC, mais pas sur Xbox car n'allons pas trop loin tout de même. Le cocktail est connu maintenant : des briquettes mélangées à une grosse licence, saupoudrez-moi ça d'une dose d'humour et voilà ! Le jeu a l'air vraiment amusant, mais il faudra attendre Noël pour pouvoir y mettre les mains.
 
 {{< youtube pygcgE3a_uY >}} 
 
