@@ -1,5 +1,5 @@
 +++
-title = "Tenjutsu‌, Possessor(s), Anger Foot : ce qu’il fallait retenir du Devolver Direct"
+title = "Tenjutsu‌, Possessor(s), Anger Foot : ce qu’il faut retenir du Devolver Direct"
 date = 2024-06-08T10:00:00+01:00
 draft = false
 author = "Félix"
