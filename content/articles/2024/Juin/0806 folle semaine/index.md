@@ -13,7 +13,7 @@ L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publ
 
 ## Un été aux manettes avec LEGO Horizon Adventures, Civilization VII, Metaphor: ReFantazio, Slitterhead…
 
-Le Summer Game Fest n'est certainement pas l'E3, mais vu que le grand salon du jeu vidéo ne reviendra plus jamais, on ne va pas faire la fine bouche ! Ce d'autant que la petite sauterie de Geoff Keighley a proposé pas mal de nouveautés plutôt sympas, pas de grosses révélations non plus, mais quelques titres ont retenu notre attention.
+Le Summer Game Fest n'est certainement pas l'E3, mais vu que le grand salon du jeu vidéo ne reviendra [plus jamais](https://nostickreloaded.substack.com/p/fin-de-le3-annulation-du-jeu-multi), on ne va pas faire la fine bouche ! Ce d'autant que la petite sauterie de Geoff Keighley a proposé pas mal de nouveautés plutôt sympas, pas de grosses révélations non plus, mais quelques titres ont retenu notre attention.
 
 {{< youtube AqR6phhGHhA >}} 
 
@@ -21,7 +21,7 @@ Le Summer Game Fest n'est certainement pas l'E3, mais vu que le grand salon du j
 
 {{< youtube pygcgE3a_uY >}} 
 
-Autre franchise fameuse qui revient aux affaires : *Civilization VII* ! L'increvable jeu de stratégie 4X développé par Firaxis sortira l'année prochaine sur PC et consoles.
+Autre franchise fameuse qui revient aux affaires : *Civilization VII* ! L'increvable jeu de stratégie 4X développé par Firaxis sortira l'année prochaine sur PC et consoles. Il était temps, le dernier opus datant de 2016.
 
 {{< youtube GfgkVGFhN8A >}} 
 
@@ -29,7 +29,7 @@ Annoncé il y a plus de 6 ans (!), *Metaphor: ReFantazio* refait parler de lui. 
 
 {{< youtube 2mAkn64FQDU >}} 
 
-*Slitterhead* vous a un petit air de *Silent Hill*, et pour cause : il s'agit dans les deux cas de jeux signés Keiichiro Toyama ! Au sein de son studio Bokeh Game, il planche sur ce nouveau titre qui combine horreur avec une bonne dose d'action dans lequel le joueur doit prendre possession de différents personnages. Le jeu sera dispo le 8 novembre sur consoles et PC.
+*Slitterhead* a un petit air de *Silent Hill*, et pour cause : il s'agit dans les deux cas de jeux signés Keiichiro Toyama ! Au sein de son studio Bokeh Game, il planche sur ce nouveau titre qui combine horreur avec une bonne dose d'action dans lequel le joueur doit prendre possession de différents personnages. Le jeu sera dispo le 8 novembre sur consoles et PC.
 
 Probablement pour faire pardonner des Games Awards 2023 calamiteux où Geoff Keighley a fait comme si l'industrie du jeu vidéo se portait très bien (des licenciements ? Où ça ?), l'hôte de la soirée a cette fois reconnu que le secteur n'était pas au mieux de sa forme. Entre deux trailers de grosses franchises, l'événement a aussi mis en lumière des jeux indés, dont deux français !
 
