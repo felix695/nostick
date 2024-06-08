@@ -4,7 +4,7 @@ date = 2024-06-08T10:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/2024/juin/0605-rog-ally-x-premiere-revision/rog1.jpeg"
+image = "https://nostick.fr/articles/vignettes/devolver.png"
 +++ 
 
 Dans la foulée du [Summer Game Fest](https://nostick.fr/articles/2024/juin/0806-folle-semaine/#un-été-aux-manettes-avec-lego-horizon-adventures-civilization-vii-metaphor-refantazio-slitterhead) a eu lieu le Devolver Direct, un évènement forcément plus petit mais avec quelques bonnes surprises. Deux jeux ont été présentés avec pour commencer *Tenjutsu‌*, qui a été créé par le concepteur de *Dead Cells* Sébastien Benard. Ce jeu de « rogue-jutsu » mélangeant pixel-art, roguelike et baston propose d’incarner un ancien yakuza cherchant à démanteler quatre syndicats du crime. On développe ses compétences au fur et à mesure que l’on vide les pièces d’ennemis et accumule des ressources. Quelques originalités sont à noter, comme le fait que l’on peut attaquer les quatre zones dans l’ordre que l’on souhaite ou qu’il est possible d’améliorer certains quartiers au fil de l’aventure. Ça arrivera sur consoles et [PC](https://store.steampowered.com/app/1363940/Tenjutsu/) en temps voulu. Les combats ont l’air nerveux et l’univers sympa, jugez par vous même :
