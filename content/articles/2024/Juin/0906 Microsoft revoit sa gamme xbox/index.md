@@ -13,4 +13,6 @@ Il y a un peu de neuf dans la gamme Xbox. Microsoft a profité de son grand show
 
 La Series X actuelle va être déclinée dans une « Special Edition » avec un SSD deux fois plus gros de 2 To. Elle gagne aussi une finition originale avec plein de petites paillettes vertes. Une manette assortie sera évidemment incluse dans le carton. Comptez 650 € tout de même pour mettre la main dessus, là où la version classique 1 To coûte 100 balles de moins.
 
+{{< youtube mzDPNi77F24 >}} 
+
 Enfin, une nouvelle Series S va être mise en vente en coloris « Robot White ». Celle-ci embarque 1 To de SSD et va venir remplacer le modèle noir lancé l’année dernière. La console sera toujours affichée à 350 €, donc pas de quoi sauter au plafond.
