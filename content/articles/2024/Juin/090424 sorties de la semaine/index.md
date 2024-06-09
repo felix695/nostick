@@ -4,7 +4,7 @@ date = 2024-06-09T07:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/juin/020624-les-sorties-de-la-semaine/rpop.jpg"
+image = "https://nostick.fr/articles/2024/juin/090424-sorties-de-la-semaine/tos.jpg"
 +++
 
 ![La dernière extension Gold Road pour TOS : Online](tos.jpg "Quand y’en a plus, y’en a encore")
