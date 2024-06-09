@@ -18,7 +18,7 @@ Cette conférence était bien garnie étant donné qu’elle mélangeait morceau
 
 Plus rigolo, *While Waiting* propose une centaine de tableaux dans lequel on incarne un personnage attendant quelque chose (le bus, à la Poste, l’ascenseur). Le concept est sympa étant donné qu’il faudra essayer différents moyens de gagner du temps, ce qui devrait donner lieu à différentes situations comiques dans un univers de bande dessinée. Le trailer [mérite un coup d’œil](https://www.youtube.com/watch?v=FBsxzuL4YK0), tout comme celle de *Koira* qui m’a aussi bien plu : on explore une forêt mystérieuse avec un chiot dans ce qu’on nous présente comme « *une aventure musicale dessinée à la main* ». C’est édité par Don’t Nod, qui a souvent le nez creux pour dénicher des pépites. Sortie en 2025.
 
-{{< youtube 6TlsCU_TLtE}}
+{{< youtube lUsFlPNrm7A}}
 
 ## Future of Play
 
