@@ -7,13 +7,15 @@ tags = ["Trailer"]
 image = "https://nostick.fr/articles/vignettes/wholesome.png"
 +++ 
 
+![Logo de l'évènement Wholesome Direct](wholesome.png) 
+
 Le non-E3 continue avec un samedi très chargé côté conférence : pas moins de 7 showcases ont eu lieu, étalés de 1h du mat’ jusqu’au milieu de soirée. Koub a fait [un résumé exhaustif](https://koub.substack.com/p/les-tres-longues-news-du-samedi-08) des annonces et nouveauté dans son excellente infolettre, mais il faut bien avouer qu’on frôle l’indigestion face au nombre délirant de trailers. Vous n’avez pas passé votre samedi devant le PC ? Voici une petite sélection des annonces qu’il ne fallait pas louper.
 
 ## Day of the devs 
 
 Cette conférence était bien garnie étant donné qu’elle mélangeait morceaux de gameplay et commentaires de développeurs. Si vous aimez les jeux d’horreurs, vous devriez jeter un coup d’œil au [trailer](https://www.youtube.com/watch?v=aUGwiQkMYlA) de *‌KARMA: The Dark World*, qui se passe dans une Allemagne de l'Est dystopique avec des passages qui ne sont pas sans rappeler *Silent Hill*. Dans le genre flippant, mais un peu plus con-con, *Zoochosis* propose de chausser les bottes d’un gardien de nuit… dans un zoo rempli d’animaux mutants. Le concept est surprenant, mais les créatures ont l’air bien fichues, donc ça pourrait être fun :
 
-
+{{< youtube TS-7yzfbvwQ >}}
 
 
 Plus rigolo, *While Waiting* propose une centaine de tableaux dans lequel on incarne un personnage attendant quelque chose (le bus, à la Poste, l’ascenseur). Le concept est sympa étant donné qu’il faudra essayer différents moyens de gagner du temps, ce qui devrait donner lieu à différentes situations comiques dans un univers de bande dessinée. Le trailer [mérite un coup d’œil](https://www.youtube.com/watch?v=FBsxzuL4YK0), tout comme celle de *Koira* qui m’a aussi bien plu : on explore une forêt mystérieuse avec un chiot dans ce qu’on nous présente comme « *une aventure musicale dessinée à la main* ». C’est édité par Don’t Nod, qui a souvent le nez creux pour dénicher des pépites. Sortie en 2025.
