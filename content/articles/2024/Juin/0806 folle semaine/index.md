@@ -17,7 +17,7 @@ Le Summer Game Fest n'est certainement pas l'E3, mais vu que le grand salon du j
 
 {{< youtube AqR6phhGHhA >}} 
 
-À commencer par *LEGO Horizon Adventures*, première incursion d'une franchise PlayStation sur Xbox et Switch (!), et aussi sur PC. Le cocktail est connu maintenant : des briquettes mélangées à une grosse licence, saupoudrez-moi ça d'une dose d'humour et voilà ! Le jeu a l'air vraiment amusant, mais il faudra attendre Noël pour pouvoir y mettre les mains.
+À commencer par *LEGO Horizon Adventures*, première incursion d'une franchise PlayStation sur Switch (!), et aussi sur PC, mais pas sur Xbox car n'allons pas trop loin tout de même. Le cocktail est connu maintenant : des briquettes mélangées à une grosse licence, saupoudrez-moi ça d'une dose d'humour et voilà ! Le jeu a l'air vraiment amusant, mais il faudra attendre Noël pour pouvoir y mettre les mains.
 
 {{< youtube pygcgE3a_uY >}} 
 
@@ -85,7 +85,7 @@ Il y en aurait des dizaines de milliers, qui au passage gonflent les stats du je
 
 Exaspérés par l'apathie de l'éditeur, les joueurs ont donc décidé de prendre les choses en main en balançant des notes et des commentaires négatifs sur le jeu. Résultat : *TF2* est désormais en territoire « *extrêmement négatif* », avec des joueurs déplorant la présence des bots et l'absence de réaction de Valve.
 
-La campagne ne s'arrête pas là : une [pétition](https://save.tf), qui compte plus de 250 000 signatures, exige de Valve l'extermination des aimbots. L'entreprise semble plus intéressée à compter les millions de dollars que lui rapporte sa gagneuse, même si elle est gangrenée par la chaude-pisse…
+La campagne ne s'arrête pas là : une [pétition](https://save.tf), qui compte plus de 250 000 signatures, exige de Valve l'extermination des aimbots. L'entreprise semble plus intéressée à compter les millions de dollars que lui rapporte sa vache à lait, même malade…
 
 ## En vrac !
 
