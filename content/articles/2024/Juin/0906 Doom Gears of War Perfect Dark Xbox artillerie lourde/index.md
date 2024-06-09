@@ -1,6 +1,6 @@
 +++
 title = "Doom, Gears of War, Perfect Dark… Xbox sort l'artillerie lourde"
-date = 2024-06-09T17:47:32+01:00
+date = 2024-06-09T19:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Une"]
