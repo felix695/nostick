@@ -21,7 +21,7 @@ Microsoft n'a pas pu jouer l'effet de surprise à cause des rumeurs, mais on ne 
 
 {{< youtube ofUi9DR9sc4 >}} 
 
-On commençait à franchement s'inquiéter pour *Perfect Dark*, quatre ans après l'annonce du reboot sans nouvelle depuis. Xbox a rassuré avec un trailer qui donne aussi une petite idée du gameplay et ma foi, ça donne fichtrement envie. Le jeu tire son inspiration des deux titres originaux, tout en y ajoutant une nouvelle histoire et un nouvel univers. Hélas, pas de date annoncée pour le moment.
+On commençait à franchement s'inquiéter pour *Perfect Dark*, quatre ans après l'annonce du reboot… et sans nouvelle depuis. Xbox a rassuré avec un trailer qui donne aussi une petite idée du gameplay et ma foi, ça donne fichtrement envie. Le jeu tire son inspiration des deux titres originaux, tout en y ajoutant une nouvelle histoire et un nouvel univers. Hélas, pas de date annoncée pour le moment.
 
 {{< youtube 2FiBmVBaY0g >}} 
 
@@ -41,7 +41,7 @@ Les joueurs qui préfèrent se triturer la cervelle se feront plaisir avec *Age 
 
 Il y a eu beaucoup, beaucoup d'annonces ce soir du côté de Xbox, et il serait bien vain de ma part de toutes les reprendre ici. Mais vite fait, sachez que l'extension *Shattered Space* pour *Starfield* sortira bien cette année (ça vous fait une belle jambe). Surfant sur le carton de la série télé, *Fallout 76* aura droit également à une extension, *Skyline Valley*, qui va rajouter un gros bout de map. Sortie le 12 juin !
 
-Du côté de *World of Warcraft*, la prochaine extension *The War Within* est programmée pour le 26 août. *Vessel of Hatred*, premier DLC pour *Diablo 4*, va inaugurer la saison des horreurs le 8 octobre. L'incroyable *Flight Sim 2024* reviendra titiller votre envie de piloter des gros navions le 12 novembre sur PC et Xbox. *Avowed* est toujours prévu pour cette année, *Indiana Jones et le Cercle ancien* pour décembre.
+Du côté de *World of Warcraft*, la prochaine extension *The War Within* est programmée pour le 26 août. *Vessel of Hatred*, premier DLC pour *Diablo 4*, va inaugurer la saison des horreurs le 8 octobre. L'incroyable *Flight Sim 2024* reviendra titiller votre envie de piloter des gros navions le 12 novembre sur PC et Xbox. *Black Ops 6*, le nouveau *Call of Duty*, sera dispo le 25 octobre. *Avowed* est toujours prévu pour cette année, *Indiana Jones et le Cercle ancien* pour décembre.
 
 {{< youtube drVOCrvXHhE >}} 
 
@@ -53,7 +53,7 @@ Difficile de ne pas évoquer l'intriguant *Clair Obscur: Expedition 33*, un jeu 
 
 {{< youtube 9RktmztDtwg >}} 
 
-Il y en a certainement parmi vous qui kiffez l'atome, alors voici venir *S.T.A.L.K.E.R. 2: Heart of Chornobyl*, avec une bande annonce qui donne une petite idée de ce à quoi s'attendre. Les ukrainiens de GSC Game World savent ce que les fans attendent ! Par contre, ils ne disent pas quand ça sera dispo.
+Il y en a certainement parmi vous qui kiffez l'atome, alors voici venir *S.T.A.L.K.E.R. 2: Heart of Chornobyl*, avec une bande annonce qui donne une petite idée de ce à quoi s'attendre. Les ukrainiens de GSC Game World savent ce que les fans veulent ! Par contre, ils ne disent pas quand ça sera dispo.
 
 {{< youtube VTVaEPHa9Bc >}} 
 
