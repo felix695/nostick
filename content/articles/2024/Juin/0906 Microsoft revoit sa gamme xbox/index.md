@@ -4,7 +4,7 @@ date = 2024-06-09T19:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juin/0605-rog-ally-x-premiere-revision/rog1.jpeg"
+image = "https://nostick.fr/articles/2024/juin/0906-microsoft-revoit-sa-gamme-xbox/seriesX2to.jpg"
 +++ 
 
 ![La nouvelle gamme Xbox](seriesX2to.jpg)
