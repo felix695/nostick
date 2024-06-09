@@ -3,8 +3,8 @@ title = "Doom, Gears of War, Perfect Dark… Xbox sort l'artillerie lourde"
 date = 2024-06-09T17:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+tags = ["Une"]
+image = "https://nostick.fr/articles/2024/juin/0906-doom-gears-of-war-perfect-dark-xbox-artillerie-lourde/xbox-showcase-2024.jpg"
 +++
 
 ![Les annonces de Xbox durant le showcase](xbox-showcase-2024.jpg "Ça sent le backlog qui va s'alourdir.")
