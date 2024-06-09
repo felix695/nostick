@@ -34,7 +34,7 @@ Si vous êtes nostalgique de *Inside* et *Limbo*, vous devriez cliquer [sur ce l
 
 ## Future Games Show
 
-Le Future Games Show a lui aussi été bien garni en annonces et s’est ouvert sur la présentation de *Bogdan's Cross*, un jeu d’aventure proposant d’incarner un ours-berger. Ça a [l’air joli](https://www.youtube.com/watch?v=OKRdEJVSZwU), alors pourquoi pas. Dans une tout autre ambiance, *The Precinct* rappelle les premiers GTA en vue du dessus après un bon lifting 3D. L’histoire se déroule en 1938 et on y joue un policier dans un univers décrit comme néo-noir. La bande-annonce donne envie :
+Le Future Games Show a lui aussi été bien garni en annonces et s’est ouvert sur la présentation de *Bogdan's Cross*, un jeu d’aventure proposant d’incarner un ours-berger. Ça a [l’air joli](https://www.youtube.com/watch?v=OKRdEJVSZwU), alors pourquoi pas. Dans une tout autre ambiance, *The Precinct* rappelle les premiers GTA en vue du dessus après un bon lifting 3D. L’histoire se déroule en 1983 et on y joue un policier dans un univers décrit comme néo-noir. La bande-annonce donne envie :
 
 {{< youtube 3nwSOyJtn2E>}}
 
