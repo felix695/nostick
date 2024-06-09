@@ -1,5 +1,5 @@
 +++
-title = "Future Game Show, Wholesome Direct : la sélection de la rédaction"
+title = "Future Games Show, Wholesome Direct : la sélection de la rédaction"
 date = 2024-06-09T11:15:01+01:00
 draft = false
 author = "Félix"
