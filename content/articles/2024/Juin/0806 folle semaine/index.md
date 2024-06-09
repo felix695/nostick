@@ -85,7 +85,7 @@ Il y en aurait des dizaines de milliers, qui au passage gonflent les stats du je
 
 Exaspérés par l'apathie de l'éditeur, les joueurs ont donc décidé de prendre les choses en main en balançant des notes et des commentaires négatifs sur le jeu. Résultat : *TF2* est désormais en territoire « *extrêmement négatif* », avec des joueurs déplorant la présence des bots et l'absence de réaction de Valve.
 
-La campagne ne s'arrête pas là : une [pétition](https://save.tf), qui compte plus de 250 000 signatures, exige de Valve l'extermination des aimbots. L'entreprise semble plus intéressée à compter les millions de dollars que lui rapporte sa gagneuse, même si elle est gangrenée par la chaude-pisse…
+La campagne ne s'arrête pas là : une [pétition](https://save.tf), qui compte plus de 250 000 signatures, exige de Valve l'extermination des aimbots. L'entreprise semble plus intéressée à compter les millions de dollars que lui rapporte sa vache à lait, même malade…
 
 ## En vrac !
 
