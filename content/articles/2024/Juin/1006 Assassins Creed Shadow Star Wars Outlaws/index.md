@@ -1,6 +1,6 @@
 +++
 title = "Ubisoft fait monter la sauce autour d'Assassin's Creed Shadow et Star Wars Outlaws"
-date = 2024-06-10T07:47:32+01:00
+date = 2024-06-10T17:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
@@ -8,8 +8,6 @@ image = "https://nostick.fr/articles/vignettes/just-dance-vr.jpg"
 +++
 
 ![Just Dance VR](just-dance-vr-ubisoft.jpg "Ah oui, Ubisoft a aussi annoncé ceci.")
-
-{{< youtube w7Ft2ymGmfc >}} 
 
 Si Xbox a marqué le début de l'été gaming avec [une pléthore de futurs jeux assez excitants merci beaucoup](https://nostick.fr/articles/2024/juin/0906-doom-gears-of-war-perfect-dark-xbox-artillerie-lourde/), Ubisoft n'a pas été en reste. L'éditeur français a plusieurs gros titres (quadruple A ?) à défendre cette année, plus une pléthore d'autres dont on a un peu rien à faire (*Just Dance VR*, *BattleCore Arena*, *Monopoly*…). Ne retenons que le meilleur je vous prie.
 
