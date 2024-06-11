@@ -13,7 +13,7 @@ Si Xbox a marqué le début de l'été gaming avec [une pléthore de futurs jeux
 
 {{< youtube QP_wXv2ErgI >}} 
 
-La première sortie d'ampleur qui nous attend, c'est *Star Wars Outlaws*, qui s'annonce comme le simulateur de Han Solo que nous n'avons jamais eue. Le jeu n'est pas une nouveauté en soi, sachant qu'Ubisoft a déjà diffusé pas mal de bandes annonces ces derniers mois, mais celle-ci donne une bonne idée du gameplay, ainsi que de l'univers. On y suit Kay Vess à Mos Eisley puis à Tatooine, où elle va devoir marchander et batailler contre l'Empire. C'est comme *Starfield*, mais en fun. Sortie prévue 30 août.
+La première sortie d'ampleur qui nous attend, c'est *Star Wars Outlaws*, qui s'annonce comme le simulateur de Han Solo que nous n'avons jamais eu. Le jeu n'est pas une nouveauté en soi, sachant qu'Ubisoft a déjà diffusé pas mal de bandes annonces ces derniers mois, mais celle-ci donne une bonne idée du gameplay, ainsi que de l'univers. On y suit Kay Vess à Mos Eisley puis à Tatooine, où elle va devoir marchander et batailler contre l'Empire. C'est comme *Starfield*, mais en fun. Sortie prévue 30 août.
 
 {{< youtube FjAzNpMYTxw >}} 
 
