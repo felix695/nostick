@@ -1,6 +1,6 @@
 +++
 title = "Remake de Final Fantasy IX, version PC de FF16 et de Red Dead Redemption, et plein d'autres titres en fuite"
-date = 2024-MM-JJT12:47:32+01:00
+date = 2024-06-12T12:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
