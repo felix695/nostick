@@ -4,7 +4,7 @@ date = 2024-06-12T12:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/1206-fuite-remake-final-fantasy-ix-ff16-red-dead-redemption/Final-Fantasy-XVI.jpg"
 +++
 
 ![Final Fantasy XVI](Final-Fantasy-XVI.jpg "Comment ça, moi dans un PC ?!")
