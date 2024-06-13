@@ -4,7 +4,7 @@ date = 2024-06-13T14:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/1306-fromsoftware-soluces/elden-ring.jpg"
 +++
 
 ![Elden Ring Shadow of the Erdtree](elden-ring.jpg "Aller là-dedans sans soluce ? lol.")
