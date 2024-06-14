@@ -4,7 +4,7 @@ date = 2024-06-14T07:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/1306-retour-1980-pub-remasterisee-ancetre-game-boy-switch/Game-watch-nintendo.jpg"
 +++
 
 ![Game & Watch Super Mario Bros.](Game-watch-nintendo.jpg "Hé ouais les jeunes c'est comme ça qu'on jouait à l'époque.")
