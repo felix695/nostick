@@ -1,6 +1,6 @@
 +++
 title = "En vrac cette semaine : le DLC qui coince d'Elden Ring, Aloy chez Smash, Black Ops 6 un peu lourdingue…"
-date = 2024-06-15T10:46:32+01:00
+date = 2024-06-15T09:00:01+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

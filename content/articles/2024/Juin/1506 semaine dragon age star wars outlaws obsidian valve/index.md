@@ -1,6 +1,6 @@
 +++
 title = "La semaine du jeu vidéo : retour sur Dragon Age: The Veilguard et Star Wars Outlaws, Obsidian croit en sa bonne étoile"
-date = 2024-06-15T10:47:32+01:00
+date = 2024-06-15T09:00:02+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
