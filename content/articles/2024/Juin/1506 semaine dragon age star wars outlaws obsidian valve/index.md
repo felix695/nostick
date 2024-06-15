@@ -75,3 +75,13 @@ Peut-être qu'*Avowed*, en gestation depuis des années et qui doit sortir d'ici
 
 Matt Hansen, le directeur artistique, se sent « *profondément supporté, aussi bien en interne chez les développeurs et les fans, mais aussi par Microsoft* ». Durant ces 20 dernières années, Obsidian a livré de gros jeux comme *Fallout: New Vegas*, mais aussi *Pentiment* et *Grounded*.
 
+## Jamais 2 sans E3
+
+Si l’E3 n’existe plus, les éditeurs ont tout de même profité de ce début de mois de juin pour tenir leurs grandes conférences. Le week-end dernier a été chargé, marqué par une demi-douzaine de showcases que nous avons résumés du mieux que nous pouvions sur Nostick. Ubisoft, Xbox, Devolver… il y en a pour tous les goûts !
+
+- [Ubisoft fait monter la sauce autour d'Assassin's Creed Shadow et Star Wars Outlaws](https://nostick.fr/articles/2024/juin/1006-assassins-creed-shadow-star-wars-outlaws/)
+- [Doom, Gears of War, Perfect Dark… Xbox sort l'artillerie lourde](https://nostick.fr/articles/2024/juin/0906-doom-gears-of-war-perfect-dark-xbox-artillerie-lourde/)
+- [Future Games Show, Wholesome Direct : la sélection de la rédaction](https://nostick.fr/articles/2024/juin/090624-wholesome-future-selection-redaction/)
+- [Tenjutsu‌, Possessor(s), Anger Foot : ce qu’il faut retenir du Devolver Direct](https://nostick.fr/articles/2024/juin/080624-ce-quil-faut-retenir-devolver-direct/)
+- [Un été aux manettes avec LEGO Horizon Adventures, Civilization VII, Metaphor: ReFantazio, Slitterhead…](https://nostick.fr/articles/2024/juin/0806-folle-semaine/#un-été-aux-manettes-avec-lego-horizon-adventures-civilization-vii-metaphor-refantazio-slitterhead)
+
