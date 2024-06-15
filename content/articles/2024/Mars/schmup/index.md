@@ -3,7 +3,7 @@ title = 'Passion : acheter des shmups pour ne pas y jouer'
 date = 2024-03-04T08:45:05+01:00
 draft = false
 author = "Mickael"
-tags = ["Humeur"]
+tags = ["Actu"]
 +++ 
 
 ![Texte Alternative](schmup.jpeg "L'incroyable Prehistoric Isle 2 où on dégomme des dinos.")

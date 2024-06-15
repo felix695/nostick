@@ -3,7 +3,7 @@ title = "N'ayez pas honte de jouer en mode facile"
 date = 2024-04-09T19:00:00+01:00
 draft = false
 author = "Mickaël"
-tags = ["Humeur"]
+tags = ["XXL"]
 +++ 
 
 ![Les différents niveaux de difficulté dans Diablo IV](Diablo4.jpg "Et pourquoi pas une petite aventure ?") 

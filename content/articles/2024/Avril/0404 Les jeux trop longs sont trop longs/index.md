@@ -3,7 +3,7 @@ title = "Les jeux trop longs sont trop longs !"
 date = 2024-04-04T15:00:00+01:00
 draft = false
 author = "Mickaël"
-tags = ["Humeur"]
+tags = ["XXL"]
 +++ 
 
 ![Hellblade 2](Hellblade2.jpg "Je sors pas tant que c'est trop long.") 
