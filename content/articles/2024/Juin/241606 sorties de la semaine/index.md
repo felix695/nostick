@@ -4,7 +4,7 @@ date = 2024-06-16T07:30:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/juin/020624-les-sorties-de-la-semaine/rpop.jpg"
+image = "https://nostick.fr/articles/2024/juin/241606-sorties-de-la-semaine/smt.jpg"
 +++
 
 ![Le jeu Shin Megami Tensei V Vengeance](smt.jpg "Bouh !") 
