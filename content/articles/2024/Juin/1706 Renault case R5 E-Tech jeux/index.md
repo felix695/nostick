@@ -15,7 +15,7 @@ Pour faire de la retape pour sa R5 électrique E-Tech, Renault a mis les petits 
 
 ![Fortnite](fortnite-r5-renault.jpg "Dans Fortnite.") 
 
-Dans *Fortnite*, 20 joueurs se retrouvent sur une île dédiée : ils devront jouer une partie de cache-cache où ils pourront se déguiser en R5 (bon courage, c'est une voiture jaune). *Roblox* propose une chasse au trésor où il faudra récupérer des éléments pour personnaliser sa caisse.
+Dans *Fortnite*, 20 joueurs se retrouvent sur une île dédiée où ils devront retrouver des équipements pour la tuture. Les fans hardcore pourront se déguiser en R5 ! *Roblox* propose une chasse au trésor où il faudra récupérer des éléments pour personnaliser sa caisse.
 
 ![Stray](Stray-r5-renault.jpg "Dans Stray.") 
 
