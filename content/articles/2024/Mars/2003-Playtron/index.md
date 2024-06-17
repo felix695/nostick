@@ -4,6 +4,7 @@ date = 2024-03-20T18:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2003-playtron/mockup.jpeg"
 +++ 
 
 ![Un rendu 3D de Playtron sur une console imaginaire.](mockup.jpeg "Un rendu de Playtron sur une console portable imaginaire qui me file des crampes aux mains rien qu'en la regardant.")

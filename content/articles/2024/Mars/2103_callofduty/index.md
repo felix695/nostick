@@ -4,6 +4,7 @@ date = 2024-03-21T09:29:12+00:00
 draft = false
 author = "Mickael"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mars/2103_callofduty/callof.jpg"
 +++ 
 ![Call of Duty: Warzone Mobile](callof.jpg "Ghost est-il plutôt iPhone ou plutôt Android ?") 
 

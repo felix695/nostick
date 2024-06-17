@@ -4,6 +4,7 @@ date = 2024-03-15T13:22:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/1503_pokemonceasedesist/PokemonRadicalRed.jpg"
 +++ 
 
 ![Texte Alternative](PokemonRadicalRed.jpg "Pokémon Radical Red")

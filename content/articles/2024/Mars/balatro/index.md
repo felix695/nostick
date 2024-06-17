@@ -4,6 +4,7 @@ date = 2024-03-02T10:30:18+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/balatro/balatro.png"
 +++
 
 ![Balatro](balatro.png)

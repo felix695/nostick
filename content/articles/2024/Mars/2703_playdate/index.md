@@ -4,6 +4,7 @@ date = 2024-03-27T18:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2703_playdate/playdate.jpg"
 +++ 
 
 ![Une image d’une conférence. On peut y lire le texte "Two pallets of Playdates worth $400k went missing?!"](playdate.jpg "Image : Game File.")

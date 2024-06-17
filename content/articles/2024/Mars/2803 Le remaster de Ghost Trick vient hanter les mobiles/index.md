@@ -4,6 +4,7 @@ date = 2024-03-28T17:59:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2803-le-remaster-de-ghost-trick-vient-hanter-les-mobiles/ghosttrick1.PNG"
 +++ 
 
 ![Capture d’écran de Ghost Trick sur mobile](ghosttrick1.PNG)

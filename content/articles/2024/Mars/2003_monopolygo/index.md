@@ -4,6 +4,7 @@ date = 2024-03-20T16:55:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2003_monopolygo/monopoly.jpg"
 +++ 
 ![Monopoly Go](monopoly.jpg "Et sans passer par la case prison !")
 

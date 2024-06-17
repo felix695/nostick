@@ -4,6 +4,7 @@ date = 2024-03-27T16:33:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2703_nomansky/NoManSky.jpg"
 +++
 
 ![No Man's Sky](NoManSky.jpg "")

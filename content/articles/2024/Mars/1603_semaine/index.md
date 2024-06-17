@@ -4,6 +4,7 @@ date = 2024-03-16T12:12:32+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/1603_semaine/FalloutTV.jpg"
 +++
 ![Texte Alternative](FalloutTV.jpg "On respire par le nez.")
 

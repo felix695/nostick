@@ -4,6 +4,7 @@ date = 2024-03-17T10:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mars/1703_sortiesdelasemaine/PlayDate.jpeg"
 +++
 
 **Entre le boulot, les courses et la contre-visite la Dacia, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.**

@@ -4,6 +4,7 @@ date = 2024-03-19T17:29:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/mars/1903_hades/hades.jpg"
 +++
 ![Le jeu Hades](hades.jpg "Sur iOS, Hades se joue au tactile mais aussi avec une manette, ouf.")
 

@@ -4,6 +4,7 @@ date = 2024-03-26T09:03:12+00:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/mars/2603_applearcade/AppleArcade.jpg"
 +++
 
 **iOS est devenu par défaut la plus grande plateforme de jeux au monde, sans qu'Apple ait eu besoin de forcer son talent (historiquement médiocre dès qu'on parle de jeu vidéo). En 2019 pourtant, quelque chose s'est passé avec la présentation d'Apple Arcade qui aurait pu devenir cette étoile brillante au firmament de la nuit sombre qu'est devenu le jeu mobile. Que s'est-il passé pour que ça ne soit pas le cas ?**

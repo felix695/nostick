@@ -4,6 +4,7 @@ date = 2024-03-12T21:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/mars/1203_systemshock/SystemShock.jpg"
 +++ 
 ![Texte Alternative](SystemShock.jpg "Bah alors on te voit plus aux soirées ? © Nightdive")
 

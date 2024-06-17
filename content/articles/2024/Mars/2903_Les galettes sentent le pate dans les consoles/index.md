@@ -4,6 +4,7 @@ date = 2024-03-29T15:02:12+00:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/mars/2903_les-galettes-sentent-le-pate-dans-les-consoles/XboxSeriesXGreen.jpg"
 +++ 
 ![Xbox Series X](XboxSeriesXGreen.jpg "© Billy Freeman (Unsplash)") 
 

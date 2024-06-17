@@ -4,6 +4,7 @@ date = 2024-03-21T19:45:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2103_supermariobroswonder/nintendo.jpg"
 +++
 
 ![Super Mario Bros. Wonder](nintendo.jpg "Quelques idées de transformations abandonnées dans Super Mario Bros. Wonder. © Nintendo/Chris Kohler") 

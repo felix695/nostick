@@ -4,6 +4,7 @@ date = 2024-03-18T12:12:12+00:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/mars/1803_consoles/console_manette.jpg"
 +++
 ![Une manette](console_manette.jpg "Julian Hochgesang (Unsplash)")
 

@@ -4,6 +4,7 @@ date = 2024-03-19T16:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/1903_psvr2/psvr2.jpeg"
 +++
 
 ![Le casque PSVR2 de Sony](psvr2.jpeg)

@@ -4,6 +4,7 @@ date = 2024-03-31T07:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mars/3103-les-sorties-de-la-semaine-3103/southpark.jpg"
 +++ 
 
 ![Image promotionnelle du jeu South Park : Snow Day](southpark.jpg "Non ce n’est pas juste vous : c’est moche.")

@@ -4,6 +4,7 @@ date = 2024-03-25T18:03:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2503_xboxconsole/ROG_Ally.jpg"
 +++ 
 
 ![Le ROG Ally d'Asus](ROG_Ally.jpg "Bientôt un vrai logiciel Xbox adapté aux consoles PC ?")

@@ -4,6 +4,7 @@ date = 2024-03-13T15:23:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/1303_sonic_super_game/Sonic_AngryBirds.jpg"
 +++
 ![Texte Alternative](Sonic_AngryBirds.jpg "Sonic s'est fait quelques shitty friends en plus depuis l'acquisition par Sega de Rovio (Angry Birds).")
 

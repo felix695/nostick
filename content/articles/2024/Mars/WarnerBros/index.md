@@ -4,6 +4,7 @@ date = 2024-03-10T19:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/mars/warnerbros/warnerbros.jpg"
 +++
 
 ![WB](warnerbros.jpg "© Chase Yi (Unsplash)")

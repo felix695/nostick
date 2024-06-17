@@ -4,6 +4,7 @@ date = 2024-03-21T08:29:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/mars/2103_1943riseofhydra/1943.jpg"
 +++
 ![1943: Rise of Hydra](1943.jpg "Les petits nazillons de Hydra ne savent pas à qui ils vont se frotter.") 
 

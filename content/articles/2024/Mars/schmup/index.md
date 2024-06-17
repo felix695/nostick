@@ -4,6 +4,7 @@ date = 2024-03-04T08:45:05+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/schmup/schmup.jpeg"
 +++ 
 
 ![Texte Alternative](schmup.jpeg "L'incroyable Prehistoric Isle 2 où on dégomme des dinos.")

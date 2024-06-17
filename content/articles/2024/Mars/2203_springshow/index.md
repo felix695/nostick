@@ -4,6 +4,7 @@ date = 2024-03-22T18:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 +++
 
 Hier soir a eu lieu le « Spring Showcase » du Future Game Show, un évènement de 90 minutes pendant lequel ont été diffusés une flopée de trailers avec plusieurs annonces exclusives. Rien de particulièrement renversant, mais tout de même quelques bricoles intéressantes. Faisons le point (mais pas trop non plus, c’est vendredi).

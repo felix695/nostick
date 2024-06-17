@@ -4,6 +4,7 @@ date = 2024-03-29T09:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 +++ 
 
 {{< youtube 3yx7LvPR1mU >}} 

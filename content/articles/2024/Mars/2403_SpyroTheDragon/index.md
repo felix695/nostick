@@ -4,6 +4,7 @@ date = 2024-03-24T05:23:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2403_spyrothedragon/spyro.jpg"
 +++ 
 ![Spyro le Dragon](spyro.jpg "Bientôt du neuf pour Spyro ?")
 

@@ -4,6 +4,7 @@ date = 2024-03-28T12:49:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2803_un_nouveau_jeu_borderlands/borderlands"
 +++ 
 ![Borderlands](borderlands "Il y en a au moins un à qui ça fait plaisir.") 
 

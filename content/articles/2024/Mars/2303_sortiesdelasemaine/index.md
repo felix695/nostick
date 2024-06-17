@@ -5,6 +5,7 @@ date = 2024-03-23T14:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mars/2303_sortiesdelasemaine/alone.jpg"
 +++
 
 **Entre le boulot, les courses et le sèche-linge qui rend l’âme, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.**

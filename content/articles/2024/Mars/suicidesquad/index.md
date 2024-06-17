@@ -4,6 +4,7 @@ date = 2024-03-03T08:45:05+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/mars/suicidesquad/suicidesquad1.jpg"
 +++ 
 ![Deux personnages de Suicide Squad (le jeu)](suicidesquad1.jpg "Attention derrière toi c'est affreux")
 

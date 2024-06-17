@@ -4,6 +4,7 @@ date = 2024-03-11T21:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/seaofthieves/SeaOfThieves.jpg"
 +++ 
 
 ![Texte Alternative](SeaOfThieves.jpg "Arrrr Sea of Thieves")

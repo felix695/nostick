@@ -4,6 +4,7 @@ date = 2024-03-27T16:02:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/mars/2703_marvelrivals/MarvelRivals.jpg"
 +++ 
 
 ![Marvel Rivals](MarvelRivals.jpg "Les super-slips parés pour la stomb.") 

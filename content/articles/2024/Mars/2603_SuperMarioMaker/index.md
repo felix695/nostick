@@ -4,6 +4,7 @@ date = 2024-03-26T10:29:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2603_supermariomaker/SuperMarioMaker.jpg"
 +++ 
 ![Super Mario Maker](SuperMarioMaker.jpg "Ça c'est fait.") 
 

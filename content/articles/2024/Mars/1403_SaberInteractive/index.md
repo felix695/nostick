@@ -4,6 +4,7 @@ date = 2024-03-14T16:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/1403_saberinteractive/SaberInteractive.jpg"
 +++ 
 ![Texte Alternative](SaberInteractive.jpg "Les salariés de Saber s'échappant des geôles d'Embracer. © Saber")
 

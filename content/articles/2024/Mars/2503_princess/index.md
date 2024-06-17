@@ -4,6 +4,7 @@ date = 2024-03-25T21:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2503_princess/princess.png"
 +++ 
 
 ![Image promotionnelle du jeu Slay the princes](princess.png)

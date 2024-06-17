@@ -4,6 +4,7 @@ date = 2024-03-23T10:23:12+00:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2303_resume2303/astarion.jpg"
 +++
 ![Baldur’s Gate 3](astarion.jpg "Astarion est fort mécontent.")
 

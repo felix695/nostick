@@ -4,6 +4,7 @@ date = 2024-03-26T18:47:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/2603_aideps5/AidePS5.jpg"
 +++
 
 ![Une capture d’écran montrant comment fonctionne la nouvelle aide communautaire de la PS5.](AidePS5.jpg)

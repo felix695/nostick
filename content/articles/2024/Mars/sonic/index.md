@@ -4,6 +4,7 @@ date = 2024-03-01T19:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mars/sonic/sonic.jpeg"
 +++
 ![Sonic](./sonic.jpeg)
 
