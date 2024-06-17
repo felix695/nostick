@@ -4,7 +4,7 @@ date = 2024-04-12T10:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://i.ytimg.com/vi/M7qW3CRX1Xw/maxresdefault.jpg"
 +++ 
 
 Il y a un nouveau challenger dans le domaine des *showcases* JV : la « [Triple-I initiative](https://iii-initiative.com) ». L’évènement se veut être la fête aux indés et aux jeux aux budgets moyens, à l’opposé des triples A généralement en tête d’affiche. La première édition a duré 45 minutes avec pas mal de nouveautés intéressantes : ça méritait bien un petit best of.
