@@ -4,6 +4,7 @@ date = 2024-05-08T15:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/mai/0805-nintendo-recycle-les-vieilles-gloires-de-la-nes/NintendoWorldChampionships.jpg"
 +++
 
 ![Nintendo World Championships: NES Edition](NintendoWorldChampionships.jpg "")

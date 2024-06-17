@@ -4,6 +4,7 @@ date = 2024-05-25T08:00:05+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2505-folle-semaine/MultiVersus.jpg"
 +++
 
 ![MultiVersus](MultiVersus.jpg "La grosse fatigue de la semaine.")

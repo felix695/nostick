@@ -4,6 +4,7 @@ date = 2024-05-05T22:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/Helldivers2.jpg"
 +++
 
 ![Helldivers 2](Helldivers2.jpg "") 

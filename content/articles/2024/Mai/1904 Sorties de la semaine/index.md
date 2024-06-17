@@ -4,6 +4,7 @@ date = 2024-05-19T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mai/1904-sorties-de-la-semaine/ghosting.jpg"
 +++ 
 
 ![Capture d’écran du jeu Ghost of Tsushima](ghosting.jpg "Assassin’s Creed Shadows n'a qu'à bien se tenir")

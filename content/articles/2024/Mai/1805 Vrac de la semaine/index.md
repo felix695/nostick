@@ -4,6 +4,7 @@ date = 2024-05-18T08:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1805-vrac-de-la-semaine/Foamstars.jpg"
 +++
 
 ![Foamstars](Foamstars.jpg "Montez le son !")

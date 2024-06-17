@@ -4,6 +4,7 @@ date = 2024-05-20T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2005-ghost-of-tsushima-est-le-plus-gros-jeu-solo-de-playstation-sur-steam/Ghost.jpg"
 +++
 
 ![Ghost of Tsushima](Ghost.jpg "Un chemin parsemé de fleurs pour Ghost of Tsushima sur PC.")

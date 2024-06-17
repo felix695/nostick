@@ -4,6 +4,7 @@ date = 2024-05-14T20:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1405-read-dead-redemption-pourrait-bientot-canarder-sur-pc/RDR0111.jpg"
 +++
 
 ![Image promo pour Red Dead Redemption](RDR0111.jpg) 

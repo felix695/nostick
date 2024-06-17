@@ -5,6 +5,7 @@ date = 2024-05-04T09:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mai/0505-sorties-de-la-semaine/indika.jpg"
 +++ 
 
 ![Capture d’écran du jeu Indika](indika.jpg "Vous avez dit RE:Village ?")

@@ -4,6 +4,7 @@ date = 2024-05-18T08:31:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1805-resume-de-la-semaine/indy.jpg"
 +++
 
 ![Indiana Jones](indy.jpg "À la recherche du week-end perdu.")

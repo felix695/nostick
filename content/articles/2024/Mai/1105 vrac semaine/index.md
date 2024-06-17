@@ -4,6 +4,7 @@ date = 2024-05-11T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1105-vrac-semaine/AdaWong.jpg"
 +++ 
 
 ![Ada Wong](AdaWong.jpg "J'ai trouvé la clé du week-end !")

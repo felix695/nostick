@@ -4,6 +4,7 @@ date = 2024-05-11T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1105-semaine-du-jeu-video/redfall.jpg"
 +++
 
 ![Redfall](redfall.jpg "Il est où le Phil Spencer là ?!")

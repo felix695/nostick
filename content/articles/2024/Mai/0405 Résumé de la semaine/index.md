@@ -4,6 +4,7 @@ date = 2024-05-04T08:00:03+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/0405-résumé-de-la-semaine/ff16.jpg"
 +++
 
 ![Final Fantasy 16](ff16.jpg "La semaine a été plus compliquée que prévu.")

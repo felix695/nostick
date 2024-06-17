@@ -4,6 +4,7 @@ date = 2024-05-23T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2305-paper-mario-pourrait-confirmer-que-la-switch-2-peut-fournir-de-la-4k/paper.jpg"
 +++
 
 ![Paper Mario : la Porte Millénaire](paper.jpg "") 

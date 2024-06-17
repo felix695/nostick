@@ -4,6 +4,7 @@ date = 2024-05-21T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2105-la-sortie-de-hellblade-2-ne-condamne-pas-ninja-theory/Senua.jpg"
 +++
 
 ![Senua's Saga: Hellblade 2](Senua.jpg "Angoisse pour Senua.")

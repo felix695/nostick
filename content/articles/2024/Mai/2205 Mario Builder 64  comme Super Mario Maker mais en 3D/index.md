@@ -4,6 +4,7 @@ date = 2024-05-22T11:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2205-mario-builder-64--comme-super-mario-maker-mais-en-3d/Mario.jpg"
 +++
 
 ![Mario Builder 64](Mario.jpg "")

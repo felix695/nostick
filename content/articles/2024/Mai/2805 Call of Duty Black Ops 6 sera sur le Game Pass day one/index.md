@@ -4,6 +4,7 @@ date = 2024-05-28T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2805-call-of-duty-black-ops-6-sera-sur-le-game-pass-day-one/CallOf2.jpg"
 +++
 
 ![Call of Duty: Black Ops 6](CallOf2.jpg "I want to believe !") 

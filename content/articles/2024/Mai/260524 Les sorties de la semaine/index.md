@@ -4,6 +4,7 @@ date = 2024-05-26T08:30:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/mai/260524-les-sorties-de-la-semaine/papermario.jpg"
 +++ 
 
 ![Capture d’écran de Paper Mario Switch](papermario.jpg "Vos papiers s’il vous plaît.")

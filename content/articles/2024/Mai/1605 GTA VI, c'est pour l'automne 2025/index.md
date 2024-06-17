@@ -4,6 +4,7 @@ date = 2024-05-16T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1605-gta-vi-cest-pour-lautomne-2025/GTA.jpg"
 +++
 
 ![GTA VI](GTA.jpg "")

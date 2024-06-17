@@ -4,6 +4,7 @@ date = 2024-05-07T17:45:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/0705-fin-de-partie-pour-arkane-austin-et-tango-gameworks/redfall.jpeg"
 +++ 
 
 ![Image promo du jeu Redfall](redfall.jpeg "Microsoft a planté les derniers clous dans le cercueil de Redfall")

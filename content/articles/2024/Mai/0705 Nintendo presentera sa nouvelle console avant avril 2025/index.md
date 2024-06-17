@@ -4,6 +4,7 @@ date = 2024-05-07T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/0705-nintendo-presentera-sa-nouvelle-console-avant-avril-2025/Switch.jpg"
 +++
 
 ![Switch](Switch.jpg "") 

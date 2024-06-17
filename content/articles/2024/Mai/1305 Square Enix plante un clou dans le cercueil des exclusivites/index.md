@@ -4,6 +4,7 @@ date = 2024-05-13T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/1305-square-enix-plante-un-clou-dans-le-cercueil-des-exclusivites/FF7.jpg"
 +++
 
 ![FF7 Rebirth](FF7.jpg "À la recherche des profits perdus.")

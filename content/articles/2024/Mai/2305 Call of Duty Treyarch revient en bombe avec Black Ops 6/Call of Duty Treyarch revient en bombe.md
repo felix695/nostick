@@ -4,6 +4,7 @@ date = 2024-05-23T19:00:00+02:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://i.ytimg.com/vi/RxIHyfwUrTg/maxresdefault.jpg"
 +++ 
 
 

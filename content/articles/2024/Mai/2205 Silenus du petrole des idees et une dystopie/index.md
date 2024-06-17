@@ -4,6 +4,7 @@ date = 2024-05-22T06:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/mai/2205-silenus-du-petrole-des-idees-et-une-dystopie/silenus1.jpg"
 +++ 
 
 ![Capture d’écran du jeu Silenus](silenus1.jpg)
