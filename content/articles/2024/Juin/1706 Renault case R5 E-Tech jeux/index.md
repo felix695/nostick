@@ -1,6 +1,6 @@
 +++
 title = "Renault case sa R5 E-Tech dans tous les jeux"
-date = 2024-06-17T07:07:32+01:00
+date = 2024-06-17T07:08:10+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
@@ -23,6 +23,6 @@ Tout cela est assez banal, mais Renault s'est vraiment creusé le ciboulot pour 
 
 ![Stardew Valley](Stardew-Valley-r5-renault.jpg "Dans Stardew Valley.") 
 
-Le constructeur est allé jusqu'à concevoir un Pal reprenant le design de la R5, à aller chasser dans *Palworld* ! Le mod de *Stardew Valley* est probablement le plus surprenant, avec un garage (celui de Louis) avec plusieurs quêtes à accomplir. Et du contenu supplémentaire est dans les tuyaux ! Vous retrouverez la liste des jeux et des mods à cette [adresse](https://www.renault.co.uk/electric-vehicles/r5-e-tech-electric/renault5-modding11.html).
+Le constructeur est allé jusqu'à concevoir un Pal reprenant le design de la R5, à aller chasser dans *Palworld* ! Le mod de *Stardew Valley* est probablement le plus surprenant, avec un garage (celui de Louis) avec plusieurs quêtes à accomplir. Et du contenu supplémentaire est dans les tuyaux : vous retrouverez la liste des jeux et des mods à cette [adresse](https://www.renault.co.uk/electric-vehicles/r5-e-tech-electric/renault5-modding11.html).
 
-Alors bien sûr, ça reste de la réclame qui n'a sûrement pas dû coûter bien cher à Renault, mais on peut saluer l'effort pour éviter de tomber dans le piège de la réclame facile. Maintenant, si on pouvait avec la R5 E-Tech dans *Forza* ?
+Alors bien sûr, ça reste de la réclame qui n'a sûrement pas dû coûter bien cher à Renault, mais on peut saluer l'effort pour éviter de tomber dans le piège de la pub facile. Maintenant, si on pouvait avec la R5 E-Tech dans *Forza* ?
