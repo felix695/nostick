@@ -4,7 +4,7 @@ date = 2024-06-07T15:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/mai/3105-nostick-reloaded/nostick-reloaded.jpg"
+image = "https://nostick.fr/articles/2024/juin/0706-newsletter-nostick-reloaded/nostick-reloaded.jpg"
 +++
 
 ![L’infolettre Nostick Reloaded sur Substack](nostick-reloaded.jpg "Abonnez-vous !") 
