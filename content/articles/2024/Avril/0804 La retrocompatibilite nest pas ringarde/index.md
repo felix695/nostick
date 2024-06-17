@@ -6,6 +6,7 @@ author = "Mickaël"
 tags = ["Actu"]
 type = "une"
 vignette = "https://nostick.fr/articles/vignettes/Xbox360.jpg"
+image = "https://nostick.fr/articles/2024/avril/0804-la-retrocompatibilite-nest-pas-ringarde/Xbox360.jpg"
 +++ 
 
 ![Une manette de Xbox360.jpg](Xbox360.jpg "© Kote Puerto")

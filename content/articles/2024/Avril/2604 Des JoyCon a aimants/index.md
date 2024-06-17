@@ -4,6 +4,7 @@ date = 2024-04-26T18:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2604-des-joycon-a-aimants/Switch2.jpeg"
 +++
 
 ![Concept de Switch 2](Switch2.jpeg "Switch 2, concept de @eianblade")

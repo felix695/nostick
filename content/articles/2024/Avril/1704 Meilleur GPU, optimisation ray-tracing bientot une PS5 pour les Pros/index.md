@@ -4,6 +4,7 @@ date = 2024-04-17T20:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/1704-meilleur-gpu-optimisation-ray-tracing-bientot-une-ps5-pour-les-pros/PS5.png"
 +++ 
 
 ![Les deux PS5 actuelles](PS5.png)

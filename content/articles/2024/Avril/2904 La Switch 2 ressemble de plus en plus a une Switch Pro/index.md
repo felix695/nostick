@@ -4,6 +4,7 @@ date = 2024-04-29T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2904-la-switch-2-ressemble-de-plus-en-plus-a-une-switch-pro/switch2.jpg"
 +++
 
 ![Concept de Switch 2](switch2.jpg "La Switch 2 ne ressemblera certainement pas à ce concept de ChatGPT.") 

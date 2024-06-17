@@ -4,6 +4,7 @@ date = 2024-04-03T15:30:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/0304-les-vieilles-badernes-ont-toujours-la-cote-chez-les-joueurs/Fortnite.jpg"
 +++ 
 ![Fortnite](Fortnite.jpg "Lancé il y a sept ans, Fortnite continue de tout cartonner.") 
 

@@ -4,6 +4,7 @@ date = 2024-04-12T18:15:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/1204-ubisoft-efface-the-crew-partout/TheCrew.jpg"
 +++ 
 
 ![The Crew](TheCrew.jpg "")

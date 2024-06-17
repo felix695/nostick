@@ -4,6 +4,7 @@ date = 2024-04-02T10:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Tuto"]
+image = "https://nostick.fr/articles/2024/avril/installez-diablo-iv-sur-le-steam-deck/DiabloIV-install.jpg"
 +++ 
 
 ![Battle.net dans le Steam Deck.](DiabloIV-install.jpg "Fais gaffe à tes fesses Lilith.")

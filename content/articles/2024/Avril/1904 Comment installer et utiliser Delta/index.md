@@ -4,6 +4,7 @@ date = 2024-04-19T11:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Tuto"]
+image = "https://nostick.fr/articles/2024/avril/1904-comment-installer-et-utiliser-delta/Delta.jpg"
 +++ 
 
 ![Mario Kart DS sur iPhone](Delta.jpg "Ceci est vraiment possible sur votre iPhone !") 

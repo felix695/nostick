@@ -4,6 +4,7 @@ date = 2024-04-16T18:47:32+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/1604-virtual-boy-sur-le-vision-pro/VirtualBoy.jpg"
 +++ 
 
 ![Le Virtual Boy de Nintendo](VirtualBoy.jpg "")

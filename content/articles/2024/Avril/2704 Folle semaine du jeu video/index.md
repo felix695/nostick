@@ -4,6 +4,7 @@ date = 2024-04-27T09:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2704-folle-semaine-du-jeu-video/RockBand.jpg"
 +++
 
 ![Rock Band 4](RockBand.jpg "Un week-end qui va faire du bruit.")

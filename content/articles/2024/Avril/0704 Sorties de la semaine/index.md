@@ -4,6 +4,7 @@ date = 2024-04-07T07:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/avril/0704-sorties-de-la-semaine/contentwarning.jpg"
 +++ 
 
 ![Capture d’écran du jeu Content Warning](contentwarning.jpg "On part à la chasse aux sorties")

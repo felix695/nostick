@@ -4,6 +4,7 @@ date = 2024-04-21T07:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/avril/2104-sorties-de-la-semaine/nrftw.jpg"
 +++ 
  
 Entre le boulot, les courses et cette andouille de voisin qui joue de la perceuse de 8h à 18h, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.

@@ -4,6 +4,7 @@ date = 2024-04-06T12:00:01+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/0604-resume-semaine/Eve.jpg"
 +++ 
 
 ![Stellar Blade](Eve.jpg "N'est-ce point le week-end que je vois poindre derrière les persiennes ?")

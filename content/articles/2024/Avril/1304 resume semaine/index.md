@@ -4,6 +4,7 @@ date = 2024-04-13T11:00:01+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/1304-resume-semaine/Dredge.jpg"
 +++ 
 
 ![Dredge](Dredge.jpg "En avant vers le week-end !")

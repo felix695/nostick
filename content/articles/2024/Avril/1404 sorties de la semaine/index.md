@@ -5,6 +5,7 @@ date = 2024-04-14T08:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
+image = "https://nostick.fr/articles/2024/avril/1404-sorties-de-la-semaine/BrokenRoads.jpg"
 +++ 
 
 ![Une capture d’écran du jeu Broken Roads](BrokenRoads.jpg "Broken Roads s’est pris les pieds dans le tapis")

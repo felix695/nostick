@@ -4,6 +4,7 @@ date = 2024-04-15T20:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Test"]
+image = "https://nostick.fr/articles/2024/avril/1504-promenade-poulpe-friction/011.png"
 +++ 
 
 ![Capture d’écran du jeu Promenade](011.png "Ça va poulper.")

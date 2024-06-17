@@ -4,6 +4,7 @@ date = 2024-04-05T10:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/0405-the-crush-house-est-un-simulateur-de-tv-realite-des-annees-2000-parce-que-pourquoi-pas-apres-tout/TheCrushHouse.jpg"
 +++ 
 
 ![Capture d’écran du jeu The Crush House](TheCrushHouse.jpg "Image : Devolver")

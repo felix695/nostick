@@ -4,6 +4,7 @@ date = 2024-04-30T18:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
+image = "https://i.ytimg.com/vi/A2aNUtMUvIM/maxresdefault.jpg"
 +++ 
 
 Pas de date de sortie pour *Silksong* hier soir à l’occasion du petit showcase « ID@Xbox » de Microsoft qui a duré une quarantaine de minutes et présenté une vingtaine de jeux. On a eu du neuf à propos de *[Dungeons of Hinterberg](https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/)*, un croisement *Persona* x *Zelda* se déroulant dans les Alpes. Dans l’idée il faudra fouiller les montagnes à la recherche de donjons remplis de monstres/énigmes avant de rentrer en ville papoter avec les riverains. Ça sortira le 18 juillet sur PC et Xbox, tandis qu’un playtest va être mis en place le mois prochain sur Steam. Admettez que ça a l’air cool (on notera que le chara-designer a visiblement joué à *Celeste*) :

@@ -4,6 +4,7 @@ date = 2024-04-20T16:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2004-ppsspp-et-provenance-bientot-dans-lapp-store/F-ZeroGX.jpg"
 +++ 
 
 ![DolphiniOS](F-ZeroGX.jpg "Pas de F-Zero GX sur iPhone (à moins de le vouloir vraiment)")

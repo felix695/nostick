@@ -6,6 +6,7 @@ author = "Félix"
 tags = ["Actu"]
 type = "une"
 vignette = "https://nostick.fr/articles/vignettes/meta.jpg"
+image = "https://nostick.fr/articles/2024/avril/2304-meta-sort-les-rames-pour-faire-un-peu-de-benef-avec-la-vr/metaos.png"
 +++ 
 
 ![Étiquette représentant le logo Meta OS](metaos.png)

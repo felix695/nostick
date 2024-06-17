@@ -4,6 +4,7 @@ date = 2024-04-27T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/270424-news-en-vrac/ElPaso.jpg"
 +++
 
 ![El Paso, Elsewhere](ElPaso.jpg "Il était temps que le week-end arrive.")

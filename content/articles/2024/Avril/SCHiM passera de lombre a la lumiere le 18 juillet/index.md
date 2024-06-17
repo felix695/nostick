@@ -4,6 +4,7 @@ date = 2024-04-18T17:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/avril/schim-passera-de-lombre-a-la-lumiere-le-18-juillet/SCHiM.jpg"
 +++ 
 
 {{< youtube YHSWlEFJYs8 >}} 

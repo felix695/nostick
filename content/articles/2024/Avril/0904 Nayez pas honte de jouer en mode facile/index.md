@@ -4,6 +4,7 @@ date = 2024-04-09T19:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/avril/0904-nayez-pas-honte-de-jouer-en-mode-facile/wolf.jpg"
 +++ 
 
 ![Les différents niveaux de difficulté dans Diablo IV](Diablo4.jpg "Et pourquoi pas une petite aventure ?") 

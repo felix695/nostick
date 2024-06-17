@@ -4,6 +4,7 @@ date = 2024-04-01T15:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/avril/0104-comment-la-generative-veut-revolutionner-notre-rapport-aux-pnj/demonvidia.jpg"
 +++ 
 
 ![Une image montrant un NPC dans une démo technique de NVIDIA](demonvidia.jpg "Image : NVIDIA")

@@ -4,6 +4,7 @@ date = 2024-04-11T19:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/1104-letrange-nouvelle-boutique-de-jeux-de-shadow/shadow.jpg"
 +++ 
 
 ![Shadow Game Store](shadow.jpg "")

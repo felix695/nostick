@@ -6,6 +6,7 @@ author = "Mickaël"
 tags = ["XXL"]
 type = "une"
 vignette = "https://nostick.fr/articles/vignettes/prix.jpg"
+image = "https://nostick.fr/articles/2024/avril/1704-les-jeux-vidéo-coûtent-ils-vraiment-trop-cher-/Spidey2.jpg"
 +++ 
 
 ![Page de pub de 1994 avec les prix des jeux SNES](SNES-prix.jpg "Une page de pub vantant les derniers jeux SNES en 1994. Les prix, en dollars, douillaient déjà à l'époque ! r/ZildjianCymbals") 

@@ -4,6 +4,7 @@ date = 2024-04-02T15:30:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/0204-des-nouvelles-de-hollow-knight-silksong/HollowKnightSilksong-2.jpg"
 +++ 
 ![Hollow Knight: Silksong](HollowKnightSilksong-2.jpg "")
 

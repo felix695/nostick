@@ -4,6 +4,7 @@ date = 2024-04-06T22:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/0604-tous-les-niveaux-crees-avec-super-mario-maker-ont-ete-battus/Mario.jpg"
 +++ 
 
 ![Trimming the Herbs](Mario.jpg "Ça, c'est vraiment fait.")

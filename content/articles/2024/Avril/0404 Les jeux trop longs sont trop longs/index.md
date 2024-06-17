@@ -4,6 +4,7 @@ date = 2024-04-04T15:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["XXL"]
+image = "https://nostick.fr/articles/2024/avril/0404-les-jeux-trop-longs-sont-trop-longs/Hellblade2.jpg"
 +++ 
 
 ![Hellblade 2](Hellblade2.jpg "Je sors pas tant que c'est trop long.") 

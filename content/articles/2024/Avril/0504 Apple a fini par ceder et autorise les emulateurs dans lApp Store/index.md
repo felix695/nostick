@@ -4,6 +4,7 @@ date = 2024-04-05T22:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/0504-apple-a-fini-par-ceder-et-autorise-les-emulateurs-dans-lapp-store/Delta.jpg"
 +++ 
 
 ![L'émulateur Delta](Delta.jpg "Delta, l'émulateur NES/SNES/N64/DS pourrait bien avoir droit de cité sur l'App Store.")

@@ -4,6 +4,7 @@ date = 2024-04-20T10:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2004-en-vrac/GoldenAxe.jpg"
 +++ 
 
 ![Golden Axe](GoldenAxe.jpg "Le belle époque des beat'em up décomplexés.")

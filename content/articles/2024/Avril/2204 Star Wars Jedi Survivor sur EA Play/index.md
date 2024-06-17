@@ -4,6 +4,7 @@ date = 2024-04-22T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2204-star-wars-jedi-survivor-sur-ea-play/EAPlay-2.jpg"
 +++ 
 
 ![Jedi Survivor sur le PS Store](EAPlay-2.jpg "")

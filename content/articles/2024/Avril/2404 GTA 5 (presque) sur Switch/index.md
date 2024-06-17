@@ -4,6 +4,7 @@ date = 2024-04-24T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/avril/2404-gta-5-presque-sur-switch/GTA5.jpg"
 +++
 
 ![GTA 5](GTA5.jpg "À la recherche de la version Switch de GTA 5.")

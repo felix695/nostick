@@ -4,6 +4,7 @@ date = 2024-04-10T20:00:00+01:00
 draft = false
 author = "Mickaël"
 tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/avril/1004-le-prince-de-perse-est-un-grand-seigneur/PoP.jpg"
 +++ 
 
 ![The Rogue Prince of Persia](PoP.jpg "")
