@@ -29,19 +29,23 @@
         </a>
       </li>
       {{ range site.Menus.main }}
-      {{ $url := relLangURL .URL }}
-      {{ if and (isset .Params "format") .Page }}
-        {{ $outputFormat := .Page.OutputFormats.Get .Params.format }}
-        {{ if $outputFormat }}
-          {{ $url = $outputFormat.RelPermalink }}
-        {{ else }}
-          {{ $url = .URL }}
-        {{ end }}
-      {{ end }}
-      <li class="Banner-item">
-        <a class="Banner-link u-clickable" href="{{ $url }}">{{ .Name }}</a>
-      </li>
-      {{ end }}
+  {{ $url := relLangURL .URL }}
+  {{ if and (isset .Params "format") .Page }}
+    {{ $outputFormat := .Page.OutputFormats.Get .Params.format }}
+    {{ if $outputFormat }}
+      {{ $url = $outputFormat.RelPermalink }}
+    {{ else }}
+      {{ warnf "OutputFormat is nil for page %s" .Page.Title }}
+      {{ $url = .URL }}
+    {{ end }}
+  {{ else }}
+    {{ warnf "Missing format or page for menu item %s" .Name }}
+  {{ end }}
+  <li class="Banner-item">
+    <a class="Banner-link u-clickable" href="{{ $url }}">{{ .Name }}</a>
+  </li>
+{{ end }}
+
     </ul>
     <div class="breaking-news">
       <span class="latest-news">Vite !</span>
