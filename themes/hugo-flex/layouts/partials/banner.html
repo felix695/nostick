@@ -30,8 +30,11 @@
       </li>
       {{ range site.Menus.main }}
       {{ $url := relLangURL .URL }}
-      {{ if isset .Params "format" | and .Page }}
-      {{ $url = (.Page.OutputFormats.Get .Params.format).RelPermalink }}
+      {{ if and (isset .Params "format") .Page }}
+        {{ $outputFormat := .Page.OutputFormats.Get .Params.format }}
+        {{ if $outputFormat }}
+          {{ $url = $outputFormat.RelPermalink }}
+        {{ end }}
       {{ end }}
       <li class="Banner-item">
         <a class="Banner-link u-clickable" href="{{ $url }}">{{ .Name }}</a>
