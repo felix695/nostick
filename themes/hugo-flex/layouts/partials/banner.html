@@ -1,13 +1,13 @@
 <nav class="u-background">
-  <div class="u-wrapper">
-    <ul class="Banner">
+  <div class="main-container">
+    <ul class="Banner centered-logo">
       <li class="Banner-item Banner-item--logo">
         <a class="Banner-link u-clickable" href="{{ relLangURL nil }}">
           <!-- Script pour changer le logo quotidiennement -->
           <img id="dailyLogo" src="/logo.png" alt="Logo" class="Banner-logo">
           <script>
-          document.addEventListener("DOMContentLoaded", function() {
-            var logos = [
+            document.addEventListener("DOMContentLoaded", function() {
+              var logos = [
                 "/Logos/Logo1.png",
                 "/Logos/Logo2.png",
                 "/Logos/Logo3.png",
@@ -16,16 +16,16 @@
                 "/Logos/Logo6.png",
                 "/Logos/Logo7.png",
                 "/Logos/Logo8.png",
-                "/Logos/Logo9.png",                
+                "/Logos/Logo9.png",
                 "/Logos/Logo10.png"
               ];
-  var date = new Date();
-  var index = date.getDate() % logos.length;
-  var logoImage = document.getElementById('dailyLogo');
-  logoImage.src = logos[index];
-  logoImage.style.visibility = 'visible'; // Rend l'image visible après la mise à jour
-});
-</script>
+              var date = new Date();
+              var index = date.getDate() % logos.length;
+              var logoImage = document.getElementById('dailyLogo');
+              logoImage.src = logos[index];
+              logoImage.style.visibility = 'visible'; // Rend l'image visible après la mise à jour
+            });
+          </script>
         </a>
       </li>
       {{ range site.Menus.main }}
@@ -39,12 +39,12 @@
       {{ end }}
     </ul>
     <div class="breaking-news">
-      <span class="latest-news">En bref</span>
+      <span class="latest-news">Vite !</span>
       <div class="news-container">
-      <!-- Par ici les télex -->
-          <span class="news-item">Nintendo organise un Direct ce mardi 18 juin à 16h ! 40 minutes de nouveaux jeux pour la Switch (0 minute sur la Switch 2). ■</span>
-          <span class="news-item">Le remake de Lollipop Chainsaw RePop (2012) sortira le 25 septembre sur consoles et PC. Faites chauffer la tronçonneuse ! ■</span>
-          <span class="news-item">Sea of Thieves, le jeu Xbox, fait un carton sur PS5 : c'est le titre le plus téléchargé en mai aux États-Unis et en Europe. ■</span>
+        <!-- Par ici les télex -->
+        <span class="news-item">RetroaArch, l'app à tout émuler ou presque, est disponible sur iPhone et iPad. ■</span>
+        <span class="news-item">Assassin's Creed Shadows sortira le 15 novembre, a confirmé Ubisoft. ■</span>
+        <span class="news-item">Pour éviter une collision malheureuse avec Hades II, The Rogue Prince of Persia sera finalement disponible en accès anticipé le 27 mai. ■</span>
         <!-- Ajoutez autant de <span class="news-item">...</span> que nécessaire pour plus de breaking news -->
       </div>
     </div>
