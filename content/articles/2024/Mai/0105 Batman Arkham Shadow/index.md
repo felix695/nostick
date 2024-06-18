@@ -4,6 +4,7 @@ date = 2024-05-01T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["trailer"]
+image = "https://nostick.fr/articles/2024/mai/0105-batman-arkham-shadow/Batman.jpg"
 +++
 
 ![Batman: Arkham Shadow](Batman.jpg "Vous saviez que Batman c'est Bruce Wayne en vrai.")

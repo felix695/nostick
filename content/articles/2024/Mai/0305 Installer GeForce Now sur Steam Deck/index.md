@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Tuto"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignettes/GeForce-Deck.jpg"
+image = "https://nostick.fr/articles/vignettes/GeForce-Deck.jpg"
 +++
 
 ![Steam Deck](GeForce-Deck.jpg "")
