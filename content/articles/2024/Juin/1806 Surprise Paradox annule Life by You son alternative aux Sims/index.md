@@ -4,7 +4,7 @@ date = 2024-06-18T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juin/1806-surprise-paradox-annule-life-by-you-son-alternative-aux-sims/lifebyyou.jpg"
+image = "https://nostick.fr/articles/vignettes/juin/lifebyyou.jpg"
 +++ 
 
 ![Capture d’écran du jeu Life by you](lifebyyou.jpg "") 
