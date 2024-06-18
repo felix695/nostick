@@ -1,0 +1,57 @@
+<nav class="u-background">
+  <div class="main-container">
+    <ul class="Banner centered-logo">
+      <li class="Banner-item Banner-item--logo">
+        <a class="Banner-link u-clickable" href="{{ relLangURL nil }}">
+          <!-- Script pour changer le logo quotidiennement -->
+          <img id="dailyLogo" src="/logo.png" alt="Logo" class="Banner-logo">
+          <script>
+            document.addEventListener("DOMContentLoaded", function() {
+              var logos = [
+                "/Logos/Logo1.png",
+                "/Logos/Logo2.png",
+                "/Logos/Logo3.png",
+                "/Logos/Logo4.png",
+                "/Logos/Logo5.png",
+                "/Logos/Logo6.png",
+                "/Logos/Logo7.png",
+                "/Logos/Logo8.png",
+                "/Logos/Logo9.png",
+                "/Logos/Logo10.png"
+              ];
+              var date = new Date();
+              var index = date.getDate() % logos.length;
+              var logoImage = document.getElementById('dailyLogo');
+              logoImage.src = logos[index];
+              logoImage.style.visibility = 'visible'; // Rend l'image visible après la mise à jour
+            });
+          </script>
+        </a>
+      </li>
+      {{ range site.Menus.main }}
+      {{ $url := relLangURL .URL }}
+      {{ if and (isset .Params "format") .Page }}
+        {{ $outputFormat := .Page.OutputFormats.Get .Params.format }}
+        {{ if $outputFormat }}
+          {{ $url = $outputFormat.RelPermalink }}
+        {{ else }}
+          {{ $url = .URL }}
+        {{ end }}
+      {{ end }}
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable" href="{{ $url }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    <div class="breaking-news">
+      <span class="latest-news">Vite !</span>
+      <div class="news-container">
+        <!-- Par ici les télex -->
+        <span class="news-item">RetroaArch, l'app à tout émuler ou presque, est disponible sur iPhone et iPad. ■</span>
+        <span class="news-item">Assassin's Creed Shadows sortira le 15 novembre, a confirmé Ubisoft. ■</span>
+        <span class="news-item">Pour éviter une collision malheureuse avec Hades II, The Rogue Prince of Persia sera finalement disponible en accès anticipé le 27 mai. ■</span>
+        <!-- Ajoutez autant de <span class="news-item">...</span> que nécessaire pour plus de breaking news -->
+      </div>
+    </div>
+  </div>
+</nav>
