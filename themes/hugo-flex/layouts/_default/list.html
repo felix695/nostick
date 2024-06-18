@@ -1,40 +1,87 @@
 {{ define "main" }}
 
-  {{ partial "heading.html" . }}
+  <script src="/js/ToggleViewGrid.js"></script>
 
-  {{ .Content }}
+  <div class="main-container">
+    <!-- Affichage du mot du tag -->
+    <div class="tag-header">
+      {{ with .Title }}
+        <h1>{{ . }}</h1>
+      {{ end }}
+    </div>
 
-  {{ range .Pages.GroupByPublishDate "2006" }}
-    <h2>{{ .Key }}</h2>
-    {{ range .Pages.GroupByPublishDate "01" }}
-      <h3>
-        {{ if eq .Key "01" }}Janvier{{ end }}
-        {{ if eq .Key "02" }}Février{{ end }}
-        {{ if eq .Key "03" }}Mars{{ end }}
-        {{ if eq .Key "04" }}Avril{{ end }}
-        {{ if eq .Key "05" }}Mai{{ end }}
-        {{ if eq .Key "06" }}Juin{{ end }}
-        {{ if eq .Key "07" }}Juillet{{ end }}
-        {{ if eq .Key "08" }}Août{{ end }}
-        {{ if eq .Key "09" }}Septembre{{ end }}
-        {{ if eq .Key "10" }}Octobre{{ end }}
-        {{ if eq .Key "11" }}Novembre{{ end }}
-        {{ if eq .Key "12" }}Décembre{{ end }}
-      </h3>
-      <ul>
-        {{ range .Pages }}
-          <li>
-            {{ time.Format "2006-01-02" .PublishDate }} – <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-      </ul>
+    {{ .Content }}
+
+    {{ $filteredPages := where .Pages.ByDate.Reverse "Params.type" "ne" "telex" }}
+    {{ $pag := .Paginate $filteredPages 30 }}
+
+    {{ range $index, $page := $pag.Pages.GroupByPublishDate "2006" }}
+      {{ $year := .Key }}
+      {{ range $month := .Pages.GroupByPublishDate "01" }}
+        <h3>
+          {{ if eq $month.Key "01" }}Janvier{{ end }}
+          {{ if eq $month.Key "02" }}Février{{ end }}
+          {{ if eq $month.Key "03" }}Mars{{ end }}
+          {{ if eq $month.Key "04" }}Avril{{ end }}
+          {{ if eq $month.Key "05" }}Mai{{ end }}
+          {{ if eq $month.Key "06" }}Juin{{ end }}
+          {{ if eq $month.Key "07" }}Juillet{{ end }}
+          {{ if eq $month.Key "08" }}Août{{ end }}
+          {{ if eq $month.Key "09" }}Septembre{{ end }}
+          {{ if eq $month.Key "10" }}Octobre{{ end }}
+          {{ if eq $month.Key "11" }}Novembre{{ end }}
+          {{ if eq $month.Key "12" }}Décembre{{ end }}
+          {{ $year }}
+        </h3>
+        <div class="grid-container desktop-grid">
+          {{ range $article := $month.Pages }}
+            <div class="article-item-grille">
+              <a href="{{ $article.RelPermalink }}">
+                <img src="{{ $article.Params.image }}" alt="{{ $article.Title }}">
+              </a>
+              <h2><a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a></h2>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
     {{ end }}
-  {{ end }}
 
-<!-- {{ range .Paginator.Pages }} -->
-    <!-- Affichez ici les informations de chaque page -->
-    <!-- h3>{{ .Title }}</h3 -->
-    <!-- p>{{ .Description }}</p -->
-    <!-- ... et d'autres informations spécifiques à chaque page -->
-<!-- {{ end }} -->
+    <!-- Pagination -->
+    {{ if gt $pag.TotalPages 1 }}
+    <nav class="pagination" style="padding: 0 10px;">
+        <ul>
+            {{ $currentPage := $pag.PageNumber }}
+            {{ $totalPages := $pag.TotalPages }}
+            {{ $startPage := cond (gt (sub $currentPage 1) 1) (sub $currentPage 1) 1 }}
+            {{ $endPage := cond (lt (add $currentPage 2) $totalPages) (add $currentPage 2) $totalPages }}
+            {{ if gt (sub $endPage $startPage) 3 }}
+                {{ $startPage := $currentPage }}
+                {{ $endPage := cond (lt (add $currentPage 3) $totalPages) (add $currentPage 3) $totalPages }}
+            {{ end }}
+
+            {{ if gt $startPage 1 }}
+            <li><a href="{{ (index $pag.Pagers 0).URL }}">1</a></li>
+            {{ if gt $startPage 2 }}
+            <li>...</li>
+            {{ end }}
+            {{ end }}
+
+            {{ range $i, $page := $pag.Pagers }}
+            {{ $pageNumber := add $i 1 }}
+            {{ if and (ge $pageNumber $startPage) (le $pageNumber $endPage) }}
+            <li><a href="{{ $page.URL }}" class="{{ if eq $pageNumber $currentPage }}current{{ end }}">{{ $pageNumber }}</a></li>
+            {{ end }}
+            {{ end }}
+
+            {{ if lt $endPage $totalPages }}
+            {{ if lt $endPage (sub $totalPages 1) }}
+            <li>...</li>
+            {{ end }}
+            <li><a href="{{ (index $pag.Pagers (sub $totalPages 1)).URL }}">{{ $totalPages }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+    {{ end }}
+  </div>
+
 {{ end }}
