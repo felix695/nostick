@@ -4,10 +4,10 @@ date = 2024-06-18T15:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/1806-metroid-prime-4-zelda-mario-luigi-switch/metroid-prime-4-beyond.jpg"
 +++
 
-![Metroid Prime 4: Beyond](metroid-prime-4-beyond.jpg "Samsuns est de retour, enfin !")
+![Metroid Prime 4: Beyond](metroid-prime-4-beyond.jpg "Samsuns enfin de retour pour botter des culs !")
 
 La bonne vieille Switch a encore un peu de jus ! Pour le  Direct estival, on s'attendait à ce que Nintendo racle les fonds de tiroir en multipliant les remakes — et ça a été le cas avec une térachiée de jeux pas tout jeunes. Mais Nintendo en avant gardé sous la pédale… à commencer bien sûr par le monstre *Metroid Prime 4: Beyond*.
 
