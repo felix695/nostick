@@ -4,10 +4,10 @@ date = 2024-06-18T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/juin/palworld-r5-renault.jpg"
+image = "https://nostick.fr/articles/vignettes/juin/lifebyyou2.jpg"
 +++
 
-![Capture d’écran du jeu Life by you](lifebyyou2.jpg) 
+![Capture d’écran du jeu Life by you](lifebyyou.jpg) 
 
 Coup de tonnerre pour ceux qui cherchaient un moyen de couper le cordon avec *Les Sims* et EA : *Life by You* part à la benne. Ce sims-like de Paradox avait été annoncé en mai 2023  avant de voir son early-access repoussée à plusieurs reprises. Le jeu se présentait comme une ambitieuse alternative aux *Sims* permettant de jouer dans une ville évoluant entièrement en temps réel, tout cela sans chargements. La page Steam est [toujours en ligne](https://store.steampowered.com/app/2358660/Life_by_You/) à l’heure actuelle. 
 
