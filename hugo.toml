@@ -4,14 +4,40 @@ title = 'Nostick'
 theme = 'hugo-flex'
 favicon = 'favicon.ico'
 defaultContentLanguage = "fr"
+
 [languages]
   [languages.fr]
     languageName = 'French'
     weight = 1
+
 [taxonomies]
   tag = "tags"
+
 enableRobotsTXT = false
-[rss]
-  url = "https://nostick.fr/feed.xml"
-[params]
-description = "L'actu du jeu vidéo, sans pression mais avec passion !"
+
+[permalinks]
+  actu = "/actu/:slug/"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[mediaTypes]
+  [mediaTypes."text/html"]
+    suffixes = ["html"]
+    mediaType = "text/html"
+  [mediaTypes."application/rss"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.HTML]
+    mediaType = "text/html"
+    baseName = "index"
+  [outputFormats.RSS]
+    mediaType = "application/rss"
+    baseName = "index"
+    isPlainText = true
+    isHTML = false

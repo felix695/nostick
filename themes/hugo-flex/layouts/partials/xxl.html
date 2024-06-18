@@ -1,0 +1,22 @@
+<div class="sidebar-top-content">
+
+  <div class="telex-header" style="margin-bottom: 20px;">
+    <a href="/tags/xxl/" class="sidebar-button-telex">
+      <img src="/MEGAMAN.png" alt="Icon Left" class="telex-icon-megaman left-icon-megman">
+      À la une
+    </a>
+  </div>
+
+  <div class="brieves-container">
+    {{ $xxlArticles := first 3 (where .Site.RegularPages "Params.type" "une") }}
+    {{ range $xxlArticles }}
+    <div class="brieve-title">
+      <a href="{{ .Permalink }}">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="brieve-image">
+        <p>{{ .Title }}</p>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+
+</div>

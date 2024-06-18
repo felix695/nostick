@@ -1,0 +1,21 @@
+<!-- Bloc des vignettes pour les articles de type 'une' -->
+<div class="container-vignettes">
+  {{ $uneArticles := where .Site.RegularPages "Params.type" "une" }} <!-- Filtrer les articles de type 'une' -->
+  {{ $recentUneArticles := first 6 (sort $uneArticles "Date" "desc") }} <!-- Sélectionner les 6 derniers articles -->
+  {{ $randomArticles := first 2 (shuffle (first 6 (sort $uneArticles "Date" "desc"))) }} <!-- Choisir deux articles au hasard -->
+
+  <div class="vignette-mobile-row"> <!-- Conteneur pour aligner les vignettes côte à côte -->
+    {{ range $randomArticles }} <!-- Boucle sur les articles sélectionnés au hasard -->
+    <div class="vignette-mobile">
+      <a href="{{ .Permalink }}">
+        <div class="vignette-mobile-content"> <!-- Nouveau conteneur pour englober l'image et le texte -->
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="vignette-mobile-image">
+          <div class="vignette-mobile-text">
+            <h2>{{ .Title }}</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>

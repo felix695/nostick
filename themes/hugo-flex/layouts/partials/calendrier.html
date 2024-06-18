@@ -1,0 +1,16 @@
+{{ $filePath := "content/articles/Calendrier.md" }}
+{{ $fileContent := readFile $filePath }}
+
+<div class="sidebar-top-content">
+  <div class="telex-header">
+    <a href="/vrac/" class="sidebar-button-telex">
+      <img src="/Pac-Man.png" alt="Icon Left" class="telex-icon left-icon">
+      Sorties
+      <img src="/Pac-Man-2.png" alt="Icon Right" class="telex-icon right-icon">
+    </a>
+  </div>
+  
+  <div class="brieves-container">
+    {{ $fileContent | markdownify }}
+  </div>
+</div>

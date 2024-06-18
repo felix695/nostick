@@ -1,0 +1,30 @@
+{{ $filePath := "content/articles/Jouons.md" }}
+{{ $fileContent := readFile $filePath }}
+
+<div class="sidebar-top-content">
+  <div class="telex-header">
+    <span class="sidebar-button-jouons">
+      <b>Manette</b>
+          <img src="/sonic.png" alt="Icon Right" class="telex-icon-sonic">
+    </span>
+  </div>
+  <div class="brieves-container">
+    <p class="brieve-summary">    
+    {{ $fileContent | markdownify }}
+    </p>
+  </div>
+
+
+  <div class="telex-header">
+    <a href="/about/" class="sidebar-button-telex">
+      Qui sommes-nous ?
+    </a>
+  </div>
+
+  <div class="telex-header">
+    <a href="/feed.xml/" class="sidebar-button-telex">
+      RSS
+    </a>
+  </div>
+
+</div>

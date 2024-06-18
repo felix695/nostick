@@ -1,0 +1,5 @@
+{{- /* cleanSummary.html */ -}}
+{{- $content := .Content -}}
+{{- $cleanedContent := replaceRE "(?s)<figure.*?>.*?</figure>" "" $content -}}
+{{- $cleanedSummary := $cleanedContent | safeHTML | plainify | htmlUnescape -}}
+{{- $cleanedSummary -}}

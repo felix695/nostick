@@ -1,65 +1,104 @@
-{{ define "load_paginator" }}
-  {{ $paginator := .Paginate .Site.RegularPages }}
-  {{ with $paginator }}{{ end }}
-{{ end }}
-
-
-{{ define "load_page_assets" }}
-
-  {{ range .Paginator.Pages }}
-    {{ with .Content }}{{ end }}
-    {{ $page_css := .Scratch.Get "css" }}
-    {{ with $page_css }}
-      {{ $css_list := $.Scratch.Get "css" }}
-      {{ . | merge $css_list | $.Scratch.Set "css" }}
-    {{ end }}
-    {{ $page_js := .Scratch.Get "js" }}
-    {{ with $page_js }}
-      {{ $js_list := $.Scratch.Get "js" }}
-      {{ . | merge $js_list | $.Scratch.Set "js" }}
-    {{ end }}
-  {{ end }}
-
-{{ end }}
-
 {{ define "main" }}
-  <!-- Intégration des vignettes -->
-  {{ partial "vignettes.html" . }}
 
-  <!-- Liste complète des articles, y compris ceux de type 'une' -->
-  <div class="articles-list">
-    {{ range .Paginator.Pages }}
-      <article>
-        {{ partial "heading.html" . }}
-        {{ if .Params.summaries }}
-          {{ .Summary }}
-          {{ if .Truncated }}
-            <p><a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a></p>
-          {{ end }}
-        {{ else }}
-          <input type="checkbox" id="post-{{ .PublishDate }}" class="read-more-state">
-          <div class="read-more-wrap">
-            <div class="read-more-target">
-              {{ .Content }}
+<script>
+    function redirectMobile() {
+        if (window.innerWidth <= 768) {
+            window.location.href = "/mobile/"; // Mise à jour du lien de redirection
+        }
+    }
+
+    window.onload = redirectMobile;
+    window.onresize = redirectMobile;
+</script>
+
+<div class="main-container">
+    <!-- Intégration des vignettes -->
+    {{ partial "vignettes.html" . }}
+    <div class="two-column-layout">
+        <!-- Colonne principale -->
+        <div class="main-column">
+
+            <div class="tag-container2">
+                <div class="footer-tags">
+                    {{ range .Site.Taxonomies.tags }}
+                    <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
+                    {{ end }}
+                </div>
             </div>
-          </div>
-          <label for="post-{{ .PublishDate }}" class="read-more-trigger"></label>
-        {{ end }}
-      </article>
-    {{ end }}
-  </div>
 
-  <!-- Pagination -->
-  {{ partial "pagination.html" . }}
+            <!-- Liste complète des articles, y compris ceux de type 'telex' -->
+            {{ $pag := .Paginate (union (where .Site.RegularPages "Type" "!=" "telex") (where .Site.RegularPages "Type" "telex")) }}
+            {{ range $index, $page := $pag.Pages }}
+            <article class="{{ if eq $page.Type "telex" }}telex-article-item{{ else }}home-article-item{{ end }}">
+                {{ if eq $page.Type "telex" }}
+                <div class="telex-article-details">
+                    <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 8) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
+                    <div class="telex-article-content">
+                        <a href="{{ $page.Permalink }}">
+                            <p class="telex-article-summary">
+                                <strong>{{ .Title }}</strong>
+                                <span class="telex-article-date">■ {{ .Date.Format "02/01" }} – {{ partial "cleanSummary.html" . }}</span>
+                            </p>
+                        </a>
+                    </div>
+                </div>
+                {{ else }}
+                <a href="{{ $page.Permalink }}" class="home-article-link">
+                    <div class="home-article-details">
+                        <div class="home-article-text">
+                            <h2 class="home-article-title">{{ $page.Title }}</h2>
+                            <p class="home-article-date">
+                                {{ with $page.PublishDate | default nil }}
+                                <time class="date" datetime="{{ time.Format "2006-01-02T15:04:05Z07:00" . }}">
+                                {{- time.Format "02 January" . -}}
+                                </time>
+                                {{ end }} 
+                                • {{ $page.Params.author }}
+                                </p>
 
-  <!-- Pied de page -->
-  <footer>
-    <div class="tag-container2">
-      <div class="footer-tags">
-        {{ range .Site.Taxonomies.tags }}
-          <a class="footer-tags-item u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
-        {{ end }}
-      </div>
+                            <p class="home-article-summary">{{ partial "cleanSummary.html" $page }}</p>
+                        </div>
+                        <div class="home-article-image">
+                            <img src="{{ $page.Params.image }}" alt="{{ $page.Title }}">
+                        </div>
+                    </div>
+                </a>
+                {{ end }}
+            </article>
+            {{ end }}
+
+            <!-- Pagination -->
+            {{ if gt $pag.TotalPages 1 }}
+            <nav class="pagination">
+                <ul>
+                    {{ if $pag.HasPrev }}
+                    <li><a href="{{ $pag.Prev.URL }}">&#171; Précédent</a></li>
+                    {{ end }}
+                    {{ range $pag.Pagers }}
+                    <li><a href="{{ .URL }}" class="{{ if eq .URL $pag.URL }}current{{ end }}">{{ .PageNumber }}</a></li>
+                    {{ end }}
+                    {{ if $pag.HasNext }}
+                    <li><a href="{{ $pag.Next.URL }}">Suivant &#187;</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+            {{ end }}
+            <!-- Pied de page -->
+            <footer>
+            </footer>
+        </div>
+        <!-- Colonne secondaire -->
+        <div class="sidebar-column">
+            <!-- Pub infolettre -->
+            {{ partial "pub-infolettre.html" . }}
+            {{ partial "calendrier.html" . }} <!-- Intégration du partial telex -->
+            {{ partial "xxl.html" . }}
+            {{ partial "jouons.html" . }}
+        </div>
     </div>
-  </footer>
+</div>
+
+<!-- Inclusion du fichier JavaScript pour la pagination -->
+{{ $paginationJS := resources.Get "js/pagination.js" | minify | fingerprint }}
+<script src="{{ $paginationJS.Permalink }}"></script>
 {{ end }}

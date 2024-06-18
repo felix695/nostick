@@ -69,42 +69,763 @@ kbd:has(kbd) {
   padding: 0.3rem 0;
 }
 
-/* BLOC VIGNETTES */
+/* 2 COLONNES */
 
-.container-vignettes {
+
+
+.main-container {
+  max-width: 800px; /* Ajustez cette valeur selon vos besoins */
+  margin: 0 auto; /* Centrer le conteneur */
+  padding: 0 0px; /* Ajouter un peu de padding pour les bords */
+}
+
+.main-content-mobile {
+  max-width: 100%; /* Ajustez cette valeur selon vos besoins */
+  margin: 0 auto; /* Centrer le conteneur */
+  padding: 0 0px; /* Ajouter un peu de padding pour les bords */
+}
+
+.main-container-mobile {
+  max-width: 100%; /* Ajustez cette valeur selon vos besoins */
+  margin: 0 auto; /* Centrer le conteneur */
+  padding: 0 0px; /* Ajouter un peu de padding pour les bords */
+}
+
+.two-column-layout {
   display: flex;
-  justify-content: space-between;
- max-width: 640px;
-  margin: 0 auto;
+  justify-content: space-between; /* Assure que les colonnes soient bien séparées */
 }
 
-.vignette {
-  margin: 5px;
-  flex: 100%; /* Occupe 100% de la largeur de la colonne */
-  width: calc(33.33% - 10px);
-  border-radius: 5px; /* Bord arrondi de la vignette */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre de la vignette */
-  box-sizing: border-box; /* Ajout de box-sizing */
-  transition: box-shadow 0.3s; /* Transition pour l'effet hover */
-  background-color: #f2f2f2; /* Couleur de fond de la vignette en mode clair */
-  padding: 5px; /* Espace intérieur de la vignette */
+.main-column {
+  width: 70%; /* Largeur fixe pour la colonne principale */
+  padding: 10px;
 }
 
-.vignette:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Effet d'ombre au survol */
+.sidebar-column {
+  width: 25%; /* Largeur fixe pour la colonne secondaire */
+  padding: 0px;
 }
 
-.vignette-content {
+/* FIN 2 COLONNES */
+
+
+
+/* COL DROITE */
+
+.sidebar-top-content {
+  margin-bottom: 30px; /* Espace sous le contenu du partial */
+  text-align: left; /* Centre les éléments horizontalement */
+}
+
+.bordered-container {
+  display: inline-block;
+  width: 100%; /* 80% de la largeur de la colonne */
+  border: 2px solid grey; /* Filet gris */
+  border-radius: 10px; /* Bords arrondis */
+  padding: 10px 10px; /* Espace intérieur, ajusté pour réduire l'espace au-dessus */
+  box-sizing: border-box; /* Inclure le padding et la bordure dans la largeur */
+}
+
+.telex-header {
+  display: flex;
+  justify-content: center; /* Centrer le contenu horizontalement */
+  align-items: center; /* Aligner verticalement les éléments */
+  width: 100%;
+}
+
+.telex-icon {
+  width: 24px; /* Ajustez la taille des icônes selon vos besoins */
+  height: auto; /* Maintenir le ratio de l'image */
+  margin-right: 10px; /* Espacement entre l'icône gauche et le titre */
+}
+
+.telex-icon-megaman {
+  width: 35px; /* Ajustez la taille des icônes selon vos besoins */
+  height: auto; /* Maintenir le ratio de l'image */
+  margin-right: 10px; /* Espacement entre l'icône gauche et le titre */
+}
+
+.telex-icon-sonic {
+  width: 45px; /* Ajustez la taille des icônes selon vos besoins */
+  height: auto; /* Maintenir le ratio de l'image */
+}
+
+.sidebar-title {
+  font-size: 1rem;
+  margin: 0; /* Supprimer les marges pour un alignement correct */
+  margin-top: 20px; /* Ajouter un peu d'espace au-dessus du titre */
+}
+
+.right-icon {
+  margin-left: 10px; /* Espacement entre le titre et l'icône droite */
+  margin-top: 20px; /* Ajouter un peu d'espace au-dessus du titre */
+}
+
+.left-icon {
+  margin-right: 10px; /* Espacement entre l'icône gauche et le titre */
+  margin-top: 20px; /* Ajouter un peu d'espace au-dessus du titre */
+}
+
+.left-icon-megaman {
+  margin-right: 0px; /* Espacement entre l'icône gauche et le titre */
+  margin-top: 20px; /* Ajouter un peu d'espace au-dessus du titre */
+}
+
+.sidebar-text {
+  font-size: 0.9rem;
+  margin-top: 0; /* Assurez-vous qu'il n'y a pas de marge supérieure */
+  line-height: 1.4;
+}
+
+.sidebar-image {
+  max-width: 50%; /* S'assure que l'image ne dépasse pas la largeur de son conteneur */
+  height: auto; /* Maintient le ratio de l'image */
+  border-radius: 10px; /* Ajoute des coins arrondis à l'image */
+  margin-top: 30px; /* Espace au-dessus de l'image */
+  margin-bottom: -10px; /* Ajoute une marge inférieure à l'image */
+}
+
+.sidebar-top-content .sidebar-button {
+  display: flex; /* Utiliser flex pour l'alignement des éléments */
+  align-items: center; /* Aligner verticalement les éléments */
+  justify-content: center; /* Centrer le texte et les icônes horizontalement */
+  width: 80%; /* Prendre toute la largeur de la colonne */
+  background-color: #603B94; /* Couleur de fond */
+  color: #fff; /* Couleur du texte */
+  font-size: 0.875rem; /* Taille de police réduite */
+  padding: 10px 20px; /* Espacement interne du bouton */
+  text-align: center; /* Centrer le texte à l'intérieur du bouton */
+  text-decoration: none; /* Supprime la décoration du texte */
+  border-radius: 5px; /* Coins arrondis */
+  margin-top: 10px; /* Espace au-dessus du bouton */
+  transition: background-color 0.3s ease; /* Transition pour le changement de couleur */
+  height: 20px; /* Hauteur fixe pour les boutons */
+}
+
+.sidebar-top-content .sidebar-button:hover {
+  background-color: #744DA3; /* Couleur de fond au survol */
+}
+
+.sidebar-top-content .sidebar-button-telex {
+  display: flex; /* Utiliser flex pour l'alignement des éléments */
+  align-items: center; /* Aligner verticalement les éléments */
+  justify-content: center; /* Centrer le texte et les icônes horizontalement */
+  width: 80%; /* Prendre toute la largeur de la colonne */
+  background-color: #942C3E; /* Couleur de fond */
+  color: #fff; /* Couleur du texte */
+  font-size: 0.875rem; /* Taille de police réduite */
+  padding: 10px 20px; /* Espacement interne du bouton */
+  text-align: center; /* Centrer le texte à l'intérieur du bouton */
+  text-decoration: none; /* Supprime la décoration du texte */
+  border-radius: 5px; /* Coins arrondis */
+  margin-top: 10px; /* Espace au-dessus du bouton */
+  transition: background-color 0.3s ease; /* Transition pour le changement de couleur */
+  height: 20px; /* Hauteur fixe pour les boutons */
+}
+
+.sidebar-top-content .sidebar-button-telex:hover {
+  background-color: #BA5566; /* Couleur de fond au survol */
+}
+
+.sidebar-top-content .sidebar-button-jouons {
+  display: flex; /* Utiliser flex pour l'alignement des éléments */
+  align-items: center; /* Aligner verticalement les éléments */
+  justify-content: center; /* Centrer le texte et les icônes horizontalement */
+  width: 80%; /* Prendre toute la largeur de la colonne */
+  background-color: #942C3E; /* Couleur de fond */
+  color: #fff; /* Couleur du texte */
+  font-size: 0.875rem; /* Taille de police réduite */
+  padding: 10px 20px; /* Espacement interne du bouton */
+  text-align: center; /* Centrer le texte à l'intérieur du bouton */
+  text-decoration: none; /* Supprime la décoration du texte */
+  border-radius: 5px; /* Coins arrondis */
+  margin-top: 10px; /* Espace au-dessus du bouton */
+  transition: background-color 0.3s ease; /* Transition pour le changement de couleur */
+  height: 20px; /* Hauteur fixe pour les boutons */
+}
+
+.telex-icon {
+  width: 24px; /* Ajustez la taille des icônes selon vos besoins */
+  height: auto; /* Maintenir le ratio de l'image */
+  margin: 0 10px; /* Espacement entre les icônes et le texte */
+}
+
+.grey-line {
+  width: 100%; /* Prendre toute la largeur de la colonne de gauche */
+  height: 1px; /* Hauteur de la ligne */
+  background-color: grey; /* Couleur de la ligne */
+  margin-bottom: 20px; /* Espace sous la ligne */
+}
+
+.brieves-container {
+  text-align: left; /* Aligner le texte des articles à gauche */
+  padding: 0px; /* Espacement interne */
+}
+
+.brieves-container img {
+  width: 100%; /* Assure que l'image prend toute la largeur de son conteneur */
+  height: auto; /* Maintient le ratio de l'image */
+  display: block; /* Supprime les espaces blancs en dessous de l'image */
+  border-radius: 8px; /* Coins arrondis, si désiré */
+  margin-bottom: -10px; /* Espacement en dessous de l'image */
+}
+
+
+.brieve-item {
+  margin-bottom: 30px; /* Espacement entre les brèves */
+}
+
+.brieve-title {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.brieve-title a {
+  font-size: 1rem;
+  color: inherit;
+  margin: 0;
+}
+
+/* Mode clair */
+@media (prefers-color-scheme: light) {
+    .brieve-title {
+        color: black; /* Liens noirs en mode clair */
+    }
+    
+    .brieve-title:visited {
+        color: black; /* Liens visités noirs en mode clair */
+    }
+    
+    .brieve-title:hover {
+        color: initial; /* Garder la couleur d'origine au survol */
+    }
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+    .brieve-title {
+        color: white; /* Liens blancs en mode sombre */
+    }
+    
+    .brieve-title:visited {
+        color: white; /* Liens visités blancs en mode sombre */
+    }
+    
+    .brieve-title:hover {
+        color: initial; /* Garder la couleur d'origine au survol */
+    }
+}
+
+.brieve-summary {
+    font-size: 0.9rem;
+    display: inline; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 6; /* Nombre de lignes à afficher */
+    -webkit-box-orient: vertical;
+}
+
+
+.brieve-summary a {
+  color: #603B94; /* Couleur du lien "Lire la suite" */
+  text-decoration: none; /* Supprimer la décoration du lien */
+}
+
+.brieve-summary a:hover {
+  text-decoration: underline; /* Souligner le lien au survol */
+}
+
+.brieve-summary.truncated {
+  display: -webkit-box;
+  -webkit-line-clamp: 6; /* Limiter à deux lignes */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.brieve-summary a {
+  color: #A678D4; /* Couleur du lien "Lire la suite" */
+  text-decoration: none; /* Supprimer la décoration du lien */
+}
+
+.brieve-summary a:hover {
+  text-decoration: underline; /* Souligner le lien au survol */
+}
+
+
+
+
+
+/* FIN COL DROITE */
+
+
+.carousel-container {
+  display: flex;
+  width: 100%; /* Utiliser 100% de la largeur disponible */
+  justify-content: flex-start; /* Aligner le contenu à gauche */
+  align-items: left; /* Aligner verticalement au centre */
+  padding: 20px;
+  margin-bottom: 20px; /* Espacement en bas du carousel */
+  box-sizing: border-box; /* Inclure le padding dans la largeur totale */
+}
+
+.carousel-item {
+  display: flex;
+  border-radius: 8px; /* Bords arrondis */
+  overflow: hidden; /* Pour que l'image ne dépasse pas des bords */
+  background-color: #E3D5E1; /* Fond blanc */
+  flex: 1; /* Prendre toute la largeur disponible */
+}
+
+.carousel-link {
+  display: flex;
+  text-decoration: none; /* Supprimer la décoration des liens */
+  width: 100%;
+}
+
+.carousel-image {
+  width: 50%; /* Ajustez selon vos besoins */
+  object-fit: cover; /* Recouvrir l'espace disponible */
+  border-radius: 8px 0 0 8px; /* Arrondir les angles gauche */
+}
+
+.carousel-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column; /* Affichage vertical des éléments */
+  justify-content: center; /* Centrer le contenu verticalement */
+  width: 50%; /* Ajustez selon vos besoins */
+}
+
+.carousel-title {
+  margin: 0 0 10px 0;
+  font-size: 1.5rem;
+  line-height: 1.2; /* Ajustez cette valeur pour réduire l'espace entre les lignes */
+}
+
+.carousel-summary {
+  margin: 0;
+  font-size: 1rem;
+  color: #666; /* Couleur du texte pour le résumé */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5; /* Limiter le résumé à 3 lignes */
+  overflow: hidden;
+}
+
+
+/* Mode clair */
+@media (prefers-color-scheme: light) {
+  .carousel-link {
+    color: #000; /* Couleur noire */
+  }
+
+  .carousel-link:hover, .carousel-link:visited {
+    color: #000; /* Couleur noire */
+  }
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+  .carousel-link {
+    color: #000; /* Couleur blanche */
+  }
+
+  .carousel-link:hover, .carousel-link:visited {
+    color: #000; /* Couleur blanche */
+  }
+}
+
+
+
+
+/* FIN BLOC VIGNETTES */
+
+/* GRILLE TAGS */
+
+/* Grille pour bureau */
+.desktop-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.desktop-grid .article-item-grille {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.img-vignette {
-  width: 90%; /* Largeur fixe de l'image */
+.desktop-grid .article-item-grille img {
+  width: 100%;
   height: auto;
-  margin-bottom: 5px; /* Espace réduit entre l'image et le titre */
+  border-radius: 8px;
 }
+
+.desktop-grid .article-item-grille h2 {
+  font-size: 1rem;
+  margin-top: 10px;
+  text-align: left;
+  color: black; /* Couleur du titre en noir */
+}
+
+.desktop-grid .article-item-grille h2 a {
+  color: black; /* Couleur du lien en noir */
+  text-decoration: none; /* Supprime la décoration de texte */
+}
+
+.desktop-grid .article-item-grille h2 a:hover,
+.desktop-grid .article-item-grille h2 a:visited {
+  color: black; /* Couleur du lien en noir au survol et après clic */
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+  .desktop-grid .article-item-grille h2,
+  .desktop-grid .article-item-grille h2 a,
+  .desktop-grid .article-item-grille h2 a:hover,
+  .desktop-grid .article-item-grille h2 a:visited {
+    color: white; /* Couleur du titre en blanc pour le mode sombre */
+  }
+}
+
+/* Grille pour mobile */
+.mobile-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.mobile-grid .article-item-grille {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mobile-grid .article-item-grille img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.mobile-grid .article-item-grille h2 {
+  font-size: 1rem;
+  margin-top: 10px;
+  text-align: left;
+  color: black; /* Couleur du titre en noir */
+}
+
+.mobile-grid .article-item-grille h2 a {
+  color: black; /* Couleur du lien en noir */
+  text-decoration: none; /* Supprime la décoration de texte */
+}
+
+.mobile-grid .article-item-grille h2 a:hover,
+.mobile-grid .article-item-grille h2 a:visited {
+  color: black; /* Couleur du lien en noir au survol et après clic */
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+  .mobile-grid .article-item-grille h2,
+  .mobile-grid .article-item-grille h2 a,
+  .mobile-grid .article-item-grille h2 a:hover,
+  .mobile-grid .article-item-grille h2 a:visited {
+    color: white; /* Couleur du titre en blanc pour le mode sombre */
+  }
+}
+
+
+
+
+
+
+/* FIN GRILLE TAGS */
+
+
+/* BLOC VIGNETTES MOBILE */
+
+.vignette-mobile-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px; /* Ajoute de l'espace au-dessus des deux blocs */
+}
+
+.vignette-mobile {
+  width: 48%; /* Ajustez cette largeur si nécessaire */
+  display: flex;
+  flex-direction: column;
+}
+
+.vignette-mobile-content {
+  background-color: #E1D6E0; /* Fond de couleur #E1D6E0 */
+  border-radius: 5px; /* Ajoute des coins arrondis de 5px */
+  padding: 10px; /* Ajoute du padding pour espacer le contenu du bord */
+  flex: 1; /* S'assure que le conteneur prend toute la hauteur disponible */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* S'assure que l'image et le texte sont espacés de manière égale */
+}
+
+.vignette-mobile-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px; /* Ajoute des coins arrondis de 5px à l'image */
+}
+
+.vignette-mobile-text {
+  margin-top: 10px;
+}
+
+.vignette-mobile-text h2 {
+  font-size: 1rem; /* Réduit la taille de la police du titre */
+  margin: 0; /* Supprime les marges par défaut */
+  color: black; /* Couleur noire pour le titre */
+}
+
+.vignette-mobile-text h2 a {
+  color: black; /* Couleur noire pour le lien du titre */
+  text-decoration: none; /* Supprime la décoration de texte */
+}
+
+.vignette-mobile-text h2 a:hover,
+.vignette-mobile-text h2 a:visited {
+  color: black; /* Couleur noire au survol et après clic */
+}
+
+/* TAG - MOBILE */
+
+/* TAG - MOBILE */
+
+.tag-container-mobile {
+  display: flex;
+  flex-wrap: wrap; /* Permettre le wrapping des éléments */
+  align-items: center;
+  justify-content: center; /* Centrer les éléments */
+  margin-top: 1rem; /* Ajoute de l'espace au-dessus de la taxonomie */
+  margin-bottom: 1rem; /* Ajoute de l'espace en dessous de la taxonomie */
+}
+
+.tag-background-mobile {
+  background: #BFBFBF; /* Remplacez #yourColor par la couleur que vous voulez */
+}
+
+.Tags-mobile {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centrer les éléments horizontalement */
+  width: 100%; /* Occupe toute la largeur */
+  margin: 1rem 0; /* Réduit la marge */
+  padding: 0;
+  margin-bottom: 0.1rem; /* Réduit la marge inférieure */
+}
+
+.Tags-item-mobile {
+  border-radius: 0.2rem;
+  margin: 0.1rem; /* Réduit la marge */
+  padding: 0.3rem 0.5rem; /* Augmente le padding pour agrandir le fond gris */
+  flex: 1 1 auto; /* Permet aux éléments de s'étendre */
+  text-align: center; /* Centre le texte */
+}
+
+.Tags-link-mobile {
+  color: black !important;
+}
+
+.footer-tags-mobile {
+  padding-top: 0.5rem; /* Réduit le padding supérieur */
+  margin-bottom: 10px; /* Réduit la marge inférieure */
+}
+
+.footer-tags-item-mobile {
+  display: inline-block;
+  border-radius: 0.2rem;
+  margin: 0.1rem; /* Réduit la marge */
+  padding: 0.3rem 0.5rem; /* Augmente le padding pour agrandir le fond gris */
+  background-color: #BFBFBF;
+  color: black !important;
+  transition: transform 0.3s ease;
+  font-size: 0.85rem; /* Ajuste la taille de la police */
+  flex: 1 1 auto; /* Permet aux éléments de s'étendre */
+  text-align: center; /* Centre le texte */
+}
+
+.footer-tags-item-mobile:hover {
+  transform: scale(1.2); /* Réduit l'agrandissement au survol */
+}
+
+.footer-tags-link-mobile {
+  color: black;
+  text-decoration: none;
+  font-size: 0.75rem; /* Ajuste la taille de la police */
+}
+
+.footer-tags-link-mobile:visited {
+  color: black; /* Ajout : couleur des liens visités */
+}
+
+.footer-tags-link-mobile:visited:hover {
+  color: black; /* Ajout : couleur des liens visités au survol */
+}
+
+/* FIN TAG - MOBILE */
+
+/* BOUTONS PRÉCÉDENT/SUIVANT */
+
+.bouton-navigation-single {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.bouton-navigation-single .navigation-prev,
+.bouton-navigation-single .navigation-next {
+    width: 48%;
+}
+
+.bouton-navigation-single .navigation-placeholder {
+    width: 48%;
+}
+
+.bouton-navigation-single .title-previous,
+.bouton-navigation-single .title-next {
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.bouton-navigation-single .title-previous {
+    text-align: right;
+}
+
+.bouton-navigation-single .title-next {
+    text-align: left;
+}
+
+.navigation-button {
+    background-color: #A07DCF; /* Couleur du bouton */
+    color: #fff; /* Couleur du texte du bouton */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin: 0 0px; /* Espacement entre les boutons */
+}
+
+.navigation-button:hover {
+    background-color: #8D6BB8; /* Couleur du bouton au survol */
+}
+
+.navigation-button:visited {
+    color: #fff; /* Couleur du texte du bouton visité */
+}
+
+/* Styles pour les liens des titres */
+.bouton-navigation-single .title-previous:visited,
+.bouton-navigation-single .title-next:visited {
+    color: #000; /* Couleur du titre visité */
+}
+
+.bouton-navigation-single .title-previous:hover,
+.bouton-navigation-single .title-next:hover {
+    color: #000; /* Couleur du titre au survol */
+}
+
+
+
+
+
+
+/* FIN BOUTONS PRÉCÉDENT/SUIVANT */
+
+/* BLOC BANDEAU NEWSLETTER MOBILE */
+
+.newsletter-banner-mobile {
+  background-color: #603B94; /* Couleur de fond du bloc */
+  color: #fff; /* Couleur du texte en blanc */
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 20px 0; /* Marge au-dessus et en dessous */
+  display: flex; /* Utiliser flexbox pour aligner l'image et le texte */
+  align-items: center; /* Aligner les éléments verticalement */
+}
+
+.newsletter-banner-mobile img {
+  max-width: 100px; /* Ajuster la taille de l'image selon vos besoins */
+  margin-right: 20px; /* Espacement entre l'image et le texte */
+  border-radius: 5px; /* Optionnel : arrondir les coins de l'image */
+}
+
+.newsletter-banner-mobile h2 {
+  margin: 0 0 5px 0; /* Marge en bas du titre */
+  font-size: 1.5rem; /* Taille du titre */
+  line-height: 1.2; /* Réduit l'espacement entre les lignes */
+}
+
+.newsletter-banner-mobile p {
+  margin: 0 0 20px 0; /* Marge en bas du paragraphe */
+  font-size: 1rem; /* Taille du texte */
+}
+
+.newsletter-banner-mobile .subscribe-button-mobile {
+  background-color: #A07DCF; /* Couleur du bouton */
+  color: #fff; /* Couleur du texte du bouton */
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.newsletter-banner-mobile .subscribe-button-mobile:hover {
+  background-color: #8D6BB8; /* Couleur du bouton au survol */
+}
+
+
+
+/* FIN BLOC BANDEAU NEWSLETTER MOBILE */
+
+/* BLOC BOUTONS PIED DE PAGE */
+
+.pagination-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination-buttons a {
+  background-color: #A07DCF; /* Couleur du bouton */
+  color: #fff; /* Couleur du texte du bouton */
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+  margin: 0 10px; /* Espacement entre les boutons */
+}
+
+.pagination-buttons a:hover {
+  background-color: #8D6BB8; /* Couleur du bouton au survol */
+}
+
+
+/* FIN BLOC BOUTONS PIED DE PAGE */
+
+
+
+.vignette-meta {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #999; /* Couleur du texte pour les métadonnées */
+}
+
 
 .une {
   font-size: 12px;
@@ -121,29 +842,13 @@ kbd:has(kbd) {
   color: #000000;
 }
 
-@media (prefers-color-scheme: dark) {
-  .container-vignettes {
-    background-color: #333333; /* Couleur de fond du conteneur en mode sombre */
-  }
-  .vignette {
-    background-color: #1f1f1f; /* Couleur de fond de la vignette en mode sombre */
-    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1); /* Ombre de la vignette en mode sombre */
-  }
-  .vignette:hover {
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); /* Effet d'ombre au survol en mode sombre */
-  }
-  .une {
-    color: white;
-    background-color: #1f1f1f; /* Couleur de fond en mode sombre */
-  }
-  .title {
-    color: white;
-  }
-}
+
+
+
 
 /* FIN BLOC VIGNETTES */
 
-
+/* READ MORE */
 
 .read-more-trigger {
   cursor: pointer;
@@ -165,7 +870,6 @@ kbd:has(kbd) {
   background-color: #9FB4C7; /* couleur de fond au survol */
   transform: scale(1.3); /* agrandit le bouton de 10% */
 }
-
 
 .read-more-state {
   display: none;
@@ -207,26 +911,70 @@ kbd:has(kbd) {
   transform: rotate(-45deg);
 }
 
+/* FIN READ MORE */
+
+/* BLOC DATE AUTEUR */
+
+.publication-info {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.tags {
+    margin-right: 10px;
+}
+
+.footer-tags-item {
+    margin-right: 5px;
+}
+
+.publication-details {
+    color: #888;
+    font-weight: bold;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+
+
+
+
+
+/* FIN BLOC DATE AUTEUR */
+
+/* BANNIERE */
 
 .Banner {
-  list-style: none;
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-end; /* Aligne les éléments en bas de la bannière */
-  margin: 0;
-  padding: 0;
+  justify-content: center; /* Centrer les éléments horizontalement */
+  align-items: center; /* Centrer les éléments verticalement */
+  list-style: none; /* Retirer les puces de la liste */
+  padding: 0; /* Retirer les marges intérieures */
+  margin: 0; /* Retirer les marges extérieures */
+}
+
+.Banner-logo {
+  max-width: 70%; /* Ajustez cette valeur selon vos besoins */
+  height: auto; /* Maintenir le ratio de l'image */
+  margin: 0 auto; /* Centrer horizontalement */
 }
 
 .Banner-item--logo {
-  margin-right: 0.5rem;
-  margin-left: 0;
-  transform: scale(1);
   display: flex;
-  align-items: center;
+  justify-content: center; /* Centrer horizontalement */
+  align-items: center; /* Centrer verticalement */
+  width: 100%; /* Prendre toute la largeur disponible */
+  margin: 0;
+}
+
+.centered-logo {
+  justify-content: center; /* Centrer les éléments horizontalement */
 }
 
 .Banner-item--logo img {
   display: block;
+  align-content: center;
   margin: 0;
 }
 
@@ -246,6 +994,7 @@ kbd:has(kbd) {
    white-space: nowrap;
 }
 
+/* FIN BANNIERE */
 
 .Heading {
   display: flex;
@@ -293,6 +1042,7 @@ kbd:has(kbd) {
   margin-bottom: 0.1rem;
 }
 
+/* TAG */
 
 .Tags {
   list-style: none;
@@ -328,6 +1078,8 @@ kbd:has(kbd) {
   background: #BFBFBF; /* Remplacez #yourColor par la couleur que vous voulez */
 }
 
+/* FIN TAG */
+
 {{ with site.Params.divider }}
 
   .Divider {
@@ -341,13 +1093,20 @@ kbd:has(kbd) {
 
 {{ end }}
 
-.Pagination {
-  font-size: 1.25rem;
-  color: #A678D4;
+
+
+/* FOOTER */
+
+.article-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
-.Pagination--right {
-  float: right;
+.tags {
+    display: flex;
+    align-items: center;
 }
 
 .Footer {
@@ -358,14 +1117,11 @@ kbd:has(kbd) {
 .tag-container2 {
   display: flex;
   justify-content: center;
-  margin-top: 1.5rem;
 }
 
 .footer-tags {
-  border-top: 2px solid black;
   padding-top: 1rem;
-  margin-top: 1.5rem;
-  
+  margin-bottom: 20px; /* Ajoutez une marge inférieure pour créer l'espace */
 }
 
 .footer-tags-item {
@@ -374,6 +1130,7 @@ kbd:has(kbd) {
   margin: 0.2rem;
   padding: 0.3rem;
   background-color: #BFBFBF;
+  font-weight: bold; /* Assurez-vous que le texte est en gras */
   color: black !important;
   transition: transform 0.3s ease;
 }
@@ -395,10 +1152,7 @@ kbd:has(kbd) {
   color: black; /* Ajout : couleur des liens visités au survol */
 }
 
-.u-wrapper {
-  {{ with site.Params.width }}max-width: {{ . }};{{ end }}
-  margin: auto;
-}
+/* FIN FOOTER */
 
 .u-padding {
   padding: 0 1rem;
@@ -468,3 +1222,345 @@ kbd:has(kbd) {
     transform: translateX(-100%);
   }
 }
+
+
+
+/* HOME */
+
+.home-article-item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+    align-items: flex-start; /* Aligner les éléments en haut */
+}
+
+.home-article-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.home-article-details {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.home-article-title {
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+.home-article-date {
+    color: #888;
+    font-size: 0.875rem;
+    margin-top: 5px;
+}
+
+.home-article-summary {
+    font-size: 1rem;
+    color: #646464;
+    margin-top: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Nombre de lignes à afficher */
+    -webkit-box-orient: vertical;
+}
+
+.home-article-image {
+    flex: 0 0 40%; /* Ajusté pour prendre 40% de la largeur */
+    max-width: 40%; /* Ajusté pour prendre 40% de la largeur */
+}
+
+.home-article-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.home-article-image-mobile {
+    flex: 0 0 40%; /* Ajusté pour prendre 40% de la largeur */
+    max-width: 100%; /* Ajusté pour prendre 40% de la largeur */
+}
+
+.home-article-image-mobile img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.home-article-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+}
+
+.home-article-link img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px; /* Optionnel, pour un style arrondi */
+}
+
+/* Mode clair */
+@media (prefers-color-scheme: light) {
+    .home-article-link {
+        color: black; /* Liens noirs en mode clair */
+    }
+    
+    .home-article-link:visited {
+        color: black; /* Liens visités noirs en mode clair */
+    }
+    
+    .home-article-link:hover {
+        color: initial; /* Garder la couleur d'origine au survol */
+    }
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+    .home-article-link {
+        color: white; /* Liens blancs en mode sombre */
+    }
+    
+    .home-article-link:visited {
+        color: white; /* Liens visités blancs en mode sombre */
+    }
+    
+    .home-article-link:hover {
+        color: white; /* Garder la couleur d'origine au survol */
+    }
+}
+
+
+
+
+/* FIN HOME */
+
+/* TELEX HOME */
+
+/* CSS spécifique pour les articles "telex" */
+.telex-article-item {
+  margin-bottom: 20px;
+  background-color: transparent; /* Retire le fond gris */
+  border: none; /* Retire le filet */
+  padding: 0; /* Retire le padding */
+  border-radius: 0; /* Retire le border-radius */
+  display: flex;
+  flex-direction: column;
+}
+
+.telex-article-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  position: relative;
+}
+
+.telex-article-image {
+  margin-left: 10px;
+}
+
+.telex-article-image img {
+  max-width: 100px; /* Taille de la vignette */
+  height: auto;
+}
+
+.telex-article-summary {
+  font-size: 1rem;
+  color: #444;
+  font-weight: normal; /* Enlève le gras du résumé */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+}
+
+.telex-article-summary strong {
+  font-weight: bold; /* Garde le titre en gras */
+}
+
+.telex-article-perso {
+  width: 60px; /* Taille fixe pour l'image du personnage */
+  height: auto; /* Maintenir le ratio d'aspect */
+  margin-right: 10px;
+}
+
+.telex-article-title {
+  font-weight: bold;
+  margin: 0;
+  margin-right: 0px; /* Espace entre le titre et la date */
+  text-align: left; /* Assurez-vous que les titres sont alignés à gauche */
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+    .telex-article-title, .telex-article-date, .telex-article-summary, .telex-article-summary a, .home-article-summary {
+        color: #fff;
+    }
+    .telex-article-perso {
+        width: 60px; /* Taille fixe pour l'image du personnage */
+        height: auto; /* Maintenir le ratio d'aspect */
+    }
+}
+
+/* Mode clair */
+@media (prefers-color-scheme: light) {
+    .telex-article-perso {
+        width: 60px; /* Taille fixe pour l'image du personnage */
+        height: auto; /* Maintenir le ratio d'aspect */
+    }
+}
+
+
+.read-more {
+  display: inline-block;
+  color: #007BFF;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+/* Styles pour les autres articles */
+.home-article-item {
+  margin-bottom: 20px;
+}
+
+.home-article-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.home-article-text {
+  flex: 1;
+  padding-right: 10px;
+}
+
+.home-article-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.home-article-date {
+  font-size: 0.875rem;
+  color: #666;
+}
+
+.home-article-summary {
+  font-size: 1rem;
+}
+
+/* FIN TELEX HOME */
+
+/* TELEX PERSOS */
+
+
+.telex-article-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.telex-article-perso {
+    flex-shrink: 0;
+    width: 100px; /* Ajustez la taille de l'image selon vos besoins */
+    height: auto;
+    margin-right: 10px;
+}
+
+.telex-article-details {
+    flex: 1;
+    display: flex;
+    align-items: center; /* Aligne tous les éléments sur la même ligne */
+}
+
+.telex-article-title {
+    font-weight: bold;
+    margin: 0;
+    margin-right: 10px; /* Espace entre le titre et la date */
+}
+
+.telex-article-date {
+    font-size: 0.9rem;
+    margin-right: 10px; /* Espace entre la date et le texte */
+}
+
+.telex-article-summary {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    flex: 1; /* Assure que le résumé prend tout l'espace restant */
+}
+
+.telex-article-summary a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.telex-article-summary a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+/* FIN TELEX PERSOS */
+
+
+/* PAGINATION */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.pagination ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.pagination li {
+    display: inline;
+}
+
+.pagination a {
+    display: inline-block;
+    padding: 10px 15px;
+    color: #A678D4; /* Couleur des liens de pagination */
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.pagination a:hover {
+    background-color: #A678D4; /* Couleur de fond au survol */
+    color: #fff; /* Couleur du texte au survol */
+}
+
+.pagination a.current {
+    background-color: #603B94; /* Couleur de fond pour la page courante */
+    color: #fff; /* Couleur du texte pour la page courante */
+    pointer-events: none;
+}
+
+
+
+
+/* FIN PAGINATION */

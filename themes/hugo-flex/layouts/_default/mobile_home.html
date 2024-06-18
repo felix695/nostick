@@ -1,0 +1,108 @@
+{{ define "main" }}
+
+{{ partial "vignettes-mobile.html" . }}
+
+<!-- Taxo -->
+<div class="main-content-mobile" style="flex-grow: 0; padding: 0;">
+
+    <div class="tag-container-mobile" style="padding: 0 0px;">
+        <div class="footer-tags-mobile">
+            {{ range .Site.Taxonomies.tags }}
+            <a class="footer-tags-item-mobile u-clickable" href="{{ .Page.Permalink }}" rel="tag">{{ .Page.Title }}</a>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Liste complète des articles, y compris ceux de type 'telex' -->
+    {{ $pag := .Paginate (.Site.RegularPages) }}
+    {{ range $index, $page := $pag.Pages }}
+    <!-- Affichage du bandeau de newsletter après le troisième article -->
+    {{ if eq $index 3 }}
+    <div class="newsletter-banner-mobile">
+        <img src="/Logo-Newsletter.png" alt="Logo Newsletter">
+        <div>
+            <h2>Abonnez-vous à notre infolettre !</h2>
+            <p>Gratos. Sans pub. Pas chiant.</p>
+            <a href="https://nostickreloaded.substack.com/" class="subscribe-button-mobile">S'abonner</a>
+        </div>
+    </div>
+    {{ end }}
+
+    <article class="home-article-item" style="padding: 0 0px; margin-bottom: 30px; border-bottom: none;">
+        {{ if not (eq $page.Type "telex") }}
+        <a href="{{ $page.Permalink }}" class="home-article-link">
+            <img src="{{ $page.Params.image }}" alt="{{ $page.Title }}" class="home-article-image-mobile">
+            <h2 class="home-article-title">{{ $page.Title }}</h2>
+            <p class="home-article-date">
+                {{ with $page.PublishDate | default nil }}
+                <time class="date" datetime="{{ time.Format "2006-01-02T15:04:05Z07:00" . }}">
+                {{- time.Format "02 January" . -}}
+                </time>
+                {{ end }} 
+                • {{ $page.Params.author }}
+                </p>
+
+            <p class="home-article-summary">{{ partial "cleanSummary.html" $page }}</p>
+        </a>
+        {{ else }}
+        <div class="telex-article-details">
+            <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 8) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
+            <a href="{{ $page.Permalink }}">
+                <p class="telex-article-summary">
+                    <strong>{{ .Title }}</strong>
+                    <span class="telex-article-date">■ {{ .Date.Format "02/01" }} – {{ partial "cleanSummary.html" . }}</span>
+                </p>
+            </a>
+        </div>
+        {{ end }}
+    </article>
+    {{ end }}
+
+    <!-- Pagination -->
+    {{ if gt $pag.TotalPages 1 }}
+    <nav class="pagination" style="padding: 0 10px;">
+        <ul>
+            {{ $currentPage := $pag.PageNumber }}
+            {{ $totalPages := $pag.TotalPages }}
+            {{ $startPage := cond (gt (sub $currentPage 1) 1) (sub $currentPage 1) 1 }}
+            {{ $endPage := cond (lt (add $currentPage 2) $totalPages) (add $currentPage 2) $totalPages }}
+            {{ if gt (sub $endPage $startPage) 3 }}
+                {{ $startPage := $currentPage }}
+                {{ $endPage := cond (lt (add $currentPage 3) $totalPages) (add $currentPage 3) $totalPages }}
+            {{ end }}
+
+            {{ if gt $startPage 1 }}
+            <li><a href="{{ (index $pag.Pagers 0).URL }}">1</a></li>
+            {{ if gt $startPage 2 }}
+            <li>...</li>
+            {{ end }}
+            {{ end }}
+
+            {{ range $i, $page := $pag.Pagers }}
+            {{ $pageNumber := add $i 1 }}
+            {{ if and (ge $pageNumber $startPage) (le $pageNumber $endPage) }}
+            <li><a href="{{ $page.URL }}" class="{{ if eq $pageNumber $currentPage }}current{{ end }}">{{ $pageNumber }}</a></li>
+            {{ end }}
+            {{ end }}
+
+            {{ if lt $endPage $totalPages }}
+            {{ if lt $endPage (sub $totalPages 1) }}
+            <li>...</li>
+            {{ end }}
+            <li><a href="{{ (index $pag.Pagers (sub $totalPages 1)).URL }}">{{ $totalPages }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+    {{ end }}
+
+    <!-- Boutons supplémentaires en bas de la pagination -->
+    <div class="pagination-buttons">
+        <a href="/about" class="subscribe-button-mobile">Qui sommes nous</a>
+        <a href="/feed.xml" class="subscribe-button-mobile">RSS</a>
+    </div>
+</div>
+
+<!-- Pied de page -->
+<footer>
+</footer>
+{{ end }}
