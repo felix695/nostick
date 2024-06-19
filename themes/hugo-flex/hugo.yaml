@@ -8,8 +8,7 @@ params:
   width: 42rem          # Any length in CSS syntax / leave empty to span page
   divider: \2500\2500   # Any string in CSS syntax / leave empty for no divider
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
-    <p>Nostick - 2024 - <a href="https://nostick.fr/about/">Qui sommes nous ?</a></p>
-  rss: Pour vous abonner à ce flux RSS, copiez son adresse et collez-la dans votre lecteur de flux préféré.
+    <p>Nostick - 2024</p>
   favicon: true        # Set to true to add a link to the favicon.ico
   noClasses: true       # Set to the same value as markup.highlight.noClasses
   katex: 0.16.9         # KaTeX version / leave empty to download latest version
@@ -26,36 +25,14 @@ params:
   netlify:
     honeypot: false     # Set to true to add honeypot field in contact form
     recaptcha: false    # Set to true to add recaptcha challenge in contact form
+  pagination:          # Ajoutez cette section pour la pagination
+    perPage: 10         # Nombre d'articles par page
   # css:                # Uncomment to add custom CSS from the assets directory
   #   - css/foo.css
   #   - bar.css
   # js:                 # Uncomment to add custom JS from the assets directory
   #   - js/foo.js
   #   - bar.js
-
-menu:
-  main:
-    #- name: À propos
-    #  pageRef: /
-    #  weight: 1
-    #- name: Archives
-    #  pageRef: /about
-    #  weight: 2
-    - name: Infolettre
-      URL: https://nostickreloaded.substack.com
-      weight: 3
-    #- name: RSS
-    #  pageRef: /Archives
-    #  weight: 4
-    - name: RSS
-      pageRef: /
-      weight: 5
-      params:
-        - format: rss
-outputFormats:
-  RSS:
-    mediatype: application/rss+xml
-    baseName: feed      # Rename RSS feed URL from rss.xml to feed.xml
 
 mediaTypes:
   font/woff2:
@@ -66,3 +43,8 @@ module:
   hugoVersion:
     extended: false
     min: 0.112.7
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
