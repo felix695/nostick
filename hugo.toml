@@ -4,40 +4,34 @@ title = 'Nostick'
 theme = 'hugo-flex'
 favicon = 'favicon.ico'
 defaultContentLanguage = "fr"
-
 [languages]
-  [languages.fr]
-    languageName = 'French'
-    weight = 1
-
+[languages.fr]
+languageName = 'French'
+weight = 1
 [taxonomies]
-  tag = "tags"
-
-enableRobotsTXT = false
-
+tag = "tags"
+enableRobotsTXT = true
 [permalinks]
-  actu = "/actu/:slug/"
-
+actu = "/actu/:slug/"
 [outputs]
-  home = ["HTML", "RSS"]
-  page = ["HTML"]
-  section = ["HTML"]
-  taxonomy = ["HTML"]
-  term = ["HTML"]
-
+home = ["HTML", "RSS"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML"]
+term = ["HTML"]
 [mediaTypes]
-  [mediaTypes."text/html"]
-    suffixes = ["html"]
-    mediaType = "text/html"
-  [mediaTypes."application/rss"]
-    suffixes = ["xml"]
-
+[mediaTypes."text/html"]
+suffixes = ["html"]
+mediaType = "text/html"
+[mediaTypes."application/rss+xml"]
+suffixes = ["xml"]
+mediaType = "application/rss+xml"
 [outputFormats]
-  [outputFormats.HTML]
-    mediaType = "text/html"
-    baseName = "index"
-  [outputFormats.RSS]
-    mediaType = "application/rss"
-    baseName = "index"
-    isPlainText = true
-    isHTML = false
+[outputFormats.HTML]
+mediaType = "text/html"
+baseName = "index"
+[outputFormats.RSS]
+mediaType = "application/rss+xml"
+baseName = "index"
+isPlainText = true
+isHTML = false
