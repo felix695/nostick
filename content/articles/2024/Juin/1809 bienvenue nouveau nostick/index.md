@@ -1,5 +1,5 @@
 +++
-title = "Bienvenue dans le nouveau Nostick !"
+title = "Bienvenue dans le nouveau Nostick !"
 date = 2024-06-18T19:47:32+01:00
 draft = false
 author = "Mickael"
