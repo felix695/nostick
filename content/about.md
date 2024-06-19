@@ -2,6 +2,9 @@
 title = "À propos"
 description = "À propos de Nostick"
 aliases = ["about-us", "about-hugo", "contact"]
+date = 2024-03-06T19:47:32+01:00
+draft = false
+author = "Félix"
 +++
 
 ## Nostick, c’est quoi ?
