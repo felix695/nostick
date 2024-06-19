@@ -8,7 +8,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>sam., 16 mars 2024 12:12:32 +0100</lastBuildDate>
-    <atom:link rel="self" href="http://localhost:1313/feed.xml" type="application/rss+xml" />
+    <atom:link rel="self" href="/feed.xml" type="application/rss+xml" />
     <item>
       <title>Pour que les jeux Pokémon des fans vivent heureux, ils doivent vivre cachés</title>
       <link>http://localhost:1313/articles/2024/mars/1503_pokemonceasedesist/</link>
