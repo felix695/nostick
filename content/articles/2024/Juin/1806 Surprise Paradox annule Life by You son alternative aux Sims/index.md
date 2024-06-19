@@ -22,4 +22,4 @@ C’est une mauvaise surprises pour les fans du genre : les increvables *Sims 4*
 
 {{< youtube qW8jTWtSLpc >}}
 
-**Mise à jour à 11:30 :** Et comme un malheur n’arrive jamais seul, Paradox a [confirmé](https://www.gamewatcher.com/news/following-life-by-you-cancellation-paradox-interactive-closes-paradox-tectonic) la fermeture du studio Paradox Tectonic. Il travaillait sur *Lifeby You* depuis 2019 et comptais 24 employés.
+**Mise à jour à 11:30 :** Et comme un malheur n’arrive jamais seul, Paradox a [confirmé](https://www.gamewatcher.com/news/following-life-by-you-cancellation-paradox-interactive-closes-paradox-tectonic) la fermeture du studio Paradox Tectonic. Il travaillait sur *Lifeby You* depuis 2019 et comptait 24 employés.
