@@ -19,7 +19,7 @@ enableRobotsTXT = false
   actu = "/actu/:slug/"
 
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML"]
   taxonomy = ["HTML"]
