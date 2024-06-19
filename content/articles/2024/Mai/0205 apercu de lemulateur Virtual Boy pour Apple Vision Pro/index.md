@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["XXL"]
 type = "une"
-vignette = "https://nostick.fr/articles/vignettes/VisionPro.jpg"
+image = "https://nostick.fr/articles/vignettes/VisionPro.jpg"
 +++
 
 ![Vision Pro](VisionPro.jpg "Pas sûr qu'on fera la même tête après avoir joué au Virtual Boy.")
