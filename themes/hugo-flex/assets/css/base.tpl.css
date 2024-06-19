@@ -737,6 +737,23 @@ kbd:has(kbd) {
     color: #000; /* Couleur du titre au survol */
 }
 
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+    .bouton-navigation-single .title-previous,
+    .bouton-navigation-single .title-next {
+        color: white; /* Couleur des titres en mode sombre */
+    }
+    
+    .bouton-navigation-single .title-previous:visited,
+    .bouton-navigation-single .title-next:visited {
+        color: white; /* Couleur des titres visités en mode sombre */
+    }
+    
+    .bouton-navigation-single .title-previous:hover,
+    .bouton-navigation-single .title-next:hover {
+        color: white; /* Couleur des titres au survol en mode sombre */
+    }
+}
 
 
 
