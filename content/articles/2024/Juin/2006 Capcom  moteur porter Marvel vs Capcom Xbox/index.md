@@ -4,7 +4,7 @@ date = 2024-06-20T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/2006-capcom--moteur-porter-marvel-vs-capcom-xbox/Marvel-vs-Capcom-Fighting-Collection.jpg"
 +++
 
 ![Marvel vs Capcom Fighting Collection Arcade Classics](Marvel-vs-Capcom-Fighting-Collection.jpg "Tout le monde est bien content de se retrouver… sauf sur Xbox.")
