@@ -3,7 +3,7 @@ title = "Une édition anniversaire pour Beyond Good & Evil le 25 juin"
 date = 2024-06-20T21:00:00+01:00
 draft = false
 author = "Félix"
-tags = ["Actu"]
+tags = ["Trailer"]
 image = "https://nostick.fr/articles/vignettes/juin/bge.png"
 +++
 
