@@ -4,7 +4,7 @@ date = 2024-06-20T21:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/bge.png"
+image = "https://nostick.fr/articles/vignettes/juin/bge.png"
 +++
 
 [On se doutait qu’il arrivait](https://nostickreloaded.substack.com/i/139360804/cherie-jai-remasterise-les-gosses), c’est désormais officiel : Ubisoft a présenté son édition anniversaire de *Beyond Good & Evil*. On nous promet de la 4K à 60 i/s avec « *des graphismes, des contrôles et un audio améliorés* ». Pour rappel, le jeu d'origine est sorti en 2003 sur GameCube, Xbox, PS2 et PC. Comme vous pouvez le voir, il ne s’agit pas d’une refonte complète mais plutôt d’une version remise aux standards de 2024.
