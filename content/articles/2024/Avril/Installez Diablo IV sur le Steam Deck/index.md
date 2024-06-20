@@ -1,6 +1,6 @@
 +++
 title = "Steam Deck : installez Diablo IV avec le Game Pass et charclez du streum n'importe où !"
-date = 2024-04-02T10:50:32+01:00
+date = 2024-04-01T10:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Tuto"]
