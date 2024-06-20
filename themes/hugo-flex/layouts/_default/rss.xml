@@ -1,5 +1,6 @@
 {{- $base_xml := resources.Get "xml/base.tpl.xml" | resources.ExecuteAsTemplate "xml/base.xml" . | minify }}
 {{- $pages := where site.RegularPages "Type" "in" (slice "articles" "une") }}
+{{- $pages := where $pages "Date" "ge" (time "2024-01-01") }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
   {{- $pages = first $limit $pages }}
