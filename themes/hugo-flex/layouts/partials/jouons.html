@@ -1,19 +1,26 @@
-{{ $filePath := "content/articles/Jouons.md" }}
+<!-- layouts/partials/jouons.html -->
+{{ $filePath := "content/pages_divers/Jouons.md" }}
 {{ $fileContent := readFile $filePath }}
 
 <div class="sidebar-top-content">
   <div class="telex-header">
     <span class="sidebar-button-jouons">
       <b>Manette</b>
-          <img src="/Sonic.png" alt="Icon Right" class="telex-icon-sonic">
+      <img src="/Sonic.png" alt="Icon Right" class="telex-icon-sonic">
     </span>
   </div>
+  
   <div class="brieves-container">
-    <p class="brieve-summary">    
-    {{ $fileContent | markdownify }}
+    <p class="brieve-summary">
+      {{ if $fileContent }}
+        {{ $cleanContent := replaceRE "(?s)\\+\\+\\+.*?\\+\\+\\+" "" $fileContent }}
+        {{ $markdownContent := $cleanContent | markdownify }}
+        {{ $markdownContent | safeHTML }}
+      {{ else }}
+        <p>Le fichier Jouons.md n'a pas été trouvé ou est vide.</p>
+      {{ end }}
     </p>
   </div>
-
 
   <div class="telex-header">
     <a href="/about/" class="sidebar-button-telex">
@@ -26,5 +33,4 @@
       RSS
     </a>
   </div>
-
 </div>

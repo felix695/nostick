@@ -2,7 +2,7 @@
 title = "À propos"
 description = "À propos de Nostick"
 aliases = ["about-us", "about-hugo", "contact"]
-date = 2024-02-29T19:47:32+01:00
+date = 2000-02-29T19:47:32+01:00
 draft = false
 author = "La rédaction"
 +++

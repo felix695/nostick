@@ -29,6 +29,8 @@
             <!-- Liste complète des articles, y compris ceux de type 'telex' -->
             {{ $pag := .Paginate (union (where .Site.RegularPages "Type" "!=" "telex") (where .Site.RegularPages "Type" "telex")) }}
             {{ range $index, $page := $pag.Pages }}
+            {{ $pageDate := $page.PublishDate | default $page.Date }}
+            {{ if ge $pageDate.Unix 1672531200 }}
             <article class="{{ if eq $page.Type "telex" }}telex-article-item{{ else }}home-article-item{{ end }}">
                 {{ if eq $page.Type "telex" }}
                 <div class="telex-article-details">
@@ -65,6 +67,7 @@
                 </a>
                 {{ end }}
             </article>
+            {{ end }}
             {{ end }}
 
             <!-- Pagination -->

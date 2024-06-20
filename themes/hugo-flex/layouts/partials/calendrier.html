@@ -1,4 +1,5 @@
-{{ $filePath := "content/articles/Calendrier.md" }}
+<!-- layouts/partials/calendrier.html -->
+{{ $filePath := "content/pages_divers/Calendrier.md" }}
 {{ $fileContent := readFile $filePath }}
 
 <div class="sidebar-top-content">
@@ -11,6 +12,12 @@
   </div>
   
   <div class="brieves-container">
-    {{ $fileContent | markdownify }}
+    {{ if $fileContent }}
+      {{ $cleanContent := replaceRE "(?s)\\+\\+\\+.*?\\+\\+\\+" "" $fileContent }}
+      {{ $markdownContent := $cleanContent | markdownify }}
+      {{ $markdownContent | safeHTML }}
+    {{ else }}
+      <p>Le fichier Calendrier.md n'a pas été trouvé ou est vide.</p>
+    {{ end }}
   </div>
 </div>
