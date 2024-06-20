@@ -5,6 +5,6 @@ draft = false
 author = "Mickael"
 +++ 
 
-■ Félix joue à un de ces jeux indés bizarres.
+■ Félix essaye les jeux de la saison 1 de la Playdate.
 
 ■ Mickaël joue à Metal Slug Attack Reloaded.
