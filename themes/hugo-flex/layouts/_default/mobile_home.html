@@ -14,7 +14,7 @@
     </div>
 
     <!-- Liste complète des articles, y compris ceux de type 'telex' -->
-    {{ $pag := .Paginate (.Site.RegularPages) }}
+    {{ $pag := .Paginate (where .Site.RegularPages.ByDate.Reverse "Date" "ge" (time "2024-01-01")) }}
     {{ range $index, $page := $pag.Pages }}
     <!-- Affichage du bandeau de newsletter après le troisième article -->
     {{ if eq $index 3 }}
