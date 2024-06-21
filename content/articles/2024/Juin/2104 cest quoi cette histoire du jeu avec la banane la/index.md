@@ -1,6 +1,6 @@
 +++
 title = "C’est quoi cette histoire du jeu avec la banane là ?"
-date = 2024-06-21T10:00:30+01:00
+date = 2024-06-21T12:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
