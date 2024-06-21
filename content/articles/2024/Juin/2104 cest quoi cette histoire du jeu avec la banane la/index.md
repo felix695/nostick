@@ -4,6 +4,7 @@ date = 2024-06-21T12:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+type = "une"
 image = "https://nostick.fr/articles/vignettes/banane.png"
 +++ 
 
