@@ -4,7 +4,7 @@ date = 2024-06-21T15:10:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/2106-sony-sapin-psvr2/sony-psvr2.jpg"
 +++
 
 ![PSVR2 dans un cimetière](sony-psvr2.jpg "RIPSVR2") 
