@@ -12,7 +12,7 @@ image = "https://nostick.fr/articles/2024/juin/1806-metroid-prime-4-zelda-mario-
 
 La bonne vieille Switch a encore un peu de jus ! Pour le  Direct estival, on s'attendait à ce que Nintendo racle les fonds de tiroir en multipliant les remakes — et ça a été le cas avec une térachiée de jeux pas tout jeunes. Mais Nintendo en avant gardé sous la pédale… à commencer bien sûr par le monstre *Metroid Prime 4: Beyond*.
 
-Ce nouvel épisode des aventures 3D de Samus avait fini par prendre la forme d'un vaporware : cela fait plus de 7 ans qu'il a été annoncé (à l'E3 2017 !), puis le développement a été repris des mains de Bandai Namco par le studio Rare deux ans plus tard. Depuis, plus aucune nouvelle, jusqu'à aujourd'hui ! Nintendo a diffusé la première bande annonce qui dévoile un jeu au gameplay logiquement très proche de ce qu'on connait de la saga.
+Ce nouvel épisode des aventures 3D de Samus avait fini par prendre la forme d'un vaporware : cela fait plus de 7 ans qu'il a été annoncé (à l'E3 2017 !), puis le développement a été repris des mains de Bandai Namco par le studio Retro deux ans plus tard. Depuis, plus aucune nouvelle, jusqu'à aujourd'hui ! Nintendo a diffusé la première bande annonce qui dévoile un jeu au gameplay logiquement très proche de ce qu'on connait de la saga.
 
 {{< youtube mMAgmdR8jwU >}}
 
