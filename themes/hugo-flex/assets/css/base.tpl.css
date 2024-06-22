@@ -697,6 +697,7 @@ kbd:has(kbd) {
     color: #000;
     font-weight: bold;
     text-decoration: none;
+    margin-top: 15px;
 }
 
 .bouton-navigation-single .title-previous {
