@@ -1,6 +1,6 @@
 +++
 title = "Baldur's Gate 3 entre les mains des joueurs, Bethesda s'accroche à Starfield, l'enfer de Hollow Knight: Silksong et la semaine du jeu vidéo"
-date = 2024-06-22T10:47:32+01:00
+date = 2024-06-22T14:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
