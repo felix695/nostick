@@ -29,11 +29,11 @@ Pour certains joueurs, c'est rien que du bonheur, mais pour d'autres c'est carr�
 
 {{< youtube 2ew8LQFGNWU >}} 
 
-Mais l'histoire est loin d'être terminée pour *Starfield*. Le studio prévoit en effet d'autres extensions et mises à jour, le dirigeant ayant annoncé qu'une « year two » était dans les tuyaux. Et « *nous voulons quelque chose comme des extensions annuelles, plus ou moins* ». Gloups. Todd Howard ne dit pas combien de temps ce petit jeu peut durer, « *espérons que ce soit pour très longtemps* » !
+L'histoire est loin d'être terminée pour *Starfield*. Le studio prévoit en effet d'autres extensions et mises à jour, le dirigeant ayant annoncé qu'une « year two » était dans les tuyaux. Et « *nous voulons quelque chose comme des extensions annuelles, plus ou moins* ». Gloups. Todd Howard ne dit pas combien de temps ce petit jeu peut durer, « *espérons que ce soit pour très longtemps* » !
 
-Après tout, tant mieux pour les 14 millions de joueurs — un chiffre donné par le même Howard durant l'interview — qui ont tenté l'expérience Starfield. Ils sont probablement nombreux à vouloir s'y replonger au rythme des futurs DLC et extensions… Il faudra toutefois que Bethesda revoit certaines de ses pratiques, comme de faire payer des missions camouflées sous des mods.
+Après tout, tant mieux pour les 14 millions de joueurs — un chiffre donné par le même Howard durant l'interview — qui ont tenté l'expérience Starfield. Ils sont probablement nombreux à vouloir s'y replonger au rythme des futurs DLC et extensions… Il faudra toutefois que Bethesda revoit certaines de ses pratiques, comme de faire payer des missions présentées comme des mods.
 
-Le studio a posté le 9 juin dernier une mise à jour qui comprend non seulement des outils de mod pour le jeu — le Creation Studio — mais aussi des missions pour l'alliance des Traqueurs, des chasseurs de primes, disponibles uniquement sous la forme de « créations Starfield ». La première est gratuite, mais la seconde est payante (7 $). Et ça passe mal auprès des joueurs, qui ont fait plonger le jeu dans l'enfer des mauvaises notes de Steam (« plutôt négatives »).
+Le studio a posté le 9 juin dernier une mise à jour qui comprend non seulement des outils de modding pour le jeu — le Creation Studio — mais aussi des missions pour l'alliance des Traqueurs, des chasseurs de primes, disponibles uniquement sous la forme de « créations Starfield ». La première est gratuite, mais la seconde est payante (7 $). Et ça passe mal auprès des joueurs, qui ont fait plonger le jeu dans l'enfer des mauvaises notes de Steam (« plutôt négatives »).
 
 {{< youtube iNM1HFzQC8c >}} 
 

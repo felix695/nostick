@@ -31,7 +31,7 @@ On va parler un petit peu de **#BLUD**, un dungeon crawler dont la bande-annonce
 
 Sortie compliquée pour le MMO ***Pax Dei***, arrivé cette semaine en early-access… sans la plupart des fonctionnalités mises en avant par les développeurs. Sur le papier, le joueur devrait avoir la possibilité de créer son royaume dans lequel il dirige tout, des entreprises aux religions avant de partir à l’assaut des villages voisins. Sauf qu’actuellement, il n’y a que le début de l’aventure : un jeu de craft assez générique dans lequel on récupère des bouts de bois pour se construire une maison comme on en a vu tant. Les premiers retours évoquent une grosse bêta invitant à explorer un monde bien vide, bourré de bugs et avec des combats pas très intéressants. *Pax Dei* fait de grandes promesses et est développé par une équipe comportant des vétérans du MMO, mais en l’état, aucune raison de claquer [les 40 €](https://store.steampowered.com/app/1995520/Pax_Dei/) demandés sur Steam (et encore moins les 100 balles de l’édition *Founder’s Pack*). On en reparle dans 6 mois.
 
-![Capture d’écran du jeu Pax Dei](paxdei.jpg "Bon ok, la partie construction a l’air fun.")  
+![Capture d’écran du jeu Pax Dei](paxdei.jpg)  
 
 ## En rab’
 
