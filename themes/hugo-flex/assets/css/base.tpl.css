@@ -972,16 +972,17 @@ kbd:has(kbd) {
 }
 
 .Banner-logo {
-  max-width: 70%; /* Ajustez cette valeur selon vos besoins */
+  max-width: 100%; /* Ajustez cette valeur selon vos besoins */
   height: auto; /* Maintenir le ratio de l'image */
   margin: 0 auto; /* Centrer horizontalement */
+  justify-content: center !important;
 }
 
 .Banner-item--logo {
   display: flex;
   justify-content: center; /* Centrer horizontalement */
   align-items: center; /* Centrer verticalement */
-  width: 100%; /* Prendre toute la largeur disponible */
+  width: 65%; /* Prendre toute la largeur disponible */
   margin: 0;
 }
 
