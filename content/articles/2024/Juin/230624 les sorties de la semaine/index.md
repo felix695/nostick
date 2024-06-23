@@ -4,7 +4,7 @@ date = 2024-06-23T08:01:00+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/vignettes/juin/bge.png"
+image = "https://nostick.fr/articles/2024/juin/230624-les-sorties-de-la-semaine/elden.jpg"
 +++
 
 ![Capture d’écran du jeu Shadow of the Erdtree (extension Elden Ring)](elden.jpg "Dans la joie et la bonne humeur.")  
