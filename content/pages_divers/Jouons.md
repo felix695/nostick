@@ -7,4 +7,4 @@ author = "Mickael"
 
 ■ Félix essaye les jeux de la saison 1 de la Playdate.
 
-■ Mickaël joue à Metal Slug Attack Reloaded.
+■ Mickaël retente sa chance avec Dead Cells.
