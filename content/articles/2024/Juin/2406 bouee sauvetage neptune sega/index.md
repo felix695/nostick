@@ -1,6 +1,6 @@
 +++
 title = "Bouée de sauvetage pour la défunte Neptune de Sega"
-date = 2024-06-24T15:30:32+01:00
+date = 2024-06-24T11:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

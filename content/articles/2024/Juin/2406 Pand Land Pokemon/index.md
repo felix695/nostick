@@ -1,6 +1,6 @@
 +++
 title = "Pand Land, nouveau jeu mobile signé des créateurs de Pokémon"
-date = 2024-06-24T07:44:32+01:00
+date = 2024-06-24T06:56:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
