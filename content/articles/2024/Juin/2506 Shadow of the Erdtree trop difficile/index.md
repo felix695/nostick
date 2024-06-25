@@ -1,5 +1,5 @@
 +++
-title = "Si Shadow of the Erdtree est trop difficile, mais c'est pour votre bien"
+title = "Shadow of the Erdtree est trop difficile, mais c'est pour votre bien"
 date = 2024-06-25T06:45:00+01:00
 draft = false
 author = "Mickael"
