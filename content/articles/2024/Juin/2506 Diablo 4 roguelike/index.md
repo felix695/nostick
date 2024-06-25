@@ -6,7 +6,7 @@ author = "Mickael"
 tags = ["Actu"]
 type = "telex"
 +++
-*Diablo 4*, c'est un petit péché mignon de la rédaction de *Nostick* (bon OK, surtout de moi), et la saison 4 en cours a vraiment redonné du pep's au jeu, qui en avait bien besoin. Autant dire que la pression est de mise pour la saison 5 qui débutera le 6 août. Cette future épopée [comprendra](https://news.blizzard.com/fr-fr/diablo4/24111473/retrouvez-notre-derniere-discussion-autour-du-feu-de-camp) un mode roguelike qui se déroulera pendant les hordes infernales. Il faudra tenir le choc pendant 90 secondes, puis choisir une des trois « offres infernales » (des upgrades temporaires) avant de remettre le couvert. 
+*Diablo 4*, c'est un péché mignon de la rédaction de *Nostick* (bon OK, surtout de moi), et la saison 4 en cours a vraiment redonné du pep's au jeu, qui en avait bien besoin. Autant dire que la pression est de mise pour la saison 5 qui débutera le 6 août. Cette future épopée [comprendra](https://news.blizzard.com/fr-fr/diablo4/24111473/retrouvez-notre-derniere-discussion-autour-du-feu-de-camp) un mode roguelike qui se déroulera pendant les hordes infernales. Il faudra tenir le choc pendant 90 secondes, puis choisir une des trois « offres infernales » (des upgrades temporaires) avant de remettre le couvert. 
 
 {{< youtube D-LVOWgIuo0 >}} 
 
