@@ -10,7 +10,7 @@ image = "https://nostick.fr/articles/2024/juin/2504-test-de-katana-zero/screen01
 
 ![Capture d’écran du jeu Katana Zero](screen01.PNG)
 
-**Toujours premier sur l'actu, Nostick vous propose aujourd’hui un petit test de *Katana Zero*, un chouette jeu de plateforme / hack-n-slash sorti en 2019.**
+**Toujours premier sur l'actu, *Nostick* vous propose aujourd’hui un petit test de *Katana Zero*, un chouette jeu de plateforme / hack-n-slash sorti en 2019.**
 
 *Hotline Miami* a laissé un grand vide dans mon cœur de joueur. Si le jeu a bien eu une suite (nulle) et quelques copies moyennes (*Hong Kong Massacre*), rien ne m’a jamais fait retrouver l’adrénaline du titre de Dennaton Games. Ça, c’était jusqu’à ce que je tombe sur *Katana Zero*, caché au milieu du catalogue de jeu iOS de Netflix.
 
