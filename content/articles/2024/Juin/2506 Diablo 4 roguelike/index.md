@@ -1,6 +1,6 @@
 +++
 title = "Diablo 4 se met au roguelike"
-date = 2024-06-25T12:44:32+01:00
+date = 2024-06-25T10:45:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
