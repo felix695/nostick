@@ -32,7 +32,6 @@ Le jeu ne laisse pas de côté la partie scénario, avec une intrigue tournant a
 
 J’ai lancé *Katana Zero* un peu au hasard, j’ai été happé par son ambiance et sa prise en main nerveuse. Les niveaux s’enchaînent sur ce titre qui dure environ 5 heures et qui pourra facilement vous occuper par petites sessions. L’histoire est intrigante, les animations sont délicieuses et le gameplay maîtrisé : aucune raison de ne pas craquer si vous avez aimé *Hotline Miami* ou que vous êtes client des hack-n-slash 2D. Dispo sur Xbox One, Mac, Switch, Xbox et PC [pour 15 €](https://store.steampowered.com/app/460950/Katana_ZERO/) (sans doute moins en promo). Également dispo « gratuitement » sur iOS et Android pour les abonnés Netflix.
 
-{{< youtube MvvmPKGEHA>}}
 
 **J’ai aimé**
 
