@@ -28,6 +28,8 @@ On se fait vite à la maniabilité, et la formule évolue légèrement au fil de
 
 Le jeu ne laisse pas de côté la partie scénario, avec une intrigue tournant autour d’une mystérieuse drogue et d’un vétéran aux cauchemars récurrents. Notre héros-samurai se retrouvera régulièrement à tailler une bavette avec différents personnages, ayant le choix d’interrompre la conversation brusquement ou d’être beaucoup plus sympathique. Entre deux massacres, des petites scènes de vie viennent permettre au joueur de relâcher la pression. Finissons avec un bon point pour la BO, aux musiques électros *‌synthwave* parfaitement adaptées à l’ambiance néon-noir et que l’on a envie de réécouter une fois le jeu terminé.
 
+{{< youtube GcJC0N07Nk >}}
+
 ## En bref
 
 J’ai lancé *Katana Zero* un peu au hasard, j’ai été happé par son ambiance et sa prise en main nerveuse. Les niveaux s’enchaînent sur ce titre qui dure environ 5 heures et qui pourra facilement vous occuper par petites sessions. L’histoire est intrigante, les animations sont délicieuses et le gameplay maîtrisé : aucune raison de ne pas craquer si vous avez aimé *Hotline Miami* ou que vous êtes client des hack-n-slash 2D. Dispo sur Xbox One, Mac, Switch, Xbox et PC [pour 15 €](https://store.steampowered.com/app/460950/Katana_ZERO/) (sans doute moins en promo). Également dispo « gratuitement » sur iOS et Android pour les abonnés Netflix.
