@@ -1359,6 +1359,53 @@ kbd:has(kbd) {
 
 /* FIN HOME */
 
+/* BREAKING */
+
+
+.breaking-article-item {
+    background-color: #FF9530;
+    border-radius: 10px; /* Coins arrondis */
+    padding: 0px; /* Réduire le padding pour diminuer la hauteur */
+    margin-bottom: 20px;
+    color: white; /* Couleur du texte, ajustez si nécessaire */
+    position: relative; /* Pour positionner l'image */
+    display: flex;
+    align-items: center; /* Positionner le contenu en bas */
+}
+
+.breaking-article-content {
+    font-size: 1.10rem; /* Taille de police, ajustez si nécessaire */
+    font-weight: bold;
+    margin-left: 0%; /* Assurez que le contenu ne passe pas sous l'image */
+    margin-right: 5%;
+}
+
+.breaking-article-image {
+    width: 30%; /* Ajustez la taille selon vos besoins */
+    height: auto; /* Maintient le ratio de l'image */
+    border-radius: 5px; /* Coins arrondis pour l'image */
+    margin-right: 20px; /* Espace entre l'image et le contenu */
+}
+
+.breaking-article-item a {
+    color: #8D353F; /* Couleur des liens */
+    text-decoration: none; /* Supprime la décoration des liens */
+}
+
+.breaking-article-item a:hover {
+    text-decoration: underline; /* Souligne les liens au survol */
+}
+
+
+
+
+
+
+
+
+/* FIN BREAKING */
+
+
 /* TELEX HOME */
 
 /* CSS spécifique pour les articles "telex" */

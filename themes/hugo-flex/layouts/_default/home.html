@@ -26,12 +26,18 @@
                 </div>
             </div>
 
-            <!-- Liste complète des articles, y compris ceux de type 'telex' -->
-            {{ $pag := .Paginate (union (where .Site.RegularPages "Type" "!=" "telex") (where .Site.RegularPages "Type" "telex")) }}
+            <!-- Liste complète des articles, y compris ceux de type 'telex' et 'breaking' -->
+            {{ $nonTelex := where .Site.RegularPages "Type" "!=" "telex" }}
+            {{ $nonBreaking := where $nonTelex "Type" "!=" "breaking" }}
+            {{ $telex := where .Site.RegularPages "Type" "telex" }}
+            {{ $breaking := where .Site.RegularPages "Type" "breaking" }}
+            {{ $allPages := union $nonBreaking $telex }}
+            {{ $allPages := union $allPages $breaking }}
+            {{ $pag := .Paginate $allPages }}
             {{ range $index, $page := $pag.Pages }}
             {{ $pageDate := $page.PublishDate | default $page.Date }}
             {{ if ge $pageDate.Unix 1672531200 }}
-            <article class="{{ if eq $page.Type "telex" }}telex-article-item{{ else }}home-article-item{{ end }}">
+            <article class="{{ if eq $page.Type "telex" }}telex-article-item{{ else if eq $page.Type "breaking" }}breaking-article-item{{ else }}home-article-item{{ end }}">
                 {{ if eq $page.Type "telex" }}
                 <div class="telex-article-details">
                     <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 8) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
@@ -44,6 +50,15 @@
                         </a>
                     </div>
                 </div>
+                {{ else if eq $page.Type "breaking" }}
+<article class="breaking-article-item">
+    <img src="/breaking.png" class="breaking-article-image" alt="Breaking News">
+    <div class="breaking-article-details">
+        <div class="breaking-article-content">{{ .Content }}</div>
+    </div>
+</article>
+
+
                 {{ else }}
                 <a href="{{ $page.Permalink }}" class="home-article-link">
                     <div class="home-article-details">
@@ -56,8 +71,7 @@
                                 </time>
                                 {{ end }} 
                                 • {{ $page.Params.author }}
-                                </p>
-
+                            </p>
                             <p class="home-article-summary">{{ partial "cleanSummary.html" $page }}</p>
                         </div>
                         <div class="home-article-image">

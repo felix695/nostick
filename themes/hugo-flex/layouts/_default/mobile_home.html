@@ -13,7 +13,7 @@
         </div>
     </div>
 
-    <!-- Liste complète des articles, y compris ceux de type 'telex' -->
+    <!-- Liste complète des articles, y compris ceux de type 'telex' et 'breaking' -->
     {{ $pag := .Paginate (where .Site.RegularPages.ByDate.Reverse "Date" "ge" (time "2024-01-01")) }}
     {{ range $index, $page := $pag.Pages }}
     <!-- Affichage du bandeau de newsletter après le troisième article -->
@@ -28,6 +28,14 @@
     </div>
     {{ end }}
 
+    {{ if eq $page.Type "breaking" }}
+    <article class="breaking-article-item">
+        <img src="/breaking.png" class="breaking-article-image" alt="Breaking News">
+        <div class="breaking-article-details">
+            <div class="breaking-article-content">{{ .Content }}</div>
+        </div>
+    </article>
+    {{ else }}
     <article class="home-article-item" style="padding: 0 0px; margin-bottom: 30px; border-bottom: none;">
         {{ if not (eq $page.Type "telex") }}
         <a href="{{ $page.Permalink }}" class="home-article-link">
@@ -56,6 +64,7 @@
         </div>
         {{ end }}
     </article>
+    {{ end }}
     {{ end }}
 
     <!-- Pagination -->
