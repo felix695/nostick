@@ -13,7 +13,9 @@ Farouchement indépendant et pas chiant, Nostick.fr est un site d’actualité s
 
 ## Nous contacter
 
-Par mail : Prénom du rédacteur (sans accent) [at] nostick.fr
+![Félix et Mickaël](mikefelix.png "Félix et Mickaël.")
+
+Enlevez les crochets pour nous contacter : felix[@]nostick.fr et mickael[@]nostick.fr
 
 Nous sommes aussi sur [Xitter](https://twitter.com/Nostick_fr), [Bluesky](https://bsky.app/profile/nostick.bsky.social) et [Threads](https://www.threads.net/@nostick.fr).
 
