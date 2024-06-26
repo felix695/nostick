@@ -1371,20 +1371,21 @@ kbd:has(kbd) {
     position: relative; /* Pour positionner l'image */
     display: flex;
     align-items: center; /* Positionner le contenu en bas */
+    height: 140px; /* Truc à changer pour la taille du carton breaking */
 }
 
 .breaking-article-content {
-    font-size: 1.10rem; /* Taille de police, ajustez si nécessaire */
+    font-size: 0.95rem; /* Encore un peu plus petit */
     font-weight: bold;
     margin-left: 0%; /* Assurez que le contenu ne passe pas sous l'image */
     margin-right: 5%;
 }
 
 .breaking-article-image {
-    width: 30%; /* Ajustez la taille selon vos besoins */
-    height: auto; /* Maintient le ratio de l'image */
+    width: 28%; /* Légèrement réduit */
+    height: 90px; /* Encore un peu plus petit */
     border-radius: 5px; /* Coins arrondis pour l'image */
-    margin-right: 20px; /* Espace entre l'image et le contenu */
+    margin-right: 18px; /* Espace entre l'image et le contenu légèrement réduit */
 }
 
 .breaking-article-item a {
