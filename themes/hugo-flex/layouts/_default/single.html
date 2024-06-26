@@ -36,6 +36,11 @@
                                         <a href="/tags/{{ . | urlize }}" class="footer-tags-item">{{ . }}</a>
                                         {{ end }}
                                        <div class="publication-details">
+                                            {{ if eq .Params.author "Félix" }}
+                                                <img src="/felix.png" alt="Félix" class="author-profile-picture">
+                                            {{ else if eq .Params.author "Mickael" }}
+                                                <img src="/mickael.png" alt="Mickael" class="author-profile-picture">
+                                            {{ end }}
                                             Publié par {{ .Params.author }} le <time class="date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date | dateFormat "02 January 2006" }}</time>
                                         </div>
                                     </div>
@@ -90,6 +95,11 @@
                                 <a href="/tags/{{ . | urlize }}" class="footer-tags-item">{{ . }}</a>
                                 {{ end }}
                                 <div class="publication-details">
+                                    {{ if eq .Params.author "Félix" }}
+                                        <img src="/felix.png" alt="Félix" class="author-profile-picture">
+                                    {{ else if eq .Params.author "Mickael" }}
+                                        <img src="/mickael.png" alt="Mickael" class="author-profile-picture">
+                                    {{ end }}
                                     Publié par {{ .Params.author }} le <time class="date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date | dateFormat "02 January 2006" }}</time>
                                 </div>
                             </div>
@@ -138,6 +148,11 @@
                             <a href="/tags/{{ . | urlize }}" class="footer-tags-item">{{ . }}</a>
                             {{ end }}
                             <div class="publication-details">
+                                {{ if eq .Params.author "Félix" }}
+                                    <img src="/felix.png" alt="Félix" class="author-profile-picture">
+                                {{ else if eq .Params.author "Mickael" }}
+                                    <img src="/mickael.png" alt="Mickael" class="author-profile-picture">
+                                {{ end }}
                                 Publié par {{ .Params.author }} le <time class="date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date | dateFormat "02 January 2006" }}</time>
                             </div>
                         </div>
@@ -170,4 +185,6 @@
         </article>
     </div>
 </div>
+
+
 {{ end }}

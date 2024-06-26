@@ -69,6 +69,19 @@ kbd:has(kbd) {
   padding: 0.3rem 0;
 }
 
+/* AUTEUR */
+
+.author-profile-picture {
+    width: 40px; /* Ajustez la taille selon vos besoins */
+    height: 40px; /* Assurez-vous que la hauteur correspond à la largeur pour un format carré */
+    border-radius: 50%; /* Pour rendre l'image circulaire */
+    margin-right: 10px; /* Espace entre l'image et le texte */
+    vertical-align: middle; /* Pour aligner verticalement avec le texte */
+}
+
+
+/* FIN AUTEUR */
+
 /* 2 COLONNES */
 
 
