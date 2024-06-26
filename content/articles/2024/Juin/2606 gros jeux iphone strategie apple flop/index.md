@@ -1,5 +1,5 @@
 +++
-title = "Des gros jeux sur iPhone ? Le flop de la stratégie AAA d'Apple"
+title = "Des gros jeux sur iPhone ? Le flop de la stratégie AAA d'Apple"
 date = 2024-06-26T11:00:00+01:00
 draft = false
 author = "Mickael"
