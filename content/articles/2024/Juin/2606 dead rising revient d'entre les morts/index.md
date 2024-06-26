@@ -1,10 +1,9 @@
 +++
 title = "Le premier Dead Rising revient d’entre les morts"
-date = 2024-06-26T11:00:00+01:00
+date = 2024-06-26T20:20:00+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-type = "une"
 image = "https://nostick.fr/articles/vignettes/juin/deadrising.jpg"
 +++
 
