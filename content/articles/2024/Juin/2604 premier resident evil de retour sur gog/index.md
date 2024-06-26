@@ -1,6 +1,6 @@
 +++
 title = "Le premier Resident Evil de retour sur GoG"
-date = 2024-06-26T15:00:30+01:00
+date = 2024-06-26T14:00:30+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
