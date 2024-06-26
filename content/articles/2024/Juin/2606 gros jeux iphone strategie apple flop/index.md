@@ -10,7 +10,7 @@ image = "https://nostick.fr/articles/vignettes/juin/resident-evil-4-iphone.jpg"
 
 ![Resident Evil 4 sur iPhone/iPad](resident-evil-4-iphone.jpg "Frissons sur l'écran tactile")
 
-Qu'Apple se tourne vers les jeux AAA pour refourguer ses iPhone a quelque chose d'assez cynique. Le constructeur est le premier à avoir tiré le marché vidéo-ludique vers le bas, d'abord en favorisant la guerre des prix dès les premiers mois de l'App Store : les vieux de la vieille se rappellent qu'en 2008, au lancement de la boutique, il n'était pas rare de croiser des jeux vendus 10 $. Très rapidement, les prix ont baissé, à 4,99 $, puis 1,99 $, 0,99 $… Et puis gratuit.
+**Qu'Apple se tourne vers les jeux AAA pour refourguer ses iPhone a quelque chose d'assez cynique.** Le constructeur est le premier à avoir tiré le marché vidéo-ludique vers le bas, d'abord en favorisant la guerre des prix dès les premiers mois de l'App Store : les vieux de la vieille se rappellent qu'en 2008, au lancement de la boutique, il n'était pas rare de croiser des jeux vendus 10 $. Très rapidement, les prix ont baissé, à 4,99 $, puis 1,99 $, 0,99 $… Et puis gratuit.
 
 Pour les consommateurs, nul doute que c'était une bonne affaire, pensez-donc, des jeux gratos ! Mais voilà, les éditeurs ne pouvant se permettre de brader leurs gros jeux, il ne fallait pas s'attendre à voir débouler ces franchises, ce d’autant plus que la question de la puissance se posait également. Ils ont alors préféré sortir des versions abâtardies ou tout simplement des « apps compagnon » tout juste bonnes à occuper le terrain.
 
