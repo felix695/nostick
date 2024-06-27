@@ -1,6 +1,6 @@
 +++
 title = "Steam enregistre automatiquement les parties en vidéo pour mieux partager ses exploits"
-date = 2024-06-27T11:05:32+01:00
+date = 2024-06-27T08:10:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
