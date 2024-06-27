@@ -1,6 +1,6 @@
 +++ 
-date = 2024-06-25T14:01:32+01:00
+date = 2024-06-27T07:01:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Balatro va avoir droit à [une édition physique](https://www.amazon.fr/Balatro-Special-Edition-Nintendo-Switch/dp/B0D6R6L4CR) sur Switch, PS5 et Xbox incluant 10 véritables cartes. La sortie devrait avoir lieu mi-septembre.
+Le DLC d'Elden Ring cartonne : en 3 jours, *Shadow of the Erdtree* s'est [vendu](https://x.com/ELDENRING/status/1806326803276906929) à 5 millions d'exemplaires ! Autant de [masochistes](https://nostick.fr/articles/2024/juin/2506-shadow-of-the-erdtree-trop-difficile/).
