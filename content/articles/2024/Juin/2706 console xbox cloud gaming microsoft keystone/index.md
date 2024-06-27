@@ -4,7 +4,7 @@ date = 2024-06-27T09:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juin/2706-console-xbox-cloud-gaming-microsoft-keystone/keystone-brevet-microsoft.jpg"
 +++
 
 ![Projet Keystone Xbox](keystone-brevet-microsoft.jpg "") 
