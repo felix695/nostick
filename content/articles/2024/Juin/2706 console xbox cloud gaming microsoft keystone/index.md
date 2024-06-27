@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 
 ![Projet Keystone Xbox](keystone-brevet-microsoft.jpg "") 
 
-Jouer partout, tout le temps, sur n'importe quoi et si possible à des jeux Xbox : c'est le mantra de Microsoft qui a commencé à porter ses exclusivités sur PlayStation — et cela fait bien longtemps que le constructeur s'intéresse au streaming de jeux. Pensez donc, grâce au service Xbox Cloud Gaming, on peut même jouer à *Starfield* sur un iPhone[^1] !
+Jouer partout, tout le temps, sur n'importe quoi et si possible à des jeux Xbox, c'est le mantra de Microsoft qui a commencé à porter ses exclusivités sur PlayStation — et cela fait bien longtemps que le constructeur s'intéresse au streaming de jeux. Pensez donc, grâce au service Xbox Cloud Gaming, on peut même jouer à *Starfield* sur un iPhone[^1] !
 
 Pendant quelques mois, Microsoft a aussi caressé l'espoir d'installer une petite box à côté de la télé. Non, pas une Xbox, mais un boîtier de streaming façon Apple TV, capable de diffuser des jeux en streaming et doté aussi de fonctions multimédia. Ce projet, nom de code Keystone, a suscité pas mal d'intérêt quand il trainait dans la rumeur, tout au long de l'année 2022.
 
