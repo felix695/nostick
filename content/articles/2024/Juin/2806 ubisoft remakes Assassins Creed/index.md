@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/juin/assassin-creed-shadows.jpg"
 +++
 
-![Assassin's Creed Shadows](assassin-creed-shadows.jpg "À quan d le remake d'Assassin's Creed Shadows ?")
+![Assassin's Creed Shadows](assassin-creed-shadows.jpg "À quand le remake d'Assassin's Creed Shadows ?")
 
 Les fans d'*Assassin's Creed* sont plutôt bien servis ces derniers temps, avec *Mirage* l'an dernier, et *Shadows* qui va débouler le 15 novembre. Ils ne sont pas au bout de leur peine : en plus des épisodes inédits actuellement en développement, des remakes sont bel et bien dans les tuyaux d'Ubisoft !
 
