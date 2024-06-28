@@ -1,6 +1,6 @@
 +++
 title = "Ubisoft annonce des tas de remakes d'Assassin's Creed"
-date = 2024-06-28T07:47:32+01:00
+date = 2024-06-28T11:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
