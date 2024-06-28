@@ -13,7 +13,7 @@ L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publ
 
 ## Une édition épique pour Disney's Epic Mickey: Rebrushed 
 
-L'heure est aux vieilleries (il n'y a qu'à lire la prochaine actu de ce résumé), alors quoi de plus naturel que de voir débouler *Disney's Epic Mickey: Rebrushed*, un remake du jeu Wii  de 2010, cette pour toutes les consoles (y compris la Switch) ! On y retrouvera Mickey au Wasteland, un endroit triste et désespéré (je ne parle pas de la France d'aujourd'hui) où les personnages Disney oubliés errent sans but.
+L'heure est aux vieilleries (il n'y a qu'à lire la prochaine actu de ce résumé), alors quoi de plus naturel que de voir débouler *Disney's Epic Mickey: Rebrushed*, un remake du jeu Wii de 2010 cette fois-ci pour toutes les consoles, y compris la Switch ! On y retrouvera Mickey au Wasteland, un endroit triste et désespéré (je ne parle pas de la France d'aujourd'hui) où les personnages Disney oubliés errent sans but.
 
 {{< youtube XqDf8WT4jlc >}} 
 
@@ -41,7 +41,7 @@ Nintendo est une entreprise procédurière, comme peuvent le constater les déve
 
 « *Nintendo et la Pokemon Company ne nous ont rien dit* », a [expliqué](https://www.gamefile.news/p/palworld-pocketpair-takuro-mizobe-interview) Takuro Mizobe, le boss du studio Pocketpair, à *Game File*. Qui ajoute, histoire d'être très clair : « *Bien sûr que j'aime les Pokémon et que je les respecte. J'ai grandi avec, c'est ma génération* ». Un amour qui se voit pas mal dans *Palworld* !
 
-Le jeu, qui mêle chasse aux bestioles, crafting et baston, a été la sensation de ce début d'année. Il a atteint 2 millions de joueurs en simultané, 15 millions de copies PC ont été vendues le premier mois de lancement, et il a attiré 10 millions de joueurs Xbox (le titre est dispo sur le Game Pass). De quoi attirer l'attention de la Pokemon Company, qui fin janvier publiait un communiqué indiquant n'avoir pas donné l'autorisation d'exploiter la propriété intellectuelle des Pokémon.
+Le jeu, qui mêle chasse aux bestioles, crafting et baston, a été la sensation de ce début d'année. Il a atteint 2 millions de joueurs en simultané, 15 millions de copies PC ont été vendues le premier mois de lancement, et il a attiré 10 millions de joueurs Xbox (le titre est dispo sur le Game Pass). De quoi attirer l'attention de la Pokemon Company, qui fin janvier publiait un communiqué indiquant ne pas avoir donné l'autorisation d'exploiter la propriété intellectuelle des Pokémon.
 
 « *Nous avons l'intention d'enquêter et de prendre les mesures appropriées pour remédier à tout acte portant atteinte aux droits de propriété intellectuelle liés aux Pokémon* », menaçait  alors l'entreprise. Mais manifestement, l'enquête n'a rien donné, et *Palworld* peut donc continuer son bout de chemin ! Cela passe par la première grosse mise à jour (0.3.1) baptisée Sakurajima, du nom de la nouvelle île où les joueurs trouveront de nouveaux Pal, de nouvelles technologies et armes, et un mystérieux événement « météorite ».
 
@@ -77,7 +77,7 @@ Cette annonce tombe la semaine où [un brevet a confirmé le design de Keystone]
 - Mais qui a développé *Mario & Luigi*, bon sang de bois ?! Nintendo ne veut rien dire, mais a tout de même [glissé quelques indices…](https://nostick.fr/articles/2024/juin/2506-mystere-developpeurs-mario-luigi/)
 - La saison 5 de *Diablo 4* se précise et surprise, on y trouvera un mode roguelike bien velu ! [Plus d'infos par ici.](https://nostick.fr/articles/2024/juin/2506-diablo-4-roguelike/)
 - Toujours à la pointe de l'actualité, Nostick a testé cette semaine *Katana Zero*, un jeu… de 2019. [Il était temps !](https://nostick.fr/articles/2024/juin/2504-test-de-katana-zero/)
-- C'est bientôt la fin de piste pour *Forza Horizon 4*, sorti en 2018 et qui doit rentrer au garage faute de licences. Xbox a cependant fait les choses aussi bien que possible, [c'est à découvrir ici.](https://nostick.fr/articles/2024/juin/2606-sortie-piste-forza-horizon-4/)
+- C'est bientôt la fin de la piste pour *Forza Horizon 4*, sorti en 2018 et qui doit rentrer au garage faute de licences. Xbox a cependant fait les choses aussi bien que possible, [c'est à découvrir ici.](https://nostick.fr/articles/2024/juin/2606-sortie-piste-forza-horizon-4/)
 - Surprise (non), les jeux iPhone qui coûte 20, 30 ou 50 € ne trouvent pas preneur ! La stratégie AAA d'Apple prend l'eau, alors [écopez par ici.](https://nostick.fr/articles/2024/juin/2606-gros-jeux-iphone-strategie-apple-flop/)
 - Les vieux de la vieille seront ravis de retrouver *Resident Evil* 1, 2 et 3 dans leur jus d'origine (mais tout de même adaptés aux machines modernes) sur GOG et [dans cette actu](https://nostick.fr/articles/2024/juin/2604-premier-resident-evil-de-retour-sur-gog/) ! Et ceux qui ne juraient que par *Dead Rising* auront droit à un remake du remaster, [c'est à lire par là.](https://nostick.fr/articles/2024/juin/2606-dead-rising-revient-dentre-les-morts/)
 - Steam facilite la vie des joueurs qui veulent se la raconter auprès des potes, avec une nouvelle fonction d'enregistrement vidéo des parties ! [À découvrir ici.](https://nostick.fr/articles/2024/juin/2706-enregistrement-parties-steam-partage-video/)
