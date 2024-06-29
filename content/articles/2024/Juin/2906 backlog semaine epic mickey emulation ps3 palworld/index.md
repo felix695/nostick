@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Epic Mickey, émulation PS3, Palworld, manette Steam…"
-date = 2024-06-29T10:47:32+01:00
+date = 2024-06-29T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
