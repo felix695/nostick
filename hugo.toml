@@ -18,7 +18,7 @@ enableRobotsTXT = true
 actu = "/actu/:slug/"
 
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS", "JSON"]
 page = ["HTML"]
 section = ["HTML", "RSS"]
 taxonomy = ["HTML"]
@@ -43,6 +43,3 @@ baseName = "feed"
 mediaType = "application/rss+xml"
 isPlainText = true
 isHTML = false
-
-[outputs]
-  home = ["HTML", "JSON"]
