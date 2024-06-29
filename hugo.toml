@@ -43,3 +43,6 @@ baseName = "feed"
 mediaType = "application/rss+xml"
 isPlainText = true
 isHTML = false
+
+[outputs]
+  home = ["HTML", "JSON"]
