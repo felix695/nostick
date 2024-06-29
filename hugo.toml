@@ -43,3 +43,8 @@ baseName = "feed"
 mediaType = "application/rss+xml"
 isPlainText = true
 isHTML = false
+
+[outputFormats.JSON]
+mediaType = "application/json"
+baseName = "index"
+isPlainText = true
