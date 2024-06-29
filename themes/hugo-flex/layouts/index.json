@@ -1,5 +1,5 @@
 {{- $.Scratch.Add "posts" slice -}}
 {{- range .Site.RegularPages -}}
-  {{- $.Scratch.Add "posts" (dict "title" .Title "content" .Plain "date" .Date "url" .Permalink "image" .Params.image) -}}
+  {{- $.Scratch.Add "posts" (dict "title" .Title "content" .Content "date" .Date "url" .Permalink "image" .Params.image) -}}
 {{- end -}}
 {{- $.Scratch.Get "posts" | jsonify -}}
