@@ -4,6 +4,7 @@ title = 'Nostick'
 theme = 'hugo-flex'
 favicon = 'favicon.ico'
 defaultContentLanguage = "fr"
+paginate = 10  # Configure la pagination pour 10 articles par page
 
 [languages]
 [languages.fr]
@@ -32,6 +33,10 @@ mediaType = "text/html"
 [mediaTypes."application/rss+xml"]
 suffixes = ["xml"]
 mediaType = "application/rss+xml"
+
+[mediaTypes."application/json"]
+suffixes = ["json"]
+mediaType = "application/json"
 
 [outputFormats]
 [outputFormats.HTML]

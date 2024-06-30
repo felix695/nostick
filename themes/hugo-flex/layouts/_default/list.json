@@ -1,0 +1,15 @@
+{
+  "articles": [
+    {{- range .Paginator.Pages -}}
+    {
+      "title": {{ .Title | jsonify }},
+      "content": {{ .Content | jsonify }},
+      "date": {{ .Date | jsonify }},
+      "url": {{ .Permalink | jsonify }},
+      "image": {{ .Params.image | jsonify }}
+    }{{ if not (eq (add .Index 1) (len .Paginator.Pages)) }},{{ end }}
+    {{- end -}}
+  ],
+  "currentPage": {{ .Paginator.PageNumber }},
+  "totalPages": {{ .Paginator.TotalPages }}
+}
