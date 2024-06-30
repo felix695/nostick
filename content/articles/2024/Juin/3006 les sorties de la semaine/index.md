@@ -1,6 +1,6 @@
 +++
 title = "Luigi's Mansion 2 HD, Riven : le récap des sorties de la semaine (30/06)"
-date = 2024-06-30T08:00:01+01:00
+date = 2024-06-30T07:30:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
