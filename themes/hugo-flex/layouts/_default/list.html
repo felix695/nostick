@@ -12,7 +12,8 @@
 
     {{ .Content }}
 
-    {{ $filteredPages := where .Pages.ByDate.Reverse "Params.type" "ne" "telex" }}
+{{ $filteredPages := where .Pages.ByDate.Reverse "Params.type" "ne" "breaking" }}
+    {{ $filteredPages := where $filteredPages "Params.type" "ne" "telex" }}
     {{ $pag := .Paginate $filteredPages 30 }}
 
     {{ range $index, $page := $pag.Pages.GroupByPublishDate "2006" }}
