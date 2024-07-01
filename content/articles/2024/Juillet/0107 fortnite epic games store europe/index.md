@@ -19,4 +19,4 @@ Si la direction d'Apple n'était pas aussi butée et enfermée dans sa tour d'iv
 
 En cas de retour positif d'Apple, Epic sera en mesure de lancer son petit bazar en Europe dans les prochains mois, et aussi de préparer ses jeux pour un lancement dans les autres boutiques alternatives.
 
-[^1] : Le règlement européen sur les marchés numériques (DMA) impose à Apple le sideloading et les boutiques alternatives sur l'iPhone et sur l'iPad — ce qui nous a valu l'apparition d'[AltStore PAL et de Delta, l''émulateur de consoles Nintendo](https://nostick.fr/articles/2024/avril/1904-comment-installer-et-utiliser-delta/). Epic avait rapidement fait savoir que l'Epic Games Store était dans les tuyaux pour les utilisateurs européens.
+[^1]: Le règlement européen sur les marchés numériques (DMA) impose à Apple le sideloading et les boutiques alternatives sur l'iPhone et sur l'iPad — ce qui nous a valu l'apparition d'[AltStore PAL et de Delta, l''émulateur de consoles Nintendo](https://nostick.fr/articles/2024/avril/1904-comment-installer-et-utiliser-delta/). Epic avait rapidement fait savoir que l'Epic Games Store était dans les tuyaux pour les utilisateurs européens.

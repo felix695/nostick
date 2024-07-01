@@ -1,9 +1,10 @@
 +++
 title = "Tous ces jeux Steam auxquels vous ne jouez pas vous coûtent cher"
-date = 2024-07-01T14:44:32+01:00
+date = 2024-07-01T13:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/juillet/0107-jeux-steam-backlog-milliards/steam-honte-backlog.jpg"
 +++ 
 
 ![Steam Deck](steam-honte-backlog.jpg "© Edgar Almeida (Unsplash)")
