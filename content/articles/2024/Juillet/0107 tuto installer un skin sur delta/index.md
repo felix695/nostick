@@ -1,6 +1,6 @@
 +++
 title = "Comment changer l’apparence de l’émulateur Delta sur iOS ?"
-date = 2024-07-01T08:00:01+01:00
+date = 2024-07-01T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Tuto"]
