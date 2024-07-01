@@ -1,5 +1,5 @@
 +++
-title = "Fortnite et l'Epic Games Store bientôt de retour sur les iPhone en Europe"
+title = "Fortnite bientôt de retour sur les iPhone en Europe, avec l'Epic Games Store"
 date = 2024-07-01T07:44:32+01:00
 draft = false
 author = "Mickael"
