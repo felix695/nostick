@@ -1,10 +1,10 @@
 +++
 title = "Comment changer l’apparence de l’émulateur Delta sur iOS ?"
-date = 2024-07-01T08:00:01+01:00
+date = 2024-07-01T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Tuto"]
-image = "https://nostick.fr/articles/2024/juillet/2906-tuto-installer-un-skin-sur-delta/tutovignette.png"
+image = "https://nostick.fr/articles/2024/juillet/0107-tuto-installer-un-skin-sur-delta/tutovignette.png"
 +++
 
 ![Deux skins pour Delta sur iOS.](tutodelta1.jpg "Le skin de base sur DS / un skin personnalisé")

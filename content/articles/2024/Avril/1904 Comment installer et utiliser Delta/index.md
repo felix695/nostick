@@ -83,7 +83,7 @@ Techniquement, nous avons le droit de réaliser une copie d'une cartouche de jeu
 
 Mais évidemment, il n'y a rien de plus simple que d'aller fureter dans les internets interlopes pour récupérer des ROMs. Nintendo n'apprécie guère les émulateurs, et est même parvenu à tuer purement et simplement Yuzu, un émulateur Switch. Ici, la situation est un peu différente puisque Nintendo ne vend plus depuis longtemps de NES ou de GBA, et encore moins de jeux.
 
-Si vous souhaitez rester dans la légalité tout en jouant à des jeux sympas, il existe une communauté homebrew très active qui continue de développer des jeux originaux ! Voici un [répertoire](https://itch.io/c/577395/game-boy-homebrew-games), et un [autre](https://hh.gbdev.io), et encore [un autre](https://snescentral.com/homebrew.php). Faites vous plaisir, il y a des perles !
+Si vous souhaitez rester dans la légalité tout en jouant à des jeux sympas, il existe une communauté homebrew très active qui continue de développer des jeux originaux ! Voici un [répertoire](https://itch.io/c/577395/game-boy-homebrew-games), et un [autre](https://hh.gbdev.io), et encore [un autre](https://snescentral.com/homebrew.php). Faites vous plaisir, il y a des perles ! Et pour changer l’apparence de l’émulateur, n’hésitez pas à aller jeter un œil à [notre tutoriel dédié](https://nostick.fr/articles/2024/juillet/0107-tuto-installer-un-skin-sur-delta/).  
 
 [^1]: Delta n'est pas optimisé pour iPad, par conséquent l'app s'affiche sous la forme d'une app pour iPhone. Il est toutefois possible d'agrandir la fenêtre en « plein écran ».
 
