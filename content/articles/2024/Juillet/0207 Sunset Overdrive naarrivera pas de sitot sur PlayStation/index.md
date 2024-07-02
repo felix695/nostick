@@ -7,7 +7,7 @@ tags = ["Actu"]
 type = "telex"
 +++ 
 
-Vous vous souvenez de *[Sunset Overdrive](https://www.xbox.com/fr-FR/games/store/sunset-overdrive/brzhfr5xblqs)* ? Pas moi : je dois bien avouer que c’est la première fois que j’entends parler de ce TPS d’Insomniac Games (*‌Ratchet and Clank*, *Spyro*) sorti exclusivement sur Xbox One en 2014. Le studio a entre temps été racheté par Sony, ce qui laissait certains propriétaires de PlayStation espérer un remaster. Il faut dire que le studio n’a pas aidé en partageant une animation de *respawn* tirée du jeu sur Twitter, ce qui a affolé les fans.
+Vous vous souvenez de *[Sunset Overdrive](https://www.xbox.com/fr-FR/games/store/sunset-overdrive/brzhfr5xblqs)* ? Pas moi : je dois bien avouer que c’est la première fois que j’entends parler de ce TPS d’Insomniac Games (*‌Ratchet and Clank*, *Spyro*) sorti exclusivement sur Xbox One en 2014. La boîte a entre temps été rachetée par Sony, ce qui laissait certains propriétaires de PlayStation espérer un remaster. Il faut dire que le studio n’a pas aidé en partageant une animation de *respawn* tirée du jeu sur Twitter, ce qui a affolé les fans.
 
 {{< twitter user="insomniacgames" id="1805668609597071590" >}}
 
