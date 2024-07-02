@@ -1,6 +1,6 @@
 +++
 title = "Il y aura du monde sur les routes du futur Crazy Taxi"
-date = 2024-07-02T07:44:32+01:00
+date = 2024-07-02T12:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
