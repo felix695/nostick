@@ -6,7 +6,7 @@ author = "Mickael"
 tags = ["Actu"]
 type = "telex"
 +++
-Je vais vous avouer un truc : de tous les reboots/remakes annoncés l'an dernier par Sega, celui de *Crazy Taxi* est celui qui m'en touche une sans faire bouger l'autre (contrairement à *Golden Axe* 😋). Et ce n'est pas les révélations du studio Sapporo, en charge du projet, qui va me faire changer d'avis : dans une vidéo de recrutement, on apprend que ce futur *Crazy Taxi* se déroulera dans un monde ouvert au style inspiré par les grandes villes de la côte Ouest américaine (pas vraiment une grosse surprise), et surtout que le jeu sera « *massivement multijoueur* ». Autrement dit un jeu en ligne, ce qui suggère la présence tout aussi massive de micro-transactions.
+Je vais vous avouer un truc : de tous les reboots/remakes annoncés l'an dernier par Sega, celui de *Crazy Taxi* est celui qui m'en touche le plus une sans faire bouger l'autre (contrairement à *Golden Axe* 😋). Et ce n'est pas les révélations du studio Sapporo, en charge du projet, qui va me faire changer d'avis : dans une vidéo de recrutement, on apprend que ce futur *Crazy Taxi* se déroulera dans un monde ouvert au style inspiré par les grandes villes de la côte Ouest américaine (pas vraiment une grosse surprise), et surtout que le jeu sera « *massivement multijoueur* ». Autrement dit un jeu en ligne, ce qui suggère la présence tout aussi massive de micro-transactions.
 
 {{< youtube uLQsitFYpg8 >}} 
 
