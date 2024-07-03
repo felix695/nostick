@@ -1,6 +1,6 @@
 +++
 title = "Dragon Age: The Veilguard a pensé à tous les joueurs, peu importe leur niveau"
-date = 2024-07-03T08:47:32+01:00
+date = 2024-07-03T07:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
