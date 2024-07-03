@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/2024/juillet/0307-the-first-descendant-prem
 
 *The First Descendant*, le gros jeu gratuit du moment, ne s'est pas lancé sans heurts pour de nombreux joueurs. Il y a eu des petits soucis pour ceux qui avaient participé à la bêta et qui n'ont pas retrouvé leurs récompenses, malgré les promesses de l'éditeur Nexon. Les habituels et pénibles problèmes de performance sont aussi au rendez-vous, sans oublier les bugs de serveurs. Bref, du classique pour un jeu multi.
 
-Pour se faire pardonner et éviter de se mettre à dos une communauté à chouchouter, Nexon a [décidé](https://store.steampowered.com/news/app/2074920?emclan=103582791472148873&emgid=4231776500642468953) d'offrir une poignée de bonus qui permettront en substance de gagner plus rapidement des niveaux et repeinturer votre flingue en rouge (c'est un truc dans *The First Descendant*). Ces petits cadeaux tomberont par mail.
+Pour se faire pardonner et éviter de se mettre à dos une communauté à chouchouter, Nexon a [décidé](https://store.steampowered.com/news/app/2074920?emclan=103582791472148873&emgid=4231776500642468953) d'offrir une poignée de bonus qui permettront en substance de gagner plus rapidement des niveaux et repeinturer votre flingue en rouge (c'est un truc dans *The First Descendant*). Ces petits cadeaux tomberont dans la boîte de réception du jeu.
 
 ![The First Descendant](the-First-Descendant.jpg "Achetez-en des Caliber !")
 
