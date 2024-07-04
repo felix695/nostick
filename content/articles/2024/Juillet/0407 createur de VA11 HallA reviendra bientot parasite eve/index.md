@@ -4,7 +4,7 @@ date = 2024-07-04T17:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/juillet/Nintendo-Switch.jpg"
+image = "https://nostick.fr/articles/2024/juillet/0407-createur-de-va11-halla-reviendra-bientot-parasite-eve/screen1.png"
 +++ 
 
 ![Capture d’écran de .45 PARABELLUM BLOODHOUND](screen1.png "On passe du PC-98 à la PS1.")
@@ -15,7 +15,7 @@ Le jeu propose d’incarner Reila Mikazuchi, « *une mercenaire à bout de souff
 
 {{< youtube 41yKilj0jfI >}}
 
-Et le gameplay dans tout ça ? On nous promet des combats basés sur le système hybride d’[Active Time Battle ](https://en.wikipedia.org/wiki/Active_Time_Battle) que l’on a par exemple vu dans *Final Fantasy VII* et son *Remake*. En pratique, le personnage peut se déplacer librement pendant que sa barre de mana se recharge avant d’effectuer une action. 7 chapitres seront proposés, permettant d’explorer l’univers avec des ennemis placés à la main sans les rencontres aléatoires de *Parasite Eve*.
+Et le gameplay dans tout ça ? On nous promet des combats basés sur le système hybride d’[Active Time Battle ](https://en.wikipedia.org/wiki/Active_Time_Battle) que l’on a par exemple vu dans *Final Fantasy VII* et son *Remake*. En pratique, le personnage peut se déplacer librement pendant que sa barre de mana se recharge avant d’effectuer une action. Un total de 7 chapitres seront proposés, permettant d’explorer l’univers avec des ennemis placés à la main sans les rencontres aléatoires de *Parasite Eve*.
 
 ![Capture d’écran de .45 PARABELLUM BLOODHOUND](screen4.png "")
 
