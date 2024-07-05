@@ -49,13 +49,17 @@ Malheureusement, le carton de *GTA Online* (lancé un mois après *GTA 5*, en oc
 
 Cette annulation, qui a été confirmée par Steven Ogg, l'acteur derrière Trevor, n'a toutefois pas complètement remisé au placard les efforts mis dans le DLC. Certains bouts se sont retrouvés dans *GTA Online*… Rockstar a annulé au moins trois extensions pour *GTA 5* : cet « Agent Trevor » donc, mais aussi « Zombie Apocalypse » et « Alien Invasion », qui promettaient du lourd. Dommage.
 
-## Apple bloque toujours Fortnite en Europe
+## Epic pousse un coup de gueule, Apple s'écrase
 
 Apple et Epic, c'est toujours pas ça. L'éditeur de *Fornite* avait bon espoir de (re)lancer son battle royale sur les iPhone de l'Union européenne grâce au règlement sur les marchés numériques (DMA) qui permet aux boutiques alternatives de coexister avec l'App Store. *Fortnite* s'est fait virer en 2020, après la tentative d'Epic de vendre des V-Bucks avec autre chose que le système de paiement d'Apple.
 
 En début de semaine, [Epic soumettait la nouvelle version de Fortnite et de son Games Store](https://nostick.fr/articles/2024/juillet/0107-fortnite-epic-games-store-europe/) à Apple pour obtenir leur notarisation, un processus purement technique pour s'assurer que les apps ne posent pas de souci de sécurité. Malheureusement, Apple se fait tirer l'oreille ; par deux fois, l'entreprise a refusé de donner le feu vert pour des broutilles : des boutons au design trop proche de ceux d'Apple.
 
-Epic [explique](https://x.com/EpicNewsroom/status/1809179985682325649) utiliser les conventions de design et de nommage qui ont cours dans toutes les boutiques d'applications. Le rejet par Apple est qualifié d'arbitraire et « *en violation du DMA* », déplore le studio qui en a parlé à la Commission européenne. Un coup de pression qui pourrait permettre de débloquer la situation, sachant qu'Apple ne respecte que le rapport de force… Epic espère toujours pouvoir lancer *Fortnite* dans quelques mois en Europe.
+Epic [explique](https://x.com/EpicNewsroom/status/1809179985682325649) utiliser les conventions de design et de nommage qui ont cours dans toutes les boutiques d'applications. Le rejet par Apple est qualifié d'arbitraire et « *en violation du DMA* », déplore le studio qui en a parlé à la Commission européenne. 
+
+Il faut croire qu'un bon gros coup de gueule en public est suffisant pour faire plier Apple : le constructeur a [donné](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/) quelques heures plus tard son feu vert à la version EU de l'Epic Games Store, qui manifestement posait problème (Apple affirmant avoir autorisé *Fortnite*). Ça ne devait pas être si grave, au vu de la rapidité avec laquelle l'entreprise s'est ratatinée. Les éditeurs retiendront que pour obtenir justice avec Apple, il suffit d'un post bien senti sur les réseaux sociaux…
+
+Epic espère toujours pouvoir lancer *Fortnite* dans quelques mois en Europe.
 
 ## Une fin inédite pour The Witcher 3
 
