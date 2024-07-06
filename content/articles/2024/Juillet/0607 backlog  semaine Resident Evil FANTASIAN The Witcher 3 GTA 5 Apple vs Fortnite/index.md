@@ -21,7 +21,7 @@ Lors de la conférence Capcom cette semaine, Koshi Nakanishi a expliqué qu'il a
 
 Selon la rumeur provenant du fuiteur [Dusk Golem](https://x.com/AestheticGamer1/status/1786276564080144817) habituellement bien renseigné, *RE9* pourrait être disponible dès le début de l'année prochaine, avec une annonce dans le courant de cet automne. Capcom n'aurait pas mégoté sur le temps de développement, en fait ça aurait débuté en 2018. Et il semble que la grande idée soit… un monde ouvert. À voir ce que ça donne, pour une licence qui s'épanouit surtout dans les endroits fermés et les environnements claustrophobes…
 
-En attendant ce nouveau volet, Capcom devrait miser sur les portages et les remakes histoire de faire vivre la saga horrifique, comme, tenez, *RE7 Biohazard* fraîchement [arrivé](https://www.igen.fr/app-store/2024/07/resident-evil-7-est-desormais-disponible-sympa-sur-mac-du-mieux-sur-iphone-15-pro-144533) sur Mac et iOS, ou encore *RE Zero* et *Code Veronica* qui seraient les prochains sur la liste des remakes.
+En attendant ce nouveau volet, Capcom devrait miser sur les portages et les remakes histoire de faire vivre la saga horrifique, comme, tenez, *RE7 Biohazard* fraîchement [arrivé](https://www.igen.fr/app-store/2024/07/resident-evil-7-est-desormais-disponible-sympa-sur-mac-du-mieux-sur-iphone-15-pro-144533) sur Mac et iOS, ou encore *RE Zero* et *Code Veronica* qui seraient [les prochains](https://nostick.fr/articles/2024/mai/2905-capcom-travaillerait-sur-un-remake-de-resident-evil-zero-et-de-code-veronica/) sur la liste des remakes.
 
 ## Le papa de Final Fantasy ne veut pas revenir sur le passé
 
@@ -51,13 +51,13 @@ Cette annulation, qui a été confirmée par Steven Ogg, l'acteur derrière Trev
 
 ## Epic pousse un coup de gueule, Apple s'écrase
 
-Apple et Epic, c'est toujours pas ça. L'éditeur de *Fornite* avait bon espoir de (re)lancer son battle royale sur les iPhone de l'Union européenne grâce au règlement sur les marchés numériques (DMA) qui permet aux boutiques alternatives de coexister avec l'App Store. *Fortnite* s'est fait virer en 2020, après la tentative d'Epic de vendre des V-Bucks avec autre chose que le système de paiement d'Apple.
+Apple et Epic, c'est toujours pas ça. L'éditeur de *Fornite* avait bon espoir de (re)lancer son battle royale sur les iPhone de l'Union européenne grâce au règlement sur les marchés numériques (DMA) qui permet aux boutiques alternatives de coexister avec l'App Store. *Fortnite* s'est fait virer en 2020, après la tentative d'Epic de vendre des V-Bucks avec autre chose que le système de paiement maison d'Apple.
 
-En début de semaine, [Epic soumettait la nouvelle version de Fortnite et de son Games Store](https://nostick.fr/articles/2024/juillet/0107-fortnite-epic-games-store-europe/) à Apple pour obtenir leur notarisation, un processus purement technique pour s'assurer que les apps ne posent pas de souci de sécurité. Malheureusement, Apple se fait tirer l'oreille ; par deux fois, l'entreprise a refusé de donner le feu vert pour des broutilles : des boutons au design trop proche de ceux d'Apple.
+En début de semaine, [Epic soumettait la nouvelle version de Fortnite et de son Games Store](https://nostick.fr/articles/2024/juillet/0107-fortnite-epic-games-store-europe/) à Apple pour obtenir leur notarisation, un processus purement technique pour s'assurer que les apps ne posent pas de souci de sécurité. Malheureusement, Epic se fait tirer l'oreille  : la Pomme a refusé de donner le feu vert pour des broutilles, dénonçant des boutons au design trop proche de ceux qu'elle utilise.
 
-Epic [explique](https://x.com/EpicNewsroom/status/1809179985682325649) utiliser les conventions de design et de nommage qui ont cours dans toutes les boutiques d'applications. Le rejet par Apple est qualifié d'arbitraire et « *en violation du DMA* », déplore le studio qui en a parlé à la Commission européenne. 
+Epic [explique](https://x.com/EpicNewsroom/status/1809179985682325649) pourtant utiliser les conventions de design et de nommage qui ont cours dans toutes les boutiques d'applications. Le studio a rapidement qualifié le rejet d'Apple d'arbitraire et « *en violation du DMA* », qui en a parlé à la Commission européenne. 
 
-Il faut croire qu'un bon gros coup de gueule en public est suffisant pour faire plier Apple : le constructeur a [donné](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/) quelques heures plus tard son feu vert à la version EU de l'Epic Games Store, qui manifestement posait problème (Apple affirmant avoir autorisé *Fortnite*). Ça ne devait pas être si grave, au vu de la rapidité avec laquelle l'entreprise s'est ratatinée. Les éditeurs retiendront que pour obtenir justice avec Apple, il suffit d'un post bien senti sur les réseaux sociaux…
+Il faut croire qu'un bon gros coup de gueule en public est suffisant pour faire plier Apple : le constructeur a [donné](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/) quelques heures plus tard son feu vert à la version EU de l'Epic Games Store qui posait problème (Apple affirmant avoir autorisé *Fortnite*). Ça ne devait pas être si grave, au vu de la rapidité avec laquelle la Pomme s'est ratatinée. Les éditeurs retiendront que pour obtenir justice avec Apple, il suffit d'un post bien senti sur les réseaux sociaux…
 
 Epic espère toujours pouvoir lancer *Fortnite* dans quelques mois en Europe.
 
@@ -67,7 +67,7 @@ En mai dernier, CD Projekt Red [livrait](https://x.com/witchergame/status/178780
 
 {{< youtube M3GMtR7U_hI >}} 
 
-Après le combat de Geralt contre Eredin, le héros se réveille sous la tente d'un hôpital de campagne. Il revoit Yennefer où il peut s'enquérir du sort de Ciri ou savoir qui a remporté la guerre, en fonction de l'affection qu'il porte à la sorcière. On assistera également à l'enterrement de Crach, à la trahison de la Loge par Yennefer pour sauver Ciri… 
+Attention (possible) spoiler : après le combat de Geralt contre Eredin, le héros se réveille sous la tente d'un hôpital de campagne. Il revoit Yennefer où il peut s'enquérir du sort de Ciri ou savoir qui a remporté la guerre, en fonction de l'affection qu'il porte à la sorcière. On assistera également à l'enterrement de Crach, à la trahison de la Loge par Yennefer pour sauver Ciri… 
 
 Le youtubeur xLetalis, qui a réalisé une vidéo des événements restaurés par Glassfish, pense que CD Projekt Red a décidé de ne pas inclure cette fin — avec la trahison de Yennefer donc — pour des raisons créatives. Difficile d'en avoir le cœur net, le studio n'en ayant rien dit. Toujours est-il que les fans ont un peu plus de grain à moudre et qu'ils ne sont peut-être pas au bout de leur peine en matière de surprises.
 
