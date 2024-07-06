@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Resident Evil, FANTASIAN, The Witcher 3, GTA 5, Apple vs Fortnite"
-date = 2024-07-06T10:47:32+01:00
+date = 2024-07-06T07:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
