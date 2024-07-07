@@ -4,10 +4,10 @@ date = 2024-07-07T09:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/juillet/0707-les-sorties-de-la-semaine/jeu.jpg"
+image = "https://nostick.fr/articles/2024/juillet/0707-les-sorties-de-la-semaine/gacha.jpeg"
 +++
 
-![Le jeu ](gacha.PNG "Le gacha de l’été est déjà dans les bacs.")
+![Le jeu ](gacha.jpeg "Le gacha de l’été est déjà dans les bacs.")
 
 Entre le boulot, les courses et le capharnaüm politique ambiant, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.
 
