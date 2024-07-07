@@ -1,6 +1,6 @@
 +++
 title = "Zenless Zone Zero, The First Descendant : le récap des sorties de la semaine (07/07)"
-date = 2024-07-07T08:30:01+01:00
+date = 2024-07-07T09:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
