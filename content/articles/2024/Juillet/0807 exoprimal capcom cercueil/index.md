@@ -1,6 +1,6 @@
 +++
 title = "Capcom plante un clou dans le cercueil d'Exoprimal"
-date = 2024-07-08T10:47:32+01:00
+date = 2024-07-08T10:48:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
