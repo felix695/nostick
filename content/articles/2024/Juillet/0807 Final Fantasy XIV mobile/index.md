@@ -1,6 +1,6 @@
 +++
 title = "Toujours plus de Final Fantasy XIV, cette fois sur mobile"
-date = 2024-07-08T09:23:32+01:00
+date = 2024-07-08T10:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
