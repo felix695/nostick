@@ -1,6 +1,6 @@
 +++
 title = "XDefiant : si vous n'aimez pas les bugs, « passez à autre chose »"
-date = 2024-07-08T08:47:32+01:00
+date = 2024-07-08T08:40:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
