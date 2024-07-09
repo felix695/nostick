@@ -1,6 +1,6 @@
 +++
 title = "La version console de City Skyline 2 reportée à des jours meilleurs"
-date = 2024-07-09T08:47:32+01:00
+date = 2024-07-09T09:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

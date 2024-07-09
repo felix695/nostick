@@ -1,6 +1,6 @@
 +++
 title = "Le nouveau battle pass d'Apex Legends veut le beurre, l'argent du beurre et les fesses du joueur"
-date = 2024-07-09T09:47:32+01:00
+date = 2024-07-09T12:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
