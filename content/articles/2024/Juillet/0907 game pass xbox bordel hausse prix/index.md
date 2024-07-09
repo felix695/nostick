@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/0907-game-pass-xbox-bordel-hausse-prix/xbox-game-pass.jpg"
 +++
 
 ![Game Pass](xbox-game-pass.jpg "Qu'y a-t-il dans la boîte à caca ?")
@@ -24,14 +24,14 @@ L'offre Game Pass se compose actuellement de quatre abonnements :
 À partir d'aujourd'hui, les prix des formules vont augmenter pour les nouveaux abonnés : 
 
 - *Game Pass Core* coûte 69,99 € par an, soit 10 € de plus. Le prix mensuel ne change pas ;
-- *Game Pass PC* est à 11,99 € par mois (+1 €) ;
+- *Game Pass PC* est à 11,99 € par mois (+2 €) ;
 - *Game Pass Ultimate* revient à 17,99 € (+ 3 €).
 
 Ces prix s'appliquent aux nouveaux abonnés dès aujourd'hui, mercredi 10 juillet. À partir du 12 septembre, les tarifs augmenteront pour les membres existants.
 
 Quant au *Game Pass Console*, c'est plus compliqué. Cette offre ne prend plus de nouveaux abonnés, elle sera remplacée « *dans les mois à venir* » (Microsoft n'est pas très précis) par un nouvel abonnement Xbox Game Pass Standard, facturé 14,99 $ par mois (probablement 14,99 €). Si cette formule offre toujours l'accès aux centaines de jeux du Game Pass, le gros changement fondamental est qu'elle n'inclut plus les jeux publiés « day one ».
 
-Autrement dit, les futurs abonnés au Xbox Game Pass Standard n'auront pas droit à *Black Ops 6*, *Indiana Jones*, *Fable* et [aux autres jeux annoncés récemment par Xbox](https://nostick.fr/articles/2024/juin/0906-doom-gears-of-war-perfect-dark-xbox-artillerie-lourde/) en même temps que les autres membres Game Pass PC et Ultimate qui en profitent dès le premier jour. Les joueurs sur consoles Xbox devront souscrire à Ultimate, ou attendre gentiment que les jeux atterrissent dans Standard.
+Autrement dit, les futurs abonnés au *Xbox Game Pass Standard* n'auront pas droit à *Black Ops 6*, *Indiana Jones*, *Fable* et [aux autres jeux annoncés récemment par Xbox](https://nostick.fr/articles/2024/juin/0906-doom-gears-of-war-perfect-dark-xbox-artillerie-lourde/) en même temps que les autres membres Game Pass PC et Ultimate qui en profitent dès le premier jour. Les joueurs sur consoles Xbox devront souscrire à Ultimate, ou attendre gentiment que les jeux atterrissent dans Standard.
 
 ![Game Pass Console](game-pass-consoles.jpg "Les formules Game Pass destinées aux consoleux.")
 
