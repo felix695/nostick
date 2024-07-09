@@ -33,10 +33,10 @@ Quant au *Game Pass Console*, c'est plus compliqué. Cette offre ne prend plus d
 
 Autrement dit, les futurs abonnés au *Xbox Game Pass Standard* n'auront pas droit à *Black Ops 6*, *Indiana Jones*, *Fable* et [aux autres jeux annoncés récemment par Xbox](https://nostick.fr/articles/2024/juin/0906-doom-gears-of-war-perfect-dark-xbox-artillerie-lourde/) en même temps que les autres membres Game Pass PC et Ultimate qui en profitent dès le premier jour. Les joueurs sur consoles Xbox devront souscrire à Ultimate, ou attendre gentiment que les jeux atterrissent dans Standard.
 
-![Game Pass Console](game-pass-consoles.jpg "Les formules Game Pass destinées aux consoleux.")
+![Game Pass Console](game-pass-consoles.jpg "Les formules Game Pass pour les consoleux.")
 
 En outre, malgré la sévère hausse de prix par rapport au Game Pass Console (+4 € tout de même), les abonnés n'auront pas droit aux jeux EA Play, ni au cloud gaming. Dur à avaler. Mais au bout du compte, tout le monde passe à la casserole avec une augmentation généralisée des tarifs.
 
-Microsoft a mis en ligne une [FAQ](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription) qui donne de plus amples détails, notamment pour les membres actuels du Game Pass Console, qui fort heureusement conservent leur abonnement.
+Microsoft a mis en ligne une [FAQ](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription) qui donne de plus amples détails, notamment pour les membres actuels du *Game Pass Console*, qui fort heureusement conservent leur abonnement.
 
 {{< chat 0907gamepass >}} 
