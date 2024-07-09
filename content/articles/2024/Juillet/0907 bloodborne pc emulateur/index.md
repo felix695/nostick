@@ -1,6 +1,6 @@
 +++
 title = "Pas de Bloodborne sur PC ? L'émulation à la rescousse"
-date = 2024-07-09T12:44:32+01:00
+date = 2024-07-09T12:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
