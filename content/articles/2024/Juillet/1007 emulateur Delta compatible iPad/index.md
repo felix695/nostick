@@ -1,10 +1,10 @@
 +++
-title = "L'émulateur Delta est maintenant compatible avec l'iPad !"
+title = "L'émulateur Delta est maintenant compatible avec l'iPad (mais c'est encore un peu compliqué)"
 date = 2024-07-10T20:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1007-emulateur-delta-compatible-ipad/delta-ipad-1.jpg"
 +++
 
 ![Delta](delta-ipad-1.jpg "On se sent moins à l'étroit sur iPad.") 
