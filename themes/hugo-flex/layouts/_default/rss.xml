@@ -5,7 +5,7 @@
 {{- if ge $limit 1 }}
   {{- $pages = first $limit $pages }}
 {{- end }}
-{{- $pages = sort $pages "Date" "asc" }}
+{{- $pages = sort $pages "Date" "desc" }}
 {{- safeHTML `<?xml version="1.0" encoding="utf-8" ?>` }}
 {{ printf `<?xml-stylesheet type="text/xsl" href=%q ?>` $base_xml.Permalink | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -17,7 +17,7 @@
     <language>{{ . }}</language>{{ end }}{{ with site.Params.author.email }}
     <managingEditor>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}{{ with site.Params.author.email }}
     <webMaster>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
-    <copyright>{{ . }}</copyright>{{ end }}{{ with .Date | default nil }}
+    <copyright>{{ . }}</copyright>{{ end }}{{ with $.Site.LastChange }}
     <lastBuildDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</lastBuildDate>{{ end }}{{ with .OutputFormats.Get "RSS" }}
     {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}{{ range $pages }}
 <item>
