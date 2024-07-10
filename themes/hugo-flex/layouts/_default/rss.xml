@@ -1,11 +1,3 @@
-{{- $pages := where site.RegularPages "Type" "in" (slice "articles" "une" "telex") }}
-{{- $pages := where $pages "PublishDate" "ge" (time "2024-01-01") }}
-{{- $pages := sort $pages "PublishDate" "desc" }}
-{{- $limit := site.Config.Services.RSS.Limit }}
-{{- if ge $limit 1 }}
-  {{- $pages = first $limit $pages }}
-{{- end }}
-{{- $enableSummary := site.Params.rss.enableSummary | default true }}
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -28,6 +20,14 @@
     {{- with site.Params.rss.atom }}
     <atom:link href="{{ . }}" rel="self" type="application/rss+xml" />
     {{- end }}
+    {{- $pages := where site.RegularPages "Type" "in" (slice "articles" "une" "telex") }}
+    {{- $pages := where $pages "PublishDate" "ge" (time "2024-01-01") }}
+    {{- $pages := sort $pages "PublishDate" "desc" }}
+    {{- $limit := site.Config.Services.RSS.Limit }}
+    {{- if ge $limit 1 }}
+      {{- $pages = first $limit $pages }}
+    {{- end }}
+    {{- $enableSummary := site.Params.rss.enableSummary | default true }}
     {{- range $pages }}
     <item>
       <title>{{ .Title }}</title>
