@@ -7,7 +7,7 @@ tags = ["Actu"]
 type = "telex"
 +++ 
 
-Vous vous souvenez de *Pokémon Sleep* ? Non ? Eh bien il faut croire que vous êtes le seul : *[PocketGamer](https://www.pocketgamer.biz/pokmon-sleep-earns-100-million-with-its-eyes-shut/)* affirme que ce jeu mobile permettant d’attraper des ‌bestioles pendant son sommeil à généré 100 millions de dollars de revenus. C’est un joli score pour ce jeu lancé il y a quasiment un an qui cartonne (sans surprise) auprès des Japonais, qui ont claqué à eux seuls 73 millions de $ en achats in-app. 
+Vous vous souvenez de *Pokémon Sleep* ? Non ? Eh bien il faut croire que vous êtes le seul : *[PocketGamer](https://www.pocketgamer.biz/pokmon-sleep-earns-100-million-with-its-eyes-shut/)* affirme que ce jeu mobile permettant d’attraper des ‌bestioles pendant son sommeil à généré 100 millions de dollars de revenus. C’est un joli score pour ce jeu lancé il y a quasiment un an qui cartonne (sans surprise) auprès des Japonais, qui ont claqué à eux seuls 73 millions de $ en achats in-app. Nintendo a confirmé que l'app avait été téléchargée 20 millions de fois.
 
 ![Pokemon Sleep](pokemon.png "Wake me up inside 🎶")  Wake me up inside
 
