@@ -1,48 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+{{- $base_xml := resources.Get "xml/base.tpl.xml" | resources.ExecuteAsTemplate "xml/base.xml" . | minify }}
+{{- $pages := where site.RegularPages "Type" "in" (slice "articles" "une" "telex") }} <!-- Modification ici pour inclure "telex" -->
+{{- $pages := where $pages "Date" "ge" (time "2024-01-01") }}
+{{- $limit := site.Config.Services.RSS.Limit }}
+{{- if ge $limit 1 }}
+  {{- $pages = first $limit $pages }}
+{{- end }}
+{{- safeHTML `<?xml version="1.0" encoding="utf-8" ?>` }}
+{{ printf `<?xml-stylesheet type="text/xsl" href=%q ?>` $base_xml.Permalink | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.Title }}</title>
-    <link>{{ site.BaseURL }}</link>
-    <description>Recent content on {{ site.Title }}</description>
-    <generator>Hugo -- gohugo.io</generator>
-    {{ with site.LanguageCode }}
-    <language>{{ . }}</language>
-    {{ end }}
-    {{ with site.Author.email }}
-    <managingEditor>{{ . }}{{ with site.Author.name }} ({{ . }}){{ end }}</managingEditor>
-    {{ end }}
-    {{ with site.Author.email }}
-    <webMaster>{{ . }}{{ with site.Author.name }} ({{ . }}){{ end }}</webMaster>
-    {{ end }}
-    {{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-    {{ end }}
-    {{ with site.Params.rss.atom }}
-    <atom:link href="{{ . }}" rel="self" type="application/rss+xml" />
-    {{ end }}
-    {{ $pages := where site.RegularPages "Type" "in" (slice "articles" "une" "telex") }}
-    {{ $pages := where $pages "PublishDate" "ge" (time "2024-01-01") }}
-    {{ $pages := sort $pages "PublishDate" "desc" }}
-    {{ $limit := site.Config.Services.RSS.Limit }}
-    {{ if ge $limit 1 }}
-      {{ $pages = first $limit $pages }}
-    {{ end }}
-    {{ $enableSummary := site.Params.rss.enableSummary | default true }}
-    {{ range $pages }}
-    <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-      <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}
-      <author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>
-      {{ end }}
-      <guid>{{ .Permalink }}</guid>
-      {{ if $enableSummary }}
-      <description>{{ .Summary | html }}</description>
-      {{ else }}
-      <description>{{ .Content | html }}</description>
-      {{ end }}
-    </item>
-    {{ end }}
+    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>{{ with site.LanguageCode }}
+    <language>{{ . }}</language>{{ end }}{{ with site.Params.author.email }}
+    <managingEditor>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}{{ with site.Params.author.email }}
+    <webMaster>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
+    <copyright>{{ . }}</copyright>{{ end }}{{ with .Date | default nil }}
+    <lastBuildDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}</lastBuildDate>{{ end }}{{ with .OutputFormats.Get "RSS" }}
+    {{ printf `<atom:link rel="self" href=%q type=%q />` .Permalink .MediaType.Type | safeHTML }}{{ end }}{{ range sort $pages "Date" "desc" }}
+<item>
+  <title>{{ .Title }}</title>
+  <link>{{ .Permalink }}</link>
+  <pubDate>{{ with .PublishDate | default .Date }}{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" . | safeHTML }}{{ end }}</pubDate>{{ with .Params.author }}
+  <author>{{ . }}</author>{{ end }}
+  <guid>{{ .Permalink }}</guid>
+  <description>{{ html .Content }}</description>
+</item>{{ end }}
   </channel>
 </rss>
