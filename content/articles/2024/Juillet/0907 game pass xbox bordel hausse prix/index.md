@@ -16,7 +16,7 @@ C'était dans l'air : l'achat d'Activision Blizzard allait nécessairement pouss
 
 L'offre Game Pass se compose actuellement de quatre abonnements : 
 
-- *Game Pass Core* pour les consoles (6,99 € par mois) ; une formule qui remplace depuis quelques mois l'ancien Xbox Live Gold, dont il a repris le mode multi. Il offre aussi l'accès à une sélection de 25 jeux ;
+- *Game Pass Core* pour les consoles (6,99 € par mois) ; une formule qui remplace depuis quelques mois l'ancien Xbox Live Gold, dont elle a repris le mode multi. Elle offre aussi l'accès à une sélection de 25 jeux ;
 - *Game Pass PC* à 9,99 € par mois, avec l'accès au catalogue complet du service et aux jeux EA Play (mais pas au mode multi) ;
 - *Game Pass Console* à 10,99 € par mois avec l'accès au catalogue complet du service (mais pas de mode multi) ;
 - *Game Pass Ultimate* à 14,99 €, avec le mode multi, l'accès au catalogue complet du service et aux jeux EA Play, et qui ajoute le service Xbox Cloud Gaming.
