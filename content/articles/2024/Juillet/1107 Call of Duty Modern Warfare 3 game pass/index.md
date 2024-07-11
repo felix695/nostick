@@ -1,6 +1,6 @@
 +++
 title = "Call of Duty: Modern Warfare 3 bientôt dans le Game Pass ?"
-date = 2024-07-11T10:14:32+01:00
+date = 2024-07-11T11:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
