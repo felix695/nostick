@@ -7,9 +7,9 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/juillet/Sonic-cancel.jpg"
 +++
 
-![Sonic (presque)](Sonic-cancel.jpg "")
+![Sonic (presque)](Sonic-cancel.jpg "Un RPG ? Et pourquoi pas dans un film aussi ?")
 
-Depuis ses débuts dans des plateformes 2D, Sonic a été mis à toutes les sauces : en 3D, sur un kart, dans un jeu de baston, aux Jeux Olympiques, ~~dans la culotte de ma sœur~~ et même dans un monde ouvert il y a deux ans avec *Sonic Frontiers*. Mais dans un jeu de rôle ? Et pourquoi pas !
+Depuis ses débuts dans des plateformes 2D, Sonic a été mis à toutes les sauces : en 3D, sur un kart, dans un jeu de baston, aux Jeux Olympiques, dans des films et des séries chelous, ~~dans la culotte de ma sœur~~ et même dans un monde ouvert il y a deux ans avec *Sonic Frontiers*. Mais dans un jeu de rôle ? Et pourquoi pas !
 
 Takashi Iizuka, le patron de la Sonic Team, voudrait faire vivre au hérisson speedé une aventure RPG. Dans une interview avec *[Good Vibes Gaming](https://youtu.be/wNeWQbiawnk?si=GAImFL7nMFJ79F0D&t=710)* (via *[IGN](https://www.ign.com/articles/sonic-boss-wants-to-make-a-sonic-rpg-before-he-retires)*), il a en effet expliqué que le « format » des jeux de rôle est « *très amusant* » : « *Je me suis même dit "tu sais, nous n'avons jamais fait de Sonic RPG ces 30 dernières années". Pourquoi est-ce qu'on n'a jamais fait un Sonic RPG tout ce temps ? Comment est-ce qu'on a pu passer 30 ans sans jeu de rôle ?* ». Voilà de très bonnes questions !
 
