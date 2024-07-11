@@ -3,7 +3,7 @@ title = "Planet Coaster 2 plongera dans le grand bain cet automne"
 date = 2024-07-11T18:55:00+01:00
 draft = false
 author = "Félix"
-tags = ["Actu"]
+tags = ["Trailer"]
 image = "https://nostick.fr/articles/vignettes/juillet/planet.jpg"
 +++ 
 
