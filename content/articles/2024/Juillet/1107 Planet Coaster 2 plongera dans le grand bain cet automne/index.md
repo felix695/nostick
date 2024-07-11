@@ -4,7 +4,7 @@ date = 2024-07-11T18:55:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "image = "https://nostick.fr/articles/vignettes/juillet/planet.jpg"
+image = "https://nostick.fr/articles/vignettes/juillet/planet.jpg"
 +++ 
 
 On ne peut pas dire que les gens de chez Frontier aient le sens du timing. Alors qu’on va sans doute se taper un été à 40°, le studio vient de balancer un premier trailer pour son futur *Planet Coaster 2* qui mettra à l’honneur les parcs aquatiques. Ce nouvel opus sortira… à l’automne prochain.
