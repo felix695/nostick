@@ -1,6 +1,6 @@
 +++
 title = "Le patron de la Sonic Team rêve d'un jeu de rôle Sonic"
-date = 2024-07-11T08:47:32+01:00
+date = 2024-07-11T09:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
