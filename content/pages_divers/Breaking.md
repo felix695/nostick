@@ -1,6 +1,6 @@
 +++ 
-date = 2024-07-09T11:01:32+01:00
+date = 2024-07-11T09:01:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Enfin une bonne raison de s'abonner à Apple Arcade : *[Vampire Survivors](https://apps.apple.com/us/app/vampire-survivors/id6478975337)* va intégrer le catalogue du service ! Pas sûr qu'on y trouvera de vampire, par contre.
+Amazon [filera](https://primegaming.blog/celebrate-prime-day-2024-with-suicide-squad-kill-the-justice-league-chivalry-2-and-rise-of-the-23c94a652992) gratos *Suicide Squad: Kill the Justice League* aux abonnés Prime les 16 et 17 juillet ! Le jeu, sorti en février, ne vaut probablement pas plus cher.
