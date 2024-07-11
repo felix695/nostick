@@ -4,7 +4,7 @@ date = 2024-07-11T09:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/juillet/Sonic-cancel.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1107-sonic-rpg-sega/Sonic-cancel.jpg"
 +++
 
 ![Sonic (presque)](Sonic-cancel.jpg "Un RPG ? Et pourquoi pas dans un film aussi ?")
