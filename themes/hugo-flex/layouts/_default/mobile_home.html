@@ -54,7 +54,7 @@
         </a>
         {{ else }}
         <div class="telex-article-details">
-            <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 8) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
+            <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 7) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
             <a href="{{ $page.Permalink }}">
                 <p class="telex-article-summary">
                     <strong>{{ .Title }}</strong>

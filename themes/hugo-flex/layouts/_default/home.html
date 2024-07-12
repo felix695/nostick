@@ -40,7 +40,7 @@
             <article class="{{ if eq $page.Type "telex" }}telex-article-item{{ else if eq $page.Type "breaking" }}breaking-article-item{{ else }}home-article-item{{ end }}">
                 {{ if eq $page.Type "telex" }}
                 <div class="telex-article-details">
-                    <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 8) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
+                    <img src="{{ printf "articles/vignettes/persos/perso%d.png" (add (mod $index 7) 1) | relURL }}" class="telex-article-perso" alt="Personnage">
                     <div class="telex-article-content">
                         <a href="{{ $page.Permalink }}">
                             <p class="telex-article-summary">

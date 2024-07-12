@@ -996,7 +996,7 @@ kbd:has(kbd) {
   display: flex;
   justify-content: center; /* Centrer horizontalement */
   align-items: center; /* Centrer verticalement */
-  width: 65%; /* Prendre toute la largeur disponible */
+  width: 80%; /* Prendre toute la largeur disponible */
   margin: 0;
 }
 
