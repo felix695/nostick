@@ -1,6 +1,6 @@
 +++
 title = "Comment la scène de sexe avec l'ours a façonné la légende de Baldur's Gate 3"
-date = 2024-07-12T10:47:32+01:00
+date = 2024-07-12T11:15:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

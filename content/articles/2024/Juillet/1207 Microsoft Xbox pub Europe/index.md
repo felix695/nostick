@@ -1,6 +1,6 @@
 +++
 title = "Microsoft ne mettrait plus un rond pour faire la pub de la Xbox en Europe"
-date = 2024-07-12T08:47:32+01:00
+date = 2024-07-12T09:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
