@@ -4,7 +4,7 @@ date = 2024-07-13T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/vignettes/juillet/hellblade-II.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1307-backlog-semaine/Disney-Pixel-RPG.jpg"
 +++
 
 ![Hellblade II: Senua's Saga](hellblade-II.jpg "Le week-end commence bien.")
