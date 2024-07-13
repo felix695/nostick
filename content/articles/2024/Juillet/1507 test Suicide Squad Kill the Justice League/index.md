@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Test"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/vignettes/juillet/suicide-squad.png"
 +++
 
 ![Suicide Squad: Kill the Justice League](suicide-squad.png "Bravo mon gars !")
