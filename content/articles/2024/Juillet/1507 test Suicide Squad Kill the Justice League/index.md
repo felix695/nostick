@@ -80,7 +80,7 @@ Si Suicide Squad se déroule dans un monde ouvert, les baston ont lieu dans des 
 
 Une boutique permet d'acheter des skins et le battle pass premium, mais je ne vois pas pourquoi quiconque aurait envie d'y dépenser quoi que ce soit. S'il n'est pas vraiment nécessaire de grinder comme un fou pour venir à bout de la campagne qui dure une quinzaine d'heures (moins si vous ne trainez pas trop en chemin, et beaucoup beaucoup moins si vous zappez les cinématiques, mais vous avez tort). En revanche, le endgame nécessitera de se frotter encore et encore aux mêmes missions pour récolter une ressource spécifique nécessaire pour battre tous les Brainiac qui vous barreront la route.
 
-Le hic, c'est que le jeu est tellement répétitif qu'il parait complètement insensé de persévérer après la campagne.
+Le hic, c'est que le jeu est tellement répétitif qu'il parait complètement insensé de persévérer après la campagne. D'ailleurs, Rocksteady devrait lâcher l'affaire dans quelques mois, le temps de lâcher les quatre « saisons » (gratuites, il faut le souligner) contenant quelques équipements et persos jouables supplémentaires.
 
 ## C’est oui ou c’est non ?
 
@@ -88,6 +88,8 @@ Quelque part sous *Suicide Squad: Kill the Justice Squad*, il a dû se cacher un
 
 ![Suicide Squad: Kill the Justice League](suicide-squad-1.jpg "Alé tchao.")
 
-*Suicide Squad* ne vaut certainement pas son prix d'origine, et à peine le tarif en soldes sur Steam. Je m'en veux même de ne pas avoir attendu les Prime Days d'Amazon pour le [gratter gratos](https://primegaming.blog/celebrate-prime-day-2024-with-suicide-squad-kill-the-justice-league-chivalry-2-and-rise-of-the-23c94a652992) ! Malgré tout, les premières heures ne sont pas si repoussantes et si les cinématiques ne sont pas suffisantes pour sauver les meubles, au moins elles donnent l'impression que le studio s'est donné u mal. C'est vraiment peu.
+*Suicide Squad* ne vaut certainement pas son prix d'origine, et à peine le tarif en soldes sur Steam. Je m'en veux même de ne pas avoir attendu les Prime Days d'Amazon pour le [gratter gratos](https://primegaming.blog/celebrate-prime-day-2024-with-suicide-squad-kill-the-justice-league-chivalry-2-and-rise-of-the-23c94a652992) ! Malgré tout, les premières heures ne sont pas si repoussantes et si les cinématiques ne sont pas suffisantes pour sauver les meubles, au moins elles donnent l'impression que le studio s'est donné du mal. C'est vraiment peu.
+
+*Dispo sur PC, Xbox Series S/X et PS5. Testé sur mon PC de n00bz0r.*
 
 {{< chat 1507suicidesquad >}} 
