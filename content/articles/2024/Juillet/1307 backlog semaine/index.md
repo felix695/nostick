@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : The First Descendant, Disney Pixel RPG, Hellblade II, Double Dragon, Pool Party"
-date = 2024-07-13T10:47:32+01:00
+date = 2024-07-13T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
