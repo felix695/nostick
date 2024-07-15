@@ -4,7 +4,7 @@ date = 2024-07-14T08:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/juillet/switch-nintendo.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1507-nintendo-tradcteur-ombre/switch-nintendo.jpg"
 +++
 
 ![Nintendo Switch](switch-nintendo.jpg "© Alvaro Reyes (Unsplash)")
