@@ -4,7 +4,7 @@ date = 2024-07-14T08:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/juillet/0707-les-sorties-de-la-semaine/gacha.jpeg"
+image = "https://nostick.fr/articles/2024/juillet/1407-anger-foot-once-human-sorties-de-la-semaone/anger.jpg"
 +++
 
 ![Le jeu Anger Foot](anger.jpg "Et PAF")
