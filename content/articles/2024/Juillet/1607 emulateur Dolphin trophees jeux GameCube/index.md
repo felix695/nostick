@@ -4,7 +4,7 @@ date = 2024-07-16T14:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1607-emulateur-dolphin-trophees-jeux-gamecube/dolphin-retroachievments.jpg"
 +++
 
 ![F-Zero GX](dolphin-retroachievments.jpg "") 
