@@ -1,5 +1,5 @@
 +++
-title = "Neverness to Everness : quand les gachas chinois s’inspirent de GTA"
+title = "Neverness to Everness : quand un gacha chinois s’inspire de GTA"
 date = 2024-07-16T18:30:32+01:00
 draft = false
 author = "Félix"
