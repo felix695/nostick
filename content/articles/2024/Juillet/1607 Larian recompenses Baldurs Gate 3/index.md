@@ -1,6 +1,6 @@
 +++
 title = "Larian n'en peut plus de recevoir des prix pour Baldur's Gate 3"
-date = 2024-07-16T08:44:32+01:00
+date = 2024-07-16T08:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
