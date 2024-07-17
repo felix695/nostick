@@ -1,6 +1,6 @@
 +++
 title = "C’est pas demain la veille qu’on pourra jouer à The Witcher 4"
-date = 2024-07-17T10:30:32+01:00
+date = 2024-07-17T10:45:32+01:00
 draft = false
 author = "Actu"
 tags = ["Trailer"]
