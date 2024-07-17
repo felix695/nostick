@@ -4,7 +4,7 @@ date = 2024-07-17T19:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juillet/1704-pas-demain-la-veille-quon-pourra-jouer-a-the-witcher/witcher.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1707-emio-lhomme-au-sourire/emio.jpg"
 +++ 
 
 ![Capture d’écran du jeu Emio – L'Homme au sourire](emio.jpg)
