@@ -2,9 +2,9 @@
 title = "C’est pas demain la veille qu’on pourra jouer à The Witcher 4"
 date = 2024-07-17T10:30:32+01:00
 draft = false
-author = "Actu"
-tags = ["Trailer"]
-image = "https://nostick.fr/articles/2024/juillet/1707-gacha-chinois-gta/gacha.jpg"
+author = "Félix"
+tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/juillet/1704-pas-demain-la-veille-quon-pourra-jouer-à-the-witcher/witcher.jpg"
 +++ 
 
 ![The Witcher](witcher.jpg "Ça jette un froid.")
