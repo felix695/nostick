@@ -1,6 +1,6 @@
 +++
 title = "Si cette manette ne sauve pas Xbox, alors c'est foutu"
-date = 2024-07-17T14:44:32+01:00
+date = 2024-07-17T13:44:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
