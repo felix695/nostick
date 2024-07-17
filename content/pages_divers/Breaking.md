@@ -1,6 +1,6 @@
 +++ 
-date = 2024-07-16T10:30:32+01:00
+date = 2024-07-17T14:30:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Vous aimez l’infiltration et les jeux en vue du dessus ? Bonne nouvelle : le sympathique *Intravenous* [est gratuit sur Steam](https://store.steampowered.com/app/1486630/Intravenous/) jusqu’à 17h.
+La simu de ⚽️ *[EA Sports FC 25](https://www.ea.com/games/ea-sports-fc/fc-25)* sortira le 27 septembre sur tous supports, avec un nouveau mode 5 vs 5. L'édition Ultimate donnera droit à une accès anticipé d'une semaine.
