@@ -4,7 +4,7 @@ date = 2024-07-17T10:45:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juillet/1704-pas-demain-la-veille-quon-pourra-jouer-à-the-witcher/witcher.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1704-pas-demain-la-veille-quon-pourra-jouer-a-the-witcher/witcher.jpg"
 +++ 
 
 ![The Witcher](witcher.jpg "Ça jette un froid.")
