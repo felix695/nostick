@@ -1,6 +1,6 @@
 +++
 title = "Pas de Xbox ? Pas de problème pour Microsoft et Amazon"
-date = 2024-07-17T07:44:32+01:00
+date = 2024-07-17T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
