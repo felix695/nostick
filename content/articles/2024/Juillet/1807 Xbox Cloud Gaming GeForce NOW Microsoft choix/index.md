@@ -1,6 +1,6 @@
 +++
 title = "Xbox Cloud Gaming ou GeForce NOW ? Microsoft donne le choix"
-date = 2024-07-18T08:44:32+01:00
+date = 2024-07-18T10:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
