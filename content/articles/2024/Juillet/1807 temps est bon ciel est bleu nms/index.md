@@ -5,7 +5,7 @@ date = 2024-07-18T19:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juillet/1407-anger-foot-once-human-sorties-de-la-semaone/anger.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1807-temps-est-bon-ciel-est-bleu-nms/grosse-mise-à-jour-pour-no-mans-sky-ce-jeu-dexploration/nms.png"
 +++
 
 {{< youtube s7-9Bf47yfs >}} 
