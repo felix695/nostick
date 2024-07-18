@@ -4,7 +4,7 @@ date = 2024-07-18T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/1807-metal-slug-tactics-heritage-snk/metal-slug-tactics.jpg"
 +++
 
 ![Metal Slug Tactics](metal-slug-tactics.jpg "")
