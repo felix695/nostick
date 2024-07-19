@@ -1,10 +1,10 @@
 +++
 title = "Diablo IV : la nouvelle classe sacresprit a la classe"
-date = 2024-07-19T08:47:32+01:00
+date = 2024-07-19T08:46:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/vignettes/juillet/diablo-4-sacresprit.jpg"
 +++
 
 ![Diablo IV](diablo-4-sacresprit.jpg "Roaarrr.")
