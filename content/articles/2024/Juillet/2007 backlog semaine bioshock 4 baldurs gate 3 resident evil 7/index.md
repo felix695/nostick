@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : BioShock 4, Baldur's Gate 3, Resident Evil 7…"
-date = 2024-07-20T10:47:32+01:00
+date = 2024-07-20T07:15:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
