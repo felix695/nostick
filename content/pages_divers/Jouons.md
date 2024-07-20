@@ -5,6 +5,6 @@ draft = false
 author = "Mickael"
 +++ 
 
-■ Félix essaye les jeux de la saison 1 de la Playdate.
+■ Félix essaye de speedrunner Anger Foot.
 
 ■ Mickaël joue à Suicide Squad: Kill the Justice League (oui).

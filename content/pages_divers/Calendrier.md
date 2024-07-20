@@ -5,14 +5,6 @@ draft = false
 author = "Mickael"
 +++
 
-**[TMNT: Splintered Fate](https://superevilmegacorp.com/games/tmnt-splintered-fate/)**\
-Super Evil Megacorp — 17/07\
-Switch
-
-**[Kunitsu-Gami: Path of the Goddess](https://www.kunitsu-gami.com/en-us/)**\
-Capcom — 19/07\
-PS4/PS5, Xbox One/Xbox Series S/X, PC
-
 **[F1 Manager 2024](https://www.f1manager.com)**\
 Frontier Developments — 23/07\
 PS4/PS5, Xbox One/Xbox Series S/X, PC
@@ -29,6 +21,15 @@ PC
 Sony — 23/08\
 PS5, PC
 
+**[World of Warcraft: The War Within](https://thewarwithin.blizzard.com/fr-fr/)**\
+Blizzard — 26/08\
+PC
+
+**[Age of Mythology: Retold](https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/)**\
+Capcom — 04/09\
+Xbox One/Xbox Series S/X, PC
+
 **[Frostpunk 2](https://frostpunk2.com)**\
 11 Bit Studios — 20/09\
 PC
+
