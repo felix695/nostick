@@ -19,7 +19,7 @@ On n'est pas près de mettre les mains sur *Bioshock 4*, vu que le studio Cloud 
 
 Selon le site, l'image est tirée d'une démo de « Parkside » datant de 2021. Parkside, c'est aussi le nom de code du jeu tel qu'il a été révélé fin 2021. Le titre en lui-même avait été annoncé deux ans plus tôt, ce qui commence à faire un peu long, surtout que 2K n'a donné absolument aucun détail depuis. L'image en elle-même n'est pas très riche en indiscrétions, si ce n'est que les visuels semblent prometteurs.
 
-*Bioshock 4* se déroulera dans une cité en Antarctique durant les années 60. À part ça, on peut s'attendre à ce que cet opus ait des liens avec les trois autres volets, mais ça ne va pas tellement plus loin.
+*Bioshock 4* se déroulerait dans une cité en Antarctique durant les années 60. À part ça, on peut s'attendre à ce que cet opus ait des liens avec les trois autres volets, mais ça ne va pas tellement plus loin.
 
 ## Ça fait envie : Baldur's Gate 3
 
@@ -37,7 +37,7 @@ Ce n'est pas la première fois et probablement pas la dernière qu'on râle sur 
 
 ![Famicom Detective Club](Famicom-Detective-Club.jpg "Attends 60 balles ?!")
 
-Alors certes, il y a eu un boulot de nettoyage et de remise au goût du jour. Mais 60 balles pour deux jeux NES sortis en 1988 et archi-rentabilisés depuis 36 ans, c'est un peu fort de café !Et malheureusement, Nintendo a bien senti que la fibre nostalgique pouvait rapporter gros : les remakes de *Luigi's Mansion 2 HD*, *Paper Mario : La Porte Millénaire*,  *Another Code: Recollection* ou encore *Super Mario RPG* n'ont pas tellement plus à offrir que leurs versions originales, si ce n'est des graphismes au goût du jour et une jouabilité optimisée pour la Switch. Et pourtant, Nintendo les facture plein pot…
+Alors certes, il y a eu un boulot de nettoyage et de remise au goût du jour. Mais 60 balles pour deux jeux NES sortis en 1988 et archi-rentabilisés depuis 36 ans, c'est un peu fort de café ! Et malheureusement, Nintendo a bien senti que la fibre nostalgique pouvait rapporter gros : les remakes de *Luigi's Mansion 2 HD*, *Paper Mario : La Porte Millénaire*,  *Another Code: Recollection* ou encore *Super Mario RPG* n'ont pas tellement plus à offrir que leurs versions originales, si ce n'est des graphismes au goût du jour et une jouabilité optimisée pour la Switch. Et pourtant, Nintendo les facture plein pot…
 
 L'entreprise a parfois des petites gênes, comme pour *Mario vs. Donkey Kong* ou *Pikmin 1 + 2* vendus 50 €, ce qui reste cher payé. On a pourtant cru que Nintendo avait trouvé le bon équilibre avec *Metroid Prime Remastered*, un remaster grandiose d'un jeu d'exception, vendu 40 € « seulement ». On ne sait pas ce qui était passé par la tête du constructeur, mais en tout cas il s'est probablement dit que ce n'était [pas assez cher, mon fils](https://www.youtube.com/watch?v=ywzTcsnMqrc).
 
@@ -51,7 +51,7 @@ Les résultats de *RE7* ne font que confirmer la stratégie mal embouchée d'App
 
 À la décharge de *RE7*, le jeu n'est pas non plus tout récent puisqu'il est sorti en 2017, et qu'il est vendu sur l'App Store plus cher que les autres versions (pas sûr qu'un prix plus bas aurait aidé, cela dit). Et puis pour y jouer dans de bonnes conditions, il faut un iPhone 15 Pro ou 15 Pro Max, ou encore un iPad ou un Mac équipé d'une puce M1. Sans oublier une manette…
 
-Le prochain rendez-vous va être intéressant à suivre, puisque *Assassin's Creed Shadows* est prévu sur Mac (mais ni sur iPad, ni sur iPhone) en même temps que les autres plateformes, le 15 novembre.
+Le prochain rendez-vous va être intéressant à suivre, puisque *Assassin’s Creed Shadows* est prévu sur Mac et iPad (mais pas sur iPhone) en même temps que les autres plateformes, le 15 novembre.
 
 ## On n'a pas eu le temps cette semaine mais on pense à eux
 
