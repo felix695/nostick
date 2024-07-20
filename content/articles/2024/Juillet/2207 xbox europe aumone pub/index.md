@@ -4,7 +4,7 @@ date = 2024-07-22T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "image = "https://nostick.fr/articles/vignettes/juillet/xbox-series-x.jpg"
+image = "https://nostick.fr/articles/vignettes/juillet/xbox-series-x.jpg"
 +++
 
 ![Xbox Series X](xbox-series-x.jpg "© Dmitry Novikov (Unsplash)") 
