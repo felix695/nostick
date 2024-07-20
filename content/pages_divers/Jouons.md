@@ -7,4 +7,4 @@ author = "Mickael"
 
 ■ Félix essaye de speedrunner Anger Foot.
 
-■ Mickaël joue à Suicide Squad: Kill the Justice League (oui).
+■ Mickaël redonne sa chance à Forza Motorsport.
