@@ -3,7 +3,7 @@ title = "SNK vs. Capcom SVC Chaos : c'est la grande bagarre qui redémarre"
 date = 2024-07-20T19:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["C'est Dispo"]
+tags = ["C’est dispo"]
 image = "https://nostick.fr/articles/2024/juillet/2007-snk-vs-capcom-svc-chaos--grande-bagarre/snk-vs-capcom.jpg"
 +++
 
