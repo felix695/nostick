@@ -3,7 +3,7 @@ title = "Dungeons of Hinterberg, Kunitsu-Gami - Path of the Goddess : le récap 
 date = 2024-07-21T07:00:01+01:00
 draft = false
 author = "Félix"
-tags = ["C’est dispo"]
+tags = ["C'est dispo"]
 image = "https://nostick.fr/articles/2024/juillet/2107-dungeons-of-hinterberg-kunitsu/rando.jpg"
 +++
 
