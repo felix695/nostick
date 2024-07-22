@@ -1,6 +1,6 @@
 +++
 title = "Xbox doit faire l'aumône à Microsoft pour faire de la pub en Europe "
-date = 2024-07-22T10:15:32+01:00
+date = 2024-07-22T11:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
