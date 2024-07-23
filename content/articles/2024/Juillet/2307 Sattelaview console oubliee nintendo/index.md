@@ -1,6 +1,6 @@
 +++
 title = "Satellaview : la console par satellite oubliée de Nintendo"
-date = 2024-07-23T11:45:01+01:00
+date = 2024-07-23T11:45:30+01:00
 draft = false
 author = "Félix"
 tags = ["XXL"]
