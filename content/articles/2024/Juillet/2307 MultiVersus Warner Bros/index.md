@@ -1,6 +1,6 @@
 +++
 title = "Warner Bros. Games avale le studio à l'origine de MultiVersus"
-date = 2024-07-23T09:10:32+01:00
+date = 2024-07-23T09:10:30+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
