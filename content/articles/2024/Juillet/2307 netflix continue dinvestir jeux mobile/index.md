@@ -1,7 +1,7 @@
 
 +++
 title = "Netflix ne compte pas lâcher le secteur du jeu mobile"
-date = 2024-07-23T08:00:01+01:00
+date = 2024-07-23T06:50:01+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
