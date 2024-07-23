@@ -1,11 +1,11 @@
 +++
 title = "Satellaview : la console par satellite oubliée de Nintendo"
-date = 2024-07-23T12:01:01+01:00
+date = 2024-07-23T11:45:30+01:00
 draft = false
 author = "Félix"
 tags = ["XXL"]
 type = "une"
-image = "https://nostick.fr/articles/2024/2207-sattelaview-console-oubliee-nintendo/Satellaview.png"
+image = "https://nostick.fr/articles/vignettes/juillet/nintendosatt.png"
 +++ 
 
 ![La console Satellaview](Satellaview.png "Un gros accessoire qui n'est jamais sorti du Japon")
