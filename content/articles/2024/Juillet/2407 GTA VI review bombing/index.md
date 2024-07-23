@@ -1,6 +1,6 @@
 +++
 title = "L'éditeur de GTA VI a peur du review bombing"
-date = 2024-07-24T08:17:32+01:00
+date = 2024-07-24T10:17:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
