@@ -1,5 +1,5 @@
 +++
-title = "Le cri du cœur du boss de Warfare aux éditeurs de free-to-play : n'abandonnez pas trop vite !"
+title = "Le cri du cœur du boss de Warfare aux éditeurs de jeux service : n'abandonnez pas trop vite !"
 date = 2024-07-23T14:31:32+01:00
 draft = false
 author = "Mickael"
