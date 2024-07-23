@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["XXL"]
 type = "une"
-image = "https://nostick.fr/articles/2024/juillet/2307-sattelaview-console-oubliee-nintendo/Satellaview.png"
+image = "https://nostick.fr/articles/vignettes/juillet/nintendosatt.png"
 +++ 
 
 ![La console Satellaview](Satellaview.png "Un gros accessoire qui n'est jamais sorti du Japon")
