@@ -1,6 +1,6 @@
 +++
 title = "Coup de hache dans les effectifs de Humble Games, pas de changement pour Humble Bundle"
-date = 2024-07-24T08:15:32+01:00
+date = 2024-07-24T10:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
