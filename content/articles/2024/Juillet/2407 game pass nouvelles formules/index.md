@@ -4,7 +4,7 @@ date = 2024-07-24T12:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/2407-game-pass-nouvelles-formules/game-pass-xbox.jpg"
 +++
 
 ![Game Pass](game-pass-xbox.jpg "Quel Game Pass êtes-vous ?") 
