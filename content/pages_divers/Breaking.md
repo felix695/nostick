@@ -1,6 +1,6 @@
 +++ 
-date = 2024-07-23T15:10:32+01:00
+date = 2024-07-25T15:10:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-*Call of Duty: Modern Warfare III* sera disponible le [24 juillet](https://news.xbox.com/en-us/2024/07/23/modern-warfare-3-coming-to-game-pass-july-24/) dans le Game Pass PC, Console et Ultimate ! Tout y est, la campagne solo comme les modes multi. À l'assaut !
+*STALKER 2: Heart of Chornobyl* [sortira](https://www.youtube.com/watch?v=vxeGyXSM5Pc) finalement le 20 novembre, ce qui laissera deux mois de plus à GSC World pour chasser les bugs. Un peu plus, un peu moins : après tout, le jeu devait sortir en 2022…
