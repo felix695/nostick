@@ -1,6 +1,6 @@
 +++
 title = "Les joueurs ont fait plier Respawn, qui change (à nouveau) le battle pass d'Apex Legends"
-date = 2024-07-25T08:10:32+01:00
+date = 2024-07-25T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
