@@ -1,5 +1,5 @@
 +++
-title = "Test de la nouvelle ROG Ally X : la meilleure console portable du marché coûte 200 € de trop "
+title = "Test de la nouvelle ROG Ally X : la meilleure console portable du marché coûte 200 € de trop"
 date = 2024-07-29T10:00:30+01:00
 draft = false
 author = "Félix"
@@ -10,9 +10,9 @@ image = "https://nostick.fr/articles/2024/2907-coup-doeil-sur-la-rog-ally-x/roga
 
 ![La console ROG Ally X](rogallyx.jpeg "Je voulais vous faire une jolie photo d'accroche quand soudain…") 
 
-Si vous m’aviez dit il y a deux ans que je passerais bientôt la plupart de mon temps à jouer sur une console portable tournant sous Windows 11 de chez Asus, je vous aurais sans doute ri au nez. C’est pourtant ce qui s’est passé : depuis que j’ai acheté [la première ROG Ally](https://rog.asus.com/fr/gaming-handhelds/rog-ally/rog-ally-2023/), ma tour prend la poussière et j’ai même carrément viré le gros clavier qui trainait sur mon bureau. Alors certes, le processeur n’est pas assez puissant pour faire tourner les derniers AAA correctement, certes Windows me casse régulièrement les pieds. Mais pour jouer à 90 % des jeux indés qui sortent en ce moment, émuler la Switch et lancer quelques vieilleries, la console fait des merveilles.
+Si vous m’aviez dit il y a deux ans que je passerais bientôt la plupart de mon temps à jouer sur une console portable de chez Asus tournant sous Windows 11, je vous aurais sans doute ri au nez. C’est pourtant ce qui s’est passé : depuis que j’ai acheté [la première ROG Ally](https://rog.asus.com/fr/gaming-handhelds/rog-ally/rog-ally-2023/), ma tour prend la poussière et j’ai même carrément viré le gros clavier qui trainait sur mon bureau. Alors certes, le processeur n’est pas assez puissant pour faire tourner les derniers AAA correctement, certes Windows me casse régulièrement les pieds. Mais pour jouer à 90 % des jeux indés qui sortent en ce moment, émuler la Switch et lancer quelques vieilleries, la console fait des merveilles.
 
-Malgré tout mon amour pour elle, la ROG Ally reste quand même bourrée de défauts. La batterie ne tient pas une heure en fond de cinquième, le design blanc est salissant, la prise en main peut être reloue, Windows, putain Windows… Asus est visiblement consciente de ce problème étant donné qu’il vient de lancer [la ROG Ally X](https://estore.asus.com/fr/90nv00f1-m000e0-rog-ally-x-2024.html), une révision du modèle originel avec quelques améliorations. C’est un excellent produit, malheureusement vendu beaucoup trop cher face à la concurrence. Jetons-y un coup d’œil.
+Malgré tout mon amour pour elle, la ROG Ally reste quand même bourrée de défauts. La batterie ne tient pas une heure en fond de cinquième, le design blanc est salissant, la prise en main peut être reloue, Windows, putain Windows… Asus est visiblement consciente de ce problème étant donné qu’elle vient de lancer [la ROG Ally X](https://estore.asus.com/fr/90nv00f1-m000e0-rog-ally-x-2024.html), une révision du modèle originel avec quelques améliorations. C’est un excellent produit, malheureusement vendu beaucoup trop cher face à la concurrence. Jetons-y un coup d’œil.
 
 ![La console ROG Ally X](rogallyx2.jpeg "La première Ally (en blanc) et la nouvelle (en noir). Le design se rapproche de plus en plus du Steam Deck.") 
 

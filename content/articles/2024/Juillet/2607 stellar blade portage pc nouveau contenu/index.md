@@ -5,7 +5,7 @@ date = 2024-07-26T06:50:01+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juillet/2307-netflix-continue-dinvestir-jeux-mobile/netflix.jpg"
+image = "https://nostick.fr/articles/2024/juillet/stellar.jpeg"
 +++ 
 
 ![Le jeu Stellar Blade](stellar.jpeg "Eve part à la pêche aux développeurs")
