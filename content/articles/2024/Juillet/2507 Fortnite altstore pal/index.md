@@ -16,5 +16,6 @@ Et c'est loin d'être terminé. Epic vient en effet [d'annoncer](https://www.epi
 
 Epic, qui en parallèle développe une version mobile de son Games Store pour iOS et iPadOS en Europe (sortie prévue d'ici la fin de l'année), a décidé de ne pas mettre tous ses œufs dans le même panier : *Fortnite* et ses autres jeux mobiles seront donc distribués dans les autres boutiques alternatives, dont AltStore PAL ainsi qu'au moins deux autres magasins.
 
-Dans la foulée, Epic met un terme à la distribution dans les boutiques mobiles qui agissent comme des rentiers sans concurrence vigoureuse, « *et sans servir équitablement tous les développeurs* ». Le Galaxy Store est le premier touché, on n'y trouvera plus les jeux de l'éditeur.
+Dans la foulée, Epic met un terme à la distribution dans les boutiques mobiles qui agissent comme des « rentiers » sans concurrence, « *et sans servir équitablement tous les développeurs* ». Le Galaxy Store est le premier touché, on n'y trouvera plus les jeux de l'éditeur car Samsung empêche le sideloading sur ses appareils.
 
+On ignore quand Fortnite sera dispo sur AltStore PAL, mais ça ne saurait tarder.
