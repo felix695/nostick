@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 +++
 
-![Apex Legends](apex-legends1.jpg "Les joueurs prenant en tenaille Respawn (allégorie).") 
+![Apex Legends](apex-legends1.jpg) 
 
 Des vertus du review bombing. [Les éditeurs n'aiment pas l'avalanche de mauvaises notes](https://nostick.fr/articles/2024/juillet/2407-gta-vi-review-bombing/) et de commentaires désobligeants qui s'abattent sur leurs jeux quand les joueurs sont mécontents d'un changement. Mais parfois, c'est le seul moyen qu'ils ont pour faire entendre leur voix. Ça a marché quand [Sony a voulu imposer une connexion au PSN dans *Helldivers II*](https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/), et bis repetita avec Respawn Entertainment.
 
