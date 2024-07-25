@@ -4,7 +4,7 @@ date = 2024-07-25T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/2507-joueurs-plier-respawn-battle-pass-apex-legends/apex-legends1.jpg"
 +++
 
 ![Apex Legends](apex-legends1.jpg) 
