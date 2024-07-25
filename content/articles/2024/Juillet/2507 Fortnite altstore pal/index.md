@@ -1,5 +1,5 @@
 +++
-title = "Fortnite bientôt dans AltStore PAL, la première boutique alternative sur iPhone en Europe"
+title = "Fortnite bientôt de retour sur iPhone en Europe, grâce à la boutique alternative AltStore PAL"
 date = 2024-07-25T18:47:32+01:00
 draft = false
 author = "Mickael"
