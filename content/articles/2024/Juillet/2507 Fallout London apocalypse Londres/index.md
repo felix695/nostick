@@ -4,7 +4,7 @@ date = 2024-07-25T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/2507-fallout-london-apocalypse-londres/fallout-london.jpg"
 +++
 
 ![Fallout: London](fallout-london.jpg "")
