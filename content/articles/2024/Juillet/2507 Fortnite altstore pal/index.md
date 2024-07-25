@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "XXL"
-image = "https://nostick.fr/articles/vignettes/juillet/fornite.jpg"
+image = "https://nostick.fr/articles/vignettes/juillet/fortnite.jpg"
 +++
 
 ![Fortnite](fornite.jpg "Et bim Apple.")
