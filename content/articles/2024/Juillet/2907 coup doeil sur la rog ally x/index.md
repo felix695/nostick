@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Test"]
 type = "une"
-image = "https://nostick.fr/articles/2024/2907-coup-doeil-sur-la-rog-ally-x/rogallyx.jpeg"
+image = "https://nostick.fr/articles/2024/juillet/2907-coup-doeil-sur-la-rog-ally-x/rogallyx4.jpeg"
 +++ 
 
 ![La console ROG Ally X](rogallyx.jpeg "Je voulais vous faire une jolie photo d'accroche quand soudain…") 
