@@ -1,11 +1,11 @@
 +++
 title = "Test de la nouvelle ROG Ally X : la meilleure console portable du marché coûte 200 € de trop"
-date = 2024-07-29T10:00:30+01:00
+date = 2024-07-26T10:10:30+01:00
 draft = false
 author = "Félix"
 tags = ["Test"]
 type = "une"
-image = "https://nostick.fr/articles/2024/2907-coup-doeil-sur-la-rog-ally-x/rogallyx.jpeg"
+image = "https://nostick.fr/articles/2024/juillet/2907-coup-doeil-sur-la-rog-ally-x/rogallyx4.jpeg"
 +++ 
 
 ![La console ROG Ally X](rogallyx.jpeg "Je voulais vous faire une jolie photo d'accroche quand soudain…") 
@@ -47,3 +47,6 @@ La ROG Ally X fait tourner des jeux récents certes, mais à 30 FPS et parfois m
 Une console plus puissante, une autonomie doublée, une prise en main améliorée… On achète ? Difficile de recommander cette console : ASUS la vend au tarif délirant de 899 €, ce qui fait *très* cher quand Valve vend son Steam Deck OLED équivalent à 679 € avec un écran OLED. La ROG garde « l’avantage » d’embarquer Windows et d’être un poil plus puissante, mais selon les jeux que vous visez c'est souvent kif-kif. Ça reste une très chouette machine portable, et cette ROG Ally X pourra valoir le coup pour les obsédés des performances quand elle tombera dans les 700 / 800 €. 
 
 *La ROG Ally est affichée à 899 € chez les revendeurs ([Fnac](https://www.fnac.com/Console-portable-Asus-ROG-Ally-X-Noir/a20619434/w-4) et consort) ou directement chez [ASUS](https://estore.asus.com/fr/90nv00f1-m000e0-rog-ally-x-2024.html). La console est livrée avec 3 mois de Game Pass Ultimate, ça fait toujours plaisir.*
+
+
+{{< chat 2607RogallyX>}} 
