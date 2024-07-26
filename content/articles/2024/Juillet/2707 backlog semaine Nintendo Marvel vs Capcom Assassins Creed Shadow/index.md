@@ -27,7 +27,7 @@ Hélas, mille fois hélas, ces morceaux de plastique ne sont disponibles que dan
 
 ## Ça fait envie : un nouveau jeu Marvel vs. Capcom ?
 
-Beaucoup avaient espéré l'arrivée de *Marvel vs. Capcom Fighting Collection: Arcade Classics* durant l'EVO qui s'est achevé le 21 juillet. Si la collection était bien présente à Vegas, malheureusement Capcom n'en a pas profité pour en lancer la commercialisation — ni même donner une date de dispo. 
+Beaucoup avaient espéré l'arrivée de *Marvel vs. Capcom Fighting Collection: Arcade Classics* durant l'EVO, la grande bagarre annuelle entre amateurs de jeux de baston, qui s'est achevé le 21 juillet. Si la collection était bien présente à Las Vegas, malheureusement Capcom n'en a pas profité pour en lancer la commercialisation — ni même donner une date de dispo. 
 
 ![Marvel vs. Capcom Fighting Collection: Arcade Classics](Marvel-vs-Capcom-Fighting-Collection-Arcade-Classics.jpg "Des bornes avec la compilation étaient présentes sur place durant l'EVO. © EVO/© Vexante")
 
@@ -53,7 +53,7 @@ Yasuke est pourtant un personnage ayant réellement [existé](https://en.wikiped
 
 Mais peu importe la réalité historique, ça ne sera jamais suffisant pour ceux qui portent des œillères. Ubisoft a voulu adresser un [message](https://news.ubisoft.com/en-us/article/7dWPCtVQU7udC0KkPFOyXh/assassins-creed-shadows-an-update-for-the-japanese-community) à tous et plus particulièrement aux joueurs japonais : « *Nous partageons votre passion pour l'histoire et respectons profondément votre souci de l'intégrité historique et culturelle de votre riche patrimoine* », commence l'éditeur avant de préciser que « *notre intention n'a jamais été de présenter nos jeux Assassin's Creed, y compris Assassin's Creed Shadows, comme des représentations factuelles de l'histoire ou des personnages historiques* ».
 
-Même si tous les efforts ont été faits pour « *garantir une représentation immersive et respectueuse du Japon féodal* » (consultants externes, historiens, chercheurs et des équipes internes chez Ubisoft Japan), le studio cherche d'abord à titiller la curiosité des joueurs et les encourager à se plonger dans l'histoire (la vraie) qui inspire les jeux de la saga.
+Même si tous les efforts ont été faits pour « *garantir une représentation immersive et respectueuse du Japon féodal* » (consultants externes, historiens, chercheurs et des équipes internes chez Ubisoft Japan), le studio cherche d'abord à titiller la curiosité des joueurs et les encourager à se plonger dans l'Histoire (la vraie) qui inspire les jeux de la saga.
 
 À toutes fins utiles, Ubisoft rappelle que les jeux *Assassin's Creed* sont certes des « *œuvres de fiction inspirées par des événements et des figures historiques réels* », mais que « *depuis ses débuts, la série a pris des libertés créatives et incorporé des éléments fantastiques pour créer des expériences engageantes et immersives* ». Et la représentation de Yasuke en est une illustration.
 
