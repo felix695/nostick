@@ -1,6 +1,6 @@
 +++
 title = "Test de la nouvelle ROG Ally X : la meilleure console portable du marché coûte 200 € de trop"
-date = 2024-07-29T10:10:30+01:00
+date = 2024-07-26T10:10:30+01:00
 draft = false
 author = "Félix"
 tags = ["Test"]
