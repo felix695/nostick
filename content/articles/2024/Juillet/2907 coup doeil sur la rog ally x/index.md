@@ -47,3 +47,6 @@ La ROG Ally X fait tourner des jeux récents certes, mais à 30 FPS et parfois m
 Une console plus puissante, une autonomie doublée, une prise en main améliorée… On achète ? Difficile de recommander cette console : ASUS la vend au tarif délirant de 899 €, ce qui fait *très* cher quand Valve vend son Steam Deck OLED équivalent à 679 € avec un écran OLED. La ROG garde « l’avantage » d’embarquer Windows et d’être un poil plus puissante, mais selon les jeux que vous visez c'est souvent kif-kif. Ça reste une très chouette machine portable, et cette ROG Ally X pourra valoir le coup pour les obsédés des performances quand elle tombera dans les 700 / 800 €. 
 
 *La ROG Ally est affichée à 899 € chez les revendeurs ([Fnac](https://www.fnac.com/Console-portable-Asus-ROG-Ally-X-Noir/a20619434/w-4) et consort) ou directement chez [ASUS](https://estore.asus.com/fr/90nv00f1-m000e0-rog-ally-x-2024.html). La console est livrée avec 3 mois de Game Pass Ultimate, ça fait toujours plaisir.*
+
+
+{{< chat 2607RogallyX>}} 

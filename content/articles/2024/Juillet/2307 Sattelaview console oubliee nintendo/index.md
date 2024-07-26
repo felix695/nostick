@@ -46,3 +46,5 @@ Nintendo Dojo a [une grosse série](https://www.nintendojo.fr/articles/editos/sa
 
 Et Nintendo ? Mis à part un remake [d'un jeu](https://en.wikipedia.org/wiki/Fire_Emblem%3A_Mystery_of_the_Emblem) *Fire Emblem* sur DS en 2011, l'entreprise ne mentionne quasiment jamais la console. Peut être qu'elle s'en fiche, peut être qu'il y a des complications légales à cause des doublages de l'époque réalisés par des personnalités. En attendant que Nintendo se décide à ouvrir ses archives, le temps presse pour les archivistes : les cartouches subissent mal le choc des années, et certaines ont déjà commencé à pourrir…
 
+{{< chat 2307Satellaview >}} 
+
