@@ -3,7 +3,7 @@ title = "Test de Xbox Cloud Gaming sur le stick Fire TV d'Amazon : mieux que la 
 date = 2024-07-29T10:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["XXL"]
+tags = ["Test"]
 type = "une"
 image = "https://nostick.fr/articles/vignettes/juillet/game-pass-stick-fire-tv-9.jpg"
 +++
