@@ -19,7 +19,7 @@ Tout est toujours plus cool au Japon (bon OK, [pas tout](https://en.wikipedia.or
 
 ![Nintendo](porte-clefs-nintendo-2.jpg "")
 
-![Nintendo](porte-clefs-nintendo-3.jpg "")
+![Nintendo](porte-clefs-nintendo-4.jpg "")
 
 Dans le tas, les modèles les plus sexy sont évidemment ceux qui s'inspirent du design des manettes de N64 et de la NES japonaise ! Mais les autres ne sont pas mal non plus. Ces reproductions ne peuvent malheureusement pas se connecter à une console, mais par contre on peut en [utiliser](https://x.com/doben_ssb/status/1815788976361636131) des bouts pour remplacer des boutons défectueux sur les manettes d'origine : les composants sont en effet compatibles !
 
