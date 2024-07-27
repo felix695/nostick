@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : porte-clefs Nintendo, Marvel vs. Capcom, Assassin's Creed Shadow…"
-date = 2024-07-27T09:15:32+01:00
+date = 2024-07-27T03:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
