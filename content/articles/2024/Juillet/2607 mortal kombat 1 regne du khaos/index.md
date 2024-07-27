@@ -3,8 +3,8 @@ title = "Le Règne du Khaos va mettre le souk dans Mortal Kombat 1"
 date = 2024-07-26T23:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+tags = ["Trailer"]
+image = "https://nostick.fr/articles/2024/juillet/2607-mortal-kombat-1-regne-du-khaos/mk1-regne-khaos.jpg"
 +++
 
 ![Mortal Kombat 1](mk1-regne-khaos.jpg "Une fine équipe.")
