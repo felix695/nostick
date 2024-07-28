@@ -15,4 +15,4 @@ Du lourd, du très lourd, ce d'autant que Robert Patrick, l'acteur dans la peau 
 
 {{< youtube PF7nFD80g3M >}} 
 
-Et si tout cela ne suffisait pas, NetherRealm va remettre au goût du jour les animality, des variantes des fatality à base d'animaux très voraces. Jetez un œil à la fin de la bande annonce, c'est quelque chose. Pas besoin d'acheter le nouveau DLC pour en profiter, ce sera inclus avec la mise à jour gratuite qui tombera le 24 septembre. Et en bonus, le studio offre à tous les joueurs le skin pour Scorpion tiré du film de 1995, et ce dès aujourd'hui ! C'est Noël.
+Et si tout cela ne suffisait pas, NetherRealm va remettre au goût du jour les animality, des variantes des fatality à base d'animaux très voraces qui étaient apparues dans *MK3*… en 1995. Jetez un œil à la fin de la bande annonce, c'est quelque chose. Pas besoin d'acheter le nouveau DLC pour en profiter, ce sera inclus avec la mise à jour gratuite qui tombera le 24 septembre. Et en bonus, le studio offre à tous les joueurs le skin pour Scorpion tiré du film de 1995, et ce dès aujourd'hui ! C'est Noël.
