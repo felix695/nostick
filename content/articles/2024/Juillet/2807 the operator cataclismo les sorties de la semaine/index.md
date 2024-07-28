@@ -4,7 +4,7 @@ date = 2024-07-28T07:40:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/2807-the-operator-cataclismo-les-sorties-de-la-semaine/farlands.jpg"
+image = "https://nostick.fr/articles/2024/juillet/2807-the-operator-cataclismo-les-sorties-de-la-semaine/farlands.jpg"
 +++
 
 ![Le jeu The Operator](operator.jpg "Vous reprendrez bien une journée de boulot après votre journée de boulot ?")
