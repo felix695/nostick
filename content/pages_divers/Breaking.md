@@ -1,6 +1,6 @@
 +++ 
-date = 2024-07-25T11:10:32+01:00
+date = 2024-07-28T07:10:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-*STALKER 2: Heart of Chornobyl* [sortira](https://www.youtube.com/watch?v=vxeGyXSM5Pc) finalement le 20 novembre, ce qui laissera deux mois de plus à GSC World pour chasser les bugs. Le jeu devait sortir en 2022…
+La future série Amazon Prime *Like a Dragon: Yakuza* a récemment eu droit à [une première bande-annonce](https://www.youtube.com/watch?v=mZkC1sYxzZo). Sortie prévue le 24 octobre.
