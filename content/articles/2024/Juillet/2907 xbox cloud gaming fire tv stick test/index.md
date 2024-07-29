@@ -39,7 +39,7 @@ L'app Game Pass est compatible avec les sticks Fire TV 4K (70 €) et 4K Max (8
 
 ## Qu'est-ce qui est bien ?
 
-Une fois toutes les conditions réunies, l'expérience est très proche de ce qu'on peut connaitre sur une Xbox, avec l'interface du service évidemment qui a le mérite d'aller droit au but (et de ne pas afficher de publicité, contrairement à l'écran d'accueil de la console !). J'ai pris autant de plaisir à jouer à *Forza Horizon* et à *Injustice 2* à partir du stick qu'en local, sur mon Steam Deck ou mon PC.
+Une fois toutes les conditions réunies, l'expérience est très proche de ce qu'on peut connaitre sur une Xbox, avec l'interface du service qui a le mérite d'aller droit au but (et de ne pas afficher de publicité, contrairement à l'écran d'accueil de la console !). J'ai pris autant de plaisir à jouer à *Forza Horizon* et à *Injustice 2* à partir du stick qu'en local, sur mon Steam Deck ou mon PC.
 
 Microsoft a visiblement trouvé le moyen de réduire les temps de chargement qui plombaient le lancement des jeux au plus fort de *Starfield* l'an dernier. Plus besoin d'attendre des plombes pour se jeter à corps perdu dans une partie de *Doom 2016* ! Les performances graphiques m'ont semblé très correctes, même si *Starfield* tourne à 30 FPS. La latence n'a pas été un problème, même dans les jeux qui y sont très sensibles. Honnêtement, je ne m'attendais pas à ce que tout roule aussi bien !
 
@@ -69,7 +69,7 @@ Microsoft pourrait donner un coup de pouce avec une formule du Game Pass ne prop
 
 Chacun verra midi à sa porte, pour les joueurs équipés PC et/ou Xbox qui aiment picorer un nouveau jeu chaque semaine, le Game Pass Ultimate reste l'affaire du siècle malgré la hausse des prix, avec son catalogue de hits, sans oublier l'arrivée régulière de jeux « day one ». 
 
-Reste à savoir si *Black Ops 6* sera proposé en streaming, en raison de l'accord entre Microsoft et Ubisoft qui gère toute la partie cloud gaming pour les jeux Activision Blizzard (oui, c'est compliqué). *Call of Duty: Modern Warfare III* est disponible sur le Game Pass depuis quelques jours… mais pas dams le cloud.
+Reste à savoir si *Black Ops 6* sera proposé en streaming, en raison de l'accord entre Microsoft et Ubisoft qui gère toute la partie cloud gaming pour les jeux Activision Blizzard (oui, c'est compliqué). *Call of Duty: Modern Warfare III* est disponible sur le Game Pass depuis quelques jours… mais pas dans le cloud.
 
 Ceux qui aiment poncer deux ou trois jeux chaque année préféreront probablement les acheter sur console ou sur PC, où ils bénéficieront probablement d'une meilleure qualité graphique. Car pour impressionnante que puisse être la technologie de cloud gaming, on n'obtiendra pas plus de 1080p à 60 i/s. Pas de 1440p, pas de 4K ici. Les serveurs qui moulinent les jeux à distance sont des Xbox Series X depuis [octobre 2021](https://www.theverge.com/2021/10/7/22714067/xbox-cloud-gaming-custom-xbox-series-x-hardware-upgrade#).
 
