@@ -1,6 +1,6 @@
 +++
 title = "30 minutes de gameplay d'Astro Bot, c'est mieux que zéro"
-date = 2024-07-29T09:30:32+01:00
+date = 2024-07-29T09:31:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
