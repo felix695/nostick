@@ -1,6 +1,6 @@
 +++
 title = "Test de Xbox Cloud Gaming sur le stick Fire TV d'Amazon : mieux que la Xbox ?"
-date = 2024-07-29T10:47:32+01:00
+date = 2024-07-29T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]

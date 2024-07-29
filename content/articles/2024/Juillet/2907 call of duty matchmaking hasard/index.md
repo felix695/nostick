@@ -1,6 +1,6 @@
 +++
 title = "Pourquoi Call of Duty ne choisit par les joueurs au hasard dans les parties multi"
-date = 2024-07-29T12:47:32+01:00
+date = 2024-07-29T14:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
