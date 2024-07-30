@@ -4,7 +4,7 @@ date = 2024-07-30T14:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/3007-mario-sonic-paris-2024-jo/Mario-et-sonic-jo-paris-2024.jpg"
 +++
 
 ![Mario & Sonic](Mario-et-sonic-jo-paris-2024.jpg "")
