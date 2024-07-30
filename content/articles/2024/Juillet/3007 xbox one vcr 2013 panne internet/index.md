@@ -1,6 +1,6 @@
 +++
 title = "Des Xbox One « VCR » de 2013 en panne d'internet"
-date = 2024-07-30T08:14:32+01:00
+date = 2024-07-30T07:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
