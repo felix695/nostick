@@ -1,6 +1,6 @@
 +++
 title = "Un avant goût de Visions of Mana pour tenir jusqu'à la sortie du jeu"
-date = 2024-07-31T08:47:32+01:00
+date = 2024-07-31T08:27:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
