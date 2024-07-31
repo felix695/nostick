@@ -5,10 +5,6 @@ draft = false
 author = "Mickael"
 +++
 
-**[F1 Manager 2024](https://www.f1manager.com)**\
-Frontier Developments — 23/07\
-PS4/PS5, Xbox One/Xbox Series S/X, PC
-
 **[Cat Quest 3](https://www.thegentlebros.com/catquest3/)**\
 Kepler — 08/08\
 PS4/PS5, Xbox One/Xbox Series S/X, Switch, PC
@@ -24,6 +20,10 @@ PS5, PC
 **[World of Warcraft: The War Within](https://thewarwithin.blizzard.com/fr-fr/)**\
 Blizzard — 26/08\
 PC
+
+**[Star Wars Outlaws](https://www.ubisoft.com/fr-fr/game/star-wars/outlaws)**\
+Massive Entertainment — 30/08\
+PS5, Xbox Series S/X, PC
 
 **[Age of Mythology: Retold](https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/)**\
 Capcom — 04/09\
