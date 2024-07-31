@@ -4,7 +4,7 @@ date = 2024-07-31T11:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/juillet/3107-ventes-xbox-coulent-pic/xbox.jpg"
 +++
 
 ![Microsoft Q4 2024](xbox.jpg "© Diego Marín (Unsplash)")
