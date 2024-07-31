@@ -5,7 +5,7 @@ date = 2024-07-31T17:25:01+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/juillet/2607-stellar-blade-portage-pc-nouveau-contenu/stellar.jpeg"
+image = "https://nostick.fr/articles/2024/juillet/3107-microsoft-ne-devrait-plus-trop-tarder-boutique-mobile/vignettos.png"
 +++ 
 
 ![La page du site Microsoft](caps.png) 
