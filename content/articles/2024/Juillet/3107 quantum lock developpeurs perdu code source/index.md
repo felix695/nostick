@@ -1,6 +1,6 @@
 +++
 title = "Quantum Lock supprimé de Steam, les développeurs ont perdu le code source"
-date = 2024-07-31T09:47:32+01:00
+date = 2024-07-31T09:45:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
