@@ -1,6 +1,6 @@
 +++
 title = "200 $ de moins sur le PSVR2, 2 350 % de ventes en plus"
-date = 2024-08-01T09:47:32+01:00
+date = 2024-08-01T11:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

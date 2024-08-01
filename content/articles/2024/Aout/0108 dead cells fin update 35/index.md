@@ -1,6 +1,6 @@
 +++
 title = "Dead Cells : une dernière mise à jour et puis c'est tout !"
-date = 2024-08-01T08:14:32+01:00
+date = 2024-08-01T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

@@ -1,6 +1,6 @@
 +++
 title = "Apple se fiche comme d'une guigne du jeu vidéo sur le Vision Pro"
-date = 2024-08-01T12:01:32+01:00
+date = 2024-08-01T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
