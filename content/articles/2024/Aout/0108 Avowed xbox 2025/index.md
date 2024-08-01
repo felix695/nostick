@@ -1,6 +1,6 @@
 +++
 title = "Pas d'Avowed en 2024 ?"
-date = 2024-08-0T16:44:32+01:00
+date = 2024-08-02T08:12:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
