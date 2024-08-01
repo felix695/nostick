@@ -1,5 +1,5 @@
 +++
-title = "200 $ de moins sur le PSVR2, 2 350 % de ventes en plus"
+title = "200 $ de moins sur le PSVR2,  350 % de ventes en plus"
 date = 2024-08-01T10:30:32+01:00
 draft = false
 author = "Mickael"
