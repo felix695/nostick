@@ -27,4 +27,4 @@ Pour les jeux multijoueurs en ligne, l'initiative propose de remettre au goût d
 
 Actuellement, la législation en vigueur et les organisations de défense des consommateurs ne sont pas à même de bien protéger les consommateurs contre la pratique de « débrancher » complètement un jeu vidéo après la vente.
 
-L'initiative « Stop Killing Games », lancée par Ross Scott, propose donc de signer la pétition à cette [adresse](https://www.stopkillinggames.com), et à la partager autant que possible. À l'heure actuelle, les seuils de signatures sont encore très loin d'avoir été atteints, alors à votre bon cœur !
+L'initiative « Stop Killing Games », lancée par Ross Scott, propose donc de signer la pétition à cette [adresse](https://www.stopkillinggames.com), et à la partager autant que possible. À l'heure actuelle, les seuils de signatures sont encore très loin d'avoir été atteints (1 million de supports et le franchissement du seuil dans au moins 7 États membres), alors à votre bon cœur !
