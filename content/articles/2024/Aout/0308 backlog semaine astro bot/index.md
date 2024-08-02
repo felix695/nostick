@@ -19,7 +19,7 @@ Contrairement à Xbox et à [sa manette Deadpool bien bombée](https://nostick.f
 
 Au delà la mascotte, Astro Bot est très spécial pour PlayStation : le robot a toujours servi de démo pour les différentes technologies du constructeur. *Astro Bot Rescue Mission*, sorti en 2018 sur PSVR a démontré que les jeux en réalité virtuelle pouvaient être sympas. Quant à *Astro's Playroom*, le jeu fourni en standard avec la PS5, c'est une brillante démonstration des capacités de la DualSense.
 
-Cette nouvelle aventure solo, dont on découvrira les premières minutes [dans cette actu](https://nostick.fr/articles/2024/juillet/2907-astro-bot-demo/), va également tirer parti de toutes les capacités de la manette de la PS5 (et pas uniquement de cette édition spéciale !). Le contrôleur sera en préco le 9 août en France, la commercialisation débutera le 6 septembre, le même jour que la sortie d'*Astro Bot*.
+Cette nouvelle aventure solo, dont on découvrira les premières minutes [dans cette actu](https://nostick.fr/articles/2024/juillet/2907-astro-bot-demo/), va également tirer parti de toutes les capacités de la manette de la PS5 (et pas uniquement de cette édition spéciale !). Le périphérique sera en préco le 9 août en France, la commercialisation débutera le 6 septembre, le même jour que la sortie d'*Astro Bot*.
 
 {{< youtube GaElJ75QQJQ >}} 
 
@@ -89,7 +89,7 @@ Le rétro-gaming, ce n'est pas que pour les jeux d'arcade. *Metropolis 1998* s'i
 
 ## osef
 
-Personne ne vous en voudra d'avoir loupé la [bande annonce](https://www.youtube.com/watch?v=Icnysn53neU) du film *Bordelands* sorti il y a 10 jours et que le monde entier a complètement zappé. Et ce sera pareil pour la sortie du film, programmé le 7 août (il ne devrait pas y rester longtemps).
+Personne ne vous en voudra d'avoir loupé la [bande annonce](https://www.youtube.com/watch?v=Icnysn53neU) du film *Bordelands* sorti il y a 10 jours et que le monde entier a complètement zappé. Et ce sera pareil pour la sortie en salle, programmée le 7 août (il ne devrait pas y rester longtemps).
 
 ## Dans le reste de l'actu déchaînée
 
