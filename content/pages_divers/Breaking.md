@@ -1,6 +1,6 @@
 +++ 
-date = 2024-07-28T07:10:32+01:00
+date = 2024-08-02T07:17:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-La future série Amazon Prime *Like a Dragon: Yakuza* a récemment eu droit à [une première bande-annonce](https://www.youtube.com/watch?v=mZkC1sYxzZo). Sortie prévue le 24 octobre.
+C'est officiellement officiel, *Avowed* ne sortira pas en 2024, mais l'année prochaine : le 18 février 2025, a [confirmé](https://x.com/Xbox/status/1819495487155982486) Microsoft.
