@@ -74,7 +74,22 @@ D'après le fouineur [Jeff Grubb](https://www.reddit.com/r/PS5/comments/1egshfk/
 
 ## On n’a pas eu le temps cette semaine mais on pense à eux
 
+![Game Informer](game-informer.jpg "")
+
+Après 33 ans de bons et loyaux services, *Game Informer* [met](https://x.com/gameinformer/status/1819399257071214854) la clé sous la porte. Ce vétéran américain de la presse (papier) sur les jeux vidéo était la propriété de la chaîne de magasins GameStop, qui n'est pas non plus en très grande forme. Tous les employés du magazine ont été virés.
+
+![ROMhacking](rom-hacking.jpg "")
+
+Puisqu'on parle de disparition, comment ne pas évoquer la fermeture de *[ROMhacking.net](http://romhacking.net/)*, dont le contenu va être transféré chez *[Internet Archive](https://archive.org/details/romhacking.net-20240801)* à des fins de préservation. Depuis 20 ans, le site offre des traductions et des hacks de ROMs, améliorant les jeux originaux ou les adaptant à des besoins spécifiques. On peut se tourner vers le wiki *[Data Crystal](https://datacrystal.romhacking.net/wiki/Data_Crystal)* pour retrouver quelque chose d'équivalent et toujours en vie.
+
+{{< youtube Bku59JyzxMU >}}
+
+Le rétro-gaming, ce n'est pas que pour les jeux d'arcade. *Metropolis 1998* s'inspire des meilleurs jeux de construction des années 90, comme *Sim City* bien sûr, mais aussi *Rollercoaster Tycoon* et *Dwarf Fortress*, avec le style graphique isométrique de l'époque et un gameplay modernisé. Et ça a l'air super ! Le jeu est en accès anticipé sur [Steam](https://store.steampowered.com/app/2287430/Metropolis_1998/) et [Itch.io](https://yesbox.itch.io/archapolis).
+
+
 ## osef
+
+Personne ne vous en voudra d'avoir loupé la [bande annonce](https://www.youtube.com/watch?v=Icnysn53neU) du film *Bordelands* sorti il y a 10 jours et que le monde entier a complètement zappé. Et ce sera pareil pour la sortie du film, programmé le 7 août (il ne devrait pas y rester longtemps).
 
 ## Dans le reste de l'actu déchaînée
 
@@ -89,3 +104,5 @@ D'après le fouineur [Jeff Grubb](https://www.reddit.com/r/PS5/comments/1egshfk/
 - Microsoft toujours, mais du côté des services cette fois ! L'éditeur prépare activement sa boutique Xbox mobile. [La preuve ici !](https://nostick.fr/articles/2024/juillet/3107-microsoft-ne-devrait-plus-trop-tarder-boutique-mobile/)
 - Le Vision Pro, ce n'est vraiment pas pour le jeu vidéo. Apple ne se donne même plus la peine d'y croire, [comme on le déplore par là.](https://nostick.fr/articles/2024/aout/0108-apple-vision-pro-jeux-developpeurs/)
 - Sony a décidé de donner une seconde chance au PSVR2… ou de vider les stocks de son casque de réalité virtuelle ! Un gros rabais et [les ventes repartent en flèche.](https://nostick.fr/articles/2024/aout/0108-psvr2-ventes-promo/)
+- Les éditeurs devraient donner la possibilité aux acheteurs de leurs jeux de continuer à y jouer même après la fin du support. [Signez la pétition !](https://nostick.fr/articles/2024/aout/0208-stop-killing-games-petition-europe-tuer-jeux/)
+- Ça commence à se voir que ce n'est plus trop la forme pour la Switch ! Les ventes du dernier trimestre ne sont vraiment pas fameuses, comme on le verra [dans cette actu](https://nostick.fr/articles/2024/aout/0208-nintendo-switch-ventes-baisse/).
