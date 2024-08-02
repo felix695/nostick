@@ -1,6 +1,6 @@
 +++
 title = "Un peu de Tetris dans votre Minecraft ?"
-date = 2024-08-02T08:00:32+01:00
+date = 2024-08-02T07:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]

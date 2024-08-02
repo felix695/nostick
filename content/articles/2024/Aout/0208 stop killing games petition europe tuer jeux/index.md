@@ -1,6 +1,6 @@
 +++
 title = "Stop Killing Games : une pétition européenne pour empêcher les éditeurs de tuer leurs jeux"
-date = 2024-08-02T11:47:32+01:00
+date = 2024-08-02T08:40:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
