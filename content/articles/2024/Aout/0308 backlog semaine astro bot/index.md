@@ -4,7 +4,7 @@ date = 2024-08-03T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/vignettes/aout/astro-bot-week-end.jpg"
 +++
 
 ![Astro Bot](astro-bot-week-end.jpg "On lance le week-end !")
