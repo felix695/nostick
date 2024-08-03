@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Astro Bot, Braid, Pocket MICRO, Bungie…"
-date = 2024-08-03T10:47:32+01:00
+date = 2024-08-03T04:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
