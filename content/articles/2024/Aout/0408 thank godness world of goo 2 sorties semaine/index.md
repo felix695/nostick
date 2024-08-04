@@ -1,6 +1,6 @@
 +++
 title = "Thank Goodness You're Here!, World of Goo 2 : le récap des sorties de la semaine (04/08)"
-date = 2024-08-04T08:00:01+01:00
+date = 2024-08-04T08:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
