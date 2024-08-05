@@ -4,7 +4,7 @@ date = 2024-08-05T14:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/0508-zelda-echoes-of-wisdom-capacites-nintendo/zelda-echoes-wisdom.jpg"
 +++
 
 ![The Legend of Zelda: Echoes of Wisdom](zelda-echoes-wisdom.jpg "Prêt à revenir en Hyrule ?")
@@ -13,4 +13,6 @@ L'attente est longue jusqu'au 29 septembre, mais elle vaut le coup : *The Legend
 
 {{< youtube hrIgON2FNXY >}} 
 
-En plus des fameux « échos » du titre, en fait des items et des personnages que Zelda peut reproduire à volonté, on y voit la capacité de synchronisation pour faire bouger des objets (et même des échos). La vidéo permet aussi de fondre de plaisir devant l'univers graphique qui semble tout droit sortis du remake de *Link's Awakening* ! Et pour cause, il semble que ce soit le même studio, Grezzo, qui soit à l'origine de ce nouveau *Zelda*.
+En plus des fameux « échos » du titre, en fait des items et des personnages que Zelda peut reproduire à volonté, on y voit la capacité de synchronisation pour faire bouger des objets (et même des échos). De quoi résoudre plus facilement les nombreuses énigmes qui parsèment Hyrule, que l'on pourra aussi parcourir à canasson ou avec des téléporteurs.
+
+La vidéo permet aussi de fondre de plaisir devant l'univers graphique qui semble tout droit sortis du remake de *Link's Awakening* ! Et pour cause, il semble que ce soit le même studio, Grezzo, qui soit à l'origine de ce nouveau *Zelda*.
