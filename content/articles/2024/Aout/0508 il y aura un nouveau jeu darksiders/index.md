@@ -7,7 +7,7 @@ tags = ["Actu"]
 type = "telex"
 +++ 
 
-La série des dark-Zelda *Darksiders* sera bientôt de retour. Un bref teaser a été dévoilé à l’occasion du dernier showcase de THQ Nordic : on peut y voir un personnage important crier « *cavalier* » avant que la phrase « *soyez prêt à chevaucher de nouveau* » n’apparaisse à l’écran. THQ a [confirmé](https://news.xbox.com/en-us/2024/08/02/thq-nordic-2024-digital-showcase-check-out-all-the-reveals-coming-to-xbox/) qu’il s’agissait bien d’une nouvelle entrée à la série, bien que l’on ne sache pas encore si ce sera *Darksiders 4*, un spin-off ou de bêtes remakes/remasters.
+La série des dark-Zelda *Darksiders* sera bientôt de retour. Un bref teaser a été dévoilé à l’occasion du dernier showcase de THQ Nordic : on peut y voir un personnage important crier « *cavalier* » avant que la phrase « *soyez prêt à chevaucher de nouveau* » n’apparaisse à l’écran. THQ a [confirmé](https://news.xbox.com/en-us/2024/08/02/thq-nordic-2024-digital-showcase-check-out-all-the-reveals-coming-to-xbox/) qu’il s’agissait bien d’une nouvelle entrée à la série, sans préciser si ce sera *Darksiders 4*, un spin-off ou de bêtes remakes/remasters.
 
 {{< youtube WHuefHUAX3g >}}
 
