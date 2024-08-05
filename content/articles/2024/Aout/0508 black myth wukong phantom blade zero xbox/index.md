@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/aout/Black-Myth-Wukong.jpg"
 +++
 
-![Black-Myth-Wukong.jpg](rickmorty.jpeg "Pas moi en tout cas.")
+![Black-Myth-Wukong.jpg](Black-Myth-Wukong.jpg "Pas moi en tout cas.")
 
 Le point commun entre *Black Myth: Wukong* et *Phantom Blade Zero* ? Ces deux jeux sortiront sur PS5 et sur PC… mais pas sur Xbox. Et rien ne dit que les studios développeurs de ces titres, respectivement Game Science et S-Game, s'intéresseront à la console de Microsoft un jour ! Et ce n'est pas une question d'exclusivité avec Sony, comme [l'affirme](https://gameplayscassi.com.br/noticias/ninguem-precisa-desta-plataforma-black-myth-wukong-e-phantom-blade-zero-nao-sao-exclusivos-do-playstation-mas-as-versoes-do-xbox-nao-sao-prioridade-dizem-desenvolvedores/82482/) le site brésilien *GameplaysCassi*.
 
