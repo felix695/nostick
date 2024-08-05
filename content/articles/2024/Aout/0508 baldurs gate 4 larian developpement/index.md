@@ -4,7 +4,7 @@ date = 2024-08-05T13:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/août/baldurs-gate-3-astarion.jpg"
+image = "https://nostick.fr/articles/vignettes/aout/baldurs-gate-3-astarion.jpg"
 +++
 
 ![Baldur's Gate 3](baldurs-gate-3-astarion.jpg "Astarion était chaud bouillant pour remettre ça.")
