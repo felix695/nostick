@@ -1,6 +1,6 @@
 +++
 title = "Avant de lâcher l'affaire, Larian avait commencé le développement de Baldur's Gate 4"
-date = 2024-08-05T14:00:32+01:00
+date = 2024-08-05T13:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
