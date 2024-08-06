@@ -1,6 +1,6 @@
 +++ 
-date = 2024-08-02T17:17:32+01:00
+date = 2024-08-06T11:17:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-C'est officiellement officiel, *Avowed* ne sortira pas en 2024, mais l'année prochaine : le 18 février 2025, a [annoncé](https://x.com/Xbox/status/1819495487155982486) Microsoft.
+La rumeur disait vrai ! *Crash Bandicoot N. Sane Trilogy* va bel bien se [crasher](https://news.xbox.com/en-us/2024/08/06/xbox-game-pass-august-2024-wave-1/) dans le Game Pass le 8 août.
