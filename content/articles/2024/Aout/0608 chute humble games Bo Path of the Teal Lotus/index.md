@@ -1,6 +1,6 @@
 +++
 title = "La chute de l'éditeur Humble Games met les studios dans l'embarras"
-date = 2024-08-06T08:17:32+01:00
+date = 2024-08-06T06:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
