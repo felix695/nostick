@@ -3,7 +3,7 @@ title = "Warhammer 40,000: Speed Freeks : comme Mario Kart, en un peu plus bourr
 date = 2024-08-07T09:09:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["Trailer"]
 image = "https://nostick.fr/articles/vignettes/aout/Warhammer-40000-Speed-Freeks.jpg"
 +++
 
