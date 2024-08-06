@@ -1,5 +1,5 @@
 +++
-title = "Les développeurs du remake de Silent Hill 2 : « Donnez-nous une chance ! »"
+title = "Les développeurs du remake de Silent Hill 2 : « Donnez-nous une chance ! »"
 date = 2024-08-06T16:02:32+01:00
 draft = false
 author = "Mickael"
