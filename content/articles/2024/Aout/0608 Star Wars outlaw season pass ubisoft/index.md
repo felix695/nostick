@@ -1,6 +1,6 @@
 +++
 title = "Star Wars Outlaw : pas encore sorti, déjà du contenu en plus (payant)"
-date = 2024-08-06T09:31:32+01:00
+date = 2024-08-06T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
