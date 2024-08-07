@@ -1,6 +1,6 @@
 +++
 title = "Treyarch n’a pas enterré le mode zombie du prochain Call Of"
-date = 2024-08-06T20:10:32+01:00
+date = 2024-08-07T15:10:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
