@@ -1,10 +1,10 @@
 +++
 title = "Treyarch n’a pas enterré le mode zombie du prochain Call Of"
-date = 2024-08-06T15:10:32+01:00
+date = 2024-08-06T20:10:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/aout/silent-hill-2.jpg"
+image = "https://nostick.fr/articles/2024/aout/0708-call-of-duty-black-ops-6-mode-zombie/calof.jpg"
 +++
 
 {{< youtube 6Z0Ni2JIqzw >}}
