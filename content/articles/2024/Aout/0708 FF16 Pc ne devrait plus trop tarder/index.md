@@ -1,10 +1,10 @@
 +++
 title = "La version PC de FF16 pourrait être présentée à la Gamescom"
-date = 2024-08-06T05:20:32+01:00
+date = 2024-08-07T05:20:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/silent-hill-2.jpg"
+image = "https://nostick.fr/articles/2024/aout/0708-ff16-pc-ne-devrait-plus-trop-tarder/ff16.jpg"
 +++ 
 
 ![FF16](ff16.jpg "Faites chauffer la CB")
