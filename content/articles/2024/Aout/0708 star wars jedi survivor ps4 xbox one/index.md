@@ -1,6 +1,6 @@
 +++
 title = "Sur PS4 et Xbone, Star Wars: Jedi Survivor penchera-t-il du bon côté de la Force ?"
-date = 2024-08-07T08:17:32+01:00
+date = 2024-08-07T09:17:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
