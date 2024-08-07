@@ -1,5 +1,5 @@
 +++
-title = "Les ventes de PS5 reculent, mais tout va bien pour PlayStation"
+title = "PlayStation tient le choc malgré des ventes de PS5 qui trébuchent"
 date = 2024-08-07T10:59:32+01:00
 draft = false
 author = "Mickael"
