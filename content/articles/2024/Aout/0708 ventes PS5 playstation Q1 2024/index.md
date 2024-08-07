@@ -4,7 +4,7 @@ date = 2024-08-07T10:59:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/0708-ventes-ps5-playstation-q1-2024/PS5.jpg"
 +++
 
 ![PS5](PS5.jpg "© Erik Mclean (Unsplash)") 
