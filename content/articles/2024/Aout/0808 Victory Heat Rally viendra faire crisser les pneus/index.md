@@ -4,7 +4,7 @@ date = 2024-08-08T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/vignettes/aout/Echo-Combat.jpg"
+image = "https://nostick.fr/articles/2024/aout/0808-victory-heat-rally-viendra-faire-crisser-les-pneus/jeu.jpg"
 +++ 
 
 Si l’ambiance des jeux de course de la SNES vous manque, peut-être devriez-vous jeter un coup d’œil à ***[Victory Heat Rally](https://store.steampowered.com/app/1594060/Victory_Heat_Rally/)***, un jeu de bagnole arcade délicieusement rétro qui devrait arriver d’ici la fin de l’année. Pas de date de sortie pour le moment, mais les développeurs ont récemment publié un petit trailer coloré qui donne envie : 
