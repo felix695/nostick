@@ -19,3 +19,5 @@ Un des morceaux de bravoure de cette réédition est un tout nouvel épisode sol
 Et comme si cela ne suffisait pas, le studio en a profité pour rafraîchir les deux jeux en y ajoutant tout un tas de nouveaux trucs en plus : les modes multi en ligne en deatchmatch et coop jouables jusqu'à 16 joueurs, le support des mods de la communauté à télécharger depuis le jeu, le choix dans les bandes son (MIDI ou IDFKA), la prise en charge du rendu multithreading jusqu'à 4K à 120 FPS, de nouvelles options d'accessibilité…
 
 La bonne nouvelle, s'il en fallait une en plus, c'est qu'a priori, tous ceux qui ont acheté le *Doom* original sur Steam bénéficient gratuitement de *Doom II* et de tout le reste.
+
+**Mise à jour —** Ayé, il est maintenant possible d'acheter le pack Doom et Doom II au prix de [10 €](https://store.steampowered.com/app/2280/DOOM__DOOM_II/) sur Steam. Le bundle est aussi disponible chez PlayStation, Xbox et sur Switch.
