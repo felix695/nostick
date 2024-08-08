@@ -1,6 +1,6 @@
 +++
 title = "Prince of Persia The Lost Crown crapahute à l'aise sur Steam Deck"
-date = 2024-08-08T08:04:32+01:00
+date = 2024-08-08T06:54:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
