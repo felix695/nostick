@@ -1,6 +1,6 @@
 +++
 title = "Le coloré Victory Heat Rally viendra faire crisser les pneus d’ici la fin de l’année"
-date = 2024-08-08T08:30:00+01:00
+date = 2024-08-08T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
