@@ -3,7 +3,6 @@ title = "On vide le backlog de la semaine : Balatro, Baldur's Gate 3, Warner Bro
 date = 2024-08-10T10:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
 tags = ["XXL"]
 image = "https://nostick.fr/articles/vignettes/aout/borderlands.jpg"
 +++
