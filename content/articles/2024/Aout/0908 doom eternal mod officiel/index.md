@@ -1,13 +1,13 @@
 +++
 title = "Doom Eternal va se faire modder (officiellement)"
-date = 2024-08-09T08:02:32+01:00
+date = 2024-08-09T07:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/doom-eternal-mod.jpg"
+image = "https://nostick.fr/articles/2024/aout/0908-doom-eternal-mod-officiel/doom-eternal-mod.jpg"
 +++
 
-![Doom Eternal](doom-eternal-mod.jpg "")
+![Doom Eternal](doom-eternal-pc-mod.jpg "")
 
 À l'occasion de la QuakeCon qui a débuté hier, id Software a mis le paquet sur les anciens et glorieux épisodes de *Doom*, notamment avec la réédition des [deux premiers volets réunis dans un pack ultime](https://nostick.fr/articles/2024/aout/0808-doom-reunion-nouveautes/), et avec du contenu supplémentaire. Mais il n'y en avait pas que pour les vieilleries !
 

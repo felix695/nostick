@@ -1,6 +1,6 @@
 +++
 title = "GTA VI est toujours prévu pour l'automne 2025"
-date = 2024-08-09T10:44:32+01:00
+date = 2024-08-09T07:44:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
