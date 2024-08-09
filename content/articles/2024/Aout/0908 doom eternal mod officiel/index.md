@@ -1,6 +1,6 @@
 +++
 title = "Doom Eternal va se faire modder (officiellement)"
-date = 2024-08-09T08:02:32+01:00
+date = 2024-08-09T07:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
