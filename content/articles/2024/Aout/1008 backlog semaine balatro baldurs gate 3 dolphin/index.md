@@ -66,7 +66,7 @@ Quant à la stratégie future, WB mise toujours sur le free-to-play et le jeu se
 
 {{< youtube Sr6gWKQZASM >}} 
 
-Capcom fait monter la sauce autour de *Dead Rising Deluxe Remaster* avec une vidéo de gameplay mettant en scène l'inénarrable Franck faisant la chasse aux zombies. On apprend aussi que la bande originale du premier jeu sera au rendez-vous après que l'éditeur a réglé des petits soucis de licences. Le jeu sortira le 19 septembre.
+Capcom fait monter la sauce autour de *Dead Rising Deluxe Remaster* avec une vidéo de gameplay mettant en scène l'inénarrable Franck faisant la chasse aux zombies. On apprend aussi que la bande originale du premier jeu sera au rendez-vous après que l'éditeur ait réglé des petits soucis de licences. Le jeu sortira le 19 septembre.
 
 ![VirtualFriend](virtualfriend.jpg "")
 
