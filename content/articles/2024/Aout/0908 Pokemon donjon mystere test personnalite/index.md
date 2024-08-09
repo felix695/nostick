@@ -1,10 +1,10 @@
 +++
-title = "Qui êtes-vous au fin fond de vous ? Pokémon Donjon Mystère sait parfaitement vous cerner"
+title = "« Qui suis-je ? » : demandez-le à Pokémon Donjon Mystère"
 date = 2024-08-09T17:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/0908-pokemon-donjon-mystere-test-personnalite/pokemon-donjon-mystere.jpg"
 +++
 
 ![Pokémon Donjon Mystère](pokemon-donjon-mystere.jpg "") 
@@ -33,10 +33,10 @@ Et le pire c'est qu'après avoir répondu à toutes ces questions très privées
 
 ![Pokémon Donjon Mystère](IMG_6910.JPG "Ah bah d'accord.") 
 
-Tout ça pour au bout du compte, incarner un…
+Tout ça pour au bout du compte, incarner…
 
 ![Pokémon Donjon Mystère](IMG_6909.JPG "Je m'en sors pas si mal.")
 
 Nintendo qui va gratouiller là où ça fait mal dans votre tête, finalement ce n'est pas si mal, et ça coûte moins cher qu'une séance chez le psy.
 
-[^1] *Pokémon Donjon Mystère: Équipe de secours bleue* est sorti la même année, mais sur DS.
+[^1]: *Pokémon Donjon Mystère: Équipe de secours bleue* est sorti la même année, mais sur DS. *Rouge* est d'ailleurs le dernier jeu à être sorti sur GBA.
