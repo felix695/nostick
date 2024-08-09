@@ -1,6 +1,6 @@
 +++
 title = "Satellaview is back, baby"
-date = 2024-08-09T10:44:32+01:00
+date = 2024-08-09T10:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
