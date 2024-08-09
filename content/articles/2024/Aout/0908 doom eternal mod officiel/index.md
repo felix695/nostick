@@ -4,7 +4,7 @@ date = 2024-08-09T07:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/aout/0908-doom-eternal-mod-officiel/goom-eternal-mod.jpg"
+image = "https://nostick.fr/articles/2024/aout/0908-doom-eternal-mod-officiel/doom-eternal-mod.jpg"
 +++
 
 ![Doom Eternal](doom-eternal-pc-mod.jpg "")
