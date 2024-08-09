@@ -5,6 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 image = "https://nostick.fr/articles/2024/aout/0908-doom-eternal-mod-officiel/goom-eternal-mod.jpg
++++
 
 ![Doom Eternal](doom-eternal-pc-mod.jpg "")
 
