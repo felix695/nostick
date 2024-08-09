@@ -1,6 +1,6 @@
 +++
 title = "Sega va lever le voile sur un projet mystérieux à la Gamescom"
-date = 2024-08-09T09:14:32+01:00
+date = 2024-08-09T05:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
