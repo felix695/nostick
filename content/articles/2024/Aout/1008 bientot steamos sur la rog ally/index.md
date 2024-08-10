@@ -1,5 +1,5 @@
 +++
-title = "SteamOS sur ROG Ally : la prise en charge officielle en approche ?"
+title = "SteamOS sur ROG Ally : une prise en charge officielle en approche ?"
 date = 2024-08-10T07:10:32+01:00
 draft = false
 author = "Félix"
