@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/aout/Black-Myth-Wukong.jpg"
 
 ![Black-Myth-Wukong.jpg](Black-Myth-Wukong.jpg "Pas moi en tout cas.")
 
-Le point commun entre *Black Myth: Wukong* et *Phantom Blade Zero* ? Ces deux jeux sortiront sur PS5 et sur PC… mais pas sur Xbox. Et rien ne dit que les studios développeurs de ces titres, respectivement Game Science et S-Game, s'intéresseront à la console de Microsoft un jour ! Et ce n'est pas une question d'exclusivité avec Sony, comme [l'affirme](https://gameplayscassi.com.br/noticias/ninguem-precisa-desta-plataforma-black-myth-wukong-e-phantom-blade-zero-nao-sao-exclusivos-do-playstation-mas-as-versoes-do-xbox-nao-sao-prioridade-dizem-desenvolvedores/82482/) le site brésilien *GameplaysCassi*.
+Le point commun entre *Black Myth: Wukong* et *Phantom Blade Zero* ? Ces deux jeux sortiront sur PS5 et sur PC… mais pas sur Xbox. Et rien ne dit que les studios développeurs de ces titres, respectivement Game Science et S-Game, s'intéresseront à la console de Microsoft un jour[^1] ! Et ce n'est pas une question d'exclusivité avec Sony, comme [l'affirme](https://gameplayscassi.com.br/noticias/ninguem-precisa-desta-plataforma-black-myth-wukong-e-phantom-blade-zero-nao-sao-exclusivos-do-playstation-mas-as-versoes-do-xbox-nao-sao-prioridade-dizem-desenvolvedores/82482/) le site brésilien *GameplaysCassi*.
 
 {{< youtube 1xGiPUeevCM >}} 
 
@@ -22,3 +22,5 @@ En face, Microsoft ne proposerait rien de tout cela. Pire encore, d'après la co
 Microsoft ne s'aide pas : après avoir [fermé son seul studio japonais en mai dernier](https://nostick.fr/articles/2024/mai/0705-fin-de-partie-pour-arkane-austin-et-tango-gameworks/) (Tango Gamesworks), l'entreprise a décidé d'[augmenter](https://www.purexbox.com/news/2024/08/microsoft-announces-xbox-series-xs-price-increase-for-japan) les prix de ses Xbox, toujours au Japon. Et la situation n'est guère reluisante ailleurs dans la région, consciencieusement labourée par Sony et par Nintendo.
 
 Reste à savoir maintenant si Microsoft aussi a besoin de la Xbox… *Black Myth: Wukong* est un des gros jeux de l'été, il sort le 20 août ; quant à *Phantom Blade Zero*, il devrait être disponible en 2026.
+
+[^1]: Pour être tout à fait honnête, *Black Myth: Wukong* est plus ou moins prévu sur Xbox Series S/X, mais Game Science n'a jamais annoncé de date de sortie.
