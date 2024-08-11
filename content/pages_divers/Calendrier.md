@@ -21,7 +21,7 @@ PS4/PS5, Xbox One/Xbox Series S/X, PC\
 Nintendo — 29/08\
 Switch\
 ■ **[Star Wars Outlaws](https://www.ubisoft.com/fr-fr/game/star-wars/outlaws)**\
-Massive Entertainment — 30/08\
+Massive Ent. — 30/08\
 PS5, Xbox Series S/X, PC\
 ■ **[Age of Mythology: Retold](https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/)**\
 Xbox — 04/09\

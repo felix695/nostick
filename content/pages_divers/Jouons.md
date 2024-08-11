@@ -5,6 +5,6 @@ draft = false
 author = "Mickael"
 +++ 
 
-■ Félix essaye de speedrunner Anger Foot.
+■ Félix essaye de speedrunner *Anger Foot*.
 
-■ Mickaël redonne sa chance à Forza Motorsport.
+■ Mickaël s'est lancé dans un 2e playthrough de *Baldur's Gate 3*.
