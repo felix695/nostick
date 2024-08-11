@@ -4,7 +4,7 @@ date = 2024-08-11T02:30:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/1108-crush-house-cat-quest-sorties-de-la-semaine/fate.jpg"
+image = "https://nostick.fr/articles/2024/aout/1108-crush-house-cat-quest-sorties-de-la-semaine/crush.jpg"
 +++
 
 ![Le jeu The Crush House](crush.jpg "Devenez le Kubrick de NRJ12")
