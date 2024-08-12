@@ -1,6 +1,6 @@
 +++
 title = "Destiny 2, Marathon : ça continue de craindre chez Bungie"
-date = 2024-08-12T09:47:32+01:00
+date = 2024-08-12T06:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
