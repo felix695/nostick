@@ -1,5 +1,5 @@
 +++
-title = "Krafton vient à la rescousse de Tango Gameworks"
+title = "Krafton vient à la rescousse de Tango Gameworks et d'Hi-Fi Rush"
 date = 2024-08-12T07:00:32+01:00
 draft = false
 author = "Félix"
