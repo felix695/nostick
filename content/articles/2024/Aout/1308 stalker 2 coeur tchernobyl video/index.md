@@ -1,6 +1,6 @@
 +++
 title = "Une nouvelle vidéo de Stalker 2 plonge un peu plus au cœur de Tchernobyl"
-date = 2024-08-13T10:47:32+01:00
+date = 2024-08-13T07:25:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]

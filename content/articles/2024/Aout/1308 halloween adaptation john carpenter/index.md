@@ -1,6 +1,6 @@
 +++
 title = "Halloween va se faire adapter en jeu, avec l'aide de John Carpenter"
-date = 2024-08-13T09:11:32+01:00
+date = 2024-08-13T07:11:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
