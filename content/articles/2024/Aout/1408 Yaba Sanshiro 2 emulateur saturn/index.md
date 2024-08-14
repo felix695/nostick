@@ -1,6 +1,6 @@
 +++
 title = "Yaba Sanshiro 2 : un émulateur Saturn pour iPhone et iPad qui ne vole pas très haut"
-date = 2024-08-14T10:47:32+01:00
+date = 2024-08-14T09:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
