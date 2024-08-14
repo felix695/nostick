@@ -1,6 +1,6 @@
 +++
 title = "Allons bon, c'est déjà Halloween (et Evil Dead) !"
-date = 2024-08-14T12:07:32+01:00
+date = 2024-08-14T06:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
