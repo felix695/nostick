@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/aout/ash-evil-dead.jpg"
 
 ![Ash vs Evil Dead](ash-evil-dead.jpg "")
 
-Vous vous rappelez de [cette histoire de deux jeux basés sur le film *Halloween* de 1978](https://nostick.fr/articles/2024/aout/1308-halloween-adaptation-john-carpenter/) ? Hé bien voici déjà le premier ! Baptisé *RetroRealms: Halloween*, c'est un beat'em up 16 bits en scrolling 2D très années 90. Personne ne s'en plaindra ! On entre dans la peau dérangé de Michael Myers parti trucider autant d'innocents que possible, la routine.
+Vous vous rappelez de [cette histoire de deux jeux basés sur le film *Halloween* de 1978](https://nostick.fr/articles/2024/aout/1308-halloween-adaptation-john-carpenter/) ? Hé bien voici déjà le premier ! Baptisé *RetroRealms: Halloween*, c'est un beat'em up 16 bits en scrolling 2D très années 90. Personne ne s'en plaindra ! On entre dans la peau du dérangé de Michael Myers parti trucider autant d'innocents que possible, la routine.
 
 {{< youtube ao3sM3nEhcI >}}
 
