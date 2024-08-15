@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/vignettes/aout/altstore-pal.jpg"
 
 Tous ceux qui n'ont pas installé AltStore PAL sur leur iPhone en raison du prix demandé (1,80 € par an) n'ont plus aucune raison de bouder ! Il n'y a en effet [plus aucun abonnement](https://fosstodon.org/@altstore/112962388607680148) à payer pour télécharger la boutique alternative iOS. Tous les obstacles ont sauté, à vous l'émulateur Delta et toutes les autres apps distribuées dans le magasin !
 
-![AltStore PAL](AltStore-iOS.jpg "AltStore PAL avant que ça devienne gratuit.")
+![AltStore PAL](altstore-pal-delta.jpg "")
 
 AltStore PAL a obtenu d'Epic un coup de main financier (via le programme [MegaGrants](https://www.unrealengine.com/en-US/megagrants)) qui lui permet de couvrir les frais de technologie de base (CTF) à verser à Apple. Cela représente 0,50 € par installation, dès la première installation[^1], ce à quoi il faut ajouter les frais bancaires classiques.
 
