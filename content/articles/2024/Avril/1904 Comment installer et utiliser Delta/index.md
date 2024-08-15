@@ -25,33 +25,33 @@ Delta est une application gratuite, elle n'affiche aucune publicité et n'intèg
 
 ## Comment installer Delta sur mon iPhone ?
 
-Il y a trois manières possibles pour installer Delta sur un iPhone (ou sur un iPad[^1]). La plus simple est de télécharger gratuitement l'application sur l'App Store, directement à cette [adresse](https://apps.apple.com/app/delta-game-emulator/id1048524688). Mais malheureusement, Delta n'est pas disponible dans les boutiques européennes 😅 Si vous possédez un compte App Store américain ou d'un autre pays en dehors de l'UE, alors pas de souci, passez par la boutique liée au compte.
+Il y a trois manières possibles pour installer Delta sur un iPhone (ou sur un iPad, l'app étant optimisée pour les grands écrans depuis peu). La plus simple est de télécharger gratuitement l'application sur l'App Store, directement à cette [adresse](https://apps.apple.com/app/delta-game-emulator/id1048524688). Mais malheureusement, Delta n'est pas disponible dans l'App Store européen 😅 Si vous possédez un compte App Store américain ou d'un autre pays en dehors de l'UE, alors pas de souci, passez par la boutique liée au compte.
 
 ![Delta dans l'App Store](AltStore.jpg "On ne pensait jamais voir un jour Delta dans l'App Store et pourtant, c'est fait ! Observez sur la deuxième capture l'absence de traqueurs.") 
 
-Pour les utilisateurs européens, l'autre solution est d'installer AltStore PAL, une boutique alternative développée elle aussi par Riley Testut qui distribue Delta. En vertu du DMA, le fameux règlement sur les marchés numériques auquel Apple doit se plier, ces boutiques ont désormais le feu vert pour s'installer sur l'iPhone (et uniquement l'iPhone, l'iPad n'étant pas considéré comme une plateforme suffisamment grande).
+Pour les utilisateurs européens, l'autre solution est d'installer AltStore PAL, une boutique alternative développée elle aussi par Riley Testut qui distribue Delta. En vertu du DMA, le fameux règlement sur les marchés numériques auquel Apple doit se plier, ces boutiques ont désormais le feu vert pour s'installer sur l'iPhone et sur iPad.
 
-Premier impératif : l'iPhone doit fonctionner sous iOS 17.4. Second impératif : utiliser Safari. Seul le navigateur d'Apple est en mesure d'installer des boutiques alternatives sur le smartphone. Ensuite, rendez-vous sur le site [alstore.io](https://altstore.io/), touchez le bouton *Get AltStore*, puis préparez-vous à sortir le porte-feuille !
+Premier impératif : l'iPhone doit fonctionner sous iOS 17.4, l'iPad sous iOS 18 (disponible uniquement en bêta). Second impératif : utiliser Safari. Seul le navigateur d'Apple est en mesure d'installer des boutiques alternatives sur le smartphone. Ensuite, rendez-vous sur le site [alstore.io](https://altstore.io/), touchez le bouton *Get AltStore*, puis préparez-vous à sortir le porte-feuille !
 
-![Acheter AltStore](process1.jpg "Rendez-vous sur https://altstore.io/") 
-
-L'installation d'AltStore PAL nécessite une petite contribution de 1,50 € + TVA par an, soit 1,80 € en France, pour couvrir les frais de transaction bancaire, les coûts des serveurs, et pour régler la dîme due à Apple (les fameux CTF, frais de technologies de base). Le constructeur demande en effet 0,50 € pour chaque installation annuelle d'une boutique alternative et ce, dès la première installation. La transaction passe par Stripe, un intermédiaire de confiance qui prend en charge les paiements Apple Pay ou par carte bancaire.
+![Acheter AltStore](altstore-pal-delta-2.jpg "Rendez-vous sur https://altstore.io/") 
 
 Sur la page qui suit, il suffit de toucher le bouton *Download* et de confirmer « *l'installation de la place de marché en ligne* ». La procédure est cependant loin d'être aussi simple et rapide que dans l'App Store malheureusement, Apple ayant mis en place un garde-fou casse-pied. Il faudra se rendre dans les réglages d'iOS pour toucher l'alerte « *Autoriser la place de marché en ligne du développeur AltStore, LLC* », afin de confirmer (plusieurs fois !) que oui bon sang de bois, vous voulez installer cette place de marché.
 
-![AltStore dans iOS](AltStore-iOS.jpg "Et voilà AltStore dans toute sa splendeur.") 
+![AltStore dans iOS](altstore-pal-delta.jpg "Et voilà AltStore dans toute sa splendeur.") 
 
 Une fois ce bazar évacué, l'icône AltStore doit normalement être présente sur l'écran d'accueil de votre iPhone. La boutique d'apps ressemble… à une boutique d'apps (!), bien qu'elle n'en compte que deux pour le moment : Clip, un gestionnaire de presse-papier, et Delta, que l'on va s'empresser d'installer.
 
-## Minute ! Et si je ne veux pas payer 1,80 € ?
+La bonne nouvelle, c'est qu'[AltStore PAL est désormais gratuit](https://nostick.fr/articles/2024/aout/1408-altstore-pal-gratuite-boutique-alternative/). Il en coûtait auparavant 1,50 € + TVA par an, soit 1,80 € en France. Mais la boutique a reçu un coup de pouce financier d'Epic, qui couvre les différents frais dont les fameux CTF (frais de technologie de base) d'Apple.
 
-Pas de panique ! Les plus rachots d'entre vous ont toujours la possibilité d'installer AltStore et donc Delta tout à fait gratuitement… mais ça va vous demander un petit effort, et un ordinateur à portée de main. Il faut en fait utiliser la méthode de sioux mise au point par Riley Testut pour contourner (tout à fait légalement) les contraintes d'Apple.
+## Une autre manière d'installer AltStore
+
+Pour les plus bidouilleurs, AltStore peut également s'installer via une méthode qui contourne (tout à fait légalement) les contraintes d'Apple.
 
 L'opération consiste à installer AltServer sur un Mac ou sur un PC, puis de procéder à quelques réglages pas très difficiles. Le mode d'emploi est disponible ici : [pour Mac](https://faq.altstore.io/getting-started/how-to-install-altstore-macos), [pour PC](https://faq.altstore.io/getting-started/how-to-install-altstore-windows). Pour fonctionner, AltServer doit être connecté à votre compte Apple, ce qui permet à l'utilitaire de s'authentifier auprès du constructeur.
 
 {{< youtube yLuyVakPpUM >}} 
 
-Le seul problème de cette solution, c'est que les apps installées via AltStore doivent être rafraîchies de temps en temps par iOS. Cela se fait automatiquement, mais pour être certain que tout fonctionnera bien, il faut lancer AltStore sur son iPhone de temps en temps… Vous êtes sûr de ne pas vouloir claquer 1,80 € plutôt ?
+Le seul problème de cette solution, c'est que les apps installées via AltStore doivent être rafraîchies de temps en temps par iOS. Cela se fait automatiquement, mais pour être certain que tout fonctionnera bien, il faut lancer AltStore sur son iPhone de temps en temps.
 
 Pour le reste, il faut savoir que les versions App Store et AltStore de Delta sont [similaires](https://mastodon.social/@rileytestut/112294167934634015) en tout point. Pas de jaloux ici.
 
@@ -85,6 +85,6 @@ Mais évidemment, il n'y a rien de plus simple que d'aller fureter dans les inte
 
 Si vous souhaitez rester dans la légalité tout en jouant à des jeux sympas, il existe une communauté homebrew très active qui continue de développer des jeux originaux ! Voici un [répertoire](https://itch.io/c/577395/game-boy-homebrew-games), et un [autre](https://hh.gbdev.io), et encore [un autre](https://snescentral.com/homebrew.php). Faites vous plaisir, il y a des perles ! Et pour changer l’apparence de l’émulateur, n’hésitez pas à aller jeter un œil à [notre tutoriel dédié](https://nostick.fr/articles/2024/juillet/0107-tuto-installer-un-skin-sur-delta/).  
 
-[^1]: Delta n'est pas optimisé pour iPad, par conséquent l'app s'affiche sous la forme d'une app pour iPhone. Il est toutefois possible d'agrandir la fenêtre en « plein écran ».
+*Le guide a été mis à jour le 15/08.*
 
 {{< chat tutodelta >}}
