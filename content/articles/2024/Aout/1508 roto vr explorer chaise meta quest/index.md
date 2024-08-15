@@ -1,6 +1,6 @@
 +++
 title = "Roto VR Explorer : ceci est une chaise pour casques VR"
-date = 2024-08-15T09:47:32+01:00
+date = 2024-08-15T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
