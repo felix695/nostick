@@ -10,7 +10,7 @@ image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 
 ![Epic Games Store](altstore-epic-fortnite.jpg "")
 
-Quatre ans quasiment jour pour jour après sa suppression de l'App Store, *Fortnite* est de retour en Europe… mais pas via la boutique officielle d'Apple. Le *battle royale* peut être téléchargé depuis AltStore PAL [comme promis](https://nostick.fr/articles/2024/juillet/2507-fortnite-altstore-pal/), mais aussi avec l'Epic Games Store qui est désormais disponible sur iOS comme sur Android.
+Quatre ans quasiment jour pour jour après sa suppression de l'App Store, *Fortnite* est de retour en Europe… mais pas via la boutique officielle d'Apple. Le *battle royale* peut être téléchargé depuis AltStore PAL [comme promis](https://nostick.fr/articles/2024/juillet/2507-fortnite-altstore-pal/), mais aussi avec l'Epic Games Store qui est désormais disponible sur iOS comme sur Android[^1].
 
 Pour télécharger la boutique alternative d'Epic sur iPhone ou un smartphone Android, rendez-vous sur cette [page](https://store.epicgames.com/fr/mobile). L'installation est gratuite, tout comme Fortnite bien sûr, mais aussi *Fall Guys* et *Rocket League* qui font donc leur apparition sur iPhone (et bientôt sur iPad).
 
@@ -27,3 +27,5 @@ Il faudra avant tout ça franchir les barrières mises en place par Apple qui n'
 ![AltStore Fortnite](altstore-epic-fortnite.jpg "Dans AltStore PAL, pensez bien à ajouter la source Epic avant de pouvoir récupérer les jeux.")
 
 Epic a l'intention d'accueillir des jeux de développeurs tiers à partir de décembre, ce qui signifie que le Games Store va devenir un réel concurrent de l'App Store pour les jeux. La commission de l'éditeur ne dépassera pas les 12 %, c'est bien moins que les 30 % habituels ponctionnés par Apple. De fait, Epic a une bonne chance de grignoter des parts de marché à l'App Store.
+
+[^1]: L'Epic Games Store mobile est proposé sur iOS en Europe, et dans le monde entier sur Android.
