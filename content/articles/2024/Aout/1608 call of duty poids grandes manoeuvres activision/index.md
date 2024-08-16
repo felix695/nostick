@@ -1,6 +1,6 @@
 +++
 title = "Les grandes manœuvres pour réduire le poids de Call of Duty"
-date = 2024-08-16T08:07:32+01:00
+date = 2024-08-16T09:06:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
