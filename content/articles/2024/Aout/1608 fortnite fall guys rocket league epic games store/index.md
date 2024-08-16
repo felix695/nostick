@@ -1,5 +1,5 @@
 +++
-title = "Fortnite, Fall Guys et Rocket League sont maintenant jouables sur iPhone et Android en Europe"
+title = "Fortnite de nouveau jouable sur iPhone en Europe !"
 date = 2024-08-16T11:47:32+01:00
 draft = false
 author = "Mickael"
@@ -12,7 +12,7 @@ image = "https://nostick.fr/articles/2024/aout/1608-fortnite-fall-guys-rocket-le
 
 Quatre ans quasiment jour pour jour après sa suppression de l'App Store, *Fortnite* est de retour en Europe… mais pas via la boutique officielle d'Apple. Le *battle royale* peut être téléchargé depuis AltStore PAL [comme promis](https://nostick.fr/articles/2024/juillet/2507-fortnite-altstore-pal/), mais aussi avec l'Epic Games Store qui est désormais disponible sur iOS comme sur Android[^1].
 
-Pour télécharger la boutique alternative d'Epic sur iPhone ou un smartphone Android, rendez-vous sur cette [page](https://store.epicgames.com/fr/mobile). L'installation est gratuite, tout comme Fortnite bien sûr, mais aussi *Fall Guys* et *Rocket League* qui font donc leur apparition sur iPhone (et bientôt sur iPad).
+Pour télécharger la boutique alternative d'Epic sur iPhone ou un smartphone Android, rendez-vous sur cette [page](https://store.epicgames.com/fr/mobile). L'installation est gratuite, tout comme Fortnite bien sûr, mais aussi *Fall Guys* qui font donc leur apparition sur iPhone (et bientôt sur iPad).
 
 ![Epic Games Store](epic-games-store-iphone.jpg "Rendez-vous à l'adresse store.epicgames.com avec Safari.")
 
