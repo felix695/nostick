@@ -1,6 +1,6 @@
 +++
 title = "Los Santos en VR, ça n'arrivera pas : Meta suspend le développement de GTA San Andreas VR"
-date = 2024-08-16T09:17:32+01:00
+date = 2024-08-16T06:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
