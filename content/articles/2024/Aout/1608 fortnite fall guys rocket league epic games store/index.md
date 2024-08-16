@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/1608-fortnite-fall-guys-rocket-league-epic-games-store/fortnite-ios-epic.jpg"
 +++
 
 ![Epic Games Store](fortnite-ios-epic.jpg "")
