@@ -4,7 +4,6 @@ date = 2024-07-25T18:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-type = "une"
 image = "https://nostick.fr/articles/vignettes/juillet/fortnite.jpg"
 +++
 
