@@ -22,10 +22,13 @@ Pour télécharger la boutique alternative d'Epic sur iPhone ou un smartphone An
 
 ![Epic Games Store](epic-games-store-iphone-4.jpg "")
 
-Il faudra avant tout ça franchir les barrières mises en place par Apple qui n'aime pas trop la concurrence à l'App Store (Epic explique tout bien cette [vidéo](https://store.epicgames.com/fr/mobile/ios)). C'est similaire à [l'installation d'AltStore PAL](https://nostick.fr/articles/2024/avril/1904-comment-installer-et-utiliser-delta/).
+Il faudra avant tout ça franchir les barrières mises en place par Apple qui n'aime pas trop la concurrence à l'App Store (Epic explique tout bien cette [vidéo](https://store.epicgames.com/fr/mobile/ios)). C'est similaire à [l'installation d'AltStore PAL](https://nostick.fr/articles/2024/avril/1904-comment-installer-et-utiliser-delta/). Il y a également un guide en vidéo avec toutes ces étapes :
+
+{{< youtube _6cmu0NuM3g >}} 
+
+Epic a l'intention d'accueillir des jeux de développeurs tiers à partir de décembre, ce qui signifie que le Games Store va devenir un réel concurrent de l'App Store pour les jeux. La commission de l'éditeur ne dépassera pas les 12 %, c'est bien moins que les 30 % habituels ponctionnés par Apple. De fait, Epic a une bonne chance de grignoter des parts de marché à l'App Store.
 
 ![AltStore Fortnite](altstore-epic-fortnite.jpg "Dans AltStore PAL, pensez bien à ajouter la source Epic avant de pouvoir récupérer les jeux.")
 
-Epic a l'intention d'accueillir des jeux de développeurs tiers à partir de décembre, ce qui signifie que le Games Store va devenir un réel concurrent de l'App Store pour les jeux. La commission de l'éditeur ne dépassera pas les 12 %, c'est bien moins que les 30 % habituels ponctionnés par Apple. De fait, Epic a une bonne chance de grignoter des parts de marché à l'App Store.
 
 [^1]: L'Epic Games Store mobile est proposé sur iOS en Europe, et dans le monde entier sur Android.
