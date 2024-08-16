@@ -8,15 +8,15 @@ type = "une"
 image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 +++
 
-![Epic Games Store](altstore-epic-fortnite.jpg "")
+![Epic Games Store](fortnite-ios-epic.jpg "")
 
 Quatre ans quasiment jour pour jour après sa suppression de l'App Store, *Fortnite* est de retour en Europe… mais pas via la boutique officielle d'Apple. Le *battle royale* peut être téléchargé depuis AltStore PAL [comme promis](https://nostick.fr/articles/2024/juillet/2507-fortnite-altstore-pal/), mais aussi avec l'Epic Games Store qui est désormais disponible sur iOS comme sur Android[^1].
 
 Pour télécharger la boutique alternative d'Epic sur iPhone ou un smartphone Android, rendez-vous sur cette [page](https://store.epicgames.com/fr/mobile). L'installation est gratuite, tout comme Fortnite bien sûr, mais aussi *Fall Guys* et *Rocket League* qui font donc leur apparition sur iPhone (et bientôt sur iPad).
 
-![Epic Games Store](epic-games-store-iphone.jpg "")
+![Epic Games Store](epic-games-store-iphone.jpg "Rendez-vous à l'adresse store.epicgames.com avec Safari.")
 
-![Epic Games Store](epic-games-store-iphone-2.jpg "")
+![Epic Games Store](epic-games-store-iphone-2.jpg "Dans les réglages iOS, une nouvelle option apparait pour autoriser l'installation de l'app.")
 
 ![Epic Games Store](epic-games-store-iphone-3.jpg "")
 
