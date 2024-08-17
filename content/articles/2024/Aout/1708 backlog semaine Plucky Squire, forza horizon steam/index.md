@@ -7,7 +7,7 @@ tags = ["XXL"]
 image = "https://nostick.fr/articles/vignettes/aout/pokemon.jpg"
 +++
 
-![Pokémon](pokemon.jpg "Profitez du week-end pour arrêter de fumer, c'est Rondoudou qui l'exige.")
+![Pokémon](pokemon2.jpg "Profitez du week-end pour arrêter de fumer, c'est Rondoudou qui l'exige.")
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
