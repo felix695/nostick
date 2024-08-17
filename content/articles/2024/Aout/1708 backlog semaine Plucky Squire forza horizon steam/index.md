@@ -56,7 +56,7 @@ Pour classer les évaluations, le magasin utilise plusieurs techniques (apprenti
 
 ## Les emmerdes de la semaine pour Helldivers 2
 
-Il fallait bien à un moment donné que *Helldivers 2* fasse une bêtise. Depuis son lancement début février, le jeu d'Arrowhead, sorti sous le drapeau PlayStation, a ravi les millions de joueurs qui répandent vaillamment la démocratie contre la racaille extra-terrestre. Sony avait bien tenté d'imposer la connexion à un compte PSN, mais [le constructeur s'est ravisé](https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/).
+Il fallait bien à un moment donné que *Helldivers 2* recommance ses bêtises. Depuis son lancement début février, le jeu d'Arrowhead, sorti sous le drapeau PlayStation, a ravi les millions de joueurs qui répandent vaillamment la démocratie contre la racaille extra-terrestre. Sony avait bien tenté d'imposer la connexion à un compte PSN, mais [le constructeur s'est ravisé](https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/).
 
 Le problème du jour est plus embarrassant pour Arrowhead, puisqu'il provient non pas de Sony, mais de l'intérieur. La mise à jour du 6 août bride en effet un grand nombre des armes du jeu. Le résultat ne s'est pas fait attendre, de nombreux joueurs ont pris d'assaut les réseaux sociaux pour se plaindre que ce rééquilibrage du gameplay n'était pas le bienvenu !
 
