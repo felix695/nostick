@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Forza Horizon 5, Steam, Helldivers 2, Pokémon…"
-date = 2024-08-17T06:00:32+01:00
+date = 2024-08-17T02:45:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
@@ -83,6 +83,10 @@ Si les personnages et les graphismes d'*Omega 6: The Triangle Stars* vous évoqu
 {{< youtube NCtd5i_qchk >}} 
 
 Jouer du trombone, une activité qui de prime abord ne réjouit personne. Mais jouer du *Trombone Champ*, ça oui ! Le fameux simulateur de ~~[couac](https://x.com/jules_su/status/182317000852598000)~~ trombone façon *Rock Band* va s'adapter à… la réalité virtuelle. *Trombone Champ: Unflattened* est une « réinvention » VR du jeu sorti en 2022, avec plus de 50 morceaux à massacrer. Sortie prévue cet automne sur Meta Quest, SteamVR et PSVR2.
+
+{{< youtube 4DpvZWrts_M >}} 
+
+Le prochain jeu de nos chouchous de chez Devolver, *The Plucky Squire*, sortira le 17 septembre sur toutes les plateformes. Et vous avez plutôt intérêt à ne pas le louper ! Ce jeu d'action/aventure mêle habilement 2D et 3D dans un livre d'images plein de dangers.
 
 ## osef
 
