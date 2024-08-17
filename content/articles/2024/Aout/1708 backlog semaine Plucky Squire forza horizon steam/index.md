@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Forza Horizon 5, Steam, Helldivers 2, Plucky Squire…"
-date = 2024-08-17T06:00:32+01:00
+date = 2024-08-17T02:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
