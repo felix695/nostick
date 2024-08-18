@@ -1,7 +1,7 @@
 
 +++
 title = "Arco, Katawa Shôjo : le récap des sorties de la semaine (18/08)"
-date = 2024-08-18T08:00:02+01:00
+date = 2024-08-18T01:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
