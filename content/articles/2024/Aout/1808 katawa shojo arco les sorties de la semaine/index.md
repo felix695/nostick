@@ -1,11 +1,11 @@
 
 +++
 title = "Arco, Katawa Shôjo : le récap des sorties de la semaine (18/08)"
-date = 2024-08-18T08:00:02+01:00
+date = 2024-08-18T01:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/1808-katawa-shojo-arco-les-sorties-de-la-semaine/arco.jpg"
+image = "https://nostick.fr/articles/2024/aout/1808-katawa-shojo-arco-les-sorties-de-la-semaine/arco.jpg"
 +++
 
 ![Le jeu Arco](arco.jpg "In the desert, no one remember your name 🎶")
