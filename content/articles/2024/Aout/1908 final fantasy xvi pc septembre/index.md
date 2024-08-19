@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/1908-final-fantasy-xvi-pc-septembre/FF16.jpg"
 +++
 
 ![FF16](FF16.jpg "Plus la peine de faire la gueule, FF16 arrive bientôt sur ton PC.")
