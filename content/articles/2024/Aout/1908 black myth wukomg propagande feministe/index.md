@@ -19,4 +19,4 @@ Les créateurs ne doivent pas insulter d'autres influenceurs ou joueurs, ni util
 
 Une liste assez spéciale donc, qui s'accompagne d'une clé Steam pour télécharger le jeu. Bien sûr, ce sont des requêtes très inhabituelles, du moins en dehors de Chine. L'absence de NDA (contrat de non divulgation) lié à la fourniture de la clé a permis au document d'être [partagé](https://bsky.app/profile/exserv.bsky.social/post/3kzyylur6wx2q) sur les réseaux sociaux, notamment par le journaliste Benoît Reinier qui s'en est pris plein la tronche par la bande d'incels habituels.
 
-Ce document ne concerne que les influenceurs, pas les testeurs de la presse JV qui ont pu dire ce qu'ils voulaient du chapitre 1 (l'embargo . Il n'en reste pas moins que ça la fout mal !
+Ce document ne concerne que les influenceurs, pas les testeurs de la presse JV qui ont pu dire ce qu'ils voulaient. Il n'en reste pas moins que ça la fout mal !
