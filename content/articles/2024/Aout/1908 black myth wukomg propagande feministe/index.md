@@ -4,7 +4,7 @@ date = 2024-08-19T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/1908-black-myth-wukomg-propagande-feministe/black-myth-wukong.jpg"
 +++
 
 ![Black Myth: Wukong](black-myth-wukong.jpg "Soyez sympa avec le gouvernement chinois aussi.")
