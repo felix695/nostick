@@ -10,7 +10,7 @@ image = "https://nostick.fr/articles/2024/aout/1908-final-fantasy-xvi-pc-septemb
 
 ![FF16](FF16.jpg "Plus la peine de faire la gueule, FF16 arrive bientôt sur ton PC.")
 
-*Final Fantasy XVI* n'allait pas rester une exclusivité PS5 pendant trop longtemps, et c'est tant mieux ! Square Enix a lancé les grandes manœuvres pour la version PC du jeu, sorti sur la console de Sony il y a un peu plus d'un an, en juin 2023. Une démo gratuite est d'ores et déjà disponible sur [Steam](https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/) et l'[Epic Games Store](https://store.epicgames.com/fr/p/final-fantasy-xvi-demo-c289c2), le jeu au complet sera lâché le 17 septembre.
+*Final Fantasy XVI* n'allait pas rester une exclusivité PS5 pendant trop longtemps, et c'est tant mieux ! Square Enix a lancé les grandes manœuvres pour la version PC du jeu, sorti sur la console de Sony il y a un peu plus d'un an, en juin 2023. Une démo gratuite est d'ores et déjà disponible sur [Steam](https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/) et l'[Epic Games Store](https://store.epicgames.com/fr/p/final-fantasy-xvi-demo-c289c2), le jeu au complet sera lâché le 17 septembre au prix de 50 €, ce qui n'est pas si cher payé.
 
 {{< youtube PC3oQe1EtYY >}} 
 
