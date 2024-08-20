@@ -12,3 +12,5 @@ type = "telex"
 Les [polémiques autour du lancement de *Black Myth: Wukong*](https://nostick.fr/articles/2024/aout/1908-black-myth-wukomg-propagande-feministe/) n'y font rien : le jeu de Game Science fait un carton retentissant sur Steam pour son premier jour. Avec [1,7 million](https://steamdb.info/charts/?sort=peak) de joueurs en simultané, le titre devient le 4e jeu le plus populaire de tous les temps sur Steam, derrière *PUBG*, *Palworld* et *CS 2*, mais devant *Lost Ark*, *Dota 2*, *Cyberpunk 2077* et *Elden Ring*. Et bien sûr, c'est le jeu le plus joué aujourd'hui, selon les stats de SteamDB. 
 
 C'est aussi un succès retentissant pour Game Science (financé en partie par le géant Tencent), dont c'est la première incursion sur PC (et PS5). Un encouragement pour les autres studios chinois qui pourraient voir d'un œil neuf le marché occidental. 
+
+**Mise à jour 16h30 —** *Black Myth: Wukong* est maintenant le deuxième jeu le plus populaire de tous les temps sur Steam avec 2,2 millions de joueurs en simultané ! Seul PUBG fait encore mieux avec 1 million de joueurs en plus. Ce record pourra-t-il tenir ?
