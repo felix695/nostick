@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/2008-borderlands-4-dune-awakening-batman-arkham-shadow-civilization-vii/borderlands-4.jpg"
 +++
 
 ![Borderlands 4](borderlands-4.jpg "")
