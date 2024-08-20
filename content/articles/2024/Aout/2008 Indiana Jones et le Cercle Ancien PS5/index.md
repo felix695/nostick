@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/2008-indiana-jones-et-le-cercle-ancien-ps5/indy-cercle-ancien.jpg"
 +++
 
 ![Indiana Jones et le Cercle Ancien](indy-cercle-ancien.jpg "La PS5, un tout nouveau monde pour Indy")
