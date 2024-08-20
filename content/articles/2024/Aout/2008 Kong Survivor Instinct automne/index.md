@@ -13,7 +13,7 @@ En général, ce qui attire dans les films de Godzilla ou de King Kong, c'est pl
 
 Mais alors pourquoi, mais pourquoi bon sang de bois le studio 7Levels et Legendary, qui gère le versant US de la filmo de Godzilla embringué dans le ~~fumeux~~ fameux « Monsterverse », se sont-ils cru obligés de nous faire un jeu avec… des bonshommes ?!
 
-{{< youtube w7Ft2ymGmfc >}} 
+{{< youtube iTKGDipzz7g >}} 
 
 Bon allez, l'idée de *Kong: Survivor Instinct* est peut-être bonne, allez savoir. On y incarnera un papa à la recherche de sa fille, perdue dans une ville devenue le terrain de chasse de créatures géantes, juste après les événements du mauvais film *Godzilla vs. Kong* de 2021. Le jeu en 2,5D combine plateformes, action et aventures. Vous allez me dire, mais c'est quand qu'il vient tout taper King Kong ? De ce qu'on en comprend, le héros pourra demander un coup de patte de temps en temps.
 
