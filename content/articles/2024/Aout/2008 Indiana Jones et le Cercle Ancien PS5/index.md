@@ -3,7 +3,7 @@ title = "Indiana Jones et le Cercle Ancien s'aventurera aussi sur PS5"
 date = 2024-08-20T14:48:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["Trailer"]
 type = "une"
 image = "https://nostick.fr/articles/2024/aout/2008-indiana-jones-et-le-cercle-ancien-ps5/indy-cercle-ancien.jpg"
 +++

@@ -3,7 +3,7 @@ title = "Des vidéos et des dates de sortie pour Borderlands 4, Dune Awakening, 
 date = 2024-08-20T14:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["XXL"]
 type = "une"
 image = "https://nostick.fr/articles/2024/aout/2008-borderlands-4-dune-awakening-batman-arkham-shadow-civilization-vii/borderlands-4.jpg"
 +++
