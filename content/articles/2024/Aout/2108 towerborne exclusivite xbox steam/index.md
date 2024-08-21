@@ -4,7 +4,7 @@ date = 2024-08-21T12:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/2108-towerborne-exclusivite-xbox-steam/towerborne.jpg"
 +++
 
 ![Towerborne](towerborne.jpg "")
