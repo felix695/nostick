@@ -1,6 +1,6 @@
 +++
 title = "Les premiers pas à 1 $ du Game Pass Standard"
-date = 2024-08-21T10:01:32+01:00
+date = 2024-08-21T10:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
