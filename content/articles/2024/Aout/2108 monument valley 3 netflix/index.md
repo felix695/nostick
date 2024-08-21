@@ -19,4 +19,4 @@ Il est d'ailleurs assez symptomatique que *Monument Valley 3* tout juste présen
 
 Apple a pourtant son propre service de jeux sur abonnement, Apple Arcade, mais le constructeur a laissé échapper l'opportunité de proposer à ses clients la suite d'un titre qui, mine de rien, a participé à la réputation de l'iPhone en tant que machine de jeux. Un signe supplémentaire qu'[Apple ne s'intéresse pas vraiment aux jeux vidéo](https://nostick.fr/articles/2024/mars/2603_applearcade/), sauf quand elle est assurée de tirer le gros lot.
 
-Dans la foulée, le studio Ustwo, toujours à la manœuvre, proposera le premier *Monument Valley* aux abonnés Netflix le 19 septembre, et *Monument Valley 2* le 29 octobre. Le 3e épisode sortira en décembre, sur iOS et Android.
+Dans la foulée, le studio Ustwo, toujours à la manœuvre, proposera le premier *Monument Valley* aux abonnés Netflix le 19 septembre, et *Monument Valley 2* le 29 octobre. Le 3e épisode sortira le 10 décembre, sur iOS et Android.
