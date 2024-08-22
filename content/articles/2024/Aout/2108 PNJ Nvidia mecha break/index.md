@@ -5,7 +5,7 @@ date = 2024-08-22T03:50:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/aout/1808-katawa-shojo-arco-les-sorties-de-la-semaine/arco.jpg"
+image = "https://i.ytimg.com/vi_webp/d5z7oIXhVqg/maxresdefault.webp"
 +++
 
 On va bientôt découvrir le potentiel des PNJ dopés aux IA génératives. L’idée fait frétiller certains acteurs de l’industrie depuis la vague ChatGPT, bien content de pouvoir rendre plus immersif leur univers sans trop se fouler. On avait décortiqué tout ça [au mois d’avril](https://nostick.fr/articles/2024/avril/0104-comment-la-generative-veut-revolutionner-notre-rapport-aux-pnj/), et Nvidia va donner [le coup d’envoi](https://www.nvidia.com/en-us/geforce/news/mecha-break-nvidia-ace-nims-rtx-pc-laptop-games-apps/) en 2025 avec le futur jeu *Mecha Break*. 
