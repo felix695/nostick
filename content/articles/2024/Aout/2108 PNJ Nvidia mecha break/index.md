@@ -1,7 +1,7 @@
 
 +++
 title = "Mecha Break : les NPC dopés à l’IA de Nvidia seront lancés dès l’année prochaine"
-date = 2024-08-22T04:00:02+01:00
+date = 2024-08-22T03:50:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
