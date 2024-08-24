@@ -65,7 +65,7 @@ Capcom continue d'enrichir *Street Fighter 6* et ses poches avec de nouveaux com
 
 {{< youtube LXIH4MYauXs >}}
 
-Si *Lost Records: Bloom & Rage* vous rappelle quelque chose et notamment *Life Is Strange*, vous n'avez pas la berlue : le studio Don't Node comprend en effet pas mal des talents qui ont planché sur cette saga. Le jeu se déroule entre 1995 et 2022 et tourne autour de quatre amies d'enfance et d'un secret. La première partie sera livrée le 18 février, la seconde le 18 mars, sur PC, PS5 et Xbox Series S/X.
+Si *Lost Records: Bloom & Rage* vous rappelle quelque chose et notamment *Life Is Strange*, vous n'avez pas la berlue : le studio Don't Nod comprend en effet pas mal des talents qui ont planché sur cette saga. Le jeu se déroule entre 1995 et 2022 et tourne autour de quatre amies d'enfance et d'un secret. La première partie sera livrée le 18 février, la seconde le 18 mars, sur PC, PS5 et Xbox Series S/X.
 
 ## osef
 
