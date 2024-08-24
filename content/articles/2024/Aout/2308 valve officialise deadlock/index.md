@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/2308-valve-officialise-deadlock/deadlock.jpg"
 +++
 
 ![Deadlock](deadlock.jpg "Je suis d'accord, ce n'est pas très parlant comme capture d'écran mais c'est tout ce Steam fournit !")
