@@ -69,7 +69,7 @@ Si *Lost Records: Bloom & Rage* vous rappelle quelque chose et notamment *Life I
 
 ## osef
 
-Six mois après son lancement officiel, *Skull and Bones*, le quadruple A d'Ubisoft, est dispo sur [Steam](https://store.steampowered.com/app/2853730/Skull_and_Bones/)… avec 60 % de réduction. Pas sûr que ça vaut le coup pour autant.
+Six mois après son lancement officiel, *Skull and Bones*, le quadruple A d'Ubisoft, est dispo sur [Steam](https://store.steampowered.com/app/2853730/Skull_and_Bones/)… avec 60 % de réduction. Pas sûr que ça soit une affaire pour autant.
 
 ## Dans le reste de l'actu déchaînée
 
