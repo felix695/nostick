@@ -5,6 +5,6 @@ draft = false
 author = "Mickael"
 +++ 
 
-■ Félix essaye de speedrunner *Anger Foot*.
+■ Félix fait le singe dans *Black Myth: Wukong*.
 
-■ Mickaël s'est lancé dans un 2e playthrough de *Baldur's Gate 3*.
+■ Mickaël a replongé dans *Diablo 4* à cause de la saison 5.
