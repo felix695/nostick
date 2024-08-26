@@ -4,7 +4,7 @@ date = 2024-08-26T05:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/nostick.jpg"
+image = "https://nostick.fr/articles/2024/aout/2608-heroes-of-might-magic-olden-era-ubisoft-2005/Heroes-of-Might-Magic-Olden-Era.jpg"
 +++
 
 ![Heroes of Might & Magic: Olden Era](Heroes-of-Might-Magic-Olden-Era.jpg "")
