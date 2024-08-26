@@ -1,5 +1,5 @@
 +++
-title = "Un Nintendo Direct plein de jeux indés ce mardi"
+title = "Un Nintendo Direct plein de jeux indés ce mardi (mais rien sur la Switch 2)"
 date = 2024-08-26T11:47:32+01:00
 draft = false
 author = "Mickael"
