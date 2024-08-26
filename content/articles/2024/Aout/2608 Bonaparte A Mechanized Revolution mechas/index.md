@@ -1,6 +1,6 @@
 +++
 title = "La Révolution française, mais avec des mechas"
-date = 2024-08-26T02:50:32+01:00
+date = 2024-08-26T05:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
