@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/aout/nintendo-direct.jpg"
 +++
 
-![Texte Alternative](nintendo-direct.jpg "Légende de l’image")
+![Texte Alternative](nintendo-direct.jpg "")
 
 Nintendo [organise](https://www.youtube.com/live/Bh7o96_yIWw) un Direct ce mardi 27 août à 16h heure de Paris (si je ne me trompe pas encore sur l'heure) ! Alors attention, l'événement est scindé en deux parties. La première sera un Partner Showcase qui sera suivi par un Indie World. Autrement dit : des jeux de tierce partie et des indés, et probablement rien de bien neuf chez Nintendo.
 
