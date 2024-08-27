@@ -4,7 +4,7 @@ date = 2024-08-27T17:50:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/crash-bandicoot.jpg
+image = "https://nostick.fr/articles/vignettes/aout/crash-bandicoot.jpg"
 +++
 
 ![Nintendo](nintendo.jpg "")
