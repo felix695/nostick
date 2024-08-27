@@ -1,6 +1,6 @@
 +++
 title = "Fatal Run, la course à la mort de l'an 2089"
-date = 2024-08-27T10:02:32+01:00
+date = 2024-08-27T05:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
