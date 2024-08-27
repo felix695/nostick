@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/aout/crash-bandicoot.jpg"
 
 ![Nintendo](nintendo.jpg "")
 
-Nintendo prépare doucement la fin de vie de la Switch et a diffusé aujourd’hui un Indie World Showcase qui a permis de découvrir deux trois bricoles. Le jeu de poker-roguelike *Balatro* a ouvert le bal en présentant une [grosse mise à jour](https://www.youtube.com/watch?v=8188WZxHSkU) apportant un paquet de crossovers : avec *The Witcher*, *Vampire Survivors*, *Dave the Diver*, ou encore *Among Us*. Au risque de frôler l’overdose ? Si personnellement je ne suis pas client, j’ai été bien plus intrigué par le premier trailer de *Neva*, la suite spirituelle du sympathique *Gris* qui promet d’être fort jolie.
+Nintendo prépare doucement la fin de vie de la Switch et a diffusé aujourd’hui un Indie World Showcase sans grosse nouveauté mais avec deux trois bricoles pour tenir jusqu'à l'annonce de sa prochaine console. Le jeu de poker-roguelike *Balatro* a ouvert le bal avec une [grosse mise à jour](https://www.youtube.com/watch?v=8188WZxHSkU) apportant un paquet de crossovers : avec *The Witcher*, *Vampire Survivors*, *Dave the Diver* ou encore *Among Us*. Au risque de frôler l’overdose ? Si personnellement je ne suis pas client, j’ai été bien plus intrigué par le nouveau trailer de *Neva*, la suite spirituelle du sympathique *Gris* qui promet d’être fort jolie. Le jeu sera dispo le 15 octobre.
 
 {{< youtube lgzNUZk0U1Y >}}
 
@@ -21,4 +21,4 @@ Le visual novel *Coffee Talk* va bientôt avoir droit à un nouvel opus centré 
 
 {{< youtube ITLsId98Gkw >}}
 
-Mis à part ça, *Pizza Tower* est désormais dispo sur la console tout comme la suite du très bon plateformer en multi local *Pico Park*. Le RPG *Sea of Stars* aura droit à un DLC l’été prochain. La conférence a été suivie par un Partner Showcase avec quelques surprises que Mickael vous résumera dans un prochain article.
+Mis à part ça, *Pizza Tower* est désormais dispo sur la console tout comme la suite du très bon plateformer en multi local *Pico Park*. Le RPG *Sea of Stars* aura droit à un DLC l’été prochain. La conférence a été suivie par un Partner Showcase avec quelques surprises que Mickael va se faire une joie de vous résumer dans un prochain article (il y a des vieux jeux de baston Capcom).
