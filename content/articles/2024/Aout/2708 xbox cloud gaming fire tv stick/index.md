@@ -1,6 +1,6 @@
 +++
 title = "Xbox Cloud Gaming jouable sur encore plus de Fire TV"
-date = 2024-08-27T08:04:32+01:00
+date = 2024-08-27T08:05:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
