@@ -1,5 +1,5 @@
 +++
-title = "Neva, Morsels : ce qu’il faut retenir de l’Indie Showcase de Nintendo"
+title = "Neva, Morsels, Coffee Talk Tokyo : ce qu’il faut retenir de l’Indie Showcase de Nintendo"
 date = 2024-08-27T15:55:00+01:00
 draft = false
 author = "Félix"
