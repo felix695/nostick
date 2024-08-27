@@ -1,6 +1,6 @@
 +++
 title = "Yakuza Kiwami, Star Overdrive, Atelier Yumia, Capcom, Castlevania : la Switch n'a pas dit son dernier mot"
-date = 2024-08-27T15:47:32+01:00
+date = 2024-08-27T15:56:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
