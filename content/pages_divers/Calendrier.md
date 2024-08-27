@@ -5,15 +5,6 @@ draft = false
 author = "Mickael"
 +++
 
-■ **[Black Myth: Wukong](https://www.heishenhua.com)**\
-Game Science — 20/08\
-PC, PS5\
-■ **[Concord](https://www.playstation.com/en-ca/games/concord/)**\
-Sony — 23/08\
-PS5, PC\
-■ **[World of Warcraft: The War Within](https://thewarwithin.blizzard.com/fr-fr/)**\
-Blizzard — 26/08\
-PC\
 ■ **[Visions of Mana](https://mana.square-enix-games.com/en-us)**
 Square-Enix — 29/08\
 PS4/PS5, Xbox One/Xbox Series S/X, PC\

@@ -1,6 +1,6 @@
 +++ 
-date = 2024-08-23T14:15:32+01:00
+date = 2024-08-27T14:15:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-*Black Myth: Wukong* [confirme](https://x.com/BlackMythGame/status/1826985302592049599) son statut de carton avec 10 millions de copies vendues sur PS5 et PC (3 millions de joueurs en simultané !) depuis sa sortie le 20 août. 
+La compile *MARVEL vs. CAPCOM Fighting Collection: Arcade Classics*, avec ses 7 jeux de castagne [sortira](https://www.youtube.com/watch?v=K50UaEZw2bM) le 12 septembre et franchement, c'est la meilleure nouvelle de l'année !
