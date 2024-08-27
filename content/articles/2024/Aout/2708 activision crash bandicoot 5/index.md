@@ -4,7 +4,7 @@ date = 2024-08-27T05:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/crash-bandicoot.jpg"
+image = "https://nostick.fr/articles/2024/aout/2708-ce-quil-faut-retenir-indie-world-showcase/nintendo.jpg"
 +++
 
 ![Crash Bandicoot](crash-bandicoot.jpg "Attention à pas tomber !")
