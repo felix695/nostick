@@ -19,7 +19,7 @@ Après ces douze premiers mois, il n’est peut dire qu’on est satisfait du r�
 
 Niveau statistiques, vous êtes de plus en plus nombreux à nous lire : on s’apprête à dépasser les 400 (!) abonnés à l’infolettre, et le site ne cesse de gagner de nouveaux lecteurs. C’est pas le Pérou, mais à notre échelle (deux glandus sur un site statique) c’est *vraiment* pas mal.
 
-![Nostick](nostick2.jpg "Image d’archive : la première version du site ! Qui n’était plus ou moins qu’une liste d’articles jusqu’à ce que Mickael passe plusieurs semaines à bidouiller pour nous pondre une vraie V2.")
+![Nostick](nostick2.png "Image d’archive : la première version du site ! Qui n’était plus ou moins qu’une liste d’articles jusqu’à ce que Mickael passe plusieurs semaines à bidouiller pour nous pondre une vraie V2.")
 
 Vous avez pu le remarquer, *Nostick* n'affiche aucune publicité, ne publie aucun article sponsorisé et ne joue pas au petit jeu du clickbait — on vous rassure, ça n'est pas près de changer. Le site est financé sur nos deniers personnels, et pour être honnête, il ne coûte pas grand-chose à faire tourner. Il faut de temps en temps mettre la main à la poche pour payer notre illustrateur et pour les stats fournies par [Plausible](https://plausible.io) (ou pour acheter un jeu qu'on veut tester !). Quant à l'hébergement, [un ami](https://www.zinzolin.fr) nous a fait une petite place gracieusement sur son serveur.
 
