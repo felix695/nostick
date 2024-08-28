@@ -6,10 +6,10 @@ draft = false
 author = "Félix"
 type = "une"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/vignettes/visuel-actu.jpeg"
 +++
 
-![Nostick](nostick.jpg "🥳🥳🥳")
+![Nostick](visuel-actu.jpeg "🥳🥳🥳")
 
 Le 26 août 2023 et par une après-midi pluvieuse, je décidais de lancer *Turbo 9* : une infolettre hebdomadaire ayant pour but de résumer l’actu de la semaine côté JV. Quelques mois plus tard, Mickael rejoignait l’aventure avec une idée commune en tête, à savoir créer un site web en parallèle de la newsletter où l’on pourrait publier des articles quotidiennement sans trop encombrer le mail dominical.
 
