@@ -1,6 +1,6 @@
 +++
 title = "Les manettes DualSense Edge peuvent être personnalisées sur un PC"
-date = 2024-08-28T08:04:32+01:00
+date = 2024-08-28T06:04:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
