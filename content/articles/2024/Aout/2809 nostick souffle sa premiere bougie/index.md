@@ -30,7 +30,7 @@ Mais bon, si une ou deux personnes veulent nous filer un coup de pouce pour cont
 C’est pourquoi nous avons décidé de [lancer une campagne Ulule](https://fr.ulule.com/nostick/) qui vous permettra de devenir une **star Nostick** ! Pour nous soutenir, deux paliers sont disponibles :
 
 - **Star Nostick : 3 € par mois** — Vous recevrez en avant-première un article par mois, qui pourra être un test, un dossier XXL, une newsletter inédite…
-- **Super star Nostick : 6 € par mois** — En plus de l'article en avant-première, votre nom (ou votre pseudo) et votre jeu du moment apparaitront en page d'accueil du site !
+- **Super star Nostick : 6 € par mois** — En plus de l'article en avant-première, votre nom ou votre pseudo et votre jeu du moment apparaitront en page d'accueil du site (si vous le voulez, c'est optionnel) !
 
 ![Super star Nostick](star.jpeg "")
 
