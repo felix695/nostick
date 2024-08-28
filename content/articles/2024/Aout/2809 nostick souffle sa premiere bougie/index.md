@@ -43,3 +43,6 @@ Le but est tout de même que *Nostick* reste gratuit, donc l'article en avant-pr
 Rassurez vous : *Nostick* restera gratuit et ça ne changera pas. Vous n’êtes vraiment pas obligés de sortir la CB, et cette campagne Ulule ne changera rien au fonctionnement du site. Si vous n'avez pas les moyens de vous abonner mais que vous voulez nous soutenir, pas de souci : partagez nos articles sur vos réseaux sociaux ! Plus on est de fous, plus on rit après tout.
 
 Merci à vous tous qui nous lisez chaque jour plus nombreux, et merci à tous ceux qui voudront participer au [Ulule](https://fr.ulule.com/nostick/) 🥳
+
+
+{{< chat 2809 anniv nostick >}}
