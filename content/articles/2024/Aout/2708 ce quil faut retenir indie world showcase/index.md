@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/2024/aout/2708-ce-quil-faut-retenir-indie-w
 
 ![Nintendo](nintendo.jpg "")
 
-Nintendo prépare doucement la fin de vie de la Switch et a diffusé aujourd’hui un Indie World Showcase sans grosse nouveauté mais avec deux trois bricoles pour tenir jusqu'à l'annonce de sa prochaine console. Le jeu de poker-roguelike *Balatro* a ouvert le bal avec une [grosse mise à jour](https://www.youtube.com/watch?v=8188WZxHSkU) apportant un paquet de crossovers : avec *The Witcher*, *Vampire Survivors*, *Dave the Diver* ou encore *Among Us*. Au risque de frôler l’overdose ? Si personnellement je ne suis pas client, j’ai été bien plus intrigué par le nouveau trailer de *Neva*, la suite spirituelle du sympathique *Gris* qui promet d’être fort jolie. Le jeu sera dispo le 15 octobre.
+Nintendo prépare doucement la fin de vie de la Switch et a diffusé aujourd’hui un Indie World Showcase sans grosses nouveautés mais avec deux trois bricoles pour tenir jusqu'à l'annonce de sa prochaine console. Le jeu de poker-roguelike *Balatro* a ouvert le bal avec une [grosse mise à jour](https://www.youtube.com/watch?v=8188WZxHSkU) apportant un paquet de crossovers : avec *The Witcher*, *Vampire Survivors*, *Dave the Diver* ou encore *Among Us*. Au risque de frôler l’overdose ? Si personnellement je ne suis pas client, j’ai été bien plus intrigué par le nouveau trailer de *Neva*, la suite spirituelle du sympathique *Gris* qui promet d’être fort jolie. Le jeu sera dispo le 15 octobre.
 
 {{< youtube lgzNUZk0U1Y >}}
 
