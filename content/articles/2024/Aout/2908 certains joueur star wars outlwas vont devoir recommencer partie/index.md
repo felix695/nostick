@@ -5,7 +5,7 @@ date = 2024-08-29T12:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/aout/2809-nostick-souffle-sa-premiere-bougie/visuel-actu.jpeg"
+image = "https://nostick.fr/articles/2024/aout/2908-certains-joueur-star-wars-outlwas-vont-devoir-recommencer-partie/star.jpeg"
 +++
 
 ![Le jeu Star Wars Outlaws](star.jpeg "Bug s’apprêtant à flinguer la sauvegarde d’un joueur PS5 (allégorie).") 
