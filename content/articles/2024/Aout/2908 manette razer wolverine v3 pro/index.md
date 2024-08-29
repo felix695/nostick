@@ -1,6 +1,6 @@
 +++
 title = "La nouvelle manette Razer n'est pas pour les joueurs à la petite semaine"
-date = 2024-08-29T08:07:32+01:00
+date = 2024-08-29T10:07:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
