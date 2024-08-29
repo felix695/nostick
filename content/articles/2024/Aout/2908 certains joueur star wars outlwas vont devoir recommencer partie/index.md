@@ -1,7 +1,7 @@
 
 +++
 title = "Certains joueurs ayant payé plus de 100 € pour Star Wars Outlaws vont devoir recommencer leur partie à cause d’un bug"
-date = 2024-08-29T12:30:02+01:00
+date = 2024-08-29T12:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
