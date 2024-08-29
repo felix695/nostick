@@ -13,9 +13,11 @@ Les fans de rétro-gaming savent bien qu'une grande partie du plaisir à émuler
 
 C'est pourquoi EmuDeck se lance dans le matos ! La plateforme logicielle qui simplifie l'installation et la gestion d'émulateurs commercialise sur [Indiegogo](https://www.indiegogo.com/projects/emudeck-machines-retro-emulation-console-pc#/) un boîtier au design clairement inspiré de la Dreamcast, équipé de quatre ports USB-A en façade, des ports USB-C et Ethernet 2,5 Gbps à l'arrière, et de tout ce qu'il faut à l'intérieur pour émuler à peu près n'importe quelle console.
 
-L'EM1 embarque un processeur Intel N97, 8 Go de RAM, 512 Go de SSD, ainsi que le Wi-Fi 5. L'appareil fonctionne avec [Bazzite](https://bazzite.gg/), un système d'exploitation qui ressemble pas mal à SteamOS ; et bien sûr, EmuDeck est préinstallé. Le principe, c'est de ne pas s'embêter à configurer son PC : il suffit de glisser ses ROMs et bim.
+L'EM1 (EmuDeck Machine) embarque un processeur Intel N97, 8 Go de RAM, 512 Go de SSD, ainsi que le Wi-Fi 5. L'appareil fonctionne avec [Bazzite](https://bazzite.gg/), un système d'exploitation qui ressemble pas mal à SteamOS ; et bien sûr, EmuDeck est préinstallé. Le principe, c'est de ne pas s'embêter à configurer son PC : il suffit de glisser ses ROMs et bim.
 
 Plutôt intéressant donc, jusqu'à ce qu'on jette un œil au prix de la bête : 399 € pour l'Europe. Alors certes, la console est fournie avec une manette (une [Nova Lite](https://www.gamesir.hk/products/gamesir-nova-lite?srsltid=AfmBOoorZzy70Zx_cWLs15PQuSMW9N35zqk3Ino6jLzl7nTsw1UQi9ce) de Gamesir), mais c'est vrai que ça commence à faire un peu cher, surtout qu'en face [on peut toujours installer RetroArch sur une Apple TV](https://nostick.fr/articles/2024/mai/1705-apple-tv-retroarch/) ! Les premières livraisons devraient avoir lieu en décembre.
+
+DragoonDorise, le project lead des EmuDeck Machines, [explique](https://www.reddit.com/r/EmuDeck/comments/1f44lgx/comment/lkj6k61/) sur Reddit que la marge réalisée sur chaque unité vendue est de 50 $ et qu'« *il n'essaie pas de devenir riche* ». Il n'est même pas certain de rentabiliser le projet.
 
 ![EM2 EmuDeck](em1-emudeck-2.jpg "L'EM2 sur son dock.")
 
