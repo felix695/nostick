@@ -9,4 +9,6 @@ author = "Mickael"
 
 ■ Mickaël a replongé dans *Diablo 4* à cause de la saison 5.
 
+⭐️ Cédric conduit à toute blinde dans *Pacific Drive*.
+
 ⭐️ Devenez **Super star Nostick** et on affiche votre nom ou votre pseudo et votre jeu du moment ici ! [Toutes les infos ici.](https://fr.ulule.com/nostick/)
