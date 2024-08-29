@@ -1,6 +1,6 @@
 +++
 title = "Blue Protocol ne sortira pas dans le reste du monde, et fermera au Japon"
-date = 2024-08-29T09:01:32+01:00
+date = 2024-08-29T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
