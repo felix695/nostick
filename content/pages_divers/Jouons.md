@@ -11,4 +11,6 @@ author = "Mickael"
 
 ⭐️ Cédric conduit à toute blinde dans *Pacific Drive*.
 
+⭐️ Le Vav’ tente le raid de Kessel en moins de 12 parsecs dans *Star Wars Outlaws*.
+
 ⭐️ Devenez **Super star Nostick** et on affiche votre nom ou votre pseudo et votre jeu du moment ici ! [Toutes les infos ici.](https://fr.ulule.com/nostick/)
