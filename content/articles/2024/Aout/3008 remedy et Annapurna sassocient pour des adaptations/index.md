@@ -4,7 +4,7 @@ date = 2024-08-30T11:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/xdefiant.jpg"
+image = "https://nostick.fr/articles/2024/aout/3008-remedy-et-annapurna-sassocient-pour-des-adaptations/alan.jpeg"
 +++
 
 ![Alan Wake 2](alan.jpeg "Un livre dans un jeu dans un film ??") 
