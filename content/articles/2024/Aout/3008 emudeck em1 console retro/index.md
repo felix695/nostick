@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/aout/em1-emudeck.jpg"
 +++
 
-![EM1 EmuDeck](em1-emudeck.jpg "Légende de l’image")
+![EM1 EmuDeck](em1-emudeck.jpg "")
 
 Les fans de rétro-gaming savent bien qu'une grande partie du plaisir à émuler de vieux jeux repose sur la configuration, histoire de s'assurer que tel jeu tourne au petit poil. Cette satisfaction masochiste, parfois plus importante que le jeu en lui-même, est aussi un repoussoir pour bon nombre de joueurs pas forcément versés dans l'art délicat et souvent occulte de la bidouille.
 
