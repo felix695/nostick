@@ -1,6 +1,6 @@
 +++
 title = "Ce serait déjà compliqué pour XDefiant, le nouveau shooter d'Ubisoft"
-date = 2024-08-30T07:47:32+01:00
+date = 2024-08-30T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
