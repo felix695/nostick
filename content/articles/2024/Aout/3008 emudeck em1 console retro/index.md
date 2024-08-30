@@ -1,6 +1,6 @@
 +++
 title = "EmuDeck lance des consoles rétro mais pas données"
-date = 2024-08-30T07:00:32+01:00
+date = 2024-08-30T07:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
