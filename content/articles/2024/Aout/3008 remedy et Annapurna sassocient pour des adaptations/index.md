@@ -1,6 +1,6 @@
 +++
 title = "Annapurna et Remedy s’associent pour adapter Control et Alan Wake sur grand écran"
-date = 2024-08-30T011:25:32+01:00
+date = 2024-08-30T11:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
