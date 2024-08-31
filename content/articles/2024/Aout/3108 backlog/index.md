@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Doom, Switch, Final Fantasy, Astro Bot…"
-date = 2024-08-31T01:00:32+01:00
+date = 2024-08-31T02:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
