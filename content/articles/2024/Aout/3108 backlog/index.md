@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Doom, Switch, Final Fantasy, Astro Bot…"
-date = 2024-08-31T03:30:32+01:00
+date = 2024-08-31T02:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
@@ -13,7 +13,7 @@ L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publ
 
 ## La vidéo de la semaine : Doom tourne aussi dans une IA
 
-{{< youtube Ey694m9TEUU >}}
+{{< youtube O3616ZFGpqw >}}
 
 Ce n'est probablement pas aussi spectaculaire que sur une [brosse à dent connectée](https://www.reddit.com/r/itrunsdoom/comments/1b2lgxw/doom_runs_on_wifi_toothbrush_without_hardware_mods/) ou une [lampe Ikea](https://www.slashgear.com/ikea-tradfri-smart-lamp-can-sort-of-run-doom-15678171/), mais tout de même : Google, DeepMind et l'université de Tel Aviv sont parvenus à faire tourner *Doom* (le seul, l'unique) dans… un modèle neuronal.
 
