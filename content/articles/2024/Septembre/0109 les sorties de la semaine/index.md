@@ -8,7 +8,7 @@ tags = ["C’est dispo"]
 image = "https://nostick.fr/articles/2024/0109-les-sorties-de-la-semaine/star.jpeg"
 +++
 
-![Le jeu Star Wars Outlaws](star.jpeg "En route vers la rentrée !")
+![Le jeu Star Wars Outlaws](star.jpeg "Le premier AAAAA d’Ubisoft ?")
 
 Entre la garderie, les courses et la reprise qui approche, vous n’avez peut-être pas eu le temps de vous intéresser aux nouveautés du moment. Qu’à cela ne tienne : voici les sorties de ces derniers jours qui ont retenu notre attention.
 
