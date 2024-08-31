@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/vignettes/aout/tears-kingdom-zelda.jpg"
 
 Nintendo a scellé le débat qui faisait rage depuis 7 ans chez les historiens de *Zelda* : où donc placer *Breath of the Wild* et donc de sa suite, *Tears of the Kingdom* dans la grande chronologie de la saga ? Le constructeur a enfin donné une réponse qui ne satisfera probablement pas grand monde : les deux jeux vivent tout simplement à l'écart des autres titres.
 
-![Timeline Zelda](timeline-nintendo-zelda.jpg "")
+![Timeline Zelda](timeline-nintendo-zelda.jpg "La nouvelle timeline de Nintendo. © Vooks")
 
 C'est la [découverte](https://x.com/vooksdotnet/status/1829702008322097308) du site *Vooks*, qui participait à l'événement Nintendo Live 2024, en Australie. Nintendo y a affiché la timeline de la légende de Zelda et les deux derniers épisodes sont séparés du reste. On retrouve d'ailleurs cette même séparation sur la frise chronologique du [site japonais](https://www.nintendo.com/jp/character/zelda/en/history/index.html) officiel consacré à *Zelda* (mais il n'y a encore rien sur le [site occidental](https://zelda.nintendo.com/about/)). Bref, nous voilà bien avancés !
 
