@@ -1,11 +1,11 @@
 
 +++
 title = "Star Wars Outlaws, Visions of Mana : le récap des sorties de la semaine (01/09)"
-date = 2024-09-01T02:30:02+01:00
+date = 2024-09-01T03:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/0109-les-sorties-de-la-semaine/star.jpeg"
+image = "https://nostick.fr/articles/2024/septembre/0109-les-sorties-de-la-semaine/star.jpeg"
 +++
 
 ![Le jeu Star Wars Outlaws](star.jpeg "Le premier AAAAA d’Ubisoft ?")
