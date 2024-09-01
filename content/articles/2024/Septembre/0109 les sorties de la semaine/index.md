@@ -1,7 +1,7 @@
 
 +++
 title = "Star Wars Outlaws, Visions of Mana : le récap des sorties de la semaine (01/09)"
-date = 2024-09-01T02:30:02+01:00
+date = 2024-09-01T03:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
