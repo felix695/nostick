@@ -5,7 +5,7 @@ date = 2024-09-01T03:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/0109-les-sorties-de-la-semaine/star.jpeg"
+image = "https://nostick.fr/articles/2024/septembre/0109-les-sorties-de-la-semaine/star.jpeg"
 +++
 
 ![Le jeu Star Wars Outlaws](star.jpeg "Le premier AAAAA d’Ubisoft ?")
