@@ -1,6 +1,6 @@
 +++
 title = "Final Fantasy XIV sur Switch ? Et pourquoi pas"
-date = 2024-09-02T09:01:32+01:00
+date = 2024-09-02T00:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

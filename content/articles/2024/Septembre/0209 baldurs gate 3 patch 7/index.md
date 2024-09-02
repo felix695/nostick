@@ -1,6 +1,6 @@
 +++
 title = "Le gros patch 7 pour Baldur's Gate 3 ne va plus tarder"
-date = 2024-09-02T09:58:32+01:00
+date = 2024-09-02T00:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
