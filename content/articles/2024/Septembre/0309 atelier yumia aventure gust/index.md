@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/septembre/atelier-yumia-2.jpg"
 
 ![Atelier Yumia](atelier-yumia-2.jpg "")
 
-Le moins qu'on puisse dire, c'est que le studio Gust n'a pas lésiné sur le bonbon des yeux pour attirer l'attention sur *Atelier Yumia: The Alchemist of Memories & the Envisioned Land*, son prochain jeu. Dévoilé par Nintendo durant [les deux showcases de la semaine dernière](https://nostick.fr/articles/2024/aout/2708-yakuza-kiwami-star-overdrive-atelier-yumia-capcom-castlevania/), ce nouvel opus dans la saga Atelier (le premier volet, *Atelier Marie*, remonte à 1997 !) met en effet en scène des personnages à la plastique tout à fait singulière dans l'histoire de la physiologie humaine, aussi bien du côté de l'héroïne que de ses compagnons, filles et garçons !
+Le moins qu'on puisse dire, c'est que le studio Gust n'a pas lésiné sur le bonbon des yeux pour attirer l'attention sur *Atelier Yumia : L'Alchimiste des Souvenirs et la Terre Rêvée*, son prochain jeu. Dévoilé par Nintendo durant [les deux showcases de la semaine dernière](https://nostick.fr/articles/2024/aout/2708-yakuza-kiwami-star-overdrive-atelier-yumia-capcom-castlevania/), ce nouvel opus dans la saga Atelier (le premier volet, *Atelier Marie*, remonte à 1997 !) met en effet en scène des personnages à la plastique tout à fait singulière dans l'histoire de la physiologie humaine, aussi bien du côté de l'héroïne que de ses compagnons, filles et garçons !
 
 ![Atelier Yumia](Atelier-Yumia.jpg "Yumia, Viktor et Nina.")
 
