@@ -4,7 +4,7 @@ date = 2024-09-02T00:03:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/borne-mario.jpg"
+image = "https://nostick.fr/articles/2024/septembre/0309-developpeurs-de-risk-of-rain-tirent-le-rideau-et-partent-chez-valve/ror.jpg"
 +++
 
 ![Borne d'arcade Mario](borne-mario.jpg "© Rafael Hoyos Weht (Unsplash)") 
