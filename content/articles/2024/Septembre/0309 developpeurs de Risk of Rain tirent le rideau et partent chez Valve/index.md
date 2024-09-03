@@ -1,6 +1,6 @@
 +++
 title = "Les développeurs de Risk of Rain tirent le rideau et partent chez Valve"
-date = 2024-09-02T17:00:32+01:00
+date = 2024-09-03T17:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
