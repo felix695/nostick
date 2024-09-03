@@ -15,4 +15,6 @@ author = "Mickael"
 
 ⭐️ Jack rallie ses troupes dans *Total War: Three Kingdoms*.
 
+⭐️ eFoxot se rafraichit en attendant *Frostpunk 2*.
+
 ⭐️ Devenez **Super star Nostick** et on affiche votre nom ou votre pseudo et votre jeu du moment ici ! [Toutes les infos ici.](https://fr.ulule.com/nostick/)
