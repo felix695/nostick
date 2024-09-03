@@ -4,7 +4,7 @@ date = 2024-09-03T17:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/aout/borne-mario.jpg"
+image = "https://nostick.fr/articles/2024/septembre/0309-developpeurs-de-risk-of-rain-tirent-le-rideau-et-partent-chez-valve/ror.jpg"
 +++
 
 ![Risk of Rain Returns](ror.jpg "Risk of Rain Returns, une version revue de l’original et dernier jeu d’Hopoo Games") 
