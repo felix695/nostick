@@ -4,7 +4,6 @@ date = 2024-08-24T02:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-type = "une"
 image = "https://nostick.fr/articles/2024/aout/2408-concord-se-crashe-au-decollage/concord.jpg"
 +++ 
 

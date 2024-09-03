@@ -1,6 +1,6 @@
 +++
 title = "Crash de Concord : Sony débranche les serveurs et rembourse les joueurs"
-date = 2024-09-03T16:47:32+01:00
+date = 2024-09-03T17:10:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
@@ -10,7 +10,7 @@ image = "https://nostick.fr/articles/vignettes/septembre/concord-end.jpg"
 
 ![Concord](concord-end.jpg "Faut rentrer chez vous maintenant.")
 
-C'est déjà la fin pour *Concord*. Sony a [annoncé](https://blog.playstation.com/2024/09/03/an-important-update-on-concord/) que le jeu sera débranché des serveurs à compter du 6 septembre, soit deux semaines seulement après son lancement. Puisqu'il s'agit d'un shooter en ligne, cet arrêt des serveurs signe la mort du jeu tout simplement.
+C'est déjà la fin pour *Concord*. Sony a [annoncé](https://blog.playstation.com/2024/09/03/an-important-update-on-concord/) que le jeu sera débranché des serveurs à compter du 6 septembre, soit deux semaines seulement après son lancement. Puisqu'il s'agit d'un shooter en ligne, cet arrêt des serveurs signe tout simplement la mort du jeu.
 
 Les ventes s'arrêtent dès à présent et Sony remboursera les joueurs PlayStation et PC qui ont claqué les 40 € demandés — malheureusement (ou heureusement ?) pour le constructeur, le nombre de copies vendues seraient anémiques, [on parle en effet de 25 000 exemplaires seulement](https://nostick.fr/articles/2024/aout/3108-concord-25000-copies-playstation/)… Soit moins d'un million de dollars d'engrangés, pour ce qui était pourtant une des grosses sorties de l'année pour PlayStation.
 
