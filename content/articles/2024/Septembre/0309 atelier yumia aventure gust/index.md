@@ -1,6 +1,6 @@
 +++
 title = "Atelier Yumia : l'aventure dans de généreuses proportions"
-date = 2024-09-03T08:07:32+01:00
+date = 2024-09-03T06:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

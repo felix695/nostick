@@ -1,6 +1,6 @@
 +++
 title = "Ouf, STALKER 2 tournera à 30 FPS sur la Xbox Series S"
-date = 2024-09-03T09:02:32+01:00
+date = 2024-09-03T06:05:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
