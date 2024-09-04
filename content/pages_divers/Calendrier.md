@@ -20,7 +20,7 @@ PC\
 ■ **[The Legend of Zelda: Echoes of Wisdom](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html)**\
 Nintendo — 26/09\
 Switch\
-■ **[Silent Hill 2 Remakes](https://www.blooberteam.com/silent-hill-2)**\
+■ **[Silent Hill 2 Remake](https://www.blooberteam.com/silent-hill-2)**\
 Bloober Team — 08/10\
 PS5, PC
 

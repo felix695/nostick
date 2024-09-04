@@ -20,7 +20,7 @@ Le jeu baigne dans une ambiance crado-punk et brille par son absence de finesse 
 
 ![Capture d’écran du jeu Anger Foot](screen05.jpg)
 
-Le crime est encouragé à *Shit City*, et chaque gang cherche à être le plus mauvais possible à sa manière : le gang de la pollution déverse des bidons verdâtres dans l’eau là où le gang des affaires préfère le crime en col blanc.  L’atmosphère d’*Anger Foot* se fait surtout remarquer lors de ses niveaux intermédiaires, sans baston et pendant laquelle on explore brièvement de petites cartes remplies de PNJ avec qui papoter.
+Le crime est encouragé à *Shit City*, et chaque gang cherche à être le plus mauvais possible à sa manière : le gang de la pollution déverse des bidons verdâtres dans l’eau là où le gang des affaires préfère le crime en col blanc. L’atmosphère d’*Anger Foot* se fait surtout remarquer lors de ses niveaux intermédiaires, sans baston et pendant laquelle on explore brièvement de petites cartes remplies de PNJ avec qui papoter.
 
 La plupart des blagues sont bien trouvées et participent à créer une ambiance sympathique. Le cocktail vire parfois au pipi-caca avec un grand nombre de toilettes et autres clins d’œil crados qui pourront en rebuter certains. Que les plus allergiques se rassurent : cette toile de fond se fait rapidement oublier dès qu’un niveau commence. La partie scénario est optionnelle et vous pouvez très bien vous contenter de tout passer en ligne droite sans parler à personne pour enchaîner les niveaux.
 
@@ -40,13 +40,13 @@ Là où *Hotline Miami* avait opté pour une BO synthwave électro bien intense,
 
 ## On prend son pied ?
 
-*Anger Foot* est bourrin, nerveux et réussit une bonne partie de ce qu’il entreprend. La difficulté est bien dosée, le jeu étant plutôt corsé de base et se montrant assez dur pour certains objectifs optionnels. Au niveau du gameplay, on regrettera des armes pas forcément très jouissives à utiliser, ce qui s’explique peut être par le fait que j’ai principalement joué au pad.
+*Anger Foot* est bourrin, nerveux et réussit une bonne partie de ce qu’il entreprend. La difficulté est bien dosée, le jeu étant plutôt corsé de base et se montrant assez dur pour certains objectifs optionnels. Au niveau du gameplay, on regrettera des armes pas forcément très jouissives à utiliser, ce qui s’explique peut-être par le fait que j’ai principalement joué au pad.
 
 ![Capture d’écran du jeu Anger Foot](screen03.png)
 
-L’univers est sympa et les petites coupures scénario ont l’avantage d’être brèves et rigolotes. Les décors ne se renouvellent pas vraiment, mais ce n’est pas forcément primordial dans un jeu surtout axé sur le gameplay. J’aurais apprécié un peu de changement sur la fin, le dernier monde m’ayant quelque peu lassé. Les différents objectifs pour chaque map restent une bonne idée pour inciter à reprendre la manette.
+L’univers est sympa et les petites coupures scénario ont l’avantage d’être brèves et rigolotes. Les décors ne se renouvèlent pas vraiment, mais ce n’est pas forcément primordial dans un jeu surtout axé sur le gameplay. J’aurais apprécié un peu de changement sur la fin, le dernier monde m’ayant quelque peu lassé. Les différents objectifs pour chaque map restent une bonne idée pour inciter à reprendre la manette.
 
-Bref, *Anger Foot* est un jeu d'action bien énervé qui devrait vous occuper une dizaine d'heures. À essayer si vous êtes curieux de voir ce que donnerait un Hotline Miami en 3D et que vous accrochez à l'ambiance qui se dégage des trailers.
+Bref, *Anger Foot* est un jeu d'action bien énervé qui devrait vous occuper une dizaine d'heures. À essayer si vous êtes curieux de voir ce que donnerait un *Hotline Miami* en 3D et que vous accrochez à l'ambiance qui se dégage des trailers.
 
 {{< youtube FVkDc6u_4GQ >}} 
 
