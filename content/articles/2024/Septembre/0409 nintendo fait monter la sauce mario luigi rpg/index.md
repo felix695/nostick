@@ -4,7 +4,7 @@ date = 2024-09-04T07:05:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/2024/septembre/0309-developpeurs-de-risk-of-rain-tirent-le-rideau-et-partent-chez-valve/ror.jpg"
+image = "https://nostick.fr/articles/2024/septembre/0409-nintendo-fait-monter-la-sauce-mario-luigi-rpg/02.jpg"
 +++
 
 ![Mario & Luigi : L'épopée fraternelle](01.jpg) 
