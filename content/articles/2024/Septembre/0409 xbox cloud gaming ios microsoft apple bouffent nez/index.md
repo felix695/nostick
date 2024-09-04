@@ -1,6 +1,6 @@
 +++
 title = "Toujours pas de Xbox Cloud Gaming sur iOS : Microsoft et Apple se bouffent le nez"
-date = 2024-09-04T08:01:32+01:00
+date = 2024-09-04T06:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
