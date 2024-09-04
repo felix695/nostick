@@ -1,6 +1,6 @@
 +++
 title = "Nintendo fait monter la sauce autour de Mario & Luigi : L'épopée fraternelle"
-date = 2024-09-04T10:00:32+01:00
+date = 2024-09-04T07:05:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
