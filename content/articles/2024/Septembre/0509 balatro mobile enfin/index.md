@@ -7,9 +7,9 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/septembre/balatro.jpg"
 +++
 
-![Balatro](balatro.jpg "Noël officiellement pour le 26 septembre.")
+![Balatro](balatro.jpg "Noël tombe officiellement pour le 26 septembre.")
 
-Nous y voilà, le jour tant redouté par des millions d'utilisateurs de smartphones : la version mobile de *Balatro* est officiellement dans les tuyaux ! Le jeu de cartes qui va faire chuter la productivité mondiale sera disponible à partir du 26 septembre sur l'[App Store](https://apps.apple.com/us/app/balatro/id6502453075) et le [Play Store](https://play.google.com/store/apps/details?id=com.playstack.balatro.android), au prix de 10 €. Il y a aussi une [version +](https://apps.apple.com/us/app/balatro/id6502451661) pour les abonnés Apple Arcade.
+Nous y voilà, le jour tant redouté par des millions d'utilisateurs de smartphones : la version mobile de *Balatro* est officiellement dans les tuyaux ! Le jeu de cartes façon roguelite qui va faire chuter la productivité mondiale sera disponible le 28 septembre sur l'[App Store](https://apps.apple.com/us/app/balatro/id6502453075) et le [Play Store](https://play.google.com/store/apps/details?id=com.playstack.balatro.android), au prix de 10 €. Il y a aussi une [version +](https://apps.apple.com/us/app/balatro/id6502451661) pour les abonnés Apple Arcade, qui elle sera proposée dès le 26 septembre.
 
 {{< youtube h7ZHIxRe66Q >}} 
 
