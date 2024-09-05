@@ -1,13 +1,15 @@
 +++
-title = "Le gros patch 7 pour Baldur's Gate 3 ne va plus tarder"
-date = 2024-09-02T00:01:32+01:00
+title = "Le gros patch 7 pour Baldur's Gate 3 est dispo !"
+date = 2024-09-05T13:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "telex"
 +++
 
-Les aventuriers l'attendaient avec grande impatience mais enfin, les voilà récompensés : Larian lâchera le patch 7 de *Baldur's Gate 3* cette semaine ! Bon, on n'a pas le jour précis, mais l'insupportable attente sera bientôt terminée a [annoncé](https://www.youtube.com/watch?v=gVIYrwn6y9c) Swen Vincke, le fondateur du studio, durant une rétrospective BG3 à PAX West.
+**Mise à jour 05/09 —** Hé bien nous y voilà, le patch 7 de *Baldur's Gate 3* est finalement [disponible](https://baldursgate3.game/news/patch-7-now-live_121) sur PC avec sa myriade de changements et de nouveautés qui va vous obliger à refaire un playthrough. Pauvres de nous. Les joueurs consoles et Mac (on ne vous oublie pas vous deux) seront servis courant octobre. 
+
+**Article d'origine 02/09 —** Les aventuriers l'attendaient avec grande impatience mais enfin, les voilà récompensés : Larian lâchera le patch 7 de *Baldur's Gate 3* cette semaine ! Bon, on n'a pas le jour précis, mais l'insupportable attente sera bientôt terminée a [annoncé](https://www.youtube.com/watch?v=gVIYrwn6y9c) Swen Vincke, le fondateur du studio, durant une rétrospective BG3 à PAX West.
 
 ![Baldur's Gate 3](bg3.jpg "C'est la fête !")
 
