@@ -19,4 +19,6 @@ author = "Mickael"
 
 ⭐️ Robin fait un petit tour à Khaz Algar dans *WoW: The War Within*.
 
+⭐️ Niobius tente de survivre dans *The Planet Crafter*.
+
 ⭐️ Devenez **Super star Nostick** et on affiche votre nom ou votre pseudo et votre jeu du moment ici ! [Toutes les infos ici.](https://fr.ulule.com/nostick/)
