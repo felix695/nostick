@@ -1,6 +1,6 @@
 +++
 title = "Adieu productivité : Balatro déboule enfin sur les smartphones !"
-date = 2024-06-15T10:44:32+01:00
+date = 2024-09-05T12:44:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
