@@ -4,7 +4,7 @@ date = 2024-09-05T18:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/Star-Wars-Outlaws.jpg"
+image = "https://nostick.fr/articles/2024/septembre/0509-sony-se-plaint-de-ne-pas-avoir-assez-de-licences-originales/sie.png"
 +++
 
 ![Hiroki Totoki](sie.png "Hiroki Totoki.")
