@@ -1,6 +1,6 @@
 +++
 title = "Warner Bros. mise beaucoup sur la suite de Hogwarts Legacy"
-date = 2024-09-05T10:04:32+01:00
+date = 2024-09-05T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
