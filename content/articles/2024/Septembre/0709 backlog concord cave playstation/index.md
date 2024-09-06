@@ -51,7 +51,7 @@ Est-ce que l'échec de *Concord* signe l'arrêt de mort des jeux services pour l
 
 Mais il est très clair aussi que *Concord* va être vécu comme un avertissement (très coûteux, qui plus est). D'abord pour PlayStation, évidemment. En 2022, Jim Ryan, l'ancien boss qui ne jurait plus que par les jeux services, en voulait 12 (!) d'ici 2025. Le nombre a été rapidement réduit de moitié, avec des victimes collatérales comme le multi de *The Last of Us*.
 
-La feuille de route de la plateforme compte deux gros jeux services à sortir prochainement : *Fairgame$*, développé par le studio Haven, et qui n'est pas parvenu à soulever la passion des foules lors de sa présentation en mai 2023 ; et *Marathon*, prochain gros jeu de Bungie qui fait face à ses propres difficultés. 
+La feuille de route de la plateforme compte deux gros jeux services à sortir prochainement : *Fairgame$*, développé par le studio Haven, et qui n'est pas parvenu à soulever la passion des foules lors de sa présentation en mai 2023 ; et *Marathon*, prochain gros jeu de [Bungie qui doit composer avec ses propres difficultés](https://nostick.fr/articles/2024/aout/0308-backlog-semaine-astro-bot/#les-emmerdes-de-la-semaine-chez-bungie). 
 
 Comment lancer ces deux titres dans l'ombre de *Concord* ? Un sacré casse-tête pour Hermen Hulst, le nouveau co-CEO de PlayStation en charge des studios, qui avait été la cheville ouvrière du rachat de Firewalk. Il a sa part de responsabilité dans ce désastre.
 
