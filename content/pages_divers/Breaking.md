@@ -1,6 +1,6 @@
 +++ 
-date = 2024-08-27T14:15:32+01:00
+date = 2024-09-06T16:15:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-La compile *MARVEL vs. CAPCOM Fighting Collection: Arcade Classics*, avec ses 7 jeux de castagne [sortira](https://www.youtube.com/watch?v=K50UaEZw2bM) le 12 septembre et c'est la meilleure nouvelle de l'année !
+Deux petites semaines et puis s'en va. [*Concord*, c'est définitivement terminé](https://nostick.fr/articles/2024/septembre/0309-sony-concord-debranche-serveurs-rembourse-joueurs/), Sony a officiellement [débranché](https://www.threads.net/@tomwarrenuk/post/C_ld0HEOvL8) les serveurs de son hero shooter mal lancé et mal aimé. À une prochaine… ?
