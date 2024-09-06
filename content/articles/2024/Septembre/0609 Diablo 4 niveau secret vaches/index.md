@@ -1,6 +1,6 @@
 +++
 title = "Y a-t-il un niveau secret des vaches dans Diablo 4 ?"
-date = 2024-09-06T09:01:32+01:00
+date = 2024-09-06T06:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

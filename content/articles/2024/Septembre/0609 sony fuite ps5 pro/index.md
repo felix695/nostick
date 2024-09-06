@@ -1,6 +1,6 @@
 +++
 title = "Sony aurait fuiter un visuel de la PS5 Pro"
-date = 2024-09-06T08:01:32+01:00
+date = 2024-09-06T06:40:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
