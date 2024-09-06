@@ -1,13 +1,13 @@
 +++
 title = "On vide le backlog de la semaine : Concord, CAVE, PlayStation, Black Myth Wukong"
-date = 2024-09-07T02:30:32+01:00
+date = 2024-09-07T23:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/vignettes/aout/zelda.jpg"
+image = "https://nostick.fr/articles/vignettes/septembre/nomansky.jpg"
 +++
 
-![Zelda](zelda.jpg "Le soulagement du week-end (allégorie).")
+![No Man's Sky](nomansky.jpg "Concord pourra-t-il nous faire une No Man's Sky ?.")
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
@@ -29,7 +29,7 @@ Comme 18 millions de copies pour *Black Myth Wukong* en deux semaines ! Le titre
 
 Avec un tel carton monumental sur les bras, les développeurs ne vont certainement pas en rester là. Un DLC est dans les tuyaux, a [révélé](https://www.bloomberg.com/news/articles/2024-09-05/investor-who-risked-it-all-on-wukong-scores-another-sales-win) à *Bloomberg* Daniel Wu, cofondateur de Hero Games, premier actionnaire de Game Science. Il n'entre pas dans les détails de l'extension, mais il y a une comparaison avec *Shadow Of The Erdtree*, le DLC d'*Elden Ring* qui a redonné un second souffle aux ventes du jeu.
 
-Sony doit regarder tout ça avec appétit…
+Sony, qui s'est planté en beauté avec semaine, doit regarder tout ça avec les yeux qui brillent plein de larmes.
 
 ## La grosse info de la semaine : Concord, deux petites semaines et puis s'en va
 
@@ -41,7 +41,9 @@ Concord a tenu deux petites semaines avant de s'éclipser par la petite porte, a
 
 L'espoir entretenu par Firewalk d'[envisager](https://blog.playstation.com/2024/09/03/an-important-update-on-concord/) toutes les options possibles pour faire revenir le jeu semble bien vain. Il va être difficile de sortir une *Final Fantasy XIV* ou un *No Man's Sky* de ce désastre. Ce qui est un des plus gros flops (le plus gros ?) de l'histoire du jeu vidéo restera dans les mémoires pour les siècles des siècles.
 
-Certains pourront trouver des raisons de se réjouir de ce désastre. Les incels et les extrême-droitiers qui mènent une guerre de tranchée culturelle contre tout ce qui est un tant soit peu différent du modèle dominant n'ont pas manqué de se féliciter de leur travail de sape. Ce n'est pourtant pas cette petite minorité qui parle très fort contre des [représentations diverses](https://www.instagram.com/p/C_TZx2eOLxc/) dans le jeu vidéo qui a planté *Concord*. Mais d'abord et avant tout l'apathie de Sony, qui n'a jamais donné l'impression d'y croire malgré l'argent englouti dans le développement. Il n'y a qu'à voir la quasi-absence de marketing lors du lancement du jeu (exception faite d'une manette désormais collector).
+Certains pourront trouver des raisons de se réjouir de ce désastre. Les incels et les extrême-droitiers qui mènent une guerre de tranchée culturelle contre tout ce qui est un tant soit peu différent du modèle dominant n'ont pas manqué de se féliciter de leur travail de sape. 
+
+Ce n'est pourtant pas cette petite minorité qui parle très fort contre des [représentations diverses](https://www.instagram.com/p/C_TZx2eOLxc/) dans le jeu vidéo qui a planté *Concord*. Mais d'abord et avant tout l'apathie de Sony, qui n'a jamais donné l'impression d'y croire malgré l'argent englouti dans le développement. Il n'y a qu'à voir la quasi-absence de marketing lors du lancement du jeu (exception faite d'une manette désormais collector).
 
 Est-ce que l'échec de *Concord* signe l'arrêt de mort des jeux services pour le groupe ? Certainement pas. Malgré cet accident industriel d'une ampleur inédite, le constructeur a enregistré un très beau succès avec *Helldivers 2* en début d'année. Vendu au même prix que *Concord*, le PvE d'Arrowhead a [dépassé](https://insider-gaming.com/how-many-copies-did-helldivers-2-sell-answered) le seuil des 10 millions de copies, deux mois après son lancement. Preuve que Sony peut faire du jeu service sur PS5 (et PC), pour peu que la proposition soit plus originale que les free-to-play du moment.
 
@@ -67,14 +69,27 @@ Durant l'exercice fiscal 2023-2024, les profits de l'activité jeux vidéo de CA
 
 On croise les doigts pour que le ou les nouveaux jeux en préparation ne soient pas uniquement réservés aux smartphones.
 
+## Le petit rigolo de la semaine : Phil Spencer
+
+Le patron de Xbox, Phil Spencer, est très sympathique et personne ne doute un seul instant de son amour pour les jeux vidéo. Par contre, côté business, pas sûr qu'il soit le couteau le plus affûté du tiroir. Lors d'une conférence à PAX West, le dirigeant a révélé que *Destiny* et *Guitar Hero*, deux des plus grosses franchises du jeu vidéo, lui avaient été servis sur un plateau pour devenir des exclusivités Xbox. Il n'en a pas voulu.
+
+{{< youtube GDsvw-WPBfU >}} 
+
+« *J'ai pris certaines des pires décisions dans le choix des jeux* », a-t-il expliqué. *Destiny* « *n'a pas cliqué avec moi* » la première fois qu'il y a joué. Et pourtant, le jeu est développé par Bungie à qui Xbox doit une bonne partie de son succès initial avec *Halo*. Le studio, devenu indépendant du giron de Microsoft, s'est alors tourné vers Activision pour éditer son nouveau titre.
+
+Phil Spencer a aussi laissé passer l'occasion d'éditer *Guitar Hero*, après que Alex Rigopulos, le CEO d'Harmonix, lui a présenté le concept. « *[Ils] m'ont présenté un jeu où ils allaient fabriquer des guitares en plastique, les brancher sur des consoles, puis vendre des morceaux où l'on jouerait à Simon sur cette guitare* ». C'est vrai que le pitch n'est pas spécialement vendeur. « *Et je me suis dit : vraiment ? Est-ce qu'on pense vraiment que ça va marcher ?* ». Il faut croire que oui !
+
+Là aussi, c'est Activision qui a remporté la mise, avec le succès que l'on sait. Avec le recul il est facile de se moquer de l'absence de vision de Phil Spencer. Mais lui ne nourrit aucun regret : « J'essaie de me projeter et d'être positif sur ce que nous faisons ». Qui sait quels autres jeux il n'a pas voulu et qui sont devenus des hits ? Vertigineux.
+ 
 ## On n'a pas eu le temps cette semaine mais on pense à eux
 
 {{< youtube zu-OxnMETY0 >}} 
 
 Puisqu'il est désormais obligatoire que tous les jeux intègrent une simulation de pêche, *No Man's Sky* n'a pu que se plier à l'exigence. La dernière mise à jour gratuite « [Aquarius](https://www.nomanssky.com/2024/09/aquarius-update/) » permet enfin de choper du poiscaille et bien sûr, de les cuisiner. Il y a même un costume de plongeur pour explorer les fonds marins extra-terrestres.
 
+{{< twitter user="BlooberTeam" id="1831331610291012035" >}}
 
-
+Le remake de *Silent Hill 2* s'annonce finalement mieux que ce [les premières images et vidéos laissaient craindre](https://nostick.fr/articles/2024/aout/0708-silent-hill-2-developpeurs-donnez-chance/). Tant mieux pour la Bloober Team, le studio développeur du jeu, qui sort le 8 octobre. Ce dernier a dévoilé deux modes inédits : le premier ajoute un effet « télé pourrie des années 90 », le second vire tous les éléments d'interface. Il faudra se fier au langage corporel de James, le héros, ainsi que par les effets sonores et les visuels du jeu pour savoir où se diriger. L'idée est bonne, reste à voir ce que ça va donner en vrai.
 
 ## osef
 
@@ -92,5 +107,7 @@ Sale année pour les adaptations de jeux au cinoche. Si l'affligeant *Borderland
 - *Mario & Luigi: L'Épopée fraternelle* sera un des gros jeux Switch (un des derniers !) de la fin de l'année. Pas étonnant que Nintendo mette le paquet pour en faire la promo, [comme on le verra ici.](https://nostick.fr/articles/2024/septembre/0409-nintendo-fait-monter-la-sauce-mario-luigi-rpg/)
 - Avec une telle licence en or, il est impossible qu'Ubisoft se plante et pourtant, *Star Wars Outlaws* n'a pas l'air très bien parti. [L'odeur de plantade, c'est par là.](https://nostick.fr/articles/2024/septembre/0509-star-wars-outlaws-carton-ubisoft/)
 - Ouais, ça va être compliqué au bureau à partir de fin septembre : *Balatro* sort finalement sur iOS et sur Android. La productivité mondiale va tomber à zéro ! [Tous les détails dans cette actu.](https://nostick.fr/articles/2024/septembre/0509-balatro-mobile-enfin/)
+- Après avoir enterré sa nouvelle (et défunte) franchise *Concord* sans fleur ni couronne, Sony vient se plaindre de ne pas posséder de licences suffisamment fortes. [Comment leur dire poliment ?](https://nostick.fr/articles/2024/septembre/0509-sony-se-plaint-de-ne-pas-avoir-assez-de-licences-originales/)
+- Il y a très certainement un niveau secret des vaches dans *Diablo 4*. De quoi ça ? [On vous dit tout dans cette actu.](https://nostick.fr/articles/2024/septembre/0609-diablo-4-niveau-secret-vaches/)
 
 [^1]: Le saviez-vous ? Ça veut dire « Computer Art Visual Entertainment ».
