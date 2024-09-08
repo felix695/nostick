@@ -1,6 +1,6 @@
 +++
 title = "Astro Bot, Star Trucker : le récap des sorties de la semaine (08/09)"
-date = 2024-09-08T07:00:02+01:00
+date = 2024-09-08T07:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
