@@ -1,6 +1,6 @@
 +++
 title = "Crazy Taxi, Shinobi : les futurs remakes de Sega en fuite"
-date = 2024-05-08T16:30:32+01:00
+date = 2024-09-08T16:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
