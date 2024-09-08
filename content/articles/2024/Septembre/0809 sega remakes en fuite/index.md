@@ -4,7 +4,7 @@ date = 2024-09-08T16:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-vignette = "https://nostick.fr/articles/vignettes/septembre/sega.png"
+vignette = "https://nostick.fr/articles/vignettes/septembre/sega.jpg"
 +++ 
 
 ![Logo Sega](sega.png "")
