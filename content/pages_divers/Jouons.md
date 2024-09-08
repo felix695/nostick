@@ -7,7 +7,7 @@ author = "Mickael"
 
 ■ Félix fait le singe dans *Black Myth: Wukong*.
 
-■ Mickaël a acheté la nouvelle compile *Castlevania Dominus* en sachant qu'il n'a pas le temps de jouer.
+■ Hypé par *Astro Bot*, Mickaël relance une partie de *Mario Odyssey*.
 
 ⭐️ Cédric conduit à toute blinde dans *Pacific Drive*.
 
