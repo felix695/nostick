@@ -4,7 +4,7 @@ date = 2024-09-08T16:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-vignette = "https://nostick.fr/articles/vignettes/septembre/sega.png"
+image = "https://nostick.fr/articles/2024/septembre/0809-sega-remakes-en-fuite/sega2.png"
 +++ 
 
 ![Logo Sega](sega.png "")
