@@ -1,5 +1,5 @@
 +++
-title = "Sony dévoilera enfin la PS5 Pro demain mardi (peut-être)"
+title = "Sony dévoilera enfin la PS5 Pro demain mardi !"
 date = 2024-09-09T15:47:32+01:00
 draft = false
 author = "Mickael"
@@ -9,7 +9,11 @@ image = "https://nostick.fr/articles/vignettes/septembre/PS5.jpg"
 
 ![PlayStation 5](PS5.jpg "© Triyansh Gill (Unsplash)")
 
-Vous la sentez vous aussi, la bonne odeur du plastique quand on déballe une nouvelle console ? Non, on ne parle pas (pas encore) de la Switch 2, mais de la PS5 Pro : Sony a [programmé](https://blog.playstation.com/2024/09/09/tune-in-tomorrow-for-a-playstation-5-technical-presentation-hosted-by-mark-cerny/) une « Technical Presentation » ce mardi 10 septembre (17h, heure de Paris). Et même si le constructeur ne confirme pas qu'il s'agit de la PS5 Pro, évidemment tout le monde s'attend à ce que ce soit le cas.
+**Mise à jour 21h40 —** Sony a confirmé le secret de Polichinelle : sur la vidéo YouTube non répertoriée de la présentation, le constructeur n'a fait aucun mystère du contenu de l'événement — « PS5 Pro » ! Le nom a été changé peu de temps après, mais trop tard…
+
+![PS5 Pro confirmed](ps5-pro-confirmed.jpg "Oops.")
+
+**Article original, 17h —** Vous la sentez vous aussi, la bonne odeur du plastique quand on déballe une nouvelle console ? Non, on ne parle pas (pas encore) de la Switch 2, mais de la PS5 Pro : Sony a [programmé](https://blog.playstation.com/2024/09/09/tune-in-tomorrow-for-a-playstation-5-technical-presentation-hosted-by-mark-cerny/) une « Technical Presentation » ce mardi 10 septembre (17h, heure de Paris). Et même si le constructeur ne confirme pas qu'il s'agit de la PS5 Pro, évidemment tout le monde s'attend à ce que ce soit le cas.
 
 ![PS5 Pro](ps5-pro-sony.jpg "On y sera. Avec toi ?")
 
