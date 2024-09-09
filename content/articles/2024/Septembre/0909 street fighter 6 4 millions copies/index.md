@@ -1,6 +1,6 @@
 +++
 title = "4 millions de copies pour Street Fighter 6"
-date = 2024-09-09T06:00:00+01:00
+date = 2024-09-09T09:02:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

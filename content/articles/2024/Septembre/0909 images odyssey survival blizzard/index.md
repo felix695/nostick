@@ -1,6 +1,6 @@
 +++
 title = "Des images d'Odyssey, le survival de Blizzard qui ne sortira jamais"
-date = 2024-09-09T09:47:32+01:00
+date = 2024-09-09T09:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
