@@ -29,6 +29,4 @@ Les captures laissent aussi vagabonder l'imagination vers un univers plein de r�
 
 ![Odyssey](blizzard-odyssey-9.jpg "")
 
-![Odyssey](blizzard-odyssey-7.jpg "")
-
 Blizzard est de toute manière déjà bien occupé : Chris McCabe, directeur de gestion produit au sein du studio, a [ajouté](https://x.com/bogorad222/status/1829446709568585748) à son profil LinkedIn qu'il [travaillait](https://www.linkedin.com/in/christopermccabe/) sur un « *titre AAA RPG-FPS non annoncé* » ! Auparavant attaché à *Overwatch*, le cadre pourrait désormais plancher sur un spin-of du *hero shooter*, c'est du moins ce que beaucoup croient deviner entre les lignes.
