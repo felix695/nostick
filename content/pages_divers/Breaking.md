@@ -1,6 +1,6 @@
 +++ 
-date = 2024-09-06T16:15:32+01:00
+date = 2024-09-09T15:15:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Deux petites semaines et puis s'en va. [*Concord*, c'est définitivement terminé](https://nostick.fr/articles/2024/septembre/0309-sony-concord-debranche-serveurs-rembourse-joueurs/), Sony a officiellement [débranché](https://www.threads.net/@tomwarrenuk/post/C_ld0HEOvL8) les serveurs de son hero shooter mal lancé et mal aimé.
+Sony présentera probablement sa PS5 Pro demain, mardi 10 septembre, à 18 heures (heure de Paris) : le constructeur [organise](https://blog.playstation.com/2024/09/09/tune-in-tomorrow-for-a-playstation-5-technical-presentation-hosted-by-mark-cerny/) une « Technical Presentation » de 9 minutes.
