@@ -1,6 +1,6 @@
 +++
 title = "L'IA de MarioVGG génère des niveaux de Super Mario"
-date = 2024-09-10T09:47:32+01:00
+date = 2024-09-10T07:55:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
