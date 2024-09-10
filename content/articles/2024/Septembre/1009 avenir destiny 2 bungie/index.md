@@ -1,6 +1,6 @@
 +++
 title = "Il y a de l'avenir dans Destiny 2"
-date = 2024-09-10T08:01:32+01:00
+date = 2024-09-10T08:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
