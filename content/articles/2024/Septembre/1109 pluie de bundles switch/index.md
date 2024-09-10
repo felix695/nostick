@@ -13,4 +13,4 @@ En plus du bundle Switch OLED + *Super Mario Bros. Wonder* [dévoilé la semaine
 
 ![Nintendo Switch Sports](switch-bundle-sports.jpg "Depuis l'an dernier, Nintendo commercialise un bundle Switch Sports. Le nouveau bundle serait « légèrement différent », selon Bilbil-kun.")
 
-L'annonce de ces nouveaux bundles est prévue pour le 12 ou le 13 septembre, la commercialisation débutera aux alentours du 19 septembre. Gardons en tête que cela concerne l'Europe, rien ne dit que ces packs seront proposés ailleurs dans le monde. Et c'est ce qui donne un peu d'espoir à tous ceux qui espèrent toujours une présentation de la Switch 2 en septembre. 
+L'annonce de ces nouveaux bundles est prévue pour le 12 ou le 13 septembre, la commercialisation débutera aux alentours du 19 septembre. Gardons en tête que cela concerne l'Europe, rien ne dit que ces packs seront proposés ailleurs dans le monde. L'importance toute relative de ces packs donne un peu d'espoir à tous ceux qui espèrent toujours une présentation de la Switch 2 en septembre. 
