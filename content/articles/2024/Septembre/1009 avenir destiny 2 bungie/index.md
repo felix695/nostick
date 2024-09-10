@@ -1,6 +1,6 @@
 +++
 title = "Il y a de l'avenir dans Destiny 2"
-date = 2024-09-10T08:01:32+01:00
+date = 2024-09-10T11:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
@@ -8,8 +8,6 @@ image = "https://nostick.fr/articles/vignettes/septembre/destiny-2.jpg"
 +++
 
 ![Destiny 2](destiny-2.jpg "")
-
-{{< youtube w7Ft2ymGmfc >}} 
 
 Maintenant que l'ultime DLC de *Destiny 2*, le très réussi « The Final Shape », est sorti, les fans du shooter de Bungie attendaient avec une certaine angoisse ce qui allait se passer pour leur jeu préféré. Qu'ils se rassurent, le studio ne va pas les laisser tomber (et la boîte a besoin de leurs sous, de toute manière).
 
