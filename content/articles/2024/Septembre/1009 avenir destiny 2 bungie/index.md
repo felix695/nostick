@@ -9,8 +9,6 @@ image = "https://nostick.fr/articles/vignettes/septembre/destiny-2.jpg"
 
 ![Destiny 2](destiny-2.jpg "")
 
-{{< youtube w7Ft2ymGmfc >}} 
-
 Maintenant que l'ultime DLC de *Destiny 2*, le très réussi « The Final Shape », est sorti, les fans du shooter de Bungie attendaient avec une certaine angoisse ce qui allait se passer pour leur jeu préféré. Qu'ils se rassurent, le studio ne va pas les laisser tomber (et la boîte a besoin de leurs sous, de toute manière).
 
 Bungie a [publié](https://www.bungie.net/7/en/News/article/new_frontiers) sa feuille de route — baptisée « Frontiers » — pour la suite des événements et la saga, qui a déjà dix ans au compteur (!), va poursuivre sa route pendant de nombreuses années encore. Le changement le plus important, c'est l'abandon de la grosse extension annuelle, au profit de deux extensions de plus petite taille chaque année, accompagnées de quatre mises à jour majeures de contenus gratuits.
