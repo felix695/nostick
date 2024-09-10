@@ -5,10 +5,10 @@ draft = false
 author = "Félix"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/2024/septembre/1009-enfin-une-ps5-pour-les-pro/ps55.png"
+image = "https://nostick.fr/articles/2024/septembre/1009-enfin-une-ps5-pour-les-pro/ps55.jpg"
 +++
 
-![La PS5 Pro](ps55.png "Son prix va vous surprendre.") 
+![La PS5 Pro](ps55.jpg "Son prix va vous surprendre.") 
 
 On le sentait venir, c’est maintenant chose faite : Sony avait bien une PS5 Pro dans les cartons. Mark Cerny nous a présenté de sa voix suave cette nouvelle console, qui promet de ne plus nous laisser choisir entre les modes « Fidélité » et « Performance ».
 
