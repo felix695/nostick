@@ -1,5 +1,5 @@
 +++
-title = "Meilleur GPU, ray tracing avancé, upscaling par IA : enfin une PS5 pour les Pro™"
+title = "Meilleur GPU, ray tracing avancé, upscaling par IA et prix salé : enfin une PS5 pour les Pro™"
 date = 2024-09-10T16:25:00+01:00
 draft = false
 author = "Félix"
@@ -16,10 +16,7 @@ On le sentait venir, c’est maintenant chose faite : Sony avait bien une PS5 Pr
 
 La PS5 Pro va donc disposer d’un meilleur GPU et d’une RAM 28 % plus rapide, offrant un rendu jusqu’à 45 % plus efficace. Le ray tracing a été amélioré pour des performances pouvant être triplées. Sony a intégré sa technologie PlayStation Spectral Super Resolution (PSSR), de l’upscaling similaire au DLSS ou au FSR qui va carburer grâce à une puce dédiée.
 
-
 ![La PS5 Pro](sonyps5.jpeg "La PS5 Pro à gauche, la PS5 classique au millieu.") 
-
-
 
 Les éléments au loin sont plus détaillés, les cheveux des personnages plus beaux et les ombres plus réalistes. Une fonction « Game Boost » va faire son apparition pour améliorer les performances des jeux PS4 et PS5 pris en charge (on nous annonce plus de 8 500 jeux PS4 rétrocompatibles). Comptez également sur le Wi-Fi 7, le VRR et la prise en charge de la 8K.
 
