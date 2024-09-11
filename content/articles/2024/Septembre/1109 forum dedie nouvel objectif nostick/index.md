@@ -34,3 +34,5 @@ On profite de l'occasion pour lancer un nouvel abonnement Mega Star Nostick à 1
 Les membres déjà abonnés aux deux paliers payants recevront également le badge pour les forums et le fond d'écran exclusif, pour les remercier de nous avoir fait confiance.
 
 Encore merci de nous lire et à bientôt 🥳 !
+
+{{< chat 1109forumnostick >}}
