@@ -1,5 +1,5 @@
 +++
-title = "Sony vend des PS5 « fat » reconditionnées à 450 €"
+title = "Sony vend des PS5 « fat » avec lecteur disque reconditionnées à 450 €"
 date = 2024-09-11T15:47:32+01:00
 draft = false
 author = "Mickael"
