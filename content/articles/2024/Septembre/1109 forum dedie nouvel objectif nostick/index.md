@@ -12,7 +12,7 @@ image = "https://nostick.fr/articles/2024/septembre/1109-forum-dedie-nouvel-obje
 
 Salut à tous !
 
-Un petit billet « vie du site » pour revenir sur [le lancement de notre Ulule](https://nostick.fr/articles/2024/aout/2809-nostick-souffle-sa-premiere-bougie/), dont on est très satisfait : 9 d’entre vous se sont abonnés, ce qui nous a permis de largement atteindre notre premier objectif. On va donc bientôt pouvoir se passer de Substack pour migrer vers [Ghost](https://ghost.org/), une alternative qui nous fait de l’œil par son côté open source et entièrement personnalisable. Encore merci à tous pour le soutien !
+Un petit billet « vie du site » pour revenir sur [le lancement de notre Ulule](https://nostick.fr/articles/2024/aout/2809-nostick-souffle-sa-premiere-bougie/), dont on est très satisfait : 9 d’entre vous se sont [abonnés](https://fr.ulule.com/nostick/), ce qui nous a permis de largement atteindre notre premier objectif. On va donc bientôt pouvoir se passer de Substack pour migrer vers [Ghost](https://ghost.org/), une alternative qui nous fait de l’œil par son côté open source et entièrement personnalisable. Encore merci à tous pour le soutien !
 
 Il faut qu’on se penche dessus et on aimerait faire ça de manière propre (comprendre : sans perdre la moitié des abonnés en route ou vous demander de nous redonner votre mail), donc la transition se fera d’ici la fin de l’année. En pratique, l’infolettre arrivera depuis un nouveau mail et sera plus jolie. De notre côté, ça nous permet d’être plus indépendant sans avoir à nous coltiner certains aspects disons, lourdingues, de Substack.
 
@@ -24,7 +24,7 @@ Si on atteint ce palier, Nostick sera autonome non seulement techniquement, mais
 
 ![Les abonnements du Ulule](paliers.jpeg) 
 
-On profite de l'occasion pour lancer un nouvel abonnement Mega Star Nostick à 10 € par mois. Il contient :
+On profite de l'occasion pour lancer [un nouvel abonnement](https://fr.ulule.com/nostick/) Mega Star Nostick à 10 € par mois. Il contient :
 
 - la lecture en avant-première d'un article par mois (ce mois-ci [un test](https://fr.ulule.com/nostick/news/on-a-teste-les-jeux-mobiles-sonic----et-ca-n-etait-pas-si-mal-413015/) des différents jeux mobiles Sonic) — et il y en aura probablement plus ;
 - l’affichage de votre nom ou de votre pseudo ainsi que de votre jeu du moment sur la page d'accueil du site ;
