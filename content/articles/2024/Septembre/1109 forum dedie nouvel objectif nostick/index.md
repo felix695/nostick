@@ -26,7 +26,7 @@ Si on atteint ce palier, Nostick sera autonome non seulement techniquement, mais
 
 On profite de l'occasion pour lancer un nouvel abonnement Mega Star Nostick à 10 € par mois. Il contient :
 
-- la lecture en avant-première d'un article par mois (actuellement [un test](https://fr.ulule.com/nostick/news/on-a-teste-les-jeux-mobiles-sonic----et-ca-n-etait-pas-si-mal-413015/) des différents jeux mobiles Sonic) — et il y en aura probablement plus ;
+- la lecture en avant-première d'un article par mois (ce mois-ci [un test](https://fr.ulule.com/nostick/news/on-a-teste-les-jeux-mobiles-sonic----et-ca-n-etait-pas-si-mal-413015/) des différents jeux mobiles Sonic) — et il y en aura probablement plus ;
 - l’affichage de votre nom ou de votre pseudo ainsi que de votre jeu du moment sur la page d'accueil du site ;
 - un rang/badge exclusif sur le futur forum ;
 - un fond d'écran exclusif pour PC et smartphones dessiné par notre graphiste (à qui on doit notre logo et les petites décorations du site).
