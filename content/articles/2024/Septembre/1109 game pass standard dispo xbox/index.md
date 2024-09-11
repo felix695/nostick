@@ -1,6 +1,6 @@
 +++
 title = "La nouvelle formule Game Pass Standard est dispo pour tous, mais la voulez-vous vraiment ?"
-date = 2024-09-11T08:01:32+01:00
+date = 2024-09-11T08:30:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

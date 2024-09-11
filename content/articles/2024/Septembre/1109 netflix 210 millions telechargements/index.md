@@ -1,6 +1,6 @@
 +++
 title = "Netflix aurait dépassé les 210 millions de téléchargements pour ses jeux mobiles"
-date = 2024-09-11T08:25:00+01:00
+date = 2024-09-11T08:40:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
