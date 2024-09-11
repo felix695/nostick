@@ -4,7 +4,7 @@ date = 2024-09-11T08:40:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/septembre/1009-enfin-une-ps5-pour-les-pro/ps55.jpg"
+image = "https://nostick.fr/articles/2024/septembre/1109-netflix-210-millions-telechargements/netflix.png"
 +++
 
 ![Logo Netflix](netflix.png) 
