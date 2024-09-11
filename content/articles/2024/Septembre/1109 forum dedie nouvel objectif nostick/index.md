@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/2024/septembre/1009-enfin-une-ps5-pour-les-pro/ps55.jpg"
+image = "https://nostick.fr/articles/2024/septembre/1109-forum-dedie-nouvel-objectif-nostick/nostick.png"
 +++
 
 ![Logo Ulule x Nostick](nostick.png) 
