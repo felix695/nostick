@@ -1,5 +1,5 @@
 +++
-title = "Un forum dédié : notre nouvel objectif pour Nostick !"
+title = "Un forum dédié : notre nouvel objectif pour Nostick !"
 date = 2024-09-11T15:00:00+01:00
 draft = false
 author = "Félix"
