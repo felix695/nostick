@@ -1,6 +1,6 @@
 +++
 title = "Flappy Bird reviendra sur mobile en 2025"
-date = 2024-09-12T17:30:32+01:00
+date = 2024-09-12T17:45:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
