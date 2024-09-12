@@ -1,5 +1,5 @@
 +++
-title = "Le volume 2 des jeux Metal Gear Solid se hâte lentement"
+title = "Konami veut prendre son temps pour éviter de bousiller Metal Gear Solid Master Collection Volume 2"
 date = 2024-09-12T08:47:32+01:00
 draft = false
 author = "Mickael"
