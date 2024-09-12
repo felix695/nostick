@@ -4,7 +4,7 @@ date = 2024-09-12T17:45:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/MGS4.jpg"
+image = "https://nostick.fr/articles/2024/septembre/1209-retour-de-flappy-bird/flappy.png"
 +++
 
 ![Flappy Bird](flappy.png "Qu’est-ce qui est jaune et qui se fait attendre ?") 
