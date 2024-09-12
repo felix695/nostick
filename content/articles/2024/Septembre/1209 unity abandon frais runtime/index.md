@@ -1,6 +1,6 @@
 +++
 title = "Unity abandonne son système de frais fixes Runtime au grand soulagement de tous"
-date = 2024-09-12T18:01:32+01:00
+date = 2024-09-12T18:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
