@@ -1,6 +1,6 @@
 +++
 title = "Konami veut prendre son temps pour éviter de bousiller Metal Gear Solid Master Collection Volume 2"
-date = 2024-09-12T08:47:32+01:00
+date = 2024-09-12T08:45:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
