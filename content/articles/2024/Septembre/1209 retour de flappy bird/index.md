@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/2024/septembre/1209-retour-de-flappy-bird/f
 
 ![Flappy Bird](flappy.png "Qu’est-ce qui est jaune et qui se fait attendre ?") 
 
-Voilà un autre truc qu’on n’avait pas sur le bingo 2024 : le retour de *Flappy Bird* ! Ce grand classique du jeu mobile reviendra en 2025 sur iOS, Android et un peu avant sur navigateurs. *Flappy Bird* avait connu un succès phénoménal en 2013 (ça ne nous rajeunit pas) avant que son unique développeur Dong Nguyen ne décide de tout débrancher face à la pression du succès.
+Voilà un truc qu’on n’avait pas sur le bingo 2024 : le retour de *Flappy Bird* ! Ce grand classique du jeu mobile reviendra en 2025 sur iOS, Android et un peu avant sur navigateurs. *Flappy Bird* avait connu un succès phénoménal en 2013 (ça ne nous rajeunit pas) avant que son unique développeur Dong Nguyen ne décide de tout débrancher face à la pression du succès.
 
 Qui se cache derrière ce retour en fanfare ? Pour être honnête, c’est un peu le bordel. ‌« The Flappy Bird Foundation Group » va relancer le projet et se présente comme « *une nouvelle équipe de fans passionnés qui s'engagent à partager le jeu avec le monde entier* ». Un site web a été [mis en ligne](https://flappybird.org) pour l’occasion, où l’on nous invite à rejoindre… un canal Telegram. 
 
