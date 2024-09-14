@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : PS5 Pro, Destiny 2, The Crew 2, Call of Duty Warzone Mobile…"
-date = 2024-09-14T10:00:00+01:00
+date = 2024-09-14T07:00:00+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
