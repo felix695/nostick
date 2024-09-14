@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/vignettes/septembre/snake.jpg"
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
-## L’image de la semaine : 
+## L’image de la semaine : l'Ace of Spades dégomme Bungie
 
 
 ![Ace of Spades](ace-of-spades-bungie.jpg "")
