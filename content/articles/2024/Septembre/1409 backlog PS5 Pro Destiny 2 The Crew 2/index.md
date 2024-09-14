@@ -80,7 +80,7 @@ Dans quelques années, si d'aventure Xbox lâche complètement l'affaire dans le
 
 ![PS5 Pro](ps5-pro.jpg "")
 
-Tout n'est pourtant pas perdu. Les joueurs ont ce pouvoir immense de refuser d'être pressurés comme des citrons. Une PS5 Pro à 800 €, sans jeux véritablement nouveaux pour enflammer l'imagination et les portefeuilles, n'a guère de chance d'être un best-seller (à moins que *GTA VI* ne soit optimisé, ce qui n'est absolument pas certain : les gars de Rockstar préféreront sûrement mettre le paquet sur la version PC bien plus lucrative).
+Tout n'est pourtant pas perdu. Les joueurs ont ce pouvoir immense de refuser d'être pressurés comme des citrons. Une PS5 Pro à 800 €, sans jeux véritablement nouveaux pour enflammer l'imagination et les portefeuilles, n'a guère de chance d'être un best-seller. À moins que *GTA VI* ne soit optimisé, ce qui n'est absolument pas certain : les gars de Rockstar préféreront sûrement mettre le paquet sur les versions PS5 Slim et Xbox plutôt que s'intéresser à une console de niche.
 
 Et puis à ce tarif, les PC commencent à devenir une option séduisante même s'il faudra mettre un ou deux billets en plus pour avoir quelque chose de vraiment potable. Mais on y gagne en termes de flexibilité (on n'est pas limité à une plateforme) et de prix des jeux. Et même des jeux PlayStation, les exclusivités Sony finissant souvent sur PC.
 
