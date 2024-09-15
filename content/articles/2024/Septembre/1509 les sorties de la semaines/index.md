@@ -1,6 +1,6 @@
 +++
 title = "Warhammer 40,000: Space Marine 2, Caravan Sandwitch : le récap des sorties de la semaine (15/09)"
-date = 2024-09-15T07:00:01+01:00
+date = 2024-09-15T07:30:01+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
