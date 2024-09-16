@@ -1,5 +1,5 @@
 +++
-title = "On saura si GTA VI est reporté à 2026 quelques mois seulement avant l’annonce "
+title = "Un report de GTA VI ? On sera prévenu au dernier moment"
 date = 2024-09-16T19:30:32+01:00
 draft = false
 author = "Mickael"
