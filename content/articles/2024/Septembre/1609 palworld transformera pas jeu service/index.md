@@ -4,10 +4,10 @@ date = 2024-09-16T06:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/vignettes/palworld.jpg"
 +++
 
-![Texte Alternative](rickmorty.jpeg "Légende de l’image")
+![Texte Alternative](palworld.jpg)
 
 Palworld a surgi dans le ciel du jeu vidéo comme une météorite qui allait tout emporter sur son passage. Et pour cause : le jeu de Pocketpair a atteint les 25 millions de copies vendues depuis son lancement, le 22 février dernier. Mais en fait d'explosion, la météorite a réalisé un atterrissage en douceur, à tel point qu'on n'en entend plus trop parler (le jeu est toujours dans le top 100 Steam).
 
