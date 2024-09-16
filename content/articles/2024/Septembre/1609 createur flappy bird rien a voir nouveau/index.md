@@ -1,6 +1,6 @@
 +++
 title = "Le créateur de Flappy Bird n'a rien à voir avec le nouveau jeu, et il ne soutient pas les cryptos"
-date = 2024-09-16T08:04:32+01:00
+date = 2024-09-16T06:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

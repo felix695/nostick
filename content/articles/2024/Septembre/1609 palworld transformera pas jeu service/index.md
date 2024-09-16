@@ -1,6 +1,6 @@
 +++
 title = "Palworld ne se transformera pas en jeu service"
-date = 2024-09-16T09:47:32+01:00
+date = 2024-09-16T06:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

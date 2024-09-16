@@ -1,6 +1,6 @@
 +++
 title = "8BitDo : du Bluetooth en retrofit pour la manette GameCube"
-date = 2024-09-16T08:57:32+01:00
+date = 2024-09-16T06:49:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
