@@ -4,7 +4,7 @@ date = 2024-09-16T19:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/septembre/1609-palworld-transformera-pas-jeu-service/GTA.jpg"
+image = "https://nostick.fr/articles/2024/septembre/1609-gta-vi-report-quelques-mois/GTA.jpg"
 +++
 
 ![GTA VI](GTA.jpg)
