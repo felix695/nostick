@@ -4,7 +4,7 @@ date = 2024-09-17T18:20:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/PS5-pro.jpg"
+image = "https://nostick.fr/articles/2024/septembre/1709-ipad-souvre-aux-boutiques-tierces/epic.jpeg"
 +++
 
 ![L’Epic Games Store](epic.jpeg "") 
