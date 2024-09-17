@@ -1,6 +1,6 @@
 +++
 title = "Sous le moteur de la PS6, une puce AMD (et pas Intel)"
-date = 2024-09-17T08:02:32+01:00
+date = 2024-09-17T08:50:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
