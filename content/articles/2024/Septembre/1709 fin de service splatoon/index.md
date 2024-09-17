@@ -11,4 +11,4 @@ C’est le début de la fin pour *Splatoon 3*. Nintendo a [annoncé](https://x.c
 
 ![Splatoon 3](splatoon.jpg) 
 
-Nintendo n’abandonne pas complètement le jeu, qui pourra recevoir des mises à jour d’ajustement des armes de temps à autre. Les modes Big Run, Travail d'Eggstra et les challenges mensuels continueront pendant encore quelque temps. *Splatoon 2* a également eu un suivi de 2 ans, mais on ne peut s’empêcher de penser que Nintendo prépare le terrain à l’arrivée de sa future Switch 2. Rendez-vous pour *Splatoon 4* ?
+Nintendo n’abandonne pas complètement le jeu, qui pourra recevoir des mises à jour d’ajustement des armes de temps à autre. Les modes Big Run, Travail d'Eggstra et les challenges mensuels continueront pendant encore quelque temps. *Splatoon 2* a également eu un suivi de 2 ans, mais on ne peut s’empêcher de penser que Nintendo prépare le terrain pour l’arrivée de sa nouvelle console. Rendez-vous pour *Splatoon 4* ?
