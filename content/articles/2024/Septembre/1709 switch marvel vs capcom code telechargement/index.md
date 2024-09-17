@@ -1,5 +1,5 @@
 +++
-title = "Sur Switch, la version physique de la compile Marvel vs Capcom sera un bête code de téléchargement en Europe"
+title = "Marvel vs Capcom sur Switch : les joueurs européens se contenteront d'un code de téléchargement dans la boîte"
 date = 2024-09-17T12:44:32+01:00
 draft = false
 author = "Mickael"
