@@ -1,6 +1,6 @@
 +++
 title = "Fin de service pour Splatoon 3"
-date = 2024-09-17T07:00:00+01:00
+date = 2024-09-17T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]

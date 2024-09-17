@@ -1,6 +1,6 @@
 +++
 title = "Final Fantasy XVI : des mods oui, mais restez dans les clous svp"
-date = 2024-09-17T09:43:32+01:00
+date = 2024-09-17T08:15:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
