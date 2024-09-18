@@ -1,6 +1,6 @@
 +++ 
-date = 2024-09-09T15:15:32+01:00
+date = 2024-09-18T07:45:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Sony présentera probablement sa PS5 Pro demain, mardi 10 septembre, à 17h (heure de Paris) : le constructeur [organise](https://blog.playstation.com/2024/09/09/tune-in-tomorrow-for-a-playstation-5-technical-presentation-hosted-by-mark-cerny/) une « Technical Presentation » qui sent bon la nouvelle console !
+Vous avez loupé l’excellent *El Paso, Elsewhere* ? Bonne nouvelle : le jeu est désormais disponible sur iPhone et iPad [pour 6 €](https://apps.apple.com/us/app/el-paso-elsewhere/id6472330346?l=fr-FR), avec une démo.
