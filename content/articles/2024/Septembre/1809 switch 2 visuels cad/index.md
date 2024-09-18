@@ -7,6 +7,12 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/septembre/switch-2-usine.jpg"
 +++
 
+**Mise à jour —** La méfiance est plus que jamais de mise. Tom Warren de *The Verge* a [indiqué](https://x.com/tomwarren/status/1836391172685644221) que les images ci-dessous proviendraient en fait d'un utilisateur chinois adepte de l'impression 3D qui a blousé tout son monde.
+
+___
+
+
+
 ![Switch 2](switch-2-usine.jpg "")
 
 Il va bien falloir à un moment donné que Nintendo se décide à balancer sa nouvelle Switch. Si le constructeur parvient à serrer le kiki des développeurs et des journalistes spécialisés qui sont dans la boucle — l'armée d'avocats-ninjas de Nintendo veille —, les fuites vont être impossibles à contrôler du côté des lignes de production.
