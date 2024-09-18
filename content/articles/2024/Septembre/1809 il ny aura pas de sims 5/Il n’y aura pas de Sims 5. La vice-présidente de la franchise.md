@@ -1,6 +1,6 @@
 +++
 title = "EA annonce qu’il n’y aura pas de Sims 5 et va ajouter du multi au jeu actuel"
-date = 2024-09-18T08:15:32+01:00
+date = 2024-09-18T08:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]

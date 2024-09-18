@@ -1,6 +1,6 @@
 +++
 title = "Dragon’s Dogma 2 est un peu moins difficile"
-date = 2024-09-18T08:47:32+01:00
+date = 2024-09-18T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
