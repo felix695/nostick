@@ -4,7 +4,7 @@ date = 2024-09-18T08:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/FFXVI.jpg"
+image = "https://nostick.fr/articles/2024/septembre/1809-il-ny-aura-pas-de-sims-5/sims4.jpg"
 +++
 
 ![Les Sims 4](sims4.jpg "C’est reparti pour une décennie") 
