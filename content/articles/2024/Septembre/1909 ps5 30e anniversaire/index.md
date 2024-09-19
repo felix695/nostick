@@ -19,7 +19,7 @@ Pour l’occasion, Sony a ressorti son premier logo multicolore qui se retrouve 
 ![Le pack PS5.](psx3.jpg "Le pack PS5.")
 ![Le PlayStation Portal](psx5.jpg "Même les cartons ont de la gueule.")
 
-La collection sera disponible à partir du 21 novembre. 12 300 unités de la console PlayStation 5 Pro seront en vente, avec des numéros gravés dessus représentant le mois et la date du lancement de la première PlayStation. Les précommandes ouvriront le 26 septembre sur [la boutique de Sony](https://direct.playstation.com) (il faut un compte PSN, mais gare aux scalpels). Vous pouvez obtenir plus de détails sur les différents bundle [dans cet article](https://blog.playstation.com/2024/09/19/celebrating-30-years-of-playstation-with-a-nostalgic-look/). On ne connaît pas les prix, mais vous pouvez commencer à passer un coup de fil à votre banquier : ça promet d’être salé…
+La collection sera disponible à partir du 21 novembre. 12 300 unités de la console PlayStation 5 Pro seront en vente, avec des numéros gravés dessus représentant le mois et la date du lancement de la première PlayStation. Les précommandes ouvriront le 26 septembre sur [la boutique de Sony](https://direct.playstation.com) : il faut un compte PSN, mais mettez un réveil si vous en voulez une, la machine va sans doute faire la joie des scalpers. Vous pouvez obtenir plus de détails sur les différents bundle [dans cet article](https://blog.playstation.com/2024/09/19/celebrating-30-years-of-playstation-with-a-nostalgic-look/). On ne connaît pas les prix, mais vous pouvez commencer à passer un coup de fil à votre banquier : ça promet d’être salé…
 
 ![Le PlayStation Portal](psx4.jpg "Bon, pas de PSVR2 d’anniversaire par contre.")
 
