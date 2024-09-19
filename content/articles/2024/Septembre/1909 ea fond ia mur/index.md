@@ -1,6 +1,6 @@
 +++
 title = "EA à fond dans l'IA générative… et dans le mur ?"
-date = 2024-09-19T08:47:32+01:00
+date = 2024-09-19T08:45:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

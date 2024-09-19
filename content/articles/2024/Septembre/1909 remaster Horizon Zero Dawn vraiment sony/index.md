@@ -1,6 +1,6 @@
 +++
 title = "Qui veut d'un remaster de Horizon Zero Dawn ? Non mais sans blague, levez pas tous la main en même temps quoi"
-date = 2024-09-19T08:07:32+01:00
+date = 2024-09-19T09:20:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

@@ -1,6 +1,6 @@
 +++
 title = "Nintendo et la Pokémon Company s'attaquent finalement à Palworld"
-date = 2024-09-19T00:07:32+01:00
+date = 2024-09-19T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
