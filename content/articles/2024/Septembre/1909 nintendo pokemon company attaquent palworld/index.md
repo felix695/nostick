@@ -1,5 +1,5 @@
 +++
-title = "Nintendo et la Pokémon Company s'attaque finalement à Palworld"
+title = "Nintendo et la Pokémon Company s'attaquent finalement à Palworld"
 date = 2024-09-19T00:07:32+01:00
 draft = false
 author = "Mickael"
