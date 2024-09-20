@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/nostick.jpg"
 +++
 
-![Texte Alternative](rickmorty.jpeg "Légende de l’image")
+![Texte Alternative](hi-fi-rush.jpg)
 
 Beaucoup de joueurs ont encore du ressentiment envers Microsoft pour [la fermeture en mai dernier de Tango Gameworks](https://nostick.fr/articles/2024/mai/0705-fin-de-partie-pour-arkane-austin-et-tango-gameworks/), le studio japonais créateur de *Hi-Fi Rush*. Après tout, le jeu était un des rares hits Xbox (le seul ?) qui a su faire l'unanimité l'an dernier. Fort heureusement, [Krafton est venu à la rescousse](https://nostick.fr/articles/2024/aout/1208-krafton-a-la-rescousse-de-tango/) en s'offrant non seulement le studio, mais aussi la licence du jeu.
 
