@@ -12,6 +12,9 @@
   {{ end }}
   {{ partial "assets.html" . }}
 
+  <meta name="description" content="{{ .Description | default .Summary }}">
+  <meta name="keywords" content="jeux vidéo, jeu vidéo, tests, actualités, actu, actus, gaming, Nostick, ps5, xbox one, xbox series S, xbox series X, Xbox, PlayStation, Sony, Microsoft, Nintendo, Switch, PS4, Wii, Wii U, PS3, PS2, PS1, jeu PC, jeux PC, Steam, Steam Deck, Valve, manette, joystick, gamepad, Epic, iOS, Apple, iphone, android, google, console, consoles, console de jeu">
+
   <script defer data-domain="nostick.fr" src="https://plausible.io/js/script.js"></script>
 
   <meta name="apple-mobile-web-app-title" content="Nostick">
