@@ -1,6 +1,6 @@
 +++
 title = "Concord : le directeur du jeu lâche son poste"
-date = 2024-09-20T08:49:32+01:00
+date = 2024-09-20T07:49:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

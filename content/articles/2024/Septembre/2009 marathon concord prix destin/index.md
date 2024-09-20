@@ -1,6 +1,6 @@
 +++
 title = "Même prix, même destin ? Comme Concord, Marathon devrait coûter 40 $"
-date = 2024-09-20T08:07:32+01:00
+date = 2024-09-20T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
