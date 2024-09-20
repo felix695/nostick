@@ -4,7 +4,7 @@ date = 2024-09-20T21:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/2024/septembre/2009-marathon-concord-prix-destin/marathon-bungie.jpg"
+image = "https://nostick.fr/articles/2024/septembre/2009-yakuza-theme-pirates/yakuza.jpg"
 +++
 
 ![Like a Dragon : Pirate Yakuza in Hawaii](yakuza.jpg) 
