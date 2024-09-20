@@ -4,7 +4,7 @@ date = 2024-09-20T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/septembre/2009-hi-fi-rush-2-pas-gagner-argent-proprio/hi-fi-rush.jpg"
 +++
 
 ![Texte Alternative](hi-fi-rush.jpg)
