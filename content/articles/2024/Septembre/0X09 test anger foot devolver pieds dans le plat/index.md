@@ -1,6 +1,6 @@
 +++
 title = "Test de Anger Foot : Devolver met les pieds dans le plat"
-date = 2024-09-20T06:00:00+01:00
+date = 2024-09-28T06:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Test"]

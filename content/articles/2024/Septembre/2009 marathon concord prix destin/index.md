@@ -4,7 +4,7 @@ date = 2024-09-20T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/marathon-bungie.jpg"
+image = "https://nostick.fr/articles/2024/septembre/2009-marathon-concord-prix-destin/marathon-bungie.jpg"
 +++
 
 ![Marathon](marathon-bungie.jpg "Marathon court-il à sa perte ?")
