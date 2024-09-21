@@ -76,7 +76,7 @@ La bonne nouvelle dans l'histoire, c'est que les choses pourraient s'arranger re
 
 Dans ces conditions, pourquoi donc s'escrimer à lancer un *Sims 5* ? Combien de ces millions de joueurs seront prêts à investir dans un nouveau jeu et à reprendre de zéro des créations qui les accompagnent depuis de nombreuses années ? À l'orée des 25 ans de la licence, [EA jette donc aux orties la linéarité des *Sims*](https://nostick.fr/articles/2024/septembre/1809-il-ny-aura-pas-de-sims-5/) ! 
 
-À la place, *Les Sims 4* va [devenir](https://www.ea.com/en-gb/games/the-sims/news/the-future-of-the-sims) « *l'expérience fondamentale* », et le jeu s'enrichira de *cozy games*, d'« expériences » plus sociales et collaboratives, et aussi de passerelles avec les jeux mobiles. Le tout en modernisant *Les Sims 4* avec des améliorations de gameplay et graphiques. Autrement dit, le jeu achève sa transformation en plateforme de divertissement, à l'image de c'est devenu *Fortnite*. 
+À la place, *Les Sims 4* va [devenir](https://www.ea.com/en-gb/games/the-sims/news/the-future-of-the-sims) « *l'expérience fondamentale* », et le jeu s'enrichira de *cozy games*, d'« expériences » plus sociales et collaboratives, et aussi de passerelles avec les jeux mobiles. Le tout en modernisant *Les Sims 4* avec des améliorations de gameplay et graphiques. Autrement dit, le jeu achève sa transformation en plateforme de divertissement, à l'image de ce qu'est devenu *Fortnite*. 
 
 Il n'y aura donc pas de *Sims 5*, le jeu actuel va continuer à s'améliorer sans que les joueurs actuels n'aient à reconstruire quoi que ce soit. En lieu et place, ils pourront poursuivre leur petite vie virtuelle, tout en profitant des fonctions du mystérieux « projet Rene » que beaucoup croyaient être *Les Sims 5*. Il s'agirait plutôt d'une sorte de réseau social et de mode multijoueur ; EA l'avait [comparé](https://www.youtube.com/watch?v=2S2OipqoL-w) l'an dernier à quelque chose comme *Animal Crossing*. On sera bientôt fixé, un bêta-test commencera cet automne sur invitation.
 
@@ -86,7 +86,7 @@ Electronic Arts reste une des entreprises les plus détestées au monde, mais il
 
 ## osef
 
-Ah oui, *Les Sims* va aussi être adapté au cinéma.
+Ah oui, *Les Sims* va aussi être [adapté](https://variety.com/2024/film/news/the-sims-movie-plot-details-amazon-ea-margot-robbie-1236142126/) au cinéma.
 
 ## On n'a pas eu le temps mais on pense à eux
 
@@ -94,9 +94,7 @@ Ah oui, *Les Sims* va aussi être adapté au cinéma.
 
 Il y a bien sûr *Echos of Wisdom*, le prochain Zelda (avec Zelda en vedette !) qui sort le 26 septembre, mais l'automne de Nintendo sera encore plus chargé puisqu'on attend aussi *Mario & Luigi : L'épopée fraternelle*. Ce nouvel opus de la saga RPG avec les deux frangins sera dispo le 7 novembre, et pour faire patienter, hop, un petit trailer qui montre des batailles certes au tour par tour, mais très agitées tout de même.
 
-{{< youtube RujPYLbgwP8 >}} 
-
-NetherRealm s'y connait pour faire monter la sauce autour de *Mortal Kombat 1*. Le débilo-rigolo-sanguignolo jeu de tape va avoir droit le 24 septembre à un nouveau DLC, « Khaos Reigns », qui comprend une nouvelle campagne solo et de nouveaux kombattants comme Cyrax, Sektor, mais aussi des invités de marque comme Ghostface, le T-1000 et Conan. Ce sera l'occasion d'apprécier les nouvelles fatalities bien dégueues ainsi que des Animalities tout aussi gouleyantes. Les amateurs de tripaille apprécieront la bande annonce.
+NetherRealm s'y connait pour faire monter la sauce autour de *Mortal Kombat 1*. Le débilo-rigolo-sanguignolo jeu de tape va avoir droit le 24 septembre à un nouveau DLC, « Khaos Reigns », qui comprend une nouvelle campagne solo et de nouveaux kombattants comme Cyrax, Sektor, mais aussi des invités de marque comme Ghostface, le T-1000 et Conan. Ce sera l'occasion d'apprécier les nouvelles fatalities bien dégueues ainsi que des Animalities tout aussi gouleyantes. Les amateurs de tripaille apprécieront [la bande annonce](https://www.youtube.com/watch?v=RujPYLbgwP8).
 
 {{< youtube IjRSzwca09Y >}} 
 
