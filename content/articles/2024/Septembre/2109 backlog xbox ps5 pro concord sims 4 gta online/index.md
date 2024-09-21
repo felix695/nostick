@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Xbox, Concord, PS5 Pro, Les Sims 4, GTA Online…"
-date = 2024-09-21T07:00:00+01:00
+date = 2024-09-21T07:00:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
