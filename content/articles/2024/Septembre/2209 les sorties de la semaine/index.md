@@ -1,7 +1,7 @@
 
 +++
 title = "Frostpunk 2, Le Vaillant Petit Page : le récap des sorties de la semaine (22/09)"
-date = 2024-09-22T07:00:02+01:00
+date = 2024-09-22T08:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
