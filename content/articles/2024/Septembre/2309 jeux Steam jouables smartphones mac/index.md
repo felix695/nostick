@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/septembre/SteamDeck2.jpg"
 +++
 
-![Steam Deck](SteamDeck2.jpg "Légende de l’image")
+![Steam Deck](SteamDeck2.jpg)
 
 Si le Steam Deck parvient à accomplir de véritables miracles dans la prise en charge de jeux PC — aussi bien des indés que des AAA —, c'est grâce à la couche de compatibilité Proton, basée sur [Wine](https://www.winehq.org), qui permet aux jeux Windows de fonctionner sur Linux, le système d'exploitation de la console. Elle traduit les API de Windows dans leurs équivalents Linux sans nécessiter de changements dans le jeu, le tout en offrant des performances impressionnantes pour un tel appareil.
 
