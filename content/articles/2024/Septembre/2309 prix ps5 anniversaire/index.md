@@ -1,6 +1,6 @@
 +++
 title = "PS5, DualSense : les produits du 30e anniversaire PlayStation ne coûteraient pas (trop) cher"
-date = 2024-09-23T08:01:32+01:00
+date = 2024-09-23T08:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
