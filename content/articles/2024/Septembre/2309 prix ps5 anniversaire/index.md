@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/septembre/psxx.png"
 +++
 
-![PS5 édition anniversaire](psx.png "") 
+![PS5 édition anniversaire](psx.jpg "") 
 
 Sony a dévoilé [la semaine dernière](https://nostick.fr/articles/2024/septembre/1909-ps5-30e-anniversaire/) une très chouette gamme de produits en hommage à l’anniversaire de la marque PlayStation : du matos paré d’une robe grise évoquant la toute première console du fabricant. Si cela donne envie, le Japonais s’est bien gardé de communiuer les tarifs, et les esprits chagrins s’attendaient à des prix stratosphériques. Ça a l’air plutôt correct, le généralement bien renseigné billbil-kun de [Dealabs](https://www.dealabs.com/magazine/on-vous-devoile-les-prix-de-quelques-references-des-editions-limitees-du-30eme-anniversaire-playstation-59567) voyant venir une DualSense à 79,99 €. C’est à ce prix que sont vendues les autres manettes en édition limitée, comme celle sortie il y a peu et [inspirée d’Astro Bot](https://direct.playstation.com/fr-fr/buy-accessories/dualsense-wireless-controller-astro-bot-limited-edition).
 
