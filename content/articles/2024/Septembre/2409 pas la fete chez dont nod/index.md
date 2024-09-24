@@ -4,7 +4,7 @@ date = 2024-09-24T18:30:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/psxx.png"
+image = "https://nostick.fr/articles/2024/septembre/2409-pas-la-fete-chez-dont-nod/bloom.jpg"
 +++
 
 ![Le jeu Lost Records: Bloom & Rage](bloom.jpg "") 
