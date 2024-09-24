@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/septembre/archage-chronicles.jpg"
 
 ![ArcheAge Chronicles](archage-chronicles.jpg "Une des sympathiques héroïnes d'ArcheAge Chronicles.")
 
-On ne s'attendait pas à grand chose, et on n'a pas été déçu. Le State of Play automnal de PlayStation n'a pas été un feu roulant de surprises ou d'excitation, mais il y a tout de même eu quelques petites choses dignes d'intérêt… à commencer par *Ghost of Yotei*, le petit nouveau signé du studio maison Sucker Punch. 
+On ne s'attendait pas à grand chose… et on a bien failli être surpris ! Le State of Play automnal de PlayStation n'a pas été un feu roulant de surprises ou d'excitation, mais il y a tout de même eu quelques petites choses dignes d'intérêt… à commencer par *Ghost of Yotei*, le petit nouveau signé du studio maison Sucker Punch. 
 
 {{< youtube 7z7kqwuf0a8 >}} 
 
