@@ -1,5 +1,5 @@
 +++
-title = "L'émulateur Delta va assurer le multijoueur en joueur pour les jeux DS"
+title = "L'émulateur Delta va assurer le multijoueur pour les jeux DS"
 date = 2024-09-24T08:08:00+01:00
 draft = false
 author = "Mickael"
