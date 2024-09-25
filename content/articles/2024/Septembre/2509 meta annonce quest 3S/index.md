@@ -19,4 +19,6 @@ Mis à part ça, le Quest 3S n’a pas grand-chose à envier au modèle haut de 
 
 Est-ce qu’il faut en acheter un ? Si vous n’avez jamais eu de casque VR, c’est une bonne affaire : le casque devrait vous procurer plusieurs semaines de fun, encore plus si vous avez un PC capable de faire tourner des jeux VR comme *Half-Life Alyx*. Le tarif est vraiment abordable au vu du matériel embarqué. Après on ne va pas se mentir, il finira sans doute par prendre la poussière dans quelques mois, mais ça pourra être sympa de le sortir pour une partie occasionnelle ou pour faire une démo aux invités. 
 
+{{< youtube oAf5M4Q0Pu8 >}} 
+
 Si vous avez déjà un casque… bof ? J’ai testé le Quest 3 à sa sortie, et bien que la technologie progresse, ce n’est pas drastiquement mieux que le précédent une fois en jeu. La partie réalité mixte est assez gadget avec peu d'apps. À voir si les quelques titres VR tirant parti de la puce XR2 Gen2 vous intéressent ou si vous avez quelques bricoles en VR dans votre wishlist Steam.
