@@ -4,7 +4,7 @@ date = 2024-09-25T19:14:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/septembre/2509-assassins-creed-shadow-14-fevrir-aussi-sur-steam/assassin.jpg"
+image = "https://nostick.fr/articles/2024/septembre/2509-meta-annonce-quest-3s/quest3S.png"
 +++
 
 ![Le Quest 3S](quest3S.png "C’est parti pour une bonne séance de roleplay sur VR Chat") 
