@@ -1,6 +1,6 @@
 +++
 title = "La PS5 Pro ajoute quelques jeux optimisés à son tableau de chasse"
-date = 2024-09-25T08:07:32+01:00
+date = 2024-09-25T08:08:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
