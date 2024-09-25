@@ -37,6 +37,14 @@ Après pas mal de reports et un changement de nom, *ArcheAge Chronicles* (suite 
 
 La rumeur annonçait depuis quelque temps l'arriva de *Palworld* — exclusivité PC et Xbox — sur PS5, et c'est chose faite depuis… aujourd'hui ! L'open world ~~à base de Pokémon~~ de Pocketpair est dans la ligne de mire de Nintendo depuis [une plainte du constructeur et de la Pokémon Company](https://nostick.fr/articles/2024/septembre/1909-nintendo-pokemon-company-attaquent-palworld/). Profitez-en tant que le jeu est toujours dispo…
 
+![Shadow](sonic.jpg "")
+
+Les fans de Sonic attendent avec une impatience non feinte *Sonic X Shadow Generations* qui sera dispo le 22 octobre — et ils ont marqué au feutre rouge la date du 12 décembre : tous ceux qui ont craqué pour l'édition Digital Deluxe recevront en effet le pack *Sonic the Hedgehog Movie 3* qui mettra en scène Shadow avec la voix de Keanu Reeves, aussi bien dans le film que dans le jeu !
+
+{{< youtube 6Xd9XNr6PAM >}} 
+
+Toujours pas de *Stellar Blade* sur PC, mais par contre on aura droit à un DLC avec *NieR: Automata*, ce qui n'est pas la plus mauvaise des idées. Un mode photo va aussi faire son apparition, le plus étonnant étant qu'il ne soit pas dispo depuis le lancement.
+
 {{< youtube fNAdje1kPxA >}} 
 
 Difficile de parler de nouveautés tellement ce *LEGO Horizon Adventures* a été teasé/dévoilé/annoncé, mais au moins voilà une date de lancement : le 14 novembre. Le jeu sera dispo sur PS5 évidemment, mais aussi PC et Switch.
