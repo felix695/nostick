@@ -19,7 +19,7 @@ Treyarch — 25/10\
 PS5, Xbox Series X|S, PC\
 ■ **[Life Is Strange: Double Exposure](https://lifeisstrange.square-enix-games.com/fr/games/life-is-strange-double-exposure)**\
 Deck Nine Games — 29/10
-PS5, PS4, Xbox Series X|S, Xbox One, PC\
+PS5, Xbox Series X|S, Xbox One, PC, Switch\
 ■ **[Mario & Luigi : L'épopée fraternelle](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Mario-Luigi-L-epopee-fraternelle-2590264.html)**\
 Nintendo — 07/11
-Switch\
+Switch
