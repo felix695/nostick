@@ -1,6 +1,6 @@
 +++
 title = "Les deux apps mobiles Xbox ne feront bientôt plus qu'une"
-date = 2024-09-25T17:44:32+01:00
+date = 2024-09-25T17:27:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
