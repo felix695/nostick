@@ -1,6 +1,6 @@
 +++
 title = "Meta lance le Quest 3S, un casque de VR à la fiche technique sexy vendu 330 €"
-date = 2024-09-25T19:14:00+01:00
+date = 2024-09-25T19:13:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
