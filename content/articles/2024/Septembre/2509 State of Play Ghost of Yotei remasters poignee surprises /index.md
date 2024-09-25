@@ -15,7 +15,7 @@ On ne s'attendait pas à grand chose… et on a bien failli être surpris ! Le S
 
 Sucker Punch était attendu au tournant après le carton de *Ghost of Tsushima*, mais plutôt qu'un 2e volet attendu par des légions de fans, le studio nous sert donc ce très intéressant *Ghost of Yotei* qui sortira l'année prochaine. On y incarnera Atsu, une nouvelle héroïne qui voyagera dans les terres sauvages autour du mont Yotei accompagnée par un loup. 
 
-L'histoire se déroule en 1603, plus de 300 ans avant les événements de *Tsushima*. Pas vraiment plus de détails pour le moment, si ce n'est que ce nouvel environnement (et cette nouvelle époque) va permettre à Sucker Punch d'expérimenter avec le gameplay, les mécaniques de jeu et les armes.
+L'histoire se déroule en 1603, plus de 300 ans après les événements de *Tsushima*. Pas vraiment plus de détails pour le moment, si ce n'est que ce nouvel environnement (et cette nouvelle époque) va permettre à Sucker Punch d'expérimenter avec le gameplay, les mécaniques de jeu et les armes.
 
 {{< youtube DCl5zKHy7ak >}} 
 
