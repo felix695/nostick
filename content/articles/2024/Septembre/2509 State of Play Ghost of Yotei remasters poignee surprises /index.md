@@ -4,6 +4,7 @@ date = 2024-09-25T00:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+type = "une"
 image = "https://nostick.fr/articles/vignettes/septembre/archage-chronicles.jpg"
 +++
 
