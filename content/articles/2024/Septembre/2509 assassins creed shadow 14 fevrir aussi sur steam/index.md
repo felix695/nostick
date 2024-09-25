@@ -1,10 +1,10 @@
 +++
 title = "Assassin’s Creed Shadows est repoussé au 14 février et sortira sur Steam dès le lancement"
-date = 2024-09-23T07:00:32+01:00
+date = 2024-09-25T17:26:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/septembre/SteamDeck2.jpg"
+image = "https://nostick.fr/articles/2024/septembre/2509-assassins-creed-shadow-14-fevrir-aussi-sur-steam/assassin.jpg"
 +++
 
 ![Le jeu Assassin’s Creed Shadows](assassin.jpg) 
