@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/2024/septembre/2509-assassins-creed-shadow-
 
 ![Le jeu Assassin’s Creed Shadows](assassin.jpg) 
 
-On le sentait venir, c’est désormais [acté](https://x.com/assassinscreed/status/1838971189722562906) : *Assassin’s Creed Shadows* ne sortira pas le 15 novembre comme prévu mais l’année prochaine, le 14 février 2025. Ça sentait le roussi depuis [hier](https://insider-gaming.com/assassins-creed-shadows-previews-delayed/),quand on a appris qu’Ubisoft avait annulé son passage en ligne au Tokyo Game Show tandis que des bruits de couloirs annonçaient que les avant-premières presse avaient été annulées.
+On le sentait venir, c’est désormais [acté](https://x.com/assassinscreed/status/1838971189722562906) : *Assassin’s Creed Shadows* ne sortira pas le 15 novembre comme prévu mais l’année prochaine, le 14 février 2025. Ça sentait le roussi depuis [hier](https://insider-gaming.com/assassins-creed-shadows-previews-delayed/), quand on a appris qu’Ubisoft avait annulé son passage en ligne au Tokyo Game Show tandis que des bruits de couloirs annonçaient que les avant-premières presse avaient été annulées.
 
 Dans son communiqué, le vice-président et producteur exécutif Marc-Alexis Côté explique qu’Ubisoft a réalisé « *avoir besoin de plus de temps pour peaufiner et affiner l'expérience, en poussant plus loin certaines fonctionnalités clés* ». Il ajoute penser « *qu'il en va de l'intérêt du jeu et, en fin de compte, de votre expérience en tant que joueur* ».
 
