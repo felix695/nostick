@@ -4,10 +4,10 @@ date = 2024-09-26T18:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/vignettes/septembre/ff.jpg"
 +++
 
-![Metal Gear Delta: Snake Eater](metal-gear-solid.jpg "")
+![Final Fantasy Pixel Remaster](ff.jpg "")
 
 Dans une semaine largement dominée par l'actu PlayStation, Xbox a tout de même voulu faire entendre sa petite musique, à l'occasion du Tokyo Game Show. Il n'y a pas eu d'énormes annonces, à l'exception de l'arrivée en force de nouveaux jeux Square Enix sur Xbox ! Enfin, quand on dit « nouveaux », il faut relativiser : il s'agit de la collection *Final Fantasy Pixel Remaster*, qui contient les six premiers volets de la saga avec des gros pixels.
 
