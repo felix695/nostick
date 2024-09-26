@@ -1,5 +1,5 @@
 +++
-title = "Le bundle PS5 Pro du 30e anniversaire est en vente"
+title = "Le bundle PS5 Pro du 30e anniversaire est en vente pour 1 100 €"
 date = 2024-09-26T08:30:32+01:00
 draft = false
 author = "Mickael"
