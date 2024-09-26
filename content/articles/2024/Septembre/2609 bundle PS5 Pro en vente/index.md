@@ -5,7 +5,7 @@ draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/septembre/ps5-30e-anniversaire-collection.jpg"
+image = "https://nostick.fr/articles/2024/septembre/2609-bundle-ps5-pro-en-vente/ps5-30e-anniversaire-collection.jpg"
 +++
 
 ![PS5 Pro 30e](ps5-30e-anniversaire-collection.jpg "30 ans et toutes leurs dents.")
