@@ -15,8 +15,6 @@ L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publ
 
 Ça va être compliqué de ne pas se précipiter au musée Nintendo qui ouvre très bientôt à Kyoto (le 2 octobre). Non seulement on pourra y admirer les reliques tirées de la très riche histoire de l'entreprise, qui a tout récemment fêté ses 135 ans, mais surtout, surtout, il y a une boutique avec des tas de trucs exclusifs !
 
-![Musée Nintendo](nintendo-museum.jpg "")
-
 Nintendo n'a pas lésiné sur le merchandising, comme ont pu le constater les heureux premiers visiteurs (des journalistes invités pour visiter le musée). En dehors des t-shirts, on trouve aussi des tuyaux Super Mario, des tasses Super NES, de très excitants porte-clefs avec des reproductions de manettes (dont celle du Virtual Boy), des coussins en forme de télécommande Wii et de manettes Famicom… *Game Watch* a claqué des tas de photos [à admirer ici](https://game.watch.impress.co.jp/docs/preview/1625869.html).
 
 {{< twitter user="game_watch" id="1838881388441075858" >}}
@@ -41,6 +39,18 @@ Une excellente nouvelle pour cette suite qui était très attendue, et qui a fin
 **3 millions**, comme le nombre de copies vendues pour *GRIS*. Le jeu contemplatif de Nomada sorti en 2018 est une des grandes réussites indés de ces dernières années. Il a le bon goût [d'atteindre](https://x.com/nomadastudiobcn/status/1838963894712221984) ce seuil quelques semaines avant le lancement du prochain titre du studio, *NEVA* (le 15 octobre).
 
 Dans les trois cas, il s'agit de jeux exigeants qui exigent des joueurs un certain engagement. Il y a donc de l'espoir pour les jeux pas faciles !
+
+## Les petits rigolos de la semaine : la nouvelle escroquerie de Fntastic 
+
+Fntastic est de retour pour voler votre argent ! Le studio cherche à se réinventer après l'escroquerie *The Day Before*, un MMO en monde ouvert à base de zombies sorti fin 2023 après de nombreux reports, et retiré des rayons quelques jours plus tard. Et pour cause, le jeu n'avait absolument rien à voir avec les promesses faites lors de son annonce en 2021, qui l'avaient propulsé en tête des wishlists sur Steam.
+
+Non content d'avoir exploité des volontaires sans les payer, Fntastic a pondu [un jeu extrêmement médiocre](https://www.youtube.com/watch?v=83YEozXj_7Y) réalisé de bric et de broc. Mais puisque la honte est morte, le studio revient du diable vauvert en tendant la sébile aux joueurs. Parce que « *tout le monde mérite une seconde chance* », [affirme-t-il](https://x.com/FntasticHQ/status/1839423294422024688) sur les réseaux sociaux !
+
+« *Nous nous excusons pour The Day Before, et nous prenons la responsabilité de ce qui est arrivé* », poursuit l'entreprise (qui d'autre pourrait prendre cette responsabilité ?) qui lance un projet Kicksarter pour arnaquer les gogos. Je ne vais pas mettre le lien vers la page de financement parce que bon, faut peut-être pas exagérer. Mais il s'agit de donner de l'argent pour *Escape Factory*, un escape game multijoueur qui ne sortira probablement jamais.
+
+{{< youtube u5WoYaBl5dM >}} 
+
+Un engagement de 12 000 $ (!) offrira aux chanceux qui aiment jeter leurs sous par la fenêtre un « dîner inoubliable » avec les fondateurs de Fntastic. Ça pourrait être drôle.
 
 ## La grosse info de la semaine : comment ça va mal, Ubisoft ?
 
