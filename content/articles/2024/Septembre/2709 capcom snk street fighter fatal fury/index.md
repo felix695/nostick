@@ -1,6 +1,6 @@
 +++
 title = "Capcom et SNK s'échangent leurs meilleurs combattants"
-date = 2024-09-27T10:44:32+01:00
+date = 2024-09-27T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
