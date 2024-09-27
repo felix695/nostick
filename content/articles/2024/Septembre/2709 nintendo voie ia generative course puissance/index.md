@@ -1,6 +1,6 @@
 +++
 title = "IA générative, course à la puissance : Nintendo trace sa propre voie"
-date = 2024-09-27T09:29:32+01:00
+date = 2024-09-27T09:15:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
