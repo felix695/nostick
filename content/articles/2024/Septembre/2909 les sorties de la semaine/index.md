@@ -5,7 +5,7 @@ date = 2024-09-29T07:55:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/septembre/2909-les-sorties-de-la-semaine/zelda.jpeg "
+image = "https://nostick.fr/articles/2024/septembre/2909-les-sorties-de-la-semaine/zelda.png"
 +++
 
 ![Le jeu The Legend of Zelda: Echoes of Wisdom](zelda.png "Hyrule, terre de tous les possibles où la gravité n’est qu’illusion.")
