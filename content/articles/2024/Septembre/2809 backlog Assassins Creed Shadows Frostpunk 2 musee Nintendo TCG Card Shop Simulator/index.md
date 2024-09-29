@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Assassin's Creed Shadows, Frostpunk 2, musée Nintendo, TCG Card Shop Simulator…"
-date = 2024-09-28T07:00:01+01:00
+date = 2024-09-28T06:30:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
