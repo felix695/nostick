@@ -7,7 +7,7 @@ author = "Mickael"
 
 ■ Félix fait le singe dans *Black Myth: Wukong*.
 
-■ Hypé par *Astro Bot*, Mickaël relance une partie de *Mario Odyssey*.
+■ Mickaël tente de sauver Hyrule dans la peau de Zelda avec *Echoes of the Wisdom*.
 
 ⭐️ Cédric conduit à toute blinde dans *Pacific Drive*.
 
@@ -19,6 +19,6 @@ author = "Mickael"
 
 ⭐️ Robin fait un petit tour à Khaz Algar dans *WoW: The War Within*.
 
-⭐️ Niobius tente de survivre dans *The Planet Crafter*.
+⭐️ Niobius en balade dans l'univers tapenade-punk de *Caravan SandWitch*.
 
 ⭐️ Devenez **Super star Nostick** et on affiche votre nom ou votre pseudo et votre jeu du moment ici ! [Toutes les infos ici.](https://fr.ulule.com/nostick/)
