@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Test"]
 type = "une"
-image = "https://nostick.fr/articles/2024/juin/2504-test-de-katana-zero/screen01.PNG"
+image = "https://nostick.fr/articles/2024/septembre/3009-test-anger-foot-devolver-pieds-dans-le-plat/screen01.jpg"
 +++ 
 
 ![Capture d’écran du jeu Anger Foot](screen04.jpg)
