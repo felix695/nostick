@@ -4,6 +4,7 @@ date = 2024-09-30T19:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+image = "https://nostick.fr/articles/2024/septembre/3009-pas-la-grande-forme-xdefiant/xdefiant.jpg"
 +++
 
 ![XDefiant](xdefiant.jpg "") 
