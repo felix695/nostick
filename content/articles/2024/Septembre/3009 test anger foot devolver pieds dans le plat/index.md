@@ -1,5 +1,5 @@
 +++
-title = "Test de Anger Foot : Devolver met les pieds dans le plat"
+title = "Test de Anger Foot, le jeu qui met les pieds où il veut et c'est souvent dans la gueule"
 date = 2024-09-30T16:30:00+01:00
 draft = false
 author = "Félix"
