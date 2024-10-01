@@ -1,13 +1,13 @@
 +++
 title = "Sony transforme (temporairement) l'accueil PS5 en panneau publicitaire"
-date = 2024-10-01T08:01:32+01:00
+date = 2024-10-01T09:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/ps5-pub-accueil.jpg"
 +++
 
-![PS5 accueil](ps5-pub-accueil.jpg "@alfreddobofra")
+
 
 Ouf, ce n'était qu'un bug. Les joueurs PlayStation ont eu la surprise plus ou moins agréable de se faire servir non plus les jolies images de leurs jeux quand ils les sélectionnent dans le menu, mais la dernière actualité en lien avec le titre. 
 
