@@ -4,7 +4,7 @@ date = 2024-10-01T17:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/octobre/ps5-pub-accueil.jpg"
+image = "https://nostick.fr/articles/2024/octobre/0110-des-nouvelles-dhifi-rush/hifi.jpg"
 +++
 
 ![Le jeu Hi-Fi Rush](hifi.jpg) 
