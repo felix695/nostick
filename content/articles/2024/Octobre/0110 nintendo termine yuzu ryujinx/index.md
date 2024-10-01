@@ -4,6 +4,7 @@ date = 2024-10-01T18:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
+type = "une"
 image = "https://nostick.fr/articles/vignettes/octobre/ryujinx.jpg"
 +++
 
@@ -15,7 +16,7 @@ Cet accord impose le « *retrait de l'organisation et de tous les assets* ». P
 
 ![Ryujinx](ryujinx-apple-a17-pro.jpg "Ryujinx sur un iPhone 15 Pro.")
 
-Le développement de Ryujinx a débuté en septembre 2017, quelques mois après le lancement de la Switch. 500 contributeurs payants ont apporté leur obole. Plus de 3 000 jeux sont jouables sur l'émulateur que Nintendo ne devait pas voir d'un très bon œil. riperiperi explique aussi qu'une version iOS de l'émulateur — jamais sortie officiellement — fonctionnait « *vraiment bien* », mais que l'app n'avait ni interface, ni activation simple de la compilation Javascript JIT dans une app iOS (indispensable pour obtenir de bonnes performances).
+Le développement de Ryujinx a débuté en septembre 2017, quelques mois après le lancement de la Switch. 500 contributeurs payants ont apporté leur obole, comme le rappelle le site *[Overkill](https://overkill.wtf/ryujinx-nintendo-switch-emulator-shuts-down/)*. Plus de 3 000 jeux sont jouables sur l'émulateur que Nintendo ne devait pas voir d'un très bon œil. riperiperi explique aussi qu'une version iOS de l'émulateur — jamais sortie officiellement — fonctionnait « *vraiment bien* », mais que l'app n'avait ni interface, ni activation simple de la compilation Javascript JIT dans une app iOS (indispensable pour obtenir de bonnes performances).
 
 {{< youtube q2KuTFZ-efQ >}} 
 
