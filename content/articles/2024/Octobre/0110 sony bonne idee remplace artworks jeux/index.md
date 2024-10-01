@@ -1,6 +1,6 @@
 +++
 title = "Sony transforme (temporairement) l'accueil PS5 en panneau publicitaire"
-date = 2024-10-01T08:01:32+01:00
+date = 2024-10-01T09:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
