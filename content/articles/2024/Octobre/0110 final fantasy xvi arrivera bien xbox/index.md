@@ -1,6 +1,6 @@
 +++
 title = "Final Fantasy XVI finira bien par arriver sur Xbox"
-date = 2024-10-01T15:47:32+01:00
+date = 2024-10-01T14:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
