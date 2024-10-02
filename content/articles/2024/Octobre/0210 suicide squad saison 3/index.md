@@ -7,7 +7,7 @@ tags = ["Actu"]
 type = "telex"
 +++
 
-Plutôt que de tirer sur l'ambulance, saluons ici l'opiniâtreté de Warner Bros et de Rocksteady qui, malgré l'adversité, continuent vaille que vaille de fournir du contenu supplémentaire gratuit pour *[Suicide Squad: Kill the Justice League](https://nostick.fr/articles/2024/juillet/1507-test-suicide-squad-kill-the-justice-league/)*. Même si personne n'y joue…
+Plutôt que de tirer sur l'ambulance, saluons ici l'opiniâtreté de Warner Bros et de Rocksteady qui, malgré l'adversité (et le désintérêt total), continuent vaille que vaille de fournir du contenu supplémentaire gratuit pour *[Suicide Squad: Kill the Justice League](https://nostick.fr/articles/2024/juillet/1507-test-suicide-squad-kill-the-justice-league/)*. Même si personne n'y joue…
 
 {{< youtube WPubwl-kLUA >}} 
 
@@ -15,6 +15,6 @@ La saison 3 du shooter en co-op, « Meet Lawless », a été livrée hier dans
 
 Autant dire que cette saison 3 n'a pas permis à l'encéphalogramme déjà très plat de rebondir un petit peu. Alors bien sûr, ces [chiffres](https://steamdb.info/app/315210/charts) de SteamDB ne reflètent pas totalement l'activité du jeu, qui est aussi dispo sur consoles. Mais enfin, ça ne doit pas chercher très loin.
 
-![Texte Alternative](rickmorty.jpeg "Légende de l’image") 
+![Suicide Squad](suicide-squad-s3.jpeg "Ça donne envie de s'y remettre.") 
 
 Outre de nouveaux cosmétiques, les rares joueurs encore intéressés par le flop de Rocksteady (même si [regarder ailleurs peut réconforter](https://nostick.fr/articles/2024/septembre/0309-sony-concord-debranche-serveurs-rembourse-joueurs/)) pourront adopter une nouvelle héroïne, Zoe Lawton. 
