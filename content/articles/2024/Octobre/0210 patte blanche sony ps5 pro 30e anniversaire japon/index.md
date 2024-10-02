@@ -1,6 +1,6 @@
 +++
 title = "Il faut montrer patte blanche au Japon pour acheter la PS5 Pro 30e anniversaire"
-date = 2024-10-02T08:07:32+01:00
+date = 2024-10-02T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
