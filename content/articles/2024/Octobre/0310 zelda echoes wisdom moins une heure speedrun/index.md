@@ -1,6 +1,6 @@
 +++
 title = "Zelda: Echoes of Wisdom en moins d'une heure, c'est possible, mais est-ce souhaitable ?"
-date = 2024-10-03T08:47:32+01:00
+date = 2024-10-03T09:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
