@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/octobre/mgs-1998.jpg"
 
 ![Metal Gear Solid](mgs-1998.jpg "")
 
-Le remake de *Metal Gear Solid: Snake Eater* est une chose, mais celui du tout premier *Metal Gear Solid*, c'est encore très différent. Rien ne dit que Konami veuille se lancer à l'assaut de cette montagne. Le producteur Noriaki Okamura a [expliqué](https://www.famitsu.com/article/202410/19148) dans *Famitsu* (via [Genki](https://x.com/Genki_JPN/status/1841640650359656919)) qu'il serait difficile de refaire *MGS* 1 (et même les deux premiers *Metal Gear*) à la manière de *MGS Delta*.
+Le remake de *Metal Gear Solid 3: Snake Eater* est une chose, mais celui du tout premier *Metal Gear Solid*, c'est encore très différent. Rien ne dit que Konami veuille se lancer à l'assaut de cette montagne. Le producteur Noriaki Okamura a [expliqué](https://www.famitsu.com/article/202410/19148) dans *Famitsu* (via [Genki](https://x.com/Genki_JPN/status/1841640650359656919)) qu'il serait difficile de refaire *MGS* 1 (et même les deux premiers *Metal Gear*) à la manière de *MGS Delta*.
 
 Il faudrait en effet créer de tout nouveaux éléments qui ne sont pas présents dans le jeu original de 1998. C'est plus facile avec l'opus de 2004, qui est plus évident à retravailler. Si le  premier volet est dans le brouillard, en revanche les aventures suivantes de Solid Snake pourraient bien passer elles aussi au tapis du remake. Mais tout dépendra de l'accueil fait à *MGS Delta*, dont la date de sortie est encore à déterminer.
 
