@@ -17,4 +17,4 @@ C'est super pour les futurs possesseurs de la PS5 Pro qui sortira le 7 novembre,
 
 Reste à savoir ce que cela signifiera pour ce *Diablo 4 PS5 Pro Enhanced*. On peut espérer de la 4K à 60 FPS, et peut-être même plus (l'upscale PSSR permet en théorie de monter jusqu'à 120 FPS). Et pour Xbox ? Et bien, c'est la soupe à la grimace, *Diablo 4* inaugurant probablement une volée de jeux optimisés qui rouleront mieux sur la console du concurrent. Ce sera probablement le cas pour *Indiana Jones*, qui sortira au printemps prochain sur PS5, *Doom: The Dark Ages* et peut-être même *Black Ops 6* à terme.
 
-Microsoft ayant décidé pour cette génération de faire l'impasse sur un modèle Pro (et rien n'indique que le constructeur veuille suivre Sony dans la course à l'armement), la meilleure Xbox à l'avenir risque bien d'être une PS5 Pro.
+Microsoft — propriétaire de Blizzard — ayant décidé pour cette génération de faire l'impasse sur un modèle Pro (et rien n'indique que le constructeur veuille suivre Sony dans la course à l'armement), la meilleure Xbox à l'avenir risque bien d'être une PS5 Pro.
