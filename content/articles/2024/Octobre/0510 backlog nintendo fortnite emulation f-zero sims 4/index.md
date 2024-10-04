@@ -53,7 +53,7 @@ S'il ne fait aucun doute que des successeurs vont émerger, la volatilisation de
 
 Est-ce la fin irrémédiable des aventures solo AAA ? Tim Sweeney, le fondateur et patron d'Epic, le pense très sérieusement. À l'occasion de l'Unreal Fest, le dirigeant à grande gueule s'est [félicité](https://www.youtube.com/live/KYGEfQJPqW8) du carton interplanétaire de *Fortnite* : le jeu a atteint un pic à plus de 110 millions d'utilisateurs actifs pendant les dernières vacances de Noël, comme le rapporte *[PC Gamer](https://www.pcgamer.com/gaming-industry/the-games-industry-is-undergoing-a-generational-change-says-epic-ceo-tim-sweeney-a-lot-of-games-are-released-with-high-budgets-and-theyre-not-selling/)*.
 
-![Tim Sweeney](tim-sweeney.jpg "Tim Sweeney sur la scène de l'Unreal Fest. C'est bien lui.")
+![Tim Sweeney](tim-sweeney.jpg "Tim Sweeney sur la scène de l'Unreal Fest. Non, rien à voir avec Sydney Sweeney.")
 
 Pour lui, cela ne fait aucun doute : l'industrie du jeu vidéo est en train de vivre un « *changement générationnel* » qui s'incarne par les flops à répétition des jeux à gros budgets. « *Une des manifestations [de ce changement] que nous observons actuellement est que beaucoup de jeux sortent avec des budgets élevés, mais ils ne se vendent pas aussi bien que prévu* », affirme-t-il… non sans raison.
 
