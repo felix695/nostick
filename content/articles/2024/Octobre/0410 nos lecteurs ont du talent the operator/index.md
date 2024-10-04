@@ -1,6 +1,6 @@
 +++
 title = "Nos lecteurs ont du talent : mini-test de The Operator"
-date = 2024-10-04T15:00:32+01:00
+date = 2024-10-04T13:00:32+01:00
 draft = false
 author = "La rédaction"
 tags = ["Actu"]
