@@ -4,7 +4,7 @@ date = 2024-10-04T13:00:32+01:00
 draft = false
 author = "La rédaction"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/octobre/pokemon-unite.jpg"
+image = "https://nostick.fr/articles/2024/octobre/0410-nos-lecteurs-ont-du-talent-the-operator/theoperator1.jpg"
 +++
 
 ![Le jeu The Operator](theoperator1.jpg "Mulder in the building")
@@ -17,7 +17,7 @@ Cette œuvre est un jeu d'enquête narratif développé par un studio français,
  
 La particularité du gameplay réside dans l'interface de jeu : vous êtes un employé devant votre ordinateur. Votre première mission consiste à déverrouiller celui-ci avec vos identifiants, et vous pourrez alors parcourir l'interface et découvrir votre quotidien au bureau où l’on parle de meurtres et autres faits divers. Dès les premières minutes, un agent vous contactera et vous demandera de l'aider dans une affaire d'homicide en analysant les caméras de surveillance et en rapprochant divers indices des bases de données de l'agence. 
 
-![Le jeu The Operator](theoperator1.jpg)
+![Le jeu The Operator](theoperator2.jpg)
 
 Bref, vous serez en quelque sorte le « geek de service » dans *Les Experts*, sauf que le scénario va s'élargir et qu’une tournure mystérieuse va prendre le pas… L'aspect narratif est assez présent, on parle ici d'un jeu qui vous guide dans le déroulé. Vous aurez des énigmes à résoudre (décoder des mots de passe par exemple), mais tout est toujours bien cadré.
 
