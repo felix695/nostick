@@ -1,6 +1,6 @@
 +++
 title = "Diablo 4 optimisé PS5 Pro : la meilleure Xbox sera une console PlayStation"
-date = 2024-10-05T13:07:32+01:00
+date = 2024-10-05T13:05:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
