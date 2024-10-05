@@ -4,7 +4,7 @@ date = 2024-10-05T07:50:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/vignettes/septembre/star-wars-outlaws-2.jpg"
+image = "https://nostick.fr/articles/2024/octobre/0510-backlog-nintendo-fortnite-emulation-f-zero-sims-4/captain-falcon.jpg"
 +++
 
 ![F-Zero](captain-falcon.jpg "Captain Falcon à fond vers le week-end.")
