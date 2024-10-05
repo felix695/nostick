@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Ryujinx, F-Zero, Fortnite, Les Sims 4…"
-date = 2024-10-05T06:30:01+01:00
+date = 2024-10-05T07:50:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
