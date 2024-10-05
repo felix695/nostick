@@ -79,7 +79,7 @@ Monolith Soft est une des acquisitions les plus futées de Nintendo. Le studio j
 
 ## osef
 
-Dans l'extension « À la vie, à la mort » des Sims 4 [permet](https://www.youtube.com/watch?v=TgQK1qO1WIc), on peut devenir la Faucheuse elle-même. Pas un mauvais job quand on y pense.
+Dans l'extension « [À la vie, à la mort](https://www.youtube.com/watch?v=TgQK1qO1WIc) » des Sims 4, on peut devenir la Faucheuse elle-même. Pas un mauvais job quand on y pense.
 
 ## Dans le reste de l'actu déchaînée
 
