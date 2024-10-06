@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/diablo-4.jpg"
 +++
 
-![Diablo 4](diablo-4.jpg "Légende de l’image")
+![Diablo 4](diablo-4.jpg "")
 
 Les fans de jeux Xbox pourraient bien être tentés par… une PS5 Pro. Blizzard a confirmé que *Diablo 4* et son premier DLC « Vessel of Hatred », bénéficieront d'une optimisation pour la future console grand luxe de Sony. L'info a été [annoncée](https://x.com/RodFergusson/status/1841960958672928893) par le grand patron de *Diablo*, Rod Fergusson, qui se dit « *très fier* » du travail de son équipe.
 
