@@ -1,6 +1,6 @@
 +++
 title = "La majorité des joueurs veut des jeux solo"
-date = 2024-10-07T10:47:32+01:00
+date = 2024-10-07T10:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
