@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/halo.jpg"
 +++
 
-![Halo Infinite](halo.jpg "Légende de l’image") 
+![Halo Infinite](halo.jpg "") 
 
 Il n'y a donc plus rien de sacré dans ce bas monde. Pensez donc, des gens mettent le lait *avant* les céréales dans leur bol, et oui, c'est ainsi, et après on comprend mieux pourquoi la civilisation va à vau-l'eau. Autre exemple : il sera bientôt possible de jouer en en vue TPS dans *Halo Infinite* !
 
