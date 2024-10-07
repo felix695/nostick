@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/2024/octobre/0710-halo-passe-a-lue5/halo.jp
 
 {{< youtube FDgR1FRJnF8 >}}
 
-Cela fait quelques épisodes que la licence *Halo* stagne : Bungie n’a pas travaillé dessus depuis *Halo: Reach* en 2010, et les derniers opus signés 343 Industries n’ont pas vraiment enthousiasmé les foules. Si le *‌Halo Infinite* de 2021 utilisait un moteur maison, un passage à l’UE5 devrait permettre à Bungie de recruter plus facilement en plus d’être moins coûteux à développer. « *Avec tout le respect que j’ai pour lui, certains éléments de Slipspace ont presque 25 ans* », explique Chris Matthews, directeur artistique du studio. 
+Cela fait quelques épisodes que la licence *Halo* stagne : Bungie n’a pas travaillé dessus depuis *Halo: Reach* en 2010, et les derniers opus signés 343 Industries n’ont pas vraiment enthousiasmé les foules. Si le *‌Halo Infinite* de 2021 utilisait un moteur maison, un passage à l’UE5 devrait permettre à 343 Industries/Halo Studios de recruter plus facilement en plus d’être moins coûteux à développer. « *Avec tout le respect que j’ai pour lui, certains éléments de Slipspace ont presque 25 ans* », explique Chris Matthews, directeur artistique du studio. 
 
 ![Le futur Halo](halo.jpg "") 
 
