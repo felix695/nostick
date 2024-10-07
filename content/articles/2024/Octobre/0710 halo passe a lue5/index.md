@@ -4,7 +4,7 @@ date = 2024-10-07T08:10:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-type = "telex"
+image = "https://nostick.fr/articles/2024/octobre/0710-halo-passe-a-lue5/halo.jpg"
 +++ 
 
 Ça bouge du côté de la licence *Halo*. Le chef de 343 Industries  Pierre Hintze a [annoncé](https://news.xbox.com/en-us/2024/10/06/halo-studios-unreal-engine-interview/) que son studio allait changer de nom pour devenir Halo Studios. « *Nous entamons aujourd'hui un nouveau chapitre* », a-t-il déclaré avant de préciser que le SlipSpace Engine maison allait être abandonné pour laisser sa place à l'Unreal Engine 5. Une vidéo a été mise en ligne détaillant tout cela et montrant à quoi le futur de la franchise pourrait ressembler :  
