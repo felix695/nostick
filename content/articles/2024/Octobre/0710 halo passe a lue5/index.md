@@ -1,6 +1,6 @@
 +++
 title = "Le studio derrière Halo change de nom et va adopter l’Unreal Engine 5"
-date = 2024-10-07T08:00:32+01:00
+date = 2024-10-07T08:10:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]

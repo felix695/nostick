@@ -1,6 +1,6 @@
 +++
 title = "Une démo et une date de sortie pour Windblown, le nouveau roguelite de Motion Twins"
-date = 2024-10-07T09:23:32+01:00
+date = 2024-10-07T07:23:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
