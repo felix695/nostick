@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/octobre/red-dead-redemption.jpg"
 
 ![Red Dead Redemption](red-dead-redemption.jpg "")
 
-Après des mois et des années de rumeurs, ayé ! *Red Dead Redemption* et l'extension « Undead Nightmare » vont finalement sortir sur PC le 29 octobre. Pour l'occasion, Rockstar (qui a travaillé avec le studio Double Eleven) a [mis](https://www.rockstargames.com/newswire/article/o3314a19koo147/red-dead-redemption-and-undead-nightmare-coming-to-pc-october-29) les petits plats dans les grands, puisque les joueurs PC auront droit à la 4K en natif avec une fréquence d'affichage à 144 Hz sur les machines compatibles.
+Après des mois et des années de rumeurs, ayé ! *Red Dead Redemption* et l'extension « Undead Nightmare » vont finalement sortir sur PC le 29 octobre via Steam, l’Epic Game Store ou le launcher Rockstar. Pour l'occasion, Rockstar (qui a travaillé avec le studio Double Eleven) a [mis](https://www.rockstargames.com/newswire/article/o3314a19koo147/red-dead-redemption-and-undead-nightmare-coming-to-pc-october-29) les petits plats dans les grands, puisque les joueurs PC auront droit à la 4K en natif avec une fréquence d'affichage à 144 Hz sur les machines compatibles.
 
 {{< youtube mnvc6uC6xZE >}} 
 
