@@ -3,7 +3,7 @@ title = "Nos lecteurs ont du talent : mini-test de The Operator"
 date = 2024-10-04T13:00:32+01:00
 draft = false
 author = "La rédaction"
-tags = ["Actu"]
+tags = ["XXL"]
 image = "https://nostick.fr/articles/2024/octobre/0410-nos-lecteurs-ont-du-talent-the-operator/theoperator1.jpg"
 +++
 
