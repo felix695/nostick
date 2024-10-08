@@ -4,7 +4,7 @@ date = 2024-10-08T17:25:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/octobre/0810-remake-until-dawn-peine-a-trouver-son-public/untildawn.jpg"
+image = "https://nostick.fr/articles/2024/octobre/0810-remake-until-dawn-peine-a-trouver-son-public/untildawn.jpg"
 +++
 
 ![Le jeu Until Dawn](untildawn.jpg) 
