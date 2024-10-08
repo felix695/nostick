@@ -1,6 +1,6 @@
 +++
 title = "¡Vamos a Fallout: Nuevo México!"
-date = 2024-10-08T08:07:32+01:00
+date = 2024-10-08T06:07:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
