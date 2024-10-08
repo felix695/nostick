@@ -1,5 +1,5 @@
 +++
-title = "Vendu 70 balles, le remake d’Until Dawn peine à trover son public"
+title = "Vendu 70 balles, le remake d’Until Dawn peine à trouver son public"
 date = 2024-10-08T17:25:00+01:00
 draft = false
 author = "Félix"
