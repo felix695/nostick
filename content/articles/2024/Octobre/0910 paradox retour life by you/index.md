@@ -1,6 +1,6 @@
 +++
 title = "Malgré l'abandon de Life By You, Paradox n'écarte pas le retour d'une simulation de vie"
-date = 2024-10-09T08:47:32+01:00
+date = 2024-10-09T07:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
