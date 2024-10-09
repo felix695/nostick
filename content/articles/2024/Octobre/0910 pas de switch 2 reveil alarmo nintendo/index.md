@@ -20,6 +20,6 @@ Lorsqu'on parvient à se réveiller, l'alarme s'arrête donc, mais pas avant une
 
 ![Nintendo Alarmo](alarmo-nintendo-2.jpg "")
 
-Le réveil ne fera pas qu'assurer le réveil chaque matin. Il pourra aussi diffuser des sons relaxants avant de tomber dans le sommeil, ou encore produire un carillon toutes les heures. Des personnages Nintendo réagiront aussi aux mouvements tout au long de la journée.
+L'Alarmo ne fera pas qu'assurer le réveil chaque matin. Il pourra aussi diffuser des sons relaxants avant de tomber dans le sommeil, ou encore produire un carillon toutes les heures. Des personnages Nintendo réagiront aussi aux mouvements tout au long de la journée.
 
 L'appareil sera commercialisé début 2025, mais les abonnés NSO aux États-Unis et au Canada peuvent d'ores et déjà le commander au prix de 100 $ et probablement la même chose en €. L'Alarmo sera dispo dans le courant de la semaine sur le [Store français](https://www.nintendo.com/fr-fr/Hardware/Le-reveil-musical-de-Nintendo-Alarmo/Le-reveil-musical-de-Nintendo-Alarmo-2670177.html), là aussi en exclusivité pour les abonnés Switch Online.
