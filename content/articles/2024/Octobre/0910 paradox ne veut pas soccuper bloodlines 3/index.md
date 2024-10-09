@@ -4,7 +4,7 @@ date = 2024-10-09T18:45:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/octobre/alarmo-nintendo.jpg"
+image = "https://nostick.fr/articles/2024/octobre/0910-paradox-ne-veut-pas-soccuper-bloodlines-3/vtmb2.jpg"
 +++
 
 ![Vampire: The Masquerade - Bloodlines 2](vtmb2.jpg "") 
