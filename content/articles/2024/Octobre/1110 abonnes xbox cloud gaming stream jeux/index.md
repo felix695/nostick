@@ -1,5 +1,5 @@
 +++
-title = "Les abonnés Xbox Cloud Gaming vont bientôt pourvoir streamer ses propres jeux"
+title = "Les abonnés Xbox Cloud Gaming vont bientôt pouvoir streamer leurs propres jeux"
 date = 2024-10-11T21:00:00+01:00
 draft = false
 author = "Félix"
