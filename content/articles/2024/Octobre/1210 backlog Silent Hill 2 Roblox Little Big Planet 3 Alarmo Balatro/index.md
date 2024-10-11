@@ -21,6 +21,16 @@ Les parties qui se déroulent la nuit ne sont pas concernées, et on peut conser
 
 ![Sunny Hills](sunny-hills-2.jpg "Éteignez moi ces spots !")
 
+## La vérité de la semaine : sur Steam, on n'achète pas des jeux, juste des licences
+
+Le saviez-vous ? Le jeu que vous venez d'acheter sur Steam ne vous appartient pas ! Ce que vous avez acheté, c'est uniquement une licence qui donne le droit d'y jouer. Et désormais, la boutique de Valve le précise dès le panier, juste avant de sortir la carte bleue.
+
+![Steam](steam-licence.jpg "")
+
+Cet avertissement est le résultat d'une loi californienne qui impose aux boutiques en ligne de [préciser](https://www.engadget.com/gaming/steam-now-tells-gamers-up-front-that-theyre-buying-a-license-not-a-game-085106522.html) clairement et explicitement que l'utilisateur obtient une licence pour le contenu numérique — sous entendu : elle peut expirer à tout moment, par exemple en cas de fermeture définitive de Steam. Le magasin a décidé de mettre la législation en pratique partout dans le monde.
+
+Cette loi a le mérite d'imposer aux boutiques de dire la vérité sur ce qu'on achète. Mais elle ne va pas assez loin : elle n'empêche pas les éditeurs de retirer un contenu acheté de la bibliothèque des joueurs, [comme l'avait fait Ubisoft avec *The Crew*](https://nostick.fr/articles/2024/avril/1204-ubisoft-efface-the-crew-partout/). Ce qui a d'ailleurs motivé [une pétition européenne pour forcer les éditeurs](https://nostick.fr/articles/2024/aout/0208-stop-killing-games-petition-europe-tuer-jeux/) à donner aux joueurs la possibilité de jouer aux jeux, même après la fin du support officiel.
+
 ## La mauvaise nouvelle de la semaine : triste fin pour Little Big Planet 3
 
 *Little Big Planet 3* est le meilleur opus de la série de jeux de plateformes avec le bondissant Sackboy. Non seulement le jeu de base est super, mais les joueurs ont aussi la possibilité de créer leurs propres niveaux et même des mini-jeux, qu'ils peuvent partager avec le reste du monde.
