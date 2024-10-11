@@ -4,7 +4,7 @@ date = 2024-10-11T21:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/octobre/0910-paradox-ne-veut-pas-soccuper-bloodlines-3/vtmb2.jpg"
+image = "https://nostick.fr/articles/2024/octobre/1110-abonnes-xbox-cloud-gaming-stream-jeux/xboxx.jpg"
 +++
 
 ![Une promo Xbox Cloud Gaming](xboxx.jpg "")
