@@ -1,6 +1,6 @@
 +++
 title = "Microsoft va vendre des jeux Xbox sur Android"
-date = 2024-10-11T08:30:32+01:00
+date = 2024-10-11T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
