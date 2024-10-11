@@ -1,5 +1,5 @@
 +++
-title = "~~Deux~~ Trois successeurs spirituels à Disco Elysium sont dans les tuyaux"
+title = "Ce sont maintenant trois successeurs spirituels à Disco Elysium qui sont dans les tuyaux"
 date = 2024-10-11T11:47:32+01:00
 draft = false
 author = "Mickael"
@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/octobre/disco-elysium.jpg"
 
 ![Disco Elysium](disco-elysium.jpg "")
 
-Hasard du calendrier (ou peut-être pas…), deux successeurs spirituels à *Disco Elysium* viennent d'être annoncés coup sur coup… par deux studios composés d'anciens de ZA/UM, le créateur du jeu ! *XXX Nightshift*, développé par Dark Math Games, veut offrir aux joueurs une « *expérience RPG solo profonde avec beaucoup d'outils et de couches de gameplay* ». On sera accompagné d'un compagnon, dont la « *dynamique unique* » proposera différents chemins pour résoudre les énigmes.
+Hasard du calendrier (ou peut-être pas…), ~~deux~~ trois successeurs spirituels à *Disco Elysium* viennent d'être annoncés coup sur coup… par des studios composés d'anciens de ZA/UM, le créateur du jeu ! *XXX Nightshift*, développé par Dark Math Games, veut offrir aux joueurs une « *expérience RPG solo profonde avec beaucoup d'outils et de couches de gameplay* ». On sera accompagné d'un compagnon, dont la « *dynamique unique* » proposera différents chemins pour résoudre les énigmes.
 
 {{< youtube -QlFNp2WtgE >}} 
 
