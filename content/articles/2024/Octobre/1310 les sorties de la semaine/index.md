@@ -20,7 +20,7 @@ Les gens de chez Bloober Teams ont dû souffler un ouf de soulagement en voyant 
 
 L’autre grosse sortie de la semaine était ***‌Metaphor: ReFantazio***, le nouveau gros JRPG d’Atlus. Le studio derrière la saga *Persona* s’éloigne du milieu scolaire pour proposer un univers de Fantasy baroque inspiré des tableaux de Bosch. Le roi a été assassiné et une élection se prépare pour choisir le futur souverain : notre personnage va devoir partir à la recherche du prince du royaume, touché par une malédiction et considéré comme mort. Bref, un pitch que l’on sent rempli de trahison et autre retournement de situations prétexte à nous faire visiter un univers fortement stylisé. Comme d’hab’ chez Atlus, les journées sont dédiées à améliorer ses stats et à papoter avant d’aller taper des monstres colossaux la nuit. Les combats sont un mélange d’action classique et de tours par tour qui a l’air réussi, et les testeurs saluent la bande-son ainsi que l’interface très léchée. Bref, ça a l’air d’être de la bonne came si vous accrochez à l’univers fantastique et que vous avez une centaine d’heures à occuper. 70 € [sur PC](https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/), PS5, PS4 et Xbox Series. Notons qu’une démo est disponible qui permet de continuer sa sauvegarde dans le jeu complet.
 
-{{< youtube U4KpYy3Bs6E >}} 
+{{< youtube yQPk4cVrU_w >}} 
 
 ## Vous reprendrez bien un peu de Diablo IV ?
 
