@@ -7,7 +7,7 @@ tags = ["XXL"]
 image = "https://nostick.fr/articles/2024/octobre/silent-hill-4x4.jpg"
 +++
 
-![Silent Hill 2](silent-hill-4x4.jpg "James et Maria font la promo de Silent Hill 2 sur une fresque murale à Londres. © Félix, DR")
+![Silent Hill 2](silent-hill-4x4.jpg "James et Maria font la promo de Silent Hill 2 sur une fresque murale à Londres. © Nostick, DR")
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
@@ -43,17 +43,17 @@ Ce chiffre est d'autant plus étonnant que le jeu est vendu assez cher (10 $/�
 
 ## Les chelous de la semaine : pédophilie et chiffres bidonnés, Roblox sous le feu des critique
 
-*Roblox* est dans la sauce. La plateforme de jeux et de création de jeux a fait l'objet d'un [rapport](https://hindenburgresearch.com/roblox/) dévastateur de Hindenburg Research qui lui reproche essentiellement trois choses. La première et la plus effarante, c'est que *Roblox* fermerait les yeux sur la protection des enfants qui sont ses premiers utilisateurs.
+*Roblox* est dans la sauce. La plateforme de jeux et de création de jeux a fait l'objet d'un [rapport](https://hindenburgresearch.com/roblox/) dévastateur de Hindenburg Research qui lui reproche essentiellement trois choses. La première et la plus effarante est que *Roblox* fermerait les yeux sur la protection des enfants, qui sont ses premiers utilisateurs.
 
 Après avoir créé un compte enfant (moins de 13 ans), les chercheurs de Hindenburg disent avoir trouvé des contenus à caractère sexuel et pédophile dans les espaces de discussion et dans les jeux distribués par la plateforme. *Roblox* mettrait la priorité sur sa croissance et ses revenus, au détriment de la sécurité des mineurs. 
 
 ![Roblox](roblox.jpg "")
 
-L'entreprise aurait aussi gonflé les chiffres de ses utilisateurs actifs quotidiens, et bidonné les temps d'engagement depuis son entrée en Bourse en 2021. Selon le rapport, le nombre d'utilisateurs serait exagéré de 25 à 42 %, les heures d'engagement de 100 %. Enfin, *Roblox* aurait tendance à compter les bots parmi les utilisateurs, tout comme les comptes multiples créés par une seule personne.
+L'entreprise aurait aussi gonflé les chiffres de ses utilisateurs actifs quotidiens, et bidonné les temps d'engagement depuis son entrée en bourse en 2021. Selon le rapport, le nombre d'utilisateurs serait exagéré de 25 à 42 %, les heures d'engagement de 100 %. Enfin, *Roblox* aurait tendance à compter les bots parmi les utilisateurs, tout comme les comptes multiples créés par une seule personne.
 
 Fin juin, la plateforme avait comptabilisé 79,5 millions d'utilisateurs actifs au quotidien, pour 17,4 milliards d'heures de jeu. Pour appuyer ses accusations, Hindenburg a engagé des consultants techniques qui ont mis au point un système de surveillance des serveurs des jeux hébergés par *Roblox*. Certains d'entre eux restaient ainsi actifs pendant plus de 24 heures d'affilée sans interruption.
 
-Des accusations très graves donc, mais il faut rappeler que Hindenburg est une société spécialisée dans la vente à découvert : il est dans son intérêt de faire baisser les actions des entreprises cotées. Néanmoins, cette firme est connue pour ses enquêtes approfondies qui dénoncent les fraudes financières et les irrégularités des sociétés en Bourse.
+Des accusations très graves donc, mais il faut rappeler que Hindenburg est une société spécialisée dans la vente à découvert : il est dans son intérêt de faire baisser les actions des entreprises cotées. Néanmoins, cette firme est connue pour ses enquêtes approfondies qui dénoncent les fraudes financières et les irrégularités des sociétés en bourse.
 
 Dans un [communiqué](https://s27.q4cdn.com/984876518/files/doc_news/2024/Oct/08/hindenburg-statement-final.pdf), *Roblox* a qualifié le rapport de trompeur. La société a investi « *massivement* » dans la prévention et la sécurité, assure-t-elle. Elle rappelle aussi qu'en tant qu'entreprise cotée, elle doit fournir des rapports financiers transparents. 
 
