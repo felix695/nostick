@@ -1,6 +1,6 @@
 +++
 title = "Doom Eternal gratos avec Amazon Prime Gaming"
-date = 2024-10-11T07:43:32+01:00
+date = 2024-10-11T07:45:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
