@@ -1,6 +1,6 @@
 +++
 title = "Tetris Forever, la collection ultime des psychopathes des tétrominos"
-date = 2024-10-11T08:07:32+01:00
+date = 2024-10-11T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

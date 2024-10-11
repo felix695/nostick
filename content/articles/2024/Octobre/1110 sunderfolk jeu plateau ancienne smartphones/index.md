@@ -1,6 +1,6 @@
 +++
 title = "Sunderfolk : un jeu de plateau presque à l'ancienne, mais avec des smartphones"
-date = 2024-10-11T08:47:32+01:00
+date = 2024-10-11T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
