@@ -7,7 +7,7 @@ tags = ["XXL"]
 image = "https://nostick.fr/articles/2024/octobre/silent-hill-4x4.jpg"
 +++
 
-![Silent Hill 2](silent-hill-4x4.jpg "James et Maria font la promo de Silent Hill 2 sur une fresque murale à Londres. © Nostick, DR")
+![Silent Hill 2](silent-hill-4x4.jpg "James, Maria et Pyramid Head font la promo de Silent Hill 2 sur une fresque murale à Londres. © Nostick, DR")
 
 L’actualité du jeu vidéo ne s’arrête pas à la poignée d’articles publiés sur *Nostick* ! Histoire de rattraper le retard accumulé, voici un retour rapide sur quelques unes des infos les plus importantes (ou insignifiantes) de la semaine.
 
