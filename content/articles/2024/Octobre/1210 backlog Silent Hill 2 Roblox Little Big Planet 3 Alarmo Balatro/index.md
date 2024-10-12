@@ -1,5 +1,5 @@
 +++
-title = "On vide le backlog de la semaine : Silent Hill 2, Roblox, Little Big Planet 3, Alarmo, Balatro…"
+title = "On vide le backlog de la semaine : Silent Hill 2, Roblox, Little Big Planet 3, Alarmo, Balatro…"
 date = 2024-10-12T06:45:01+01:00
 draft = false
 author = "Mickael"
