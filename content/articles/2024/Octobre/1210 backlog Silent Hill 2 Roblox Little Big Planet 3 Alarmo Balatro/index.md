@@ -4,7 +4,7 @@ date = 2024-10-12T06:45:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/2024/octobre/silent-hill-4x4.jpg"
+image = "https://nostick.fr/articles/2024/octobre/1210-backlog-silent-hill-2-roblox-little-big-planet-3-alarmo-balatro/silent-hill-4x4.jpg"
 +++
 
 ![Silent Hill 2](silent-hill-4x4.jpg "James, Maria et Pyramid Head font la promo de Silent Hill 2 sur une fresque murale à Londres. © Nostick, DR")
