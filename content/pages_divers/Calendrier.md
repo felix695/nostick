@@ -15,11 +15,11 @@ PS5, Xbox Series X|S, Xbox One, PC, Switch\
 Nintendo — 07/11
 Switch\
 ■ **[Slitterhead](https://store.steampowered.com/app/2631250/Slitterhead/)**\
-Bokeh Game — 08/10\
+Bokeh Game — 08/11\
 PS5, PS4, Xbox Series X|S, PC\
 ■ **[Microsoft Flight Simulator 2024](https://www.flightsimulator.com/microsoft-flight-simulator-2024/)**\
-Asobo — 19/10\
+Asobo — 19/11\
 Xbox Series X|S, PC\
 ■ **[Stalker 2: Heart of Chornobyl](https://www.stalker2.com/en)**\
-GSC Game World — 20/10\
+GSC Game World — 20/11\
 Xbox Series X|S, PC
