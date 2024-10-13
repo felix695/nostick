@@ -5,15 +5,6 @@ draft = false
 author = "Mickael"
 +++
 
-■ **[Silent Hill 2 Remake](https://www.blooberteam.com/silent-hill-2)**\
-Bloober Team — 08/10\
-PS5, PC\
-■ **[Metaphor: ReFantazio](https://metaphor.atlus.com/)**\
-Studio Zero — 11/10\
-PS5, PS4, Xbox Series X|S, PC\
-■ **[Super Mario Party Jamboree](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Super-Mario-Party-Jamboree-2591147.html)**\
-Nintendo — 17/10\
-Switch\
 ■ **[Call of Duty: Black Ops 6](https://www.callofduty.com/fr/playnow/blackops6)**\
 Treyarch — 25/10\
 PS5, Xbox Series X|S, PC\
@@ -23,3 +14,12 @@ PS5, Xbox Series X|S, Xbox One, PC, Switch\
 ■ **[Mario & Luigi : L'épopée fraternelle](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Mario-Luigi-L-epopee-fraternelle-2590264.html)**\
 Nintendo — 07/11
 Switch
+■ **[Slitterhead](https://store.steampowered.com/app/2631250/Slitterhead/)**\
+Bokeh Game Studio lnc. — 08/10\
+PS5, PS4, Xbox Series X|S, PC\
+■ **[Microsoft Flight Simulator 2024](https://www.flightsimulator.com/microsoft-flight-simulator-2024/)**\
+Asobo Studio — 19/10\
+Xbox Series X|S, PC\
+■ **[Stalker 2: Heart of Chornobyl](https://www.stalker2.com/en)**\
+GSC Game World — 20/10\
+Xbox Series X|S, PC
