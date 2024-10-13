@@ -13,8 +13,8 @@ Oups. Game Freak, qui développe les jeux Pokémon pour le compte de Nintendo, a
 
 {{< youtube 8LOGEbGnMqM >}} 
 
-Mais le contenu de cette base de données contient d'autres informations, comme des références à plusieurs jeux. « Ikkaku » serait ainsi le nom de code de *Pokemon Legends: Z-A*, qui sortira l'année prochaine. Plus intéressant, derrière « Gaia » se cacherait la gen 10 des Pokémon, dont le jeu serait développé pour la Switch 2 qui porte elle-même le nom de code « Ounce ».
+Mais le contenu de cette base de données contient d'autres informations, comme des références à plusieurs jeux. « Ikkaku » serait ainsi le nom de code de *Pokemon Legends: Z-A*, qui sortira l'année prochaine. Plus intéressant, derrière « Gaia » se cacherait la gen 10 des Pokémon, dont le jeu serait développé pour la Switch 2 qui porte elle-même le nom de code « Ounce ». On fêtera les 25 ans de la franchise le 27 février 2026, il n'est pas interdit de penser que *Z-A* sera « le » Pokémon de 2025 en attendant le successeur d'*Écarlate* et *Violet*.
 
-« Synapse » pourrait être un jeu multi, type MMO ou PvP. Le studio ILCA, qui a travaillé sur *Pokémon Diamant Étincelant* et *Perle Scintillante*, serait impliqué. Enfin, ce « gigaleak » comprendrait également du code source pour *Pokémon Or HeartGold* et *Argent SoulSilver*, ainsi que pour *Pokémon version noire* et *Version blanche*.
+« Synapse » pourrait être un jeu multi, type MMO ou PvP. Le studio ILCA, qui a travaillé sur *Pokémon Diamant Étincelant* et *Perle Scintillante*, serait impliqué. Enfin, ce « teraleak » comprendrait également du code source pour *Pokémon Or HeartGold* et *Argent SoulSilver*, ainsi que pour *Pokémon version noire* et *Version blanche*.
 
 D'autres découvertes pourraient être faites au fur et à mesure que les dataminers plongent leurs mains dans cette base de données.
