@@ -1,7 +1,7 @@
 
 +++
 title = "Silent Hill 2 Remake, Metaphor: ReFantazio : le récap des sorties de la semaine (13/10)"
-date = 2024-10-13T07:00:02+01:00
+date = 2024-10-13T07:40:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
