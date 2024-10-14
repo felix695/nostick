@@ -1,6 +1,6 @@
 +++
 title = "Astro Bot est Astro Hot en Europe"
-date = 2024-10-14T09:27:32+01:00
+date = 2024-10-14T07:27:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
