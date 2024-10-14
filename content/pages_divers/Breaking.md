@@ -1,6 +1,6 @@
 +++ 
-date = 2024-10-01T14:00:32+01:00
+date = 2024-10-14T14:00:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Alors que la série *Yakuza* arrivera le 24 octobre sur Prime Video, Amazon vient de balancer [un nouveau trailer](https://www.youtube.com/watch?v=VbpkKJARzzU) dans lequel on ne trouve malheureusement aucune scène de karaoké.
+Il y aura un [Xbox Partner Preview](https://news.xbox.com/en-us/2024/10/14/xbox-partner-preview-october-2024/) le 17 octobre à 19h ! Microsoft présentera des tas de trucs, et des premières mondiales. On sera au rendez-vous.
