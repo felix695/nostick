@@ -4,6 +4,7 @@ date = 2024-10-15T19:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
+type = "une"
 image = "https://nostick.fr/articles/2024/octobre/1510-blackjack-mahjong-les-developpeurs-sinspirent-de-balatro/Aotenjo.jpg"
 +++
 
@@ -15,7 +16,7 @@ Rançon de la gloire, *Balatro* a eu le droit à [plusieurs clones](https://nost
 
 ![Le jeu ‌Dungeons & Degenerate Gamblers](blackjack.jpg "Dungeons & Degenerate Gamblers") 
 
-*‌Dungeons & Degenerate Gamblers* est un roguelike d'aventure basé sur le blackjack. Les parties se veulent aléatoires étant donné que les cartes sont de plus en plus absurdes, et on pourra récupérer des cartes de visite, des cartes d'anniversaire ou des cartes de tarot. Pour vous donner un exemple, la carte de sécu ajoute à votre jeu toutes les cartes dont votre adversaire s'est débarrassé. Le jeu incite à battre les différents joueurs d’une étrange taverne et à améliorer son deck au fil des parties. Le titre coûte [15 € sur Steam](https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/), où il affiche des évaluations positives.
+*‌Dungeons & Degenerate Gamblers* est un roguelike d'aventure basé sur le blackjack. Les parties se veulent aléatoires étant donné que les cartes sont de plus en plus absurdes : on pourra piocher des cartes de visite, des cartes d'anniversaire ou des cartes de tarot. Pour vous donner un exemple, la carte de sécu ajoute à votre jeu toutes les cartes dont votre adversaire s'est débarrassé. Le jeu incite à battre les différents joueurs d’une étrange taverne et à améliorer son deck au fil des parties. Le titre coûte [15 € sur Steam](https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/), où il affiche des évaluations positives.
 
 *Pile-Up Poker* est un petit jeu rigolo mélangeant poker et solitaire. Vous récupérez 5 cartes à chaque manche qu’il faut poser sur une grille en 4x4 de manière à faire des mains puissantes, autant horizontalement que verticalement. La formule marche bien et se corse vite : c’est à tester sachant que cela fonctionne directement [dans le navigateur](https://www.puzzmo.com/+/thehour/play/pile-up-poker/3lcl8304n) (ça passe bien sur téléphone).
 
