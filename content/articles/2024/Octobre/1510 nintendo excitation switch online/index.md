@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/octobre/NSO.jpg"
 
 ![NSO](NSO.jpg "C'est la fête. Woohoo. Trop bien.")
 
-On accole rarement le qualificatif « *excitant* » au Switch Online. Le service en ligne de Nintendo n'a en effet rien de franchement sexy, c'est même perçu comme un mal nécessaire pour bon nombre de joueurs qui veulent jouer en ligne, s'adonner à des jeux old school ou acheter des manettes rétro. Le constructeur promet pourtant de l'« *excitation* » en 2025 pour les membres abonnés au NSO + Pack additionnel, dans un [courriel](https://www.gonintendo.com/contents/41530-nintendo-recognizes-3-years-of-switch-online-expansion-pack-says-stay-tuned-for) envoyé à des abonnés comblés.
+On accole rarement le qualificatif « *excitant* » au Switch Online. Le service en ligne de Nintendo n'a en effet rien de franchement sexy, c'est même perçu comme un mal nécessaire pour bon nombre de joueurs qui veulent jouer en ligne, s'adonner à des jeux old school ou acheter des manettes rétro. Le constructeur promet pourtant de l'« *excitation* » en 2025 pour les membres abonnés au NSO + Pack additionnel, dans un [courriel](https://www.gonintendo.com/contents/41530-nintendo-recognizes-3-years-of-switch-online-expansion-pack-says-stay-tuned-for) pour fêter le troisième anniversaire de cette formule.
 
 {{< youtube hmxz_500xL0 >}} 
 
