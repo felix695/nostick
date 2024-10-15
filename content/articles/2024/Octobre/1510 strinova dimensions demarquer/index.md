@@ -1,6 +1,6 @@
 +++
 title = "Strinova alterne entre les dimensions pour se démarquer"
-date = 2024-10-15T08:07:32+01:00
+date = 2024-10-15T09:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
