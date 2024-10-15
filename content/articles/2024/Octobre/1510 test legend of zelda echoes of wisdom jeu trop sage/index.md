@@ -1,6 +1,6 @@
 +++
 title = "Test de Zelda: Echoes of Wisdom, un jeu trop sage"
-date = 2024-10-15T10:47:32+01:00
+date = 2024-10-14T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]
