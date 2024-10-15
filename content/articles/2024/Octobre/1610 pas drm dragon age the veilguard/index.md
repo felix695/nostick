@@ -1,5 +1,5 @@
 +++
-title = "Pas de DRM pour Dragon Age: The Veilguard
+title = "Pas de DRM pour Dragon Age: The Veilguard"
 date = 2024-10-16T08:47:32+01:00
 draft = false
 author = "Mickael"
