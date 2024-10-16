@@ -5,9 +5,9 @@ draft = false
 author = "Mickael"
 +++ 
 
-■ Félix fait le singe dans *Black Myth: Wukong*.
+■ Félix a les chocotes dans *Silent Hill 2*.
 
-■ Mickaël tente de sauver Hyrule dans la peau de Zelda avec *Echoes of the Wisdom*.
+■ Mickaël chasse le Dracula dans *Castlevania: Portrait of Ruin*.
 
 ⭐️ Cédric conduit à toute blinde dans *Pacific Drive*.
 
