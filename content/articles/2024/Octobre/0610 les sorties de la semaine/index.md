@@ -5,7 +5,7 @@ date = 2024-10-06T07:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/octobre/0610-les-sorties-de-la-semaine/zoo.jpg"
+image = "https://nostick.fr/articles/2024/octobre/1610-nintendo-4k-analogue-debut-2025/analogue1.jpeg"
 +++
 
 ![Le jeu Zoochosis](zoo.jpg "Le Zoo Keeper de trop ?")

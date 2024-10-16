@@ -1,6 +1,6 @@
 +++
 title = "La Nintendo 64 4K d’Analogue sera lancée début 2025"
-date = 2024-10-15T19:00:00+01:00
+date = 2024-10-16T19:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
