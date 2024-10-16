@@ -4,7 +4,7 @@ date = 2024-10-16T19:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = ""
+image = "https://nostick.fr/articles/2024/octobre/1610-nintendo-4k-analogue-debut-2025/analogue1.jpeg"
 +++
 
 ![La console Analogue 3D](analogue1.jpeg "Le problème c’est que les jeux vont vite coûter plus cher que la console.") 
