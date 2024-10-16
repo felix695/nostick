@@ -13,7 +13,7 @@ Cela fait maintenant un an qu’a été [annoncé](https://nostickreloaded.subst
 
 ![La console Analogue 3D](analogue2.jpeg) 
 
-![La console Analogue 3D](analogue3.jpeg) 
+![La console Analogue 3D](analogue3.jpg) 
 
 La machine embarque 4 ports pour les manettes d’époque, mais accepte aussi les pads Bluetooth. On y trouve aussi un lecteur de carte SD et deux ports USB. Un OS maison est inclus avec des filtres pour retrouver les effets des vieux moniteurs CRT et éviter que tout ne fasse trop net sur votre TV Ultra 8K OLED qui prend tout le mur. Aucune manette n’est livrée dans la boîte, mais Analogue a bossé avec le spécialiste 8BitDo pour proposer son propre modèle vendu 40 $ qui fonctionnera également avec un PC ou une Switch.
 
