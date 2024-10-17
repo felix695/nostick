@@ -1,6 +1,6 @@
 +++
 title = "Firebreak, Wuchang, Subnautica 2 : un showcase solide chez Xbox"
-date = 2024-10-17T10:47:32+01:00
+date = 2024-10-17T18:21:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
