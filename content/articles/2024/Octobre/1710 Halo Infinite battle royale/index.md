@@ -1,6 +1,6 @@
 +++
 title = "Un mode battle royale était bien en préparation pour Halo Infinite"
-date = 2024-10-17T09:27:32+01:00
+date = 2024-10-17T08:27:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
