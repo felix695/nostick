@@ -31,6 +31,10 @@ Côté FPS et dans une ambiance complètement différente, *Mouse: P.I. for Hire
 
 OK, le jeu n'est pas une nouveauté mais il n'empêche que son nouveau trailer a été une des sensations de la soirée : on parle bien sûr de *Wuchang: Fallen Feathers*, qui a comme un faux airs de *Stellar Blade* plus vénère, et avec des bouts de *Black Myth Wukong* dedans. Lancement prévu en 2025.
 
+{{< youtube _fVgonB6ubk >}} 
+
+Lui non plus n'est pas une nouveauté, mais ça fait toujours plaisir d'en savoir plus sur *Like a Dragon: Pirate Yakuza in Hawaii*, en particulier avec cette vidéo qui révèle un bout du gameplay en combat naval, et donne aussi une petite idée des mini-jeux. Le jeu brindezingue sortira le 21 février 2025. Arrrr.
+
 {{< youtube MnZtFtzMctY >}} 
 
 *Mistfall Hunter* est également un jeu de bourrin en vue à la troisième personne, mais qui penche davantage vers le RPG en PvPvE. Admirez moi ces graphismes de viking. Sortie annoncée en 2025, on peut déjà s'inscrire pour participer à la bêta sur PC.
