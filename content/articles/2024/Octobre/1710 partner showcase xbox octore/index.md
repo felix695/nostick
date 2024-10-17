@@ -33,7 +33,7 @@ OK, le jeu n'est pas une nouveauté mais il n'empêche que son nouveau trailer a
 
 {{< youtube _fVgonB6ubk >}} 
 
-Lui non plus n'est pas une nouveauté, mais ça fait toujours plaisir d'en savoir plus sur *Like a Dragon: Pirate Yakuza in Hawaii*, en particulier avec cette vidéo qui révèle un bout du gameplay en combat naval, et donne aussi une petite idée des mini-jeux. Le jeu brindezingue sortira le 21 février 2025. Arrrr.
+Lui non plus n'est pas une nouveauté, mais ça fait toujours plaisir d'en savoir plus sur *Like a Dragon: Pirate Yakuza in Hawaii*, en particulier avec cette vidéo qui révèle un bout du gameplay en combat naval, et donne aussi une petite idée des mini-jeux. Le jeu brindezingue sortira le 21 février 2025, soit… une semaine plus tôt (!) que prévu. Arrrr.
 
 {{< youtube MnZtFtzMctY >}} 
 
