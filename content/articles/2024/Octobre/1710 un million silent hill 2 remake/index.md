@@ -1,6 +1,6 @@
 +++
 title = "Konami a déjà vendu 1 million de Silent Hill 2 Remake"
-date = 2024-10-17T08:00:32+01:00
+date = 2024-10-17T08:29:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
