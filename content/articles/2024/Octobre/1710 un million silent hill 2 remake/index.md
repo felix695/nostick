@@ -7,7 +7,7 @@ tags = ["Actu"]
 type = "telex"
 +++
 
-Chic alors, le remake de *Silent Hill 2* se vend bien : Blooper et Konami ont [annoncé(])https://prtimes.jp/main/html/rd/p/000001019.000050711.html) avoir dépassé le million de copies pour ce jeu lancé la semaine dernière. Un joli chiffre qui comprend les livraisons mondiales et les ventes numériques pour PC et PS5 en date du 11 octobre.
+Chic alors, le remake de *Silent Hill 2* se vend bien : Blooper et Konami ont [annoncé](https://prtimes.jp/main/html/rd/p/000001019.000050711.html) avoir dépassé le million de copies pour ce jeu lancé la semaine dernière. Un joli chiffre qui comprend les livraisons mondiales et les ventes numériques pour PC et PS5 en date du 11 octobre.
 
 ![Promo SH2](silenthill.jpeg "")
 
