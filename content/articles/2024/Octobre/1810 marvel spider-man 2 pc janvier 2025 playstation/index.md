@@ -15,6 +15,8 @@ Il arrive que les grandes entreprises balaient les mauvaises nouvelles au vendre
 
 Car oui, un an après sa sortie en exclusivité sur PS5, *Marvel's Spider-Man 2* est [confirmé](https://blog.playstation.com/2024/10/18/marvels-spider-man-2-arrives-on-pc-january-2025/) pour PC ! Le blockbuster développé à l'origine par Insomniac, et porté sur PC par le studio Nixxes, sera disponible sur Steam et l'Epic Games Store le 30 janvier 2025. C'est le jeu au complet qui sera proposé : l'aventure de base bien sûr, mais aussi tous les DLC et le New Game Plus. Une édition Deluxe comportera des cosmétiques et costumes supplémentaires.
 
+*Spider-Man 2* reprend là où *Miles Morales* s'était arrêté. On se retrouve donc avec deux hommes-araignée, aux prises avec Venom et Kraven dans une map qui s'agrandit : New York a gagné deux borroughs (Brooklyn et Queens) à explorer. La traversée de ces grandes étendues urbaines s'améliore encore avec les Web Wings pour mieux prendre le vent.
+
 La version PC comprendra des options graphiques et de ray-tracing en plus, le support des écrans ultra-large, la prise en charge du combo clavier/souris, etc. Les développeurs de Nixxes font habituellement du très bon travail, on leur doit les portages PC de *Ratchet & Clank*, du premier *Spider-Man* et du spin-off *Miles Morales* (le studio est aussi derrière le remaster de *Horizon Zero Dawn*).
 
 Les exclusivités PS5 le sont de moins en moins, Sony ayant pris la bonne habitude de les sortir sur PC, habituellement dans les deux années suivant leur sortie sur consoles. Tout récemment, on a eu droit à *God of War Ragnarok* et *Ghost of Tsushima*.
