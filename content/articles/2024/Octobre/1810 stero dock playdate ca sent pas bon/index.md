@@ -4,7 +4,7 @@ date = 2024-10-18T20:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/septembre/0309-sony-concord-debranche-serveurs-rembourse-joueurs/concord-end.jpg"
+image = "https://nostick.fr/articles/2024/octobre/1810-stero-dock-playdate-ca-sent-pas-bon/dock.png"
 +++
 
 ![Le Stereo Dock de la Playdate](dock.png "RIP in peace ?") 
