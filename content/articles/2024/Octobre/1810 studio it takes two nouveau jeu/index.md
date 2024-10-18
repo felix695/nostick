@@ -1,6 +1,6 @@
 +++
 title = "Le studio de It Takes Two prépare un nouveau jeu « S*** ******N »"
-date = 2024-10-18T08:07:32+01:00
+date = 2024-10-18T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
