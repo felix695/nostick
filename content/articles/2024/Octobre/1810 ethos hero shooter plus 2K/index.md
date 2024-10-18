@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/ethos.jpg"
 +++
 
-![Ethos](ethos.jpg "Légende de l’image")
+![Ethos](ethos.jpg "")
 
 La différence entre courage et suicide est ténue. Tenez, prenez 2K Games : l'éditeur se lance dans le *hero shooter* avec *Ethos*, un free to play en vue à la troisième personne. Oui, il faut le vouloir pour se lancer sur un marché qui ressemble à un eldorado de loin… et à un coupe-gorge de près. Mais bon, qui ne tente rien, hein.
 
