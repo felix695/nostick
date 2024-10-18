@@ -19,4 +19,4 @@ Car oui, un an après sa sortie en exclusivité sur PS5, *Marvel's Spider-Man 2*
 
 La version PC comprendra des options graphiques et de ray-tracing en plus, le support des écrans ultra-large, la prise en charge du combo clavier/souris, etc. Les développeurs de Nixxes font habituellement du très bon travail, on leur doit les portages PC de *Ratchet & Clank*, du premier *Spider-Man* et du spin-off *Miles Morales* (le studio est aussi derrière le remaster de *Horizon Zero Dawn*).
 
-Les exclusivités PS5 le sont de moins en moins, Sony ayant pris la bonne habitude de les sortir sur PC, habituellement dans les deux années suivant leur sortie sur consoles. Tout récemment, on a eu droit à *God of War Ragnarok* et *Ghost of Tsushima*.
+Les exclusivités PS5 le sont de moins en moins longtemps, Sony ayant pris la bonne habitude de les sortir sur PC, habituellement dans les deux années suivant leur sortie sur consoles. Tout récemment, on a eu droit à *God of War Ragnarok* et *Ghost of Tsushima*.
