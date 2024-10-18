@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/tekken-8-lidia.jpg"
 +++
 
-![Tekken 8](tekken-8-lidia.jpg "Légende de l’image")
+![Tekken 8](tekken-8-lidia.jpg "")
 
 Après la cagade du temple Genmaji payant, la team Tekken a décidé de faire un geste pour regagner les faveurs des joueurs qui ont fait plonger *Tekken 8* dans dans la catégorie des jeux aux évaluations « très négatives » sur Steam. Rappelons rapidement l'histoire : le stage en question est payant (5 €), y compris pour ceux qui ont craqué pour le pass Year 1.
 
