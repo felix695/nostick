@@ -9,6 +9,8 @@ image = "https://nostick.fr/articles/2024/juillet/1407-anger-foot-once-human-sor
 
 ![Le jeu Frog Detective](frog.jpg)
 
+**Les jeux qui exigent une attention de tous les instants pendant des dizaines d'heures, OK, c'est sympa, mais parfois on préférerait quelque chose de court et d'efficace. C'est pourquoi nous allons vous proposer chaque jour de la semaine un jeu à commencer et à terminer en une soirée ! Aujourd'hui : *Frog Detective*.**
+
 ## Frog Detective
 
 Je suis tombé sur ***Frog Detective*** un peu au pif après avoir reçu un mois d’abonnement au Game Pass. Divisé en trois épisodes, ce jeu pour-enfants-mais-pas-que nous invite à enchausser les bottes de la Grenouille Détective, qui a reçu pour mission de résoudre différents mystères. Tout est très *feel good*, avec des graphismes patauds, des personnages-animaux mignons et une atmosphère enfantine réussie. Chaque épisode se boucle en une heure et n’implique pas vraiment de réfléchir étant donné qu’il suffit globalement de parler à X, Y puis Z pour faire avancer l’intrigue.
