@@ -4,7 +4,7 @@ date = 2024-10-19T07:00:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/2024/octobre/life-is-strange-max.jpg"
+image = "https://nostick.fr/articles/2024/octobre/1910-backlog-life-is-strange-atari-xbox--activision-ps5-pro/life-is-strange-max.jpg"
 +++
 
 ![Life is Strange](life-is-strange-max.jpg "Où j'ai mis mon smartphone moi ? Ah mais je suis pas à la bonne époque.")
