@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : Life is Strange, Atari, Xbox et Activision, PS5 Pro…"
-date = 2024-10-19T06:45:01+01:00
+date = 2024-10-19T07:00:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
