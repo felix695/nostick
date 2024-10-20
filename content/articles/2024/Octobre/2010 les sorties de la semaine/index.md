@@ -1,7 +1,7 @@
 
 +++
 title = "Mario Party Jamboree, Neva : le récap des sorties de la semaine (20/10)"
-date = 2024-10-20T07:00:02+01:00
+date = 2024-10-20T07:30:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
