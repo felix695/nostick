@@ -17,7 +17,7 @@ author = "Mickael"
 
 ⭐️ eFoxot se rafraichit en attendant *Frostpunk 2*.
 
-⭐️ Robin commets un écocide au nom du capitalisme sur *Satisfactory*.
+⭐️ Robin commet un écocide au nom du capitalisme dans *Satisfactory*.
 
 ⭐️ Niobius en balade dans l'univers tapenade-punk de *Caravan SandWitch*.
 
