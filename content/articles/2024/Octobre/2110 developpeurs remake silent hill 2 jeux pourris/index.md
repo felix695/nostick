@@ -1,10 +1,10 @@
 +++
 title = "Les développeurs du remake de Silent Hill 2 veulent en terminer avec les « jeux pourris »"
-date = 2024-10-21T08:47:32+01:00
+date = 2024-10-21T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/octobre/cronos.jpg"
+image = "https://nostick.fr/articles/2024/octobre/2110-developpeurs-remake-silent-hill-2-jeux-pourris/cronos.jpg"
 +++
 
 ![Cronos: The New Dawn](cronos.jpg "")

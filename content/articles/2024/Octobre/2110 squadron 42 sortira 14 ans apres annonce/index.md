@@ -1,6 +1,6 @@
 +++
 title = "Squadron 42 sortira 14 ans après son annonce (si tout va bien)"
-date = 2024-10-21T09:37:32+01:00
+date = 2024-10-21T07:37:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
