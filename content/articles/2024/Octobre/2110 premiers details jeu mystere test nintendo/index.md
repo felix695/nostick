@@ -22,4 +22,6 @@ Ce ne sera pas pour autant une partie de plaisir, puisque la planète regorge d'
 
 Un espace social baptisé « Dev Core » est également présent où les joueurs peuvent améliorer leur avatar avec des Dev Points, obtenir de l'équipement, bavarder avec les autres utilisateurs. Nintendo a également pensé à un système de création de contenus permettant à quiconque d'inventer des objets, de les utiliser et même de les partager. Le constructeur précise qu'avant d'accéder à ces outils de création, il faudra participer à un test afin de « *comprendre l'importance d'une communication respectueuse* » !
 
+Le jeu n'a pas de nom, et certains pensent qu'il pourrait s'agir d'une version « temporaire » avant la version finale — pourrait-elle impliquer les univers de Nintendo ? Ou signer le retour des Mii ?
+
 Ce MMO, qui pourrait être la réponse de Nintendo à *Minecraft*, sera en phase de test jusqu'au 5 novembre. Il est plus que probable que d'autres détails nous parviennent d'ici là.
