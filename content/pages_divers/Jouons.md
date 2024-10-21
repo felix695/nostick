@@ -17,7 +17,7 @@ author = "Mickael"
 
 ⭐️ eFoxot se rafraichit en attendant *Frostpunk 2*.
 
-⭐️ Robin fait un petit tour à Khaz Algar dans *WoW: The War Within*.
+⭐️ Robin commets un écocide au nom du capitalisme sur *Satisfactory*.
 
 ⭐️ Niobius en balade dans l'univers tapenade-punk de *Caravan SandWitch*.
 
