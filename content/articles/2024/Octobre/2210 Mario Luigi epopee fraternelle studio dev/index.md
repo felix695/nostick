@@ -13,7 +13,7 @@ Mais qui a développé *Mario & Luigi : l'Épopée fraternelle* ?! Pour une rais
 
 {{< youtube iEOK2_FQKL8 >}} 
 
-Et on pourrait multiplier les exemples ; Kevin Afghani, la nouvelle « voix » de Mario, n'a été connu qu'une semaine avant *Super Mario Bros. Wonder*. Bref, encore une étrange lubie de Nintendo qui frappe la future aventure de *Mario & Luigi*. Le jeu, qui sort le 7 novembre, n'avait jusqu'à aujourd'hui aucun studio attaché. Il a fallu fouiller dans les informations liées à la propriété intellectuelle pour découvrir le pot aux roses : c'est donc [Acquire](https://en.wikipedia.org/wiki/Acquire_(company)) qui est derrière le jeu.
+Et on pourrait multiplier les exemples ; Kevin Afghani, la nouvelle « voix » de Mario, n'a été connu qu'une semaine avant *Super Mario Bros. Wonder*. Bref, encore une étrange lubie de Nintendo qui frappe la future aventure de *Mario & Luigi*. Le jeu, qui sort le 7 novembre, n'avait jusqu'à aujourd'hui aucun studio attaché. Il a fallu fouiller dans les informations liées à la propriété intellectuelle pour découvrir le pot aux roses : c'est donc [Acquire](https://en.wikipedia.org/wiki/Acquire_(company)) qui est derrière le jeu. On [apprend](https://x.com/Nintendeal/status/1848186451261002223) aussi au passage que le titre a été développé avec le moteur Unreal.
 
 {{< twitter user="Nintendeal" id="1848377416328323547" >}}
 
