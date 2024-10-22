@@ -1,6 +1,6 @@
 +++
 title = "Netflix ferme le studio en charge de développer son premier AAA"
-date = 2024-10-22T09:30:00+01:00
+date = 2024-10-22T09:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
