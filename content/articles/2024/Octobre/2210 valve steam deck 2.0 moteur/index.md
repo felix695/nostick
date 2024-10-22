@@ -1,6 +1,6 @@
 +++
 title = "Valve attend toujours un meilleur moteur pour le Steam Deck 2.0"
-date = 2024-10-22T08:07:32+01:00
+date = 2024-10-22T08:07:30+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
