@@ -4,7 +4,7 @@ date = 2024-10-22T09:00:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/octobre/2110-alan-wake-2-grosse-mise-a-jour/alain.jpg"
+image = "https://nostick.fr/articles/2024/octobre/2210-netflix-studio-aaa-team-blue/netflix.jpg"
 +++
 
 ![Netflix](netflix.jpg "") 
