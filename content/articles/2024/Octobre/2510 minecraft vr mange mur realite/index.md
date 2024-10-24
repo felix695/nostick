@@ -1,13 +1,13 @@
 +++
 title = "Minecraft VR se mange le mur de la réalité"
-date = 2024-25-10T08:07:32+01:00
+date = 2024-10-25T08:07:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/minecraft-VR.jpg"
 +++
 
-![Minecraft VR](minecraft-VR.jpg "Légende de l’image")
+![Minecraft VR](minecraft-VR.jpg "")
 
 La VR, ça eût payé… mais ça paye plus. Enfin attendez, non, la VR ça n'a jamais vraiment payé, en fait ! Et Mojang a fini par s'en rendre compte : le studio a finalement [annoncé](https://www.minecraft.net/en-us/article/minecraft-1-21-40-bedrock-changelog) que le support de sa version en réalité virtuelle allait mettre la clé sous la porte.
 
