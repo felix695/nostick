@@ -1,6 +1,6 @@
 +++
 title = "Beyond Good & Evil 2 a un nouveau directeur créatif"
-date = 2024-10-24T28:00:00+01:00
+date = 2024-10-24T18:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
