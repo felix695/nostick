@@ -4,7 +4,7 @@ date = 2024-10-25T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/octobre/prince-of-persia-lost-crown.jpg"
+image = "https://nostick.fr/articles/2024/octobre/2510-larian-ubisoft-saborde-prince-of-persia/prince-of-persia-lost-crown.jpg"
 +++
 
 ![Prince of Persia: The Lost Crown](prince-of-persia-lost-crown.jpg "Adieu mon beau prince.")
