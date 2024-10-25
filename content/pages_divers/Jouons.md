@@ -9,9 +9,9 @@ author = "Mickael"
 
 ■ Mickaël chasse le Dracula dans *Castlevania: Portrait of Ruin*.
 
-⭐️ Cédric conduit à toute blinde dans *Pacific Drive*.
+⭐️ Cédric bénit tous ses archers pour éclater les dragons noirs d'en face dans *Heroes of Might and Magic III*.
 
-⭐️ Le Vav’ tente le raid de Kessel en moins de 12 parsecs dans *Star Wars Outlaws*.
+⭐️ Le Vav’ aimerait avoir cinq minutes pour se lancer dans *Outer Wilds*.
 
 ⭐️ Jack rallie ses troupes dans *Total War: Three Kingdoms*.
 
