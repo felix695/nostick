@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : les jeux physiques en carafe, la boite à baffes d'Ubisoft, une belle bidouille 3DS…"
-date = 2024-10-26T07:00:01+01:00
+date = 2024-10-26T07:20:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
