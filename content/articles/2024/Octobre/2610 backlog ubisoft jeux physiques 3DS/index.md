@@ -1,10 +1,10 @@
 +++
 title = "On vide le backlog de la semaine : les jeux physiques en carafe, la boite à baffes d'Ubisoft, une belle bidouille 3DS…"
-date = 2024-10-26T07:00:01+01:00
+date = 2024-10-26T07:20:01+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
-image = "https://nostick.fr/articles/2024/octobre/black-ops-6.jpg"
+image = "https://nostick.fr/articles/2024/octobre/2610-backlog-ubisoft-jeux-physiques-3ds/black-ops-6.jpg"
 +++
 
 ![Call of Duty: Black Ops 6](black-ops-6.jpg "Voilà ce qui se passe quand on oublie de rendre la VHS à temps.") 
