@@ -5,7 +5,7 @@ date = 2024-10-27T07:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/octobre/2710-les-sorties-de-la-semaine/callof.png"
+image = "https://nostick.fr/articles/2024/octobre/2710-les-sorties-de-la-semaine/callofd.jpg"
 +++
 
 ![Le jeu Call of Duty Black Ops 6](callofd.jpg "‘murica fuck yeah !") 
