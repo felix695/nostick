@@ -21,4 +21,4 @@ Le contenu de la newsletter ne change pas, vous y retrouverez toujours un résum
 - [Abonnez-vous à Nostick Reloaded](https://reloaded.nostick.fr)
 - [Les archives de la newsletter](https://reloaded.nostick.fr/page/2/)
 
-Un dernier mot enfin pour saluer nos abonnés Ulule sans qui tout cela ne serait pas possible. Si vous voulez nous donner un coup de main (et lire nos gros articles en avant-première !), n'hésitez pas à partir de 3 € par mois : [campagne Ulule](https://fr.ulule.com/nostick/).
+Un dernier mot enfin pour saluer nos abonnés Ulule sans qui tout cela ne serait pas possible. Si vous voulez nous donner un coup de main (et lire nos gros articles en avant-première !), n'hésitez pas : il y a des paliers à partir de [3 € par mois](https://fr.ulule.com/nostick/).
