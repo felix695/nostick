@@ -7,7 +7,7 @@ tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/xbox-series-x-green.jpg"
 +++
 
-![Xbox Series X](xbox-series-x-green.jpg "")
+![Xbox Series X](xbox-series-x-green.jpg "© Billy Freeman (Unsplash)")
 
 Au vu de la polémique qui a entouré l'annonce de la sortie d'*Indiana Jones et le Cercle ancien* sur PS5, Microsoft va peut-être communiquer sur les portages de ses exclusivités Xbox [avec plus de discernement à l'avenir](https://nostick.fr/articles/2024/octobre/2510-microsoft-xbox-pedale-douce-portages-ps5/). Ça ne veut pas dire pour autant que ce mouvement va s'arrêter, loin de là ! 
 
@@ -17,4 +17,3 @@ Un écosystème dans lequel 20 franchises ont généré plus d'un milliard de do
 
 Satya Nadella n'oublie pas de dire un mot du service Xbox Cloud Gaming, qui devrait bénéficier sous peu de la possibilité de streamer les jeux de sa bibliothèque Xbox, en plus de ceux du Game Pass. Surtout, il rappelle le portage de quatre jeux Xbox sur PlayStation et Switch « *pour la première fois* ». Et c'est évidemment loin d'être terminé : « *Nous continuons d'étendre notre contenu vers de nouvelles plateformes* ». Au risque de [déclasser encore plus les consoles Xbox](https://nostick.fr/articles/2024/octobre/1910-backlog-life-is-strange-atari-xbox--activision-ps5-pro/#le-gros-anniversaire-de-la-semaine--il-y-a-un-an-microsoft-achetait-activision-et-maintenant-) ?
 
-Billy Freeman (Unsplash)
