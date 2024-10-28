@@ -4,7 +4,7 @@ date = 2024-10-28T18:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/octobre/2210-netflix-studio-aaa-team-blue/netflix.jpg"
+image = "https://nostick.fr/articles/2024/octobre/2810-nintendo-va-preserver-animal-crossing-pocket-camp/animalcross.jpg"
 +++
 
 ![Le jeu Animal Crossing: Pocket Camp.](animalcross.jpg "") 
