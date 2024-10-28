@@ -1,13 +1,13 @@
 +++
 title = "Microsoft ne s'est pas tiré une balle dans le pied avec Call of Duty: Black Ops 6"
-date = 2024-10-28T08:07:32+01:00
+date = 2024-10-29T08:07:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
 image = "https://nostick.fr/articles/vignettes/octobre/cod-bo6.jpg"
 +++
 
-![Texte Alternative](cod-bo6.jpg "")
+![Call of Duty: Black Ops 6](cod-bo6.jpg "")
 
 Vendredi dernier, c'était le grand jour pour Microsoft qui a lancé *Call of Duty: Black Ops 6* à l'assaut de toutes les plateformes (enfin, sauf la Switch). Une première depuis l'acquisition d'Activision il y un an ! Autant dire qu'il valait mieux ne pas se planter, et… ça ne s'est pas trop mal passé, manifestement. 
 
