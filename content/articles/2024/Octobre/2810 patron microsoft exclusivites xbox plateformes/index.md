@@ -1,6 +1,6 @@
 +++
 title = "Le patron de Microsoft veut plus d'exclusivités Xbox sur les autres plateformes"
-date = 2024-10-28T08:47:32+01:00
+date = 2024-10-28T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
