@@ -9,7 +9,7 @@ image = "https://nostick.fr/articles/vignettes/octobre/Xenoblade-Chronicles-X.jp
 
 ![Xenoblade Chronicles X](Xenoblade-Chronicles-X.jpg "")
 
-*Donkey Kong Country Returns HD*, qui sort le 16 janvier prochain, ne sera pas le dernier jeu Switch de Nintendo ! L'éditeur vient d'annoncer une « édition définitive » de *Xenoblade Chronicles X*, avec des graphismes rehaussés et du contenu en plus.
+*Donkey Kong Country Returns HD*, qui sort le 16 janvier prochain, ne sera pas le dernier jeu Switch de Nintendo ! L'éditeur vient d'annoncer une « édition définitive » de *Xenoblade Chronicles X*, avec des graphismes rehaussés et du contenu en plus, pour le 20 mars 2025.
 
 {{< youtube tKHz71V7Csc >}} 
 
