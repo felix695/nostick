@@ -1,6 +1,6 @@
 +++
 title = "Bungie donne des nouvelles de Marathon, mais toujours pas de gameplay"
-date = 2024-10-29T09:47:32+01:00
+date = 2024-10-29T08:37:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
