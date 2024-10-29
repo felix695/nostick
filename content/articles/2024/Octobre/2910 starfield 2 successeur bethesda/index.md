@@ -9,8 +9,6 @@ image = "https://nostick.fr/articles/vignettes/octobre/starfield.jpg"
 
 ![Starfield](starfield.jpg "Allez quoi, vous reprendrez bien un peu de Starfield.")
 
-{{< youtube w7Ft2ymGmfc >}} 
-
 Qui veut d'un *Starfield 2* ? Non, ne levez pas tous les main en même temps. Bon, il y en a bien un ou deux qui voudraient d'un deuxième *Starfield*, non ? Non ?!? Bon sang, vous êtes durs, mais en même temps difficile de vous donner tort. Le nouvel univers de Bethesda compte pas mal de détracteurs, et aussi de déçus qui ne comprennent pas ce que le studio est allé faire dans cette galère.
 
 Si les joueurs qui détestent *Starfield* risquent bien de ne plus jamais avoir quoi que ce soit à faire avec ce jeu ou d'éventuelles suites, ceux qui se disent déçus pourraient lui donner une nouvelle chance si d'aventure Bethesda se remontait les bretelles. C'est l'avis de Bruce Nesmith, ancien designer du studio qui a planché sur *Starfield*, *Skyrim*, *Oblivion* et *Fallout*.

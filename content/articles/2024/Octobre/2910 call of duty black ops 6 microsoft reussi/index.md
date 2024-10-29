@@ -17,4 +17,4 @@ Toutefois, il est indéniable que ce nouvel opus payant — d'une série plutôt
 
 Ces chiffres sont à prendre avec les pincettes habituelles. Non seulement *Black Ops 6* est aussi dispo sur Xbox et PlayStation, mais aussi sur le Game Pass. De fait, il sera difficile de faire des comparaisons en termes de ventes avec les précédents épisodes. La vraie « valeur » de *Black Ops 6* ne se révélera que dans quelques mois, quand Microsoft aura une meilleure idée des performances des micro-transactions et des recrutements sur le Game Pass.
 
-Tout cela étant dit, le solo de ce *Call of* est assez rigolo avec des moments « what-le-fuck » surprenants. Et je ne pensais pas avoir à écrire ça un jour !
+Tout cela étant dit, le solo de ce *Call of* est assez rigolo avec des moments « what-le-fuck » surprenants. Et je ne pensais pas écrire ça un jour !
