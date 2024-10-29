@@ -21,4 +21,4 @@ Les plus optimistes espéraient un retour de *Concord* : Sony avait annoncé vou
 
 > Après mûre réflexion, nous avons déterminé que la meilleure voie à suivre est de mettre définitivement fin au jeu et de fermer le studio. Je tiens à remercier toute l'équipe de Firewalk pour leur savoir-faire, leur esprit créatif et leur dévouement.
 
-C’est donc un gros paquet de dollars que Sony vient de mettre à la poubelle : le titre a passé au moins quatre en en développement et coûté des millions. SIE a également annoncé la fermeture de Neon Koi, un studio allemand qui travaillait sur un jeu d'action mobile.
+C’est donc un gros paquet de dollars que Sony vient de mettre à la poubelle : le titre a passé au moins quatre en en développement et coûté des millions. SIE a également annoncé la fermeture de Neon Koi, un studio allemand qui travaillait sur un jeu d'action mobile. Sur LinkedIn, Firewalk indique qu'elle emploie entre 51 et 200 personnes là où Neon Koi en comptait entre 11 et 50.
