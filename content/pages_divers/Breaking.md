@@ -1,6 +1,6 @@
 +++ 
-date = 2024-10-14T14:00:32+01:00
+date = 2024-10-29T19:00:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-Il y aura un [Xbox Partner Preview](https://news.xbox.com/en-us/2024/10/14/xbox-partner-preview-october-2024/) le 17 octobre à 19h ! Microsoft présentera des tas de trucs, et des premières mondiales. On sera au rendez-vous.
+*JCC Pokémon Pocket* est maintenant dispo sur [iOS](https://apps.apple.com/fr/app/le-jcc-pokémon-pocket/id6479970832?mt=8) et [Android](https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp) ! Chaque jour, deux boosters gratos et des combats à gogo, ça sent le trou de productivité…
