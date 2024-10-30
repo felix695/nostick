@@ -21,6 +21,7 @@ Pour en profiter, il faudra cependant être abonné au Switch Online. L'applicat
 ![Nintendo Music](nintendo-music-3.jpg "")
 
 ![Nintendo Music](nintendo-music-4.jpg "")
+![Nintendo Music](nintendo-music-7.jpg "")
 
 
 Dans ce dernier cas, la sélection est classée par plateformes, ce qui permet au passage de voir qu'il en manque encore pas mal (pas de *Xenoblade*, assez peu de *Zelda* et de *Fire Emblem*…). Il y a toutefois de quoi s'en mettre plein les oreilles en attendant que Nintendo garnisse les rayons. L'écoute de certains morceaux peut être « étendue » pour en profiter plus longtemps.
