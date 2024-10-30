@@ -1,6 +1,6 @@
 +++
 title = "Le développeur de Stardew Valley a finalement platiné son propre jeu"
-date = 2024-10-30T09:24:32+01:00
+date = 2024-10-30T09:25:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

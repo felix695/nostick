@@ -1,6 +1,6 @@
 +++
 title = "Ubisoft a discrètement lancé Champions Tactics, son nouveau jeu à base de NFT pourris"
-date = 2024-10-30T08:07:32+01:00
+date = 2024-10-30T08:06:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
