@@ -4,7 +4,7 @@ date = 2024-10-30T08:06:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/nostick.jpg"
+image = "https://nostick.fr/articles/2024/octobre/3010-ubisoft-chmapions-tactics-nft-pourris/Champions-Tactics.jpg"
 +++
 
 ![Champions Tactics](Champions-Tactics.jpg "")
