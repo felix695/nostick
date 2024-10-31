@@ -23,7 +23,9 @@ Pour en profiter, il faudra cependant être abonné au Switch Online. L'applicat
 ![Nintendo Music](nintendo-music-4.jpg "")
 ![Nintendo Music](nintendo-music-7.jpg "")
 
-Dans ce dernier cas, la sélection est classée par plateformes, ce qui permet au passage de voir qu'il en manque encore pas mal (pas de *Xenoblade*, assez peu de *Zelda* et de *Fire Emblem*…). Il y a toutefois de quoi s'en mettre plein les oreilles en attendant que Nintendo garnisse les rayons (qu'on se rassure, les musiques Wii Channels sont disponibles !). Détail sympathique, l'écoute de certains morceaux peut être « étendue » pour en profiter plus longtemps.
+Dans ce dernier cas, la sélection est classée par plateformes, ce qui permet au passage de voir qu'il en manque encore pas mal (pas de *Xenoblade*, assez peu de *Zelda* et de *Fire Emblem*…). En tout, l'app offre un peu plus de 65 heures de musique et d'OST tirés de 23 jeux.
+
+Il y a quand même de quoi s'en mettre plein les oreilles en attendant que Nintendo garnisse les rayons. Et qu'on se rassure, les musiques Wii Channels sont disponibles !. Détail sympathique, l'écoute de certains morceaux peut être « étendue » pour en profiter plus longtemps.
 
 ![Nintendo Music](nintendo-music-1.jpg "")
 
