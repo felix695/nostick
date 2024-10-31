@@ -1,6 +1,6 @@
 +++
 title = "Xbox vend toujours plus de jeux, mais toujours moins de consoles"
-date = 2024-10-31T09:17:32+01:00
+date = 2024-10-31T08:17:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

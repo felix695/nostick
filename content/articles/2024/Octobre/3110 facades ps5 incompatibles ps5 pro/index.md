@@ -1,6 +1,6 @@
 +++
 title = "Les façades de la PS5 ne sont pas compatibles avec la PS5 Pro"
-date = 2024-10-31T08:44:32+01:00
+date = 2024-10-31T08:20:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
