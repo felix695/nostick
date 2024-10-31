@@ -5,10 +5,10 @@ date = 2024-10-31T18:28:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = ""
+image = "https://nostick.fr/articles/2024/octobre/3110-la-playdate-va-avoir-droit-a-une-saison-2/playdate2.jpeg"
 +++
 
-![La console PlayDate](playdate2.jpg) 
+![La console PlayDate](playdate2.jpeg) 
 
 La PlayDate va avoir droit à une seconde saison ! La petite console jaune de Panic arrive livrée avec une « Saison 1 » de 24 jeux, délivrés deux par deux pendant douze semaines. Panic vient de confirmer à l’occasion de son showcase qu’il y en aurait une seconde, qui sera mise en ligne l’année prochaine.
 
