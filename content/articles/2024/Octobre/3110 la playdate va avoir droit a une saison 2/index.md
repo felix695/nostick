@@ -1,7 +1,7 @@
 
 +++
 title = "La Playdate va avoir droit à une seconde saison !"
-date = 2024-10-31T18:30:02+01:00
+date = 2024-10-31T18:28:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
