@@ -12,7 +12,7 @@ image = "https://nostick.fr/articles/vignettes/octobre/nintendo-music-5.jpg"
 
 Grosse surprise nocturne : Nintendo vient de lancer une nouvelle application mobile que les fans réclamaient à corps et à cri depuis toujours, [Nintendo Music](https://www.nintendo.com/us/switch/online/nintendo-switch-online/nintendo-music/) ! Dispo sur [iOS](https://apps.apple.com/fr/app/nintendo-music/id6466376604) et [Android](https://play.google.com/store/apps/details?id=com.nintendo.znba&hl=en_CA), cette app permet comme son nom l'indique d'écouter les bandes son des jeux Nintendo sur son smartphone.
 
-{{< youtube DQ5EeImWYaI >}} 
+{{< youtube tgyZjVQ-L7Q >}} 
 
 Pour en profiter, il faudra cependant être abonné au Switch Online. L'application sera écoutable durant les 7 jours d'essai du NSO, ce qui est déjà ça. Nintendo Music comprend un catalogue assez fourni de compositions, que l'on pourra sélectionner en fonction d'un personnage, de l'humeur du moment, ou tout simplement par jeu.
 
