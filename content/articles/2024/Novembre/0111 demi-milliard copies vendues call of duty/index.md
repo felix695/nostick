@@ -1,6 +1,6 @@
 +++
 title = "Un demi-milliard de copies vendues pour Call of Duty, avant Black Ops 6"
-date = 2024-11-01T08:47:32+01:00
+date = 2024-11-01T06:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

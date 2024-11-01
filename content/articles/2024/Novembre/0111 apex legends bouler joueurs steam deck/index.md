@@ -1,6 +1,6 @@
 +++
 title = "Apex Legends envoie bouler les joueurs Steam Deck"
-date = 2024-11-01T08:07:32+01:00
+date = 2024-11-01T08:07:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
