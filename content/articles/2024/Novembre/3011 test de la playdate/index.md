@@ -1,6 +1,6 @@
 +++
 title = "Test de la PlayDate : fin 2024, ça tourne toujours ?"
-date = 2024-11-20T08:00:01+01:00
+date = 2024-11-30T08:00:01+01:00
 draft = false
 author = "Félix"
 tags = ["Test"]
