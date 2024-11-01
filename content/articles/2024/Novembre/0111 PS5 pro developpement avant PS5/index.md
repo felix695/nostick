@@ -4,7 +4,7 @@ date = 2024-11-01T13:20:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/call-of-duty-black-ops-6.jpg"
+image = "https://nostick.fr/articles/2024/novembre/0111-ps5-pro-developpement-avant-ps5/PS5Pro.jpeg"
 +++
 
 ![La PS5 Pro](PS5Pro.jpeg) 
