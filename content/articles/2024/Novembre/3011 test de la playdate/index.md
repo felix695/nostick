@@ -1,5 +1,5 @@
 +++
-title = "Test de la PlayDate : fin 2024, ça tourne toujours ?"
+title = "Test de la PlayDate : fin 2024, ça tourne ou on Panic ?"
 date = 2024-11-30T08:00:01+01:00
 draft = false
 author = "Félix"
