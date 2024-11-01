@@ -3,7 +3,7 @@ title = "On vide le backlog de la semaine : retour sur Concord, Les Sims 4, le v
 date = 2024-11-02T07:47:32+01:00
 draft = false
 author = "Mickael"
-tags = ["Actu"]
+tags = ["XXL"]
 image = "https://nostick.fr/articles/vignettes/novembre/cyberpunk-2077.jpg"
 +++
 
