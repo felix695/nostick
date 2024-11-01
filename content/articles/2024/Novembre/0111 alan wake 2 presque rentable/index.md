@@ -4,7 +4,7 @@ date = 2024-11-01T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/novembre/0111-ps5-pro-developpement-avant-ps5/PS5Pro.jpeg"
+image = "https://nostick.fr/articles/2024/novembre/0111-alan-wake-2-presque-rentable/alan-wake-2.jpg"
 +++
 
 ![Alan Wake 2](alan-wake-2.jpg "Pas encore rentable ?")
