@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : retour sur Concord, Les Sims 4, le vrai faux direct de Nintendo, et la boîte à baffes d'Ubisoft"
-date = 2024-11-02T07:47:32+01:00
+date = 2024-11-02T06:55:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
