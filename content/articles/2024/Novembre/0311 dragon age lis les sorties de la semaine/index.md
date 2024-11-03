@@ -1,6 +1,6 @@
 +++
 title = "Dragon Age : The Veilguard, le nouveau Life is Strange : le récap des sorties de la semaine (03/11)"
-date = 2024-11-03T07:00:02+01:00
+date = 2024-11-03T07:30:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
