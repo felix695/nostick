@@ -4,7 +4,7 @@ date = 2024-11-03T07:30:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "http://nostick.fr/articles/2024/0311-dragon-age-lis-les-sorties-de-la-semaine/dragon.jpg"
+image = "https://nostick.fr/articles/2024/novembre/0311-dragon-age-lis-les-sorties-de-la-semaine/dragon.jpg"
 +++
 
 ![Le jeu Dragon Age : The Veilguard](dragon.jpg "L’Âge de maturité ?")
