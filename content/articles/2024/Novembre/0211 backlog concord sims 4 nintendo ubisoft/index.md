@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : retour sur Concord, Les Sims 4, le vrai faux direct de Nintendo, et la boîte à baffes d'Ubisoft"
-date = 2024-11-02T07:47:32+01:00
+date = 2024-11-02T06:55:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
@@ -105,7 +105,7 @@ Et ce ne sont là que quelques unes des raisons pour lesquelles Ubisoft subit un
 
 « *C'est une ruse du capitalisme et du commerce pour faire croire que quand on joue aux jeux vidéo, on pratique une activité culturelle. C'est faux. Ça n'a rien à voir avec la lecture, avec l'écriture. Et d'ailleurs, jouer aux échecs même sur Internet n'a rien à voir avec des jeux de guerre [wut ?]. Mais comme nous sommes dans une époque qui nivelle tout et qui  nivelle malheureusement par le bas, on en arrive à ce genre de débat. On vit une époque navrante* ».
 
-C'est [sorti](https://streamable.com/ihkc82) de la bouche de cette andouille d'Éric Naulleau durant l'émission « Pascale, Éric, Yann et les autres » (sur *C8*, évidemment). Le commentateur professionnel réagissait au nombre de visiteurs qui se sont pressés à la Paris Games Week. 180 000 personnes plus curieuses et plus ouvertes sur le monde que le rebelle des plateaux télé.
+C'est [sorti](https://x.com/TPMP/status/1851673278680793176) de la bouche de cette andouille d'Éric Naulleau durant l'émission « Pascale, Éric, Yann et les autres » (sur *C8*, évidemment). Le commentateur professionnel réagissait au nombre de visiteurs qui se sont pressés à la Paris Games Week. 180 000 personnes plus curieuses et plus ouvertes sur le monde que le rebelle des plateaux télé.
 
 ## On n'a pas eu le temps cette semaine mais on pense à lui (un peu)
 
