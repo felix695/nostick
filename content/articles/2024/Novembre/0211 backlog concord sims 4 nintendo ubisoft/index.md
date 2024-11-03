@@ -47,7 +47,7 @@ Mais le gros point noir c'est que l'entreprise a décidé pour  muscler les rayo
 
 Il y a cependant des raisons d'espérer, Nintendo vient d'ajouter l'OST de *Super Mario Wonder*, et d'autres jeux ont d'ores et déjà été annoncés comme *Super Mario 64*, *F-Zero X*, *Wii Sports*, *Zelda: The Wind Maker* — prochaine livraison dès la semaine prochaine. Mais il faudra probablement prendre votre mal en patience pour votre obscur jeu NES préféré… ou tenter sa chance sur YouTube.
 
-Alors qu'on ne l'attendait plus, Nintendo a également dévoilé à la surprise générale [une « édition définitive » pour *Xenoblade Chronicles X*](https://nostick.fr/articles/2024/octobre/2910-xenoblade-chronicles-x-enfin-switch/), ce qui permet finalement à la Wii U de prendre sa retraite : c'était en effet le dernier jeu exclusif de la console défunte à n'avoir pas été porté sur Switch.
+Alors qu'on ne l'attendait plus, Nintendo a également dévoilé à la surprise générale [une « édition définitive » pour *Xenoblade Chronicles X*](https://nostick.fr/articles/2024/octobre/2910-xenoblade-chronicles-x-enfin-switch/), ce qui permet finalement à la Wii U de prendre sa retraite : c'était en effet le dernier jeu exclusif de la console défunte à n'avoir pas été porté sur Switch (OK, techniquement il y a encore le remake Wii U de *Wind Waker*, un jeu qu'on attend désespérément sur Switch !).
 
 {{< youtube MJLfIIjCR5I >}} 
 
