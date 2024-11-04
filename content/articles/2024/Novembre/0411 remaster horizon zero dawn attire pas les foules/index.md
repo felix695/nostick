@@ -5,7 +5,7 @@ date = 2024-11-04T07:50:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://i.ytimg.com/vi_webp/d5z7oIXhVqg/maxresdefault.webp"
+image = "https://nostick.fr/articles/2024/novembre/0411-remaster-horizon-zero-dawn-attire-pas-les-foules/horizon.jpg"
 +++
 
 ![Horizon Zero Dawn Remastered](horizon.jpg "") 
