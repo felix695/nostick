@@ -3,8 +3,9 @@ title = "Ça va faire votre soirée : Frog Detective"
 date = 2024-11-08T16:00:01+01:00
 draft = false
 author = "Félix"
-tags = ["XXL"]
-image = "https://nostick.fr/articles/2024/juillet/1407-anger-foot-once-human-sorties-de-la-semaone/anger.jpg"
+tags = ["Test"]
+type = "une"
+image = "https://nostick.fr/articles/vignettes/novembre/frog.jpg"
 +++
 
 ![Le jeu Frog Detective](frog.jpg)

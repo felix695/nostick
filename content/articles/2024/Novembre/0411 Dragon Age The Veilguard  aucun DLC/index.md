@@ -1,6 +1,6 @@
 +++
 title = "Dragon Age: The Veilguard n'aura aucun DLC"
-date = 2024-11-04T08:44:32+01:00
+date = 2024-11-04T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

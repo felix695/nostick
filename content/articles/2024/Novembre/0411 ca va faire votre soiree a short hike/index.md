@@ -1,13 +1,14 @@
 +++
 title = "Ça va faire votre soirée : A Short Hike"
-date = 2024-11-04T16:00:01+01:00
+date = 2024-11-04T16:01:01+01:00
 draft = false
 author = "Félix"
-tags = ["XXL"]
-image = "https://nostick.fr/articles/2024/juillet/1407-anger-foot-once-human-sorties-de-la-semaone/anger.jpg"
+tags = ["Test"]
+type = "une" 
+image = "https://nostick.fr/articles/2024/novembre/0411-ca-va-faire-votre-soiree-a-short-hike/ashorthike.jpg"
 +++
 
-![Le jeu A Short Hike](ashorthike1.jpg)
+![Le jeu A Short Hike](ashorthike.jpg)
 
 **Les jeux qui exigent une attention de tous les instants pendant des dizaines d'heures, OK, c'est sympa, mais parfois on préférerait quelque chose de court et d'efficace. C'est pourquoi nous allons vous proposer chaque jour de la semaine un jeu à commencer et à terminer en une soirée ! Aujourd'hui : *A Short Hike*.**
 
