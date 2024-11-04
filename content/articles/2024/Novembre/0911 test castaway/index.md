@@ -4,6 +4,7 @@ date = 2024-11-09T17:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]
+type = "une"
 image = "https://nostick.fr/articles/vignettes/octobre/castaway-3.jpg"
 +++
 
