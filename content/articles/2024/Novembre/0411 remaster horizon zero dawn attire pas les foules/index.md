@@ -1,7 +1,7 @@
 
 +++
 title = "Le remaster d’Horizon Zero Dawn n’attire pas les foules sur PC"
-date = 2024-11-04T06:50:02+01:00
+date = 2024-11-04T07:50:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]

@@ -1,6 +1,6 @@
 +++
 title = "Les jeux de l'iPod reviennent à la vie"
-date = 2024-11-04T08:07:32+01:00
+date = 2024-11-04T08:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
