@@ -21,6 +21,6 @@ Tout cela est bel et bon, mais on ignore encore beaucoup de choses de la PS5 Pro
 
 Plus intéressant en revanche, le GPU est un AMD Radeon basé sur l'architecture RDNA qui produit une puissance de 16,7 TFLOPS, à comparer avec les 10,28 TFLOPS de la PS5 tout court. Il y a clairement un gain ici, d'ailleurs Sony a vanté un bond de 45 % pour le rendu graphique.
 
-La PS5 Pro embarque également 16 Go de RAM GDDR6 ultra-rapide (comme sur la PS5 standard), et surprise, 2 Go supplémentaires de DDR5, qui suffiront amplement pour les tâches qui ne relèvent pas des jeux. Cette RAM en plus permet aux développeurs d'exploiter davantage de GDDR6, ce qui explique certainement la promesse du constructeur d'une mémoire vive 28 % plus rapide.
+La PS5 Pro embarque également 16 Go de RAM GDDR6 ultra-rapide (comme sur la PS5 standard), et surprise, 2 Go supplémentaires de DDR5, qui suffiront amplement pour les tâches qui ne relèvent pas des jeux. Cette RAM en plus permet aux développeurs d'exploiter davantage de GDDR6. On ne connait pas la bande passante de cette GDDR6 (elle est de 448 GB/s sur la PS5), mais le constructeur promet un gain de 28 %.
 
 Pour le reste, la nouvelle console contient comme prévu un SSD de 2 To, elle peut aussi tirer jusqu'à 390W de puissance, contre 340W sur la PS5. Ça confirme que la PS5 Pro requiert plus de jus pour certains jeux.
