@@ -5,7 +5,7 @@ draft = false
 author = "Félix"
 tags = ["Test"]
 type = "une" 
-image = "https://nostick.fr/articles/2024/novembre/ashorthike.jpg"
+image = "https://nostick.fr/articles/2024/novembre/0411-ca-va-faire-votre-soiree-a-short-hike/ashorthike.jpg"
 +++
 
 ![Le jeu A Short Hike](ashorthike.jpg)
