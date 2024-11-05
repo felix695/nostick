@@ -5,7 +5,7 @@ date = 2024-11-05T06:50:02+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = ""
+image = "https://nostick.fr/articles/2024/novembre/0511-netflix-met-le-paquet-ia-generative/netflix.png"
 +++
 
 ![Logo Netflix](netflix.png "") 
