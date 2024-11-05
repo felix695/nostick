@@ -27,7 +27,7 @@ Il n'existe en fait qu'une seule méthode impliquant l'iPod Classic de 5e géné
 
 Tenter de synchroniser un de ces jeux sur un nouvel iPod, autrement dit avec une autre version d'iTunes, requiert le jumelage entre l'IPG d'origine et le compte iTunes sur lequel a été effectué l'achat du jeu. Dans ces conditions, comment faire ?
 
-![Jeux iPod](vortex-ipod.jpg "Quelques uns des jeux pour iPod vendus sur l'iTunes Store.")
+![Jeux iPod](jeux-ipod.jpg "Quelques uns des jeux pour iPod vendus sur l'iTunes Store.")
 
 Une solution a été trouvée, comme le relate *[ArsTechnica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/#gsc.tab=0)*. En autorisant plusieurs comptes sur une même installation d'iTunes, celle-ci peut devenir une sorte de bibliothèque centrale permettant de partager des jeux avec plusieurs iPod, sans limite ni vérification en ligne par Apple. 
 
