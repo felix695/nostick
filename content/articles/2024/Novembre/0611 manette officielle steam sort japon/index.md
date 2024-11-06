@@ -1,6 +1,6 @@
 +++
 title = "La seule manette officielle pour Steam sort du Japon"
-date = 2024-11-06T08:44:32+01:00
+date = 2024-11-06T07:44:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
