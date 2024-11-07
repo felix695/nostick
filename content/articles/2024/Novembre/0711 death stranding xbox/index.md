@@ -7,7 +7,7 @@ tags = ["Actu"]
 type = "telex"
 +++
 
-On va pouvoir compter sur les doigts d'une main à trois doigts les plateformes sur lesquelles *Death Stranding* n'est pas sorti[^1]. Après la version Mac sortie en début d'année, le jeu Kojima Productions se [lance](https://www.xbox.com/en-GB/games/store/death-stranding-directors-cut/9nqgn8tgnt8p) par surprise sur Xbox aujourd'hui ! Et à moitié prix, une vingtaine d'euros. En même temps, c'est un jeu qui a quatre ans désormais, donc bon.
+On va pouvoir compter sur les doigts d'une main à trois doigts les plateformes sur lesquelles *Death Stranding* n'est pas sorti[^1]. Après la version Mac sortie en début d'année, le jeu Kojima Productions se [lance](https://www.xbox.com/en-GB/games/store/death-stranding-directors-cut/9nqgn8tgnt8p) par surprise sur Xbox aujourd'hui ! Et à moitié prix, une vingtaine d'euros. En même temps, c'est un jeu qui a cinq ans désormais, donc bon.
 
 ![Death Stranding](Death-Stranding.jpeg "") 
 
