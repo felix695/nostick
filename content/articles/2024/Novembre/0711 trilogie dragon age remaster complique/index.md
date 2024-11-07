@@ -1,13 +1,13 @@
 +++
 title = "Ça va être compliqué d'avoir un remaster de la trilogie Dragon Age"
-date = 2024-11-07T08:44:32+01:00
+date = 2024-11-07T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
 type = "telex"
 +++
 
-![Texte Alternative](rickmorty.jpeg "Légende de l’image") 
+![Capture d'écran du jeu Dragon Age Origins](dragon-age-origins.jpg) 
 
 On peut espérer bien des choses, en sachant qu'elles n'arriveront jamais. Même en le voulant très fort, Donald Trump ne sera probablement pas un président compatissant envers les minorités, les trans, les gays, les femmes, les immigrés légaux et illégaux, les athées, les gens normaux. Nintendo n'arrêtera sans doute jamais sa croisade idiote contre l'émulation. Félix ne se fera sûrement pas pousser la moustache une seconde fois. On pourrait multiplier les exemples, mais arrêtons-nous sur celui-ci : aurons-nous droit un jour à un remake/remaster de la trilogie *Dragon Age* ?
 
