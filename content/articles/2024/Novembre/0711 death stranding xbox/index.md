@@ -13,4 +13,4 @@ On va pouvoir compter sur les doigts d'une main à trois doigts les plateformes 
 
 *Death Stranding* se veut un bon citoyen de la plateforme avec le support des succès Xbox, les sauvegardes dans le nuage, la prise en charge de la fonction Play Anywhere, et les fonctions du Director's Cut (mode photo, support des moniteurs ultra wide, etc.). Le jeu, une exclusivité PS4 à l'origine, va connaitre une suite, *On The Beach*, prévue pour l'année prochaine et elle aussi dispo en exclu sur PS5 (et en 2029 pour la Xbox ? Si la console existe toujours).
 
-[^1]: Pn croise les doigts pour une version Playdate.
+[^1]: On croise les doigts pour une version Playdate.
