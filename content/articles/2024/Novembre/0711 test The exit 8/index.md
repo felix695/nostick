@@ -1,6 +1,6 @@
 +++
 title = "Ça va faire votre soirée : The Exit 8"
-date = 2024-11-07T17:00:32+01:00
+date = 2024-11-07T16:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Test"]
