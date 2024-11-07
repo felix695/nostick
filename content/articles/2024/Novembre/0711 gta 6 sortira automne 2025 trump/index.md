@@ -1,6 +1,6 @@
 +++
 title = "GTA 6 sort toujours à l'automne 2025, malgré Trump"
-date = 2024-11-07T08:07:32+01:00
+date = 2024-11-07T06:57:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
