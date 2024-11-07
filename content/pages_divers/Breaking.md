@@ -1,6 +1,6 @@
 +++ 
-date = 2024-10-29T19:00:32+01:00
+date = 2024-11-07T12:00:32+01:00
 tags = ["Actu"]
 type = "breaking"
 +++ 
-*JCC Pokémon Pocket* est dispo sur [iOS](https://apps.apple.com/fr/app/le-jcc-pokémon-pocket/id6479970832?mt=8) et [Android](https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp) ! Chaque jour, deux boosters gratos et des combats à gogo, ça sent le trou de productivité…
+Chic alors : le sims-like coréen *[inZOI](https://store.steampowered.com/app/2456740/inZOI/)* sera disponible en accès anticipé à partir du 28 mars 2025 sur PC.
