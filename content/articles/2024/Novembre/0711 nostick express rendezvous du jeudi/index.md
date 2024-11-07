@@ -6,7 +6,7 @@ draft = false
 author = "Félix"
 type = "une"
 tags = ["Actu"]
-image = ""
+image = "https://nostick.fr/articles/2024/novembre/0711-nostick-express-rendezvous-du-jeudi/nstckexpress.png"
 +++
 
 ![Logo Nostick](nstckexpress.png "") 
