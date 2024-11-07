@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/vignettes/novembre/GTA-6.jpg"
 
 *GTA 6* est toujours prévu pour l'automne 2025. La précision, [donnée](https://www.videogameschronicle.com/news/grand-theft-auto-6-still-on-track-for-fall-2025-release/) à nouveau par l'éditeur Take-Two à l'occasion des résultats du dernier trimestre, n'est pas si anodine. Car le paysage politique a brusquement tourné à l'orage au-dessus de la Maison Blanche, avec la réelection d'un certain Donald Trump.
 
-{{< youtube QdBZY2fkU >}} 
+{{< youtube QdBZY2fkU-0 >}} 
 
 Quel est le rapport avec la choucroute ? On y vient ! En 2018, Dan Houser le cofondateur de Rockstar s'était montré « *reconnaissant* » que *GTA 6*, déjà en développement à l'époque, ne sortirait pas sous la présidence Trump (ce dernier l'a été une première fois entre 2016 et 2020). 
 
