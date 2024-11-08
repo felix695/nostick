@@ -31,31 +31,17 @@ Et ouvrir des boosters, ça rapporte évidemment énormément d'argent. Selon Ap
 
 On ne peut pas dire que la semaine écoulée a été de tout repos. C'est pourquoi *Nostick* vous a proposé chaque jour le mini-test d'un jeu à boucler en une soirée ! Petit récap'.
 
-![Mini test](mini-test-2.jpg "")
+![Mini test](mini-test.jpg "")
 
 On a commencé avec [*A Short Hike*](https://nostick.fr/articles/2024/novembre/0411-ca-va-faire-votre-soiree-a-short-hike/), un jeu en 3D vue du dessus dans lequel on incarne un piaf parti gravir la montagne pour passer un coup de fil. Une aventure digne d'être vécue !
 
 Continuons avec [*Turnip Boy Commits Tax Evasion*](https://nostick.fr/articles/2024/novembre/0511-test-turnip-boy-commits-tax-evasion/), une histoire toute mignonne et un peu burlesque au début… qui cache en fait des éléments d'histoire vraiment glauque. Puisqu'on est dans le glauque, pourquoi ne pas poursuivre avec *[Mouthwashing](https://nostick.fr/articles/2024/novembre/0611-ca-va-faire-votre-soiree-moutwashing/)*, un jeu d'horreur qui se déroule dans un vaisseau spatial à la dérive.
 
-![Mini test](mini-test.jpg "")
+![Mini test](mini-test-2.jpg "")
 
 Comme si les derniers jours n'avaient pas été suffisamment angoissants, vous pouvez lire (et craquer !) pour l'univers angoissant de *[The Exit 8](https://nostick.fr/articles/2024/novembre/0711-test-the-exit-8/)* dans lequel il faut trouver la porte de sortie (vers un monde meilleur ?). Dans *[Frog Detective](https://nostick.fr/articles/2024/novembre/0811-ca-va-faire-votre-soiree-frog-detective/)*, il faudra résoudre des énigmes dans une ambiance bon enfant et qui donne le sourire. On bouclera la semaine avec *[Castaway](https://nostick.fr/articles/2024/novembre/0911-test-castawy/)*, un jeu d'aventures très inspiré de *Link's Awakening*. Une fois les 3 donjons terminés, le jeu propose une aventure supplémentaire beaucoup plus longue. À découvrir !
 
-## Le podcast de la semaine : Nostick la tête dans les étoiles, avec Beyond Astra
-
-Évidemment, on n'allait pas vous laisser sans parler de notre nouveau média, le podcast de Nostick ! De temps en temps, nous vous proposerons de découvrir un jeu et le développeur qui se cache derrière. Pour ce tout premier épisode, on part dans l'espace avec Valentin Simonelli, qui développe depuis quatre ans *Beyond Astra*, un jeu de stratégie 4X qui s'annonce aussi impressionnant que bien fichu.
-
-![Podcast Beyond Astra](podcast-beyond-astra.jpg "")
-
-Avec Valentin, on revient sur le développement du jeu, ce qu'il a à offrir aux joueurs, et surtout… s'il y a des batailles dans l'espace ! C'est à écouter sur [Apple Podcasts](https://podcasts.apple.com/us/podcast/nostick/id1777492094) ou [Spotify](https://open.spotify.com/show/208w9hkiwdG3SISYVXjul1). Vous trouverez un transcript de l'épisode [dans cette actu](https://nostick.fr/articles/2024/novembre/0811-podcast-nostick-beyond-astra/).
-
-Et si ce podcast vous plait et que vous en voulez d'autres, n'hésitez pas à le faire savoir en mettant 5 étoiles et en le partageant sur vos réseaux (sauf Twitter) !
-
-![Nostick Express](nstckexpress.png "")
-
-Puisqu'on est à parler tambouille, n'oubliez pas non plus que nous avons lancé le test d'une nouvelle newsletter, « Nostick Express » : l'idée est de proposer un récap' de l'actu JV en milieu de semaine. [Jetez-y un œil](https://nostick.fr/articles/2024/novembre/0711-nostick-express-rendezvous-du-jeudi/)… et [abonnez-vous](https://reloaded.nostick.fr/nostick-express-la-switch-2-sera-retrocompatible-les-specs-de-la-ps5-pro/) !
-
-## Les deux consoles de la semaine : PS5 Pro et le successeur de la Switch
+## Les deux consoles de la semaine : le successeur de la Switch emballe plus que la PS5 Pro
 
 Deux consoles, deux ambiances. La semaine a été marquée par la PS5 Pro, dont la commercialisation ce 7 novembre n'a pas vraiment soulevé l'enthousiasme des foules. Il faut dire que le tarif demandé — 799,99 €, sans lecteur optique ni support vertical — a [pas mal refroidi les ardeurs](https://nostick.fr/articles/2024/septembre/1409-backlog-ps5-pro-destiny-2-the-crew-2/#la-grosse-info-de-la-semaine--le-retour-de-lhubris-de-playstation). Et puis la démonstration des capacités graphiques de la console n'a guère été probante.
 
@@ -86,6 +72,20 @@ Qui n'aurait pas le désir profond de devenir un maître du Taiko ? Mais si, vou
 {{< youtube L7zfH43jx_I >}} 
 
 De l'action ! De l'aventure ! De la baston ! De la pizza ! Et des tortues bien sûr, puisque *Les Tortues Ninja - Le destin de Splinter* est sorti sur toutes les plateformes, après une exclusivité Apple Arcade remontant à cet été. C'est un roguelike sorti cette semaine, et qui est plutôt bien apprécié sur [Steam](https://store.steampowered.com/app/2996040/Les_Tortues_Ninja__Le_destin_de_Splinter/?l=french) où on le trouvera à 25 € environ.
+
+## Le podcast de la semaine : Nostick la tête dans les étoiles, avec Beyond Astra
+
+Évidemment, on n'allait pas vous laisser sans parler de notre nouveau média, le podcast de Nostick ! De temps en temps, nous vous proposerons de découvrir un jeu et le développeur qui se cache derrière. Pour ce tout premier épisode, on part dans l'espace avec Valentin Simonelli, qui développe depuis quatre ans *Beyond Astra*, un jeu de stratégie 4X qui s'annonce aussi impressionnant que bien fichu.
+
+![Podcast Beyond Astra](podcast-beyond-astra.jpg "")
+
+Avec Valentin, on revient sur le développement du jeu, ce qu'il a à offrir aux joueurs, et surtout… s'il y a des batailles dans l'espace ! C'est à écouter sur [Apple Podcasts](https://podcasts.apple.com/us/podcast/nostick/id1777492094) ou [Spotify](https://open.spotify.com/show/208w9hkiwdG3SISYVXjul1). Vous trouverez un transcript de l'épisode [dans cette actu](https://nostick.fr/articles/2024/novembre/0811-podcast-nostick-beyond-astra/).
+
+Et si ce podcast vous plait et que vous en voulez d'autres, n'hésitez pas à le faire savoir en mettant 5 étoiles et en le partageant sur vos réseaux (sauf Twitter) !
+
+![Nostick Express](nstckexpress.png "")
+
+Puisqu'on est à parler tambouille, n'oubliez pas non plus que nous avons lancé le test d'une nouvelle newsletter, « Nostick Express » : l'idée est de proposer un récap' de l'actu JV en milieu de semaine. [Jetez-y un œil](https://nostick.fr/articles/2024/novembre/0711-nostick-express-rendezvous-du-jeudi/)… et [abonnez-vous](https://reloaded.nostick.fr/nostick-express-la-switch-2-sera-retrocompatible-les-specs-de-la-ps5-pro/) !
 
 ## osef
 
