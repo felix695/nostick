@@ -79,6 +79,14 @@ Il ne manque plus qu'à la présenter, cette foutue console ! Shuntaro Furukawa 
 
 ## On n'a pas eu le temps cette semaine, mais on pense à eux
 
+{{< youtube perKCVKo-Mc >}} 
+
+Qui n'aurait pas le désir profond de devenir un maître du Taiko ? Mais si, vous savez, ce petit tambour traditionnel japonais héros de *Taiko no Tatsujin* ! La franchise Bandai Namco, lancée en 2001, connait un nouvel épisode, *Rhythm Festival*. Bon, c'est un jeu de rythme musical évidemment, 76 chansons sont proposées avec 4 modes de difficulté. Ça a l'air aussi coloré qu'entraînant, et c'est dispo sur à peu près toutes les plateformes (50 balles sur [Steam](https://store.steampowered.com/app/2288630/Taiko_no_Tatsujin_Rhythm_Festival/)).
+
+{{< youtube L7zfH43jx_I >}} 
+
+De l'action ! De l'aventure ! De la baston ! De la pizza ! Et des tortues bien sûr, puisque *Les Tortues Ninja - Le destin de Splinter* est sorti sur toutes les plateformes, après une exclusivité Apple Arcade remontant à cet été. C'est un roguelike sorti cette semaine, et qui est plutôt bien apprécié sur [Steam](https://store.steampowered.com/app/2996040/Les_Tortues_Ninja__Le_destin_de_Splinter/?l=french) où on le trouvera à 25 € environ.
+
 ## osef
 
 Le bide monumental du film *Bordelands* ? Même pas mal pour le patron de Take-Two, qui édite la saga. « *De toute évidence, ce film a été décevant* », a t-il euphémisé auprès d'*[IGN](https://www.ign.com/articles/take-two-ceo-says-borderlands-movie-was-disappointing-but-didnt-hurt-at-all)*. « *Cela dit, il a en fait augmenté les ventes du catalogue. Donc, je ne pense pas que cela ait eu un effet négatif, au contraire, je pense que cela a peut-être même aidé un peu* ». Ah bah alors comme ça, tout le monde est content finalement.
