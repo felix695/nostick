@@ -1,6 +1,6 @@
 +++
 title = "Le premier podcast de Nostick a la tête dans les étoiles avec Beyond Astra !"
-date = 2024-11-08T10:47:32+01:00
+date = 2024-11-08T07:10:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
