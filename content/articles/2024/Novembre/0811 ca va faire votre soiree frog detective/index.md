@@ -5,10 +5,10 @@ draft = false
 author = "Félix"
 tags = ["Test"]
 type = "une"
-image = "https://nostick.fr/articles/vignettes/novembre/frog.jpg"
+image = "https://nostick.fr/articles/vignettes/novembre/frog.png"
 +++
 
-![Le jeu Frog Detective](frog.jpg)
+![Le jeu Frog Detective](frog.png)
 
 **Les jeux qui exigent une attention de tous les instants pendant des dizaines d'heures, OK, c'est sympa, mais parfois on préférerait quelque chose de court et d'efficace. C'est pourquoi nous allons vous proposer chaque jour de la semaine un jeu à commencer et à terminer en une soirée ! Aujourd'hui : *Frog Detective*.**
 
