@@ -1,6 +1,6 @@
 +++
 title = "La Xbox portable pourrait être dévoilée l'année prochaine"
-date = 2024-11-08T08:44:32+01:00
+date = 2024-11-08T06:44:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
