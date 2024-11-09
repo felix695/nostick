@@ -17,7 +17,7 @@ On savait que Kirby avait bon appétit, mais peut-être pas autant. Nintendo ven
 
 ![Kirby](kirby-pq.jpg "Miom du PQ.")
 
-Vendue une vingtaine d'euros, ce [Kirby des toilettes](https://store-jp.nintendo.com/item/goods/VM_NSL_8_AAADA) peut également servir à stocker du PQ et ainsi, sauver l'utilisateur d'une humiliation certaine une fois sur le trône. Non, je ne viens pas de le commander.
+Vendue une vingtaine d'euros, ce [Kirby des toilettes](https://store-jp.nintendo.com/item/goods/VM_NSL_8_AAADA) peut également servir à stocker plusieurs rouleaux de PQ et ainsi, sauver l'utilisateur d'une humiliation certaine une fois sur le trône. Non, je ne viens pas de le commander.
 
 ## Le chiffre de la semaine : 30 millions…
 
