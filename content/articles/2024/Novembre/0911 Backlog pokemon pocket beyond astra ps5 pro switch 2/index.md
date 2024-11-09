@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : le carton de Pokémon JCC Pocket, PS5 Pro vs Switch 2, podcast Beyond Astra…"
-date = 2024-11-09T06:55:32+01:00
+date = 2024-11-09T07:55:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
