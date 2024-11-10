@@ -1,6 +1,6 @@
 +++
 title = "Mario & Luigi : l’Épopée Fraternelle, Slitterhead : le récap des sorties de la semaine (10/11)"
-date = 2024-11-10T07:00:02+01:00
+date = 2024-11-10T06:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
