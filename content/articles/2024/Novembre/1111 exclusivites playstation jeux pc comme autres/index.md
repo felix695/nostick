@@ -1,6 +1,6 @@
 +++
 title = "Les exclusivités PlayStation, des jeux PC comme les autres"
-date = 2024-11-11T10:47:32+01:00
+date = 2024-11-11T17:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
@@ -44,7 +44,11 @@ Une des raisons qui explique le coup de mou relatif des derniers portages est pr
 
 Le constructeur avait tenté d'imposer la connexion PSN peu de temps après la sortie de *Helldivers II*, [puis a reculé devant la bronca](https://nostick.fr/articles/2024/mai/0505-sony-fait-plonger-helldivers-2-en-enfer/). Mais le compte est devenu définitivement obligatoire sur les jeux suivants.
 
-Ce faisant, Sony tente de connecter les deux îles de son écosystème (PS5 et PC) pour en faire un tout cohérent. Mais la plateforme PlayStation Network limite aussi le nombre de joueurs potentiel : dans une grosse centaine de pays, il est impossible de créer un compte PSN… Alors certes, il ne s'agit pas des territoires les plus populeux mais tout de même, c'est toujours des clients en moins.
+Hiroki Totoki, le président de Sony Interactive Entertainment (SIE), a [assuré](https://www.irwebmeeting.com/sony/fast/20241108/f5KHiS63/202503_2q_02_en/index.html) devant les investisseurs que la connexion avec le PSN était nécessaire pour s'assurer que chaque joueur puisse apprécier les jeux en toute sécurité. Un argument qui tombe complètement à plat, sachant que ça n'était pas obligatoire jusqu'à *Ragnarök*. 
+
+« *Nous avons beaucoup appris (…) La manière d'aborder les problèmes liés au PC, par exemple les comptes PlayStation que nous avons proposés, cela tend parfois à susciter des réactions* », euphémise-t-il. « *Pour les jeux services, afin de d'assurer un bon déroulement du jeu et pour que chacun puisse en profiter en toute sécurité, nous devons créer un environnement favorable à cela, et bien sûr permettant de jouer librement* ». Pour les jeux en ligne, l’explication tient encore la route, mais pour les jeux en solo le dirigeant ne donne aucun raison qui tienne la route.
+
+La vraie raison, c’est que Sony tente de connecter les deux bouts de son écosystème (PS5 et PC) pour en faire un tout cohérent facile à intégrer dans des résultats financiers. Mais la plateforme PlayStation Network limite aussi le nombre de joueurs potentiel : dans plus de cent pays, il est impossible de créer un compte PSN… Alors certes, il ne s'agit pas des territoires les plus populeux mais tout de même, c'est toujours des clients en moins.
 
 ## PlayStation sur les traces de Microsoft ?
 
