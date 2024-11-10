@@ -4,7 +4,7 @@ date = 2024-11-10T06:00:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
-image = "https://nostick.fr/articles/2024/1011-les-sorties-de-la-semaine/mariol.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1011-les-sorties-de-la-semaine/mariol.jpg"
 +++
 
 ![Le jeu Mario & Luigi : l’Épopée Fraternelle](mariol.jpg "C’est mignon, mais ça rame")
