@@ -4,7 +4,7 @@ date = 2024-11-11T08:02:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/PS5-pro-Sony.jpg
+image = "https://nostick.fr/articles/vignettes/novembre/PS5-pro-Sony.jpg "
 +++
 
 ![PS5 Pro](PS5-pro-Sony.jpg "") 
