@@ -1,6 +1,6 @@
 +++
 title = "Le lancement de la PS5 Pro dans les clous de celui de la PS4 Pro"
-date = 2024-11-11T08:02:32+01:00
+date = 2024-11-11T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
