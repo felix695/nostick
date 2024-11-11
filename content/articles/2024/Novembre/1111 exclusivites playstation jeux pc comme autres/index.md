@@ -12,7 +12,7 @@ image = "https://nostick.fr/articles/vignettes/novembre/playstation-jeux-pc.jpg"
 
 Il n'y a pas que la PlayStation dans la vie. Les budgets des jeux ne cessant de gonfler, tout comme les exigences des actionnaires, Sony a initié il y a quelques années une stratégie visant à porter ses grosses exclusivités sur PC, où les joueurs sont nombreux et avides de nouveautés. En 2020, *Horizon Zero Dawn* faisait donc ses premiers pas sous Windows, suivi par bon nombre d'autres (ex-) exclusivités PlayStation. Pour un succès qui ne coule pas toujours de source.
 
-![Stats Steam](stats-steam.jpg "Nombre de joueurs connectés simultanément sur Steam. Chiffres : Steam DB.")
+![Stats Steam](stats-steam.jpg « Pic du nombre de joueurs connectés simultanément sur Steam pour chaque jeu PlayStation. Chiffres : Steam DB.")
 
 Les premières aventures d'Aloy ont ainsi recueilli 56 557 joueurs connectés simultanément sur Steam à la sortie de *Horizon* (chiffres [SteamDB](https://steamdb.info)). *Days Gone*, qui n'est pas la franchise PlayStation la plus connue, a suivi l'année suivante avec 27 450 joueurs simultanés. Fort heureusement *God of War* a relevé le niveau en janvier 2022 avec 73 529 joueurs en simultané, suivi par *Marvel's Spider-Man Remastered* en août de la même année (66 436 joueurs).
 
