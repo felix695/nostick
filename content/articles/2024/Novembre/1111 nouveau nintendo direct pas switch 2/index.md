@@ -1,10 +1,10 @@
 +++
-title = "Un nouveau Nintendo Direct ! Mais toujours pas pour la Switch 2"
+title = "Un nouveau Nintendo Direct ! Mais toujours pas pour la Switch 2"
 date = 2024-11-11T00:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/novembre/nintendo-direct.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1111-nouveau-nintendo-direct-pas-switch-2/nintendo-direct.jpg"
 +++
 
 ![Nintendo](nintendo-direct.jpg "") 
