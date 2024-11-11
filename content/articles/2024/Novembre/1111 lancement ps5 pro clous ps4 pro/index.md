@@ -1,10 +1,10 @@
 +++
 title = "Le lancement de la PS5 Pro dans les clous de celui de la PS4 Pro"
-date = 2024-11-11T08:02:32+01:00
+date = 2024-11-11T07:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/PS5-pro-Sony.jpg "
+image = "https://nostick.fr/articles/2024/novembre/1111-lancement-ps5-pro-clous-ps4-pro/PS5-pro-Sony.jpg"
 +++
 
 ![PS5 Pro](PS5-pro-Sony.jpg "") 

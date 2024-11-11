@@ -1,10 +1,10 @@
 +++
 title = "MultiVersus à deux doigts se ramasser la tronche"
-date = 2024-11-11T08:52:32+01:00
+date = 2024-11-11T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/novembre/multiversus.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1111-multiversus-deux-doigts-ramasser-la-tronche/multiversus.jpg"
 +++
 
 ![MultiVersus](multiversus.jpg "") 
