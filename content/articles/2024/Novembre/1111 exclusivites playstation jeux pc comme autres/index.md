@@ -1,6 +1,6 @@
 +++
 title = "Les exclusivités PlayStation, des jeux PC comme les autres"
-date = 2024-11-11T17:00:32+01:00
+date = 2024-11-11T16:06:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
