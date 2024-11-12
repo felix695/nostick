@@ -4,7 +4,7 @@ date = 2024-11-12T08:57:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/GTA-6.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1112-steam-deck-oled-blanc/steamdeck1.jpg"
 +++
 
 ![Le Steam Deck blanc](steamdeck1.jpg "") 
