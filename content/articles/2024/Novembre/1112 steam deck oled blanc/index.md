@@ -17,7 +17,7 @@ Mis à part son coloris blanc, ses touches grises et son bouton d’alimentation
 
 ![Le Steam Deck blanc](steamdeck3.jpg "")
 
-Modèle limité oblige, quelques restrictions s’appliquent pour tenir éloigné les scalpers. Il faudra avoir un compte Steam « en règle » et avoir effectué un achat sur la boutique avant novembre 2024 pour pouvoir passer commande. Valve précise que ce modèle sera « *disponible dans la limite des stocks attribués proportionnellement à chaque région du monde* ». Les curieux feraient bien de garder [la fiche produit](https://store.steampowered.com/steamdeck) du Steam Deck dans leurs favoris afin d’être prêt le jour J.
+Édition limitée oblige, quelques restrictions s’appliquent pour tenir éloigné les scalpers. Il faudra avoir un compte Steam « en règle » et avoir effectué un achat sur la boutique avant novembre 2024 pour pouvoir passer commande. Valve précise que ce modèle sera « *disponible dans la limite des stocks attribués proportionnellement à chaque région du monde* ». Les curieux feraient bien de garder [la fiche produit](https://store.steampowered.com/steamdeck) du Steam Deck dans leurs favoris afin d’être prêt le jour J.
 
 ![Le Steam Deck blanc](steamdeck4.jpg "")  
 
