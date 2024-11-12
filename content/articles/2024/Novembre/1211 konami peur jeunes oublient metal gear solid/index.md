@@ -1,6 +1,6 @@
 +++
 title = "Konami a peur que les jeunes générations oublient Metal Gear Solid"
-date = 2024-11-12T08:54:32+01:00
+date = 2024-11-12T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

@@ -1,6 +1,6 @@
 +++
 title = "Spyro Reignited Trilogy déboule finalement sur le Game Pass"
-date = 2024-11-12T09:30:32+01:00
+date = 2024-11-12T07:30:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
