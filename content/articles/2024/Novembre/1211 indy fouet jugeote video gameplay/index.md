@@ -4,7 +4,7 @@ date = 2024-11-12T08:01:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Trailer"]
-image = "https://nostick.fr/articles/2024/novembre/indy.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1211-indy-fouet-jugeote-video-gameplay/indy.jpg"
 +++
 
 ![Indiana Jones et le  Cercle Ancien](indy.jpg "") 
