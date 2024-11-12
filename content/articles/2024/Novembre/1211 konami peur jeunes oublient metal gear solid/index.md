@@ -4,7 +4,7 @@ date = 2024-11-12T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/novembre/naked-snake.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1211-konami-peur-jeunes-oublient-metal-gear-solid/naked-snake.jpg"
 +++
 
 ![Naked Snake](naked-snake.jpg "") 
