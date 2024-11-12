@@ -1,6 +1,6 @@
 +++
 title = "Rockstar donne enfin le lustre qui manquait à GTA Trilogy Definitive Edition sur consoles et PC"
-date = 2024-11-12T10:47:32+01:00
+date = 2024-11-12T09:57:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
