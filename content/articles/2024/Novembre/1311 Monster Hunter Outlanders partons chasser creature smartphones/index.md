@@ -15,4 +15,6 @@ Les joueurs sur smartphones n'échapperont pas à la déferlante *Monster Hunter
 
 *[Monster Hunter Outlanders](https://monsterhunteroutlanders.com/en/index.html)*, tel est le nom de ce nouveau jeu, sera un survival en monde ouvert à pratiquer en solo ou en co-op (jusqu'à 4 joueurs). A priori, il sera question de chasser des créatures, d'explorer un monde sauvage et aussi de ramasser des ressources. Bref, *Monter Hunter* quoi, mais sur l'écran du smartphone et avec des micro-transactions à gogo, certainement.
 
+{{< youtube AvnqpQy-oZw >}} 
+
 Malheureusement, les deux larrons n'offrent aucune date de sortie si ce n'est que plusieurs tests et bêtas auront lieu avant la version finale. Autant dire qu'on jouera à *Monster Hunter Wilds* bien avant, celui-ci étant attendu le 28 février prochain.
