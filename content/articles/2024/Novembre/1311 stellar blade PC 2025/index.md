@@ -1,6 +1,6 @@
 +++
 title = "Stellar Blade sortira sur PC en 2025"
-date = 2024-11-13T08:47:32+01:00
+date = 2024-11-13T07:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
