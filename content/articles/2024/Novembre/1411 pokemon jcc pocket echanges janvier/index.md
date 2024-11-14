@@ -1,6 +1,6 @@
 +++
 title = "Pokémon JCC Pocket : les échanges possibles en janvier"
-date = 2024-11-14T09:37:32+01:00
+date = 2024-11-14T07:37:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
