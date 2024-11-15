@@ -4,7 +4,7 @@ date = 2024-11-15T07:10:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/novembre/1112-steam-deck-oled-blanc/steamdeck1.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1511-nvidia-half-life-2-rtx/hl2.jpg"
 +++
 
 ![Half-Life 2 RTX](hl2.jpg "") 
