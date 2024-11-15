@@ -11,7 +11,7 @@ image = "https://nostick.fr/articles/2024/novembre/1511-nvidia-half-life-2-rtx/h
 
 Alors qu’une mise à jour anniversaire de *Half-Life 2* semble [sur le point d’arriver](https://nostick.fr/articles/2024/novembre/0711-valve-anniversaire-hl2/), NVIDIA lance les hostilités en donnant des nouvelles de son remaster complet faisant la part belle au ray-tracing. Annoncé l’année dernière, le projet n’a pas encore de date de sortie mais a désormais [une page Steam](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/) déployée en parallèle d’une vidéo de présentation.
 
-{{< youtube kIQeitJFuzU >}} 
+{{< youtube 5FZ49Ou8zAE >}} 
 
 *Half-Life 2 RTX* est un projet lancé par plusieurs moddeurs du jeu d’origine visant à faire la retape de la technologie RTX Remix, qui sert à ajouter du ray-tracing dans de vieux jeux. Le projet ne s’arrête pas là étant donné que les multiples assets (objets, textures) vont être revus pour l’occasion tandis que la gestion des lumières sera logiquement améliorée. Les développeurs promettent que cette version revisitée restera fidèle à l’original, sans changer le gameplay ou l’emplacement des différents objets. 
 
