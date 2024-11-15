@@ -20,3 +20,5 @@ Rockstar avait expliqué à l'époque que le nouveau mode « éclairage classiq
 {{< twitter user="TJGM_" id="1856313225819693332" >}}
 
 Dans les coulisses, il semble que Rockstar a fait du ménage : Grove Street Games a tout simplement disparu du générique (les versions mobiles ont été développées par Video Games Deluxe).
+
+**Mise à jour —** Grove Street Games n'a pas complètement disparu de la trilogie. Mais le nom du studio n'apparait plus au lancement du jeu, mais il est bien crédité dans le [générique](https://x.com/GTANet/status/1857075030808461543) de fin. Tout est bien dans le meilleur des mondes, donc.
