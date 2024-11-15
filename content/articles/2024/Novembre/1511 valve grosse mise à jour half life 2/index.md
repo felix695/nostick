@@ -4,12 +4,12 @@ date = 2024-11-15T22:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/novembre/1511-nvidia-half-life-2-rtx/hl2.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1511-valve-grosse-mise-à-jour-half-life-2/hl2.jpg"
 +++
 
 ![Half-Life 2](hl2.jpg "") 
 
-Valve célèbre comme il se doit les 20 ans de *Half-Life 2*, son FPS culte sorti le 16 novembre 2004. Le titre a droit à une [grosse mise à jour](https://www.half-life.com/fr/halflife2/20th) apportant pas mal de nouveautés. Les deux « Épisodes » ont été intégrés au jeu de base, où ils sont accessibles depuis le menu principal avant de s'enchainer automatiquement une fois en jeu.
+Valve célèbre comme il se doit les 20 ans de *Half-Life 2*, son FPS culte sorti le 16 novembre 2004 et rendu temporairement gratuit [sur Steam](https://store.steampowered.com/app/220/HalfLife_2/) pour l'occasion. Le titre a droit à une [grosse mise à jour](https://www.half-life.com/fr/halflife2/20th) apportant pas mal de nouveautés. Les deux « Épisodes » ont été intégrés au jeu de base, où ils sont accessibles depuis le menu principal avant de s'enchainer automatiquement une fois en jeu.
 
 Chaque carte du jeu a été revue « *de fond en comble* » avec différentes améliorations : correction de bugs, éclairage rééquilibré, gestion du brouillard et des lumières repensées… Les fans ont un peu plus de choix pour affiner les réglages graphiques, avec la possibilité d’utiliser les modèles les plus détaillés ou les effets de sang des extensions. Notons que les commandes de manette ont été modifiées pour correspondre à celles de la mise à jour d'anniversaire de Half-Life 1, parue [l’année dernière](https://nostickreloaded.substack.com/i/138963186/tout-sauf-half-life) pour les 25 ans du jeu.
 
