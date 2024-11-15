@@ -1,6 +1,6 @@
 +++
 title = "La Xbox Series X Pro n'arrivera sans doute jamais"
-date = 2024-15-11T10:47:32+01:00
+date = 2024-11-15T10:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
