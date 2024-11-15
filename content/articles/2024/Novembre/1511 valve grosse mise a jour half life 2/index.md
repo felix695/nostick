@@ -4,7 +4,7 @@ date = 2024-11-15T22:30:00+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/2024/novembre/1511-valve-grosse-mise-à-jour-half-life-2/hl2.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1511-valve-grosse-mise-a-jour-half-life-2/hl2.jpg"
 +++
 
 ![Half-Life 2](hl2.jpg "") 
