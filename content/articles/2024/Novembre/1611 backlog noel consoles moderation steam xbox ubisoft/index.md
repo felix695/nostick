@@ -1,6 +1,6 @@
 +++
 title = "On vide le backlog de la semaine : le tout petit Noël des consoliers, les nazis OKLM chez Steam, Xbox prêt à tout claquer…"
-date = 2024-11-16T10:47:32+01:00
+date = 2024-11-16T08:00:32+01:00
 draft = false
 author = "Mickael"
 tags = ["XXL"]
