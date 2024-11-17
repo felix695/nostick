@@ -1,6 +1,6 @@
 +++
 title = "Tuto : utiliser une manette sur ses vieux jeux PC grâce à Steam Input"
-date = 2024-11-18T10:00:32+01:00
+date = 2024-11-18T17:00:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
