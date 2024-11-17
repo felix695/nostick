@@ -1,6 +1,6 @@
 +++
 title = "Lego Horizon Adventures, The Rise of the Golden Idol : le récap des sorties de la semaine (17/11)"
-date = 2024-11-17T06:00:02+01:00
+date = 2024-11-17T07:30:02+01:00
 draft = false
 author = "Félix"
 tags = ["C’est dispo"]
