@@ -1,6 +1,6 @@
 +++
 title = "Qui veut jouer à Avowed en avance ?"
-date = 2024-11-18T08:47:32+01:00
+date = 2024-11-18T08:10:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
