@@ -13,7 +13,7 @@ J’ai récemment terminé le remake de *Silent Hill 2* et décidé de continuer
 
 Après une recherche sur Reddit, je me suis retrouvé avec quelques utilitaires assez complexes permettant de rebinder manuellement ses touches. Une option qui fonctionne, mais assez chronophage et pas très pratique au quotidien (il faut lancer un soft au démarrage de Windows). J’ai finalement trouvé une pirouette en passant par Steam. Le launcher de Valve donne la possibilité d’ajouter des jeux « non-Steam », ce qui est par exemple pratique pour éviter d’avoir à aller chercher le raccourci en mode Big Picture. De plus, cette fonction permet d’activer Steam Input et donc des contrôles à la manette… même sur les versions PC qui n’ont pas été initialement pensés pour.
 
-![Steam Input](img4.jpg "L'ajout d'un jeu non-Steam n'est pas très compliqué : le launcher scan votre disque dur à la recherche de jeux.")
+![Steam Input](img4.jpg "L'ajout d'un jeu non-Steam n'est pas très compliqué : le launcher scanne votre disque dur à la recherche de jeux.")
 
 Pour en profiter, il vous faudra lancer Steam et cliquer en bas à gauche sur le bouton « Ajouter un jeu » (non-Steam, donc). Une fois le fichier .exe faisant office de launcher sélectionné, le titre sera ajouté à votre bibliothèque. Il faut ensuite trouver l’icône en forme de manette sur sa fiche avant d’appuyer sur « Activer Steam Input ». 
 
