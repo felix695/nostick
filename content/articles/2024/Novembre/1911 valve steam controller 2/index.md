@@ -4,7 +4,7 @@ date = 2024-11-19T19:28:32+01:00
 draft = false
 author = "Félix"
 tags = ["Actu"]
-image = "https://nostick.fr/articles/vignettes/novembre/elden-ring.jpg"
+image = "https://nostick.fr/articles/2024/novembre/1911-valve-steam-controller-2/steamcontroller.jpg"
 +++
 
 ![Le Steam Controller](steamcontroller.jpg "")
