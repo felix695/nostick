@@ -22,3 +22,5 @@ Sur Reddit, un joueur de *Silent Hill 2* [montre](https://www.reddit.com/r/silen
 Selon *Digital Foundry*, le coupable serait le PSSR, le système d'upscale de la PS5 Pro qui utilise l'intelligence artificielle pour reconstruire les détails manquants lorsque l'image est agrandie dans une résolution plus élevée. Cependant, si l'image d'origine manque de détails, l'IA a des limites et peut produire des résultats incohérents d'une image à l'autre, ce qui explique ces scintillements.
 
 Le gros hic actuellement, c'est le silence radio des principaux intéressés : ni Sony, ni Konami, ni personne n'a donné signe de vie malgré les nombreux signalements des joueurs.
+
+**Mise à jour 19/11 —** EA est au courant des problèmes de *Jedi Survivor* sur PS5 Pro et [mène](https://x.com/EAStarWars/status/1858635462577172846) son enquête. Mais aucune annonce pour une éventuelle mise à jour, pour le moment.
