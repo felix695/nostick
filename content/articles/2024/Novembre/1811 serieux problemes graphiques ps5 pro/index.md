@@ -23,4 +23,4 @@ Selon *Digital Foundry*, le coupable serait le PSSR, le système d'upscale de la
 
 Le gros hic actuellement, c'est le silence radio des principaux intéressés : ni Sony, ni Konami, ni personne n'a donné signe de vie malgré les nombreux signalements des joueurs.
 
-**Mise à jour 19/11 —** EA est au courant des problèmes de *Jedi Survivor* sur PS5 Pro et [mène](https://x.com/EAStarWars/status/1858635462577172846) son enquête. Mais aucune annonce pour une éventuelle mise à jour, pour le moment.
+**Mise à jour 19/11 —** EA est au courant des problèmes de *Jedi Survivor* sur PS5 Pro et [mène](https://x.com/EAStarWars/status/1858635462577172846) son enquête. Mais aucune annonce pour une éventuelle mise à jour, pour le moment. La Bloober Team responsable de *Silent Hill 2*, a également [donné](https://x.com/BlooberTeam/status/1858610797871513693) une preuve de vie : « *On y travaille [sur une mise à jour]* ».
