@@ -1,6 +1,6 @@
 +++
 title = "Le Portal peut désormais accéder à des jeux PS5 directement dans le cloud PlayStation"
-date = 2024-11-20T08:47:32+01:00
+date = 2024-11-20T07:37:00+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
