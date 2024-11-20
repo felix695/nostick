@@ -30,3 +30,13 @@ Microsoft a réagi par le biais du support de *Flight Sim*, qui [reconnait](http
 Nul doute que Microsoft va mettre un point d'honneur à régler le problème fissa. Ceci étant, ça n'augure rien de bon pour l'architecture mise en place par l'éditeur : pour fournir des maps plus détaillées sans alourdir le poids du jeu (50 Go de base), *Flight Sim 2024* télécharge à la volée de nombreux éléments depuis le nuage, sans mauvais jeu de mots. Les serveurs tiendront-ils le coup ?
 
 Et dire que c'est jour de lancement de *STALKER 2* aujourd'hui…
+
+**Mise à jour —** Les choses s'améliorent cet après-midi sur le front de *Flight Simulator 2024*. Microsoft serre les boulons sur ses serveurs pour accueillir davantage de joueurs. À en croire la [page de statut](https://support.xbox.com/fr-FR/xbox-live-status) de Xbox, il n'y a même plus de problème du tout.
+
+{{< youtube kuMd7udCyFM >}} 
+
+L'éditeur et le studio Asobo, le développeur historique de la franchise, ont aussi mis en ligne une vidéo pour s'excuser du bazar de ce lancement. « *C’est un super jour de lancement, mais on sait que beaucoup de gens sont frustrés* », a déclaré Jorg Neumann, le patron de *Flight Sim*. Il ajoute : « *On est vraiment désolés, on tient à s’excuser. On a fait cette vidéo parce qu’on est là pour vous, et on veut être aussi transparents et honnêtes que possible. Alors oui, il y a des problèmes aujourd’hui, mais l’équipe est sur le coup, et on va continuer à avancer.* »
+
+Sebastian Wloch, le patron d'Asobo, donne quelques détails techniques : le coupable est le cache d'un serveur auquel se connecte les joueurs. « *C’est une très grosse base de données avec un cache, mais ce cache est actuellement saturé. C’est un système qu’on a pourtant testé à fond pendant toute l’alpha technique. On a fait des tests de charge en simulant 200 000 utilisateurs, mais [hier soir], il est complètement dépassé* ».
+
+Un signe du succès de ce lancement, dommage que le décollage ait été aussi raté.
