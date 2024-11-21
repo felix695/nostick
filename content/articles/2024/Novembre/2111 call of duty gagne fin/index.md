@@ -1,6 +1,6 @@
 +++
 title = "Et à la fin, c'est Call of Duty qui gagne"
-date = 2024-11-21T08:47:32+01:00
+date = 2024-11-21T05:47:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

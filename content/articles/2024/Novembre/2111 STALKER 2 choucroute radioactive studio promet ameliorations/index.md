@@ -1,6 +1,6 @@
 +++
 title = "STALKER 2 pédale dans la choucroute radioactive, le studio promet des améliorations rapides"
-date = 2024-11-21T09:27:32+01:00
+date = 2024-11-21T06:27:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]

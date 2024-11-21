@@ -1,6 +1,6 @@
 +++
 title = "Le récap' du début de semaine, c'est dans notre nouvelle newsletter Nostick Express !"
-date = 2024-11-21T08:07:32+01:00
+date = 2024-11-21T06:53:32+01:00
 draft = false
 author = "Mickael"
 tags = ["Actu"]
