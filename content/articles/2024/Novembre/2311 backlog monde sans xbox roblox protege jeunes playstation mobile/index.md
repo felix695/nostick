@@ -1,5 +1,5 @@
 +++
-title = "On vide le backlog de la semaine : un monde sans Xbox, l'effort de Roblox pour protéger les jeunes joueurs, toujours de la vie chez PlayStation mobile"
+title = "On vide le backlog de la semaine : un monde sans Xbox, l'effort de Roblox pour protéger les jeunes joueurs, toujours de la vie chez PlayStation mobile"
 date = 2024-11-23T06:55:32+01:00
 draft = false
 author = "Mickael"
@@ -25,7 +25,7 @@ C'est le *Call of Duty* de la simulation de ferme : quoi qu'il arrive, *Farming 
 
 Le très sympathique (et court, [lire notre test](https://nostick.fr/articles/2024/novembre/0611-ca-va-faire-votre-soiree-moutwashing/)) jeu d'horreur *Mouthwashing* a une excellente bande son. À tel point qu'elle a dépassé le million de streams sur Spotify et les autres plateformes de streaming ! Les royalties sont si élevées que Martin Halldin, le designer son du jeu, peut [s'offrir](https://x.com/siarate/status/1857861976510079106) royalement… deux (2) hot-dogs. Impossible de se plaindre franchement.
 
-## La grosse info de la semaine : à quoi ressemblerait un monde sans Xbox ?
+## La grosse info de la semaine : à quoi ressemblerait un monde sans Xbox ?
 
 Qu'on se rassure, « *nous continuerons à construire des consoles à l'avenir, c'est certain* », [affirmait](https://www.rollingstone.com/culture/rs-gaming/xbox-console-future-cloud-ceo-phil-spencer-1235166597/) Phil Spencer la semaine dernière à *Rolling Stones*. Le grand patron de l'activité jeux chez Microsoft rassurait les joueurs de la team green, légitimement inquiets de la tournure que prennent les choses chez le constructeur depuis un an ou deux. 
 
